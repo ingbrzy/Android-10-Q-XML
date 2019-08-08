@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Hädaolukorra märguanne: proovisõnum/simulatsioon</string>
+    <string name="cmas_required_monthly_test">Hädaolukorra märguanne: testsõnum</string>
+    <string name="enable_public_safety_messages_title">Teavitussõnum</string>
+    <string name="public_safety_message">Teavitussõnum</string>
+</resources>

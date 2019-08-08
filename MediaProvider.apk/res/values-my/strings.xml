@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">နှိုးစက်ထည့်ရန်</string>
+    <string name="add_notification_text">အကြောင်းကြားချက် ထည့်ရန်</string>
+    <string name="add_ringtone_text">ဖုန်းမြည်သံကို ထည့်ရန်</string>
+    <string name="alarm_sound_default">မူရင်းနှိုးစက်သံ</string>
+    <string name="app_label">မီဒီယာ သိုလှောင်ခန်း</string>
+    <string name="artist_label">အနုပညာရှင်</string>
+    <string name="delete_ringtone_text">ဖျက်ရန်</string>
+    <string name="grant_dialog_button_allow">ခွင့်ပြုရန်</string>
+    <string name="grant_dialog_button_deny">ငြင်းပယ်ရန်</string>
+    <string name="notification_sound_default">မူရင်းအကြောင်းကြားသံ</string>
+    <string name="permission_audio">ဤတေးဂီတကို ပြုပြင်ရန် (သို့) ဖျက်ရန် <b>^1</b> ကို ခွင့်ပြုမလား။</string>
+    <string name="permission_images">ဤပုံကို ပြုပြင်ရန် (သို့) ဖျက်ရန် <b>^1</b> ကို ခွင့်ပြုမလား။</string>
+    <string name="permission_required">ဤအရာကို ပြုပြင်ရန် (သို့) ဖျက်ရန် ခွင့်ပြုချက် လိုအပ်သည်။</string>
+    <string name="permission_required_action">ရှေ့ဆက်ရန်</string>
+    <string name="permission_video">ဤဗီဒီယိုကို ပြုပြင်ရန် (သို့) ဖျက်ရန် <b>^1</b> ကို ခွင့်ပြုလိုပါသလား။</string>
+    <string name="ringtone_default">မူလဖုန်းမြည်သံ</string>
+    <string name="root_audio">အသံ</string>
+    <string name="root_images">ပုံများ</string>
+    <string name="root_videos">ဗီဒီယိုများ</string>
+    <string name="sound_name_awaken">နိုးထသည့်အသံ</string>
+    <string name="sound_name_bounce">ဘောင့်စ်ဂီတ</string>
+    <string name="sound_name_drip">ရေစက်ကျသံ</string>
+    <string name="sound_name_gallop">ကဆုန်ပေါက်ပြေးသံ</string>
+    <string name="sound_name_nudge">အသာအယာနှိုးသံ</string>
+    <string name="sound_name_orbit">လည်ပတ်သံ</string>
+    <string name="sound_name_rise">စူးရှကျယ်လောင်သံ</string>
+    <string name="sound_name_sway">ပုခက်လွှဲသံ</string>
+    <string name="sound_name_wag">လှုပ်ခါသံ</string>
+    <string name="storage_description">စက်တွင်း သိုလှောင်ခန်း</string>
+    <string name="uid_label">မီဒီယာ</string>
+    <string name="unable_to_add_ringtone">စိတ်ကြိုက်ဖုန်းမြည်သံကို ထည့်သွင်း၍မရပါ</string>
+    <string name="unable_to_delete_ringtone">စိတ်ကြိုက်ဖုန်းမြည်သံကို ဖျက်၍မရပါ</string>
+</resources>

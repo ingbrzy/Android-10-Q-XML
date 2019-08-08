@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Još %1$d</item>
+        <item quantity="one">Još %1$d</item>
+        <item quantity="few">Još %1$d</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dana</item>
+        <item quantity="one">%s dan</item>
+        <item quantity="few">%s dana</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+        <item quantity="few">%s h</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+        <item quantity="few">%s min</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s apl.</item>
+        <item quantity="one">%s apl.</item>
+        <item quantity="few">%s apl.</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s aplikacija</item>
+        <item quantity="one">%s aplikacija</item>
+        <item quantity="few">%s aplikacije</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s s</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s s</item>
+    </plurals>
+</resources>

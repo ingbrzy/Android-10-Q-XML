@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Še %1$d</item>
+        <item quantity="one">Še %1$d</item>
+        <item quantity="two">Še %1$d</item>
+        <item quantity="few">Še %1$d</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dni</item>
+        <item quantity="one">%s dan</item>
+        <item quantity="two">%s dneva</item>
+        <item quantity="few">%s dni</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ur</item>
+        <item quantity="one">%s ura</item>
+        <item quantity="two">%s uri</item>
+        <item quantity="few">%s ure</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minut</item>
+        <item quantity="one">%s minuta</item>
+        <item quantity="two">%s minuti</item>
+        <item quantity="few">%s minute</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s aplikacij</item>
+        <item quantity="one">%s aplikacija</item>
+        <item quantity="two">%s aplikaciji</item>
+        <item quantity="few">%s aplikacije</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s aplikacij</item>
+        <item quantity="one">%s aplikacija</item>
+        <item quantity="two">%s aplikaciji</item>
+        <item quantity="few">%s aplikacije</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekund</item>
+        <item quantity="one">%s sekunda</item>
+        <item quantity="two">%s sekundi</item>
+        <item quantity="few">%s sekunde</item>
+    </plurals>
+</resources>

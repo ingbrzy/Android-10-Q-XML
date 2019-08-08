@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">الارم شامل کریں</string>
+    <string name="add_notification_text">اطلاع شامل کریں</string>
+    <string name="add_ringtone_text">رنگ ٹون شامل کریں</string>
+    <string name="alarm_sound_default">الارم کی ڈیفالٹ آواز</string>
+    <string name="app_label">میڈیا اسٹوریج</string>
+    <string name="artist_label">فنکار</string>
+    <string name="delete_ringtone_text">حذف کریں</string>
+    <string name="grant_dialog_button_allow">اجازت دیں</string>
+    <string name="grant_dialog_button_deny">مسترد کریں</string>
+    <string name="notification_sound_default">اطلاع کی ڈیفالٹ آواز</string>
+    <string name="permission_audio"><b>^1</b> کو اس موسیقی کو ترمیم یا حذف کرنے کی اجازت دیں؟</string>
+    <string name="permission_images"><b>^1</b> کو اس تصویر کو ترمیم یا حذف کرنے کی اجازت دیں؟</string>
+    <string name="permission_required">اس آئٹم میں ترمیم کرنے اور اسے حذف کرنے کے لیے اجازت درکار ہے۔</string>
+    <string name="permission_required_action">جاری رکھیں</string>
+    <string name="permission_video"><b>^1</b> کو اس ویڈیو کو ترمیم یا حذف کرنے کی اجازت دیں؟</string>
+    <string name="ringtone_default">ڈیفالٹ رنگ ٹون</string>
+    <string name="root_audio">آڈیو</string>
+    <string name="root_images">تصاوير</string>
+    <string name="root_videos">ویڈیوز</string>
+    <string name="sound_name_awaken">بیداری</string>
+    <string name="sound_name_bounce">ابھار</string>
+    <string name="sound_name_drip">ٹپکاؤ</string>
+    <string name="sound_name_gallop">سرپٹ</string>
+    <string name="sound_name_nudge">ٹہوکا</string>
+    <string name="sound_name_orbit">مدار</string>
+    <string name="sound_name_rise">طلوع</string>
+    <string name="sound_name_sway">جھولن</string>
+    <string name="sound_name_wag">جنبش</string>
+    <string name="storage_description">مقامی اسٹوریج</string>
+    <string name="uid_label">میڈیا</string>
+    <string name="unable_to_add_ringtone">حسب ضرورت رنگ ٹون شامل کرنے سے قاصر ہے</string>
+    <string name="unable_to_delete_ringtone">حسب ضرورت رنگ ٹون حذف کرنے سے قاصر ہے</string>
+</resources>

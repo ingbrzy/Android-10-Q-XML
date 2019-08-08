@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_textnorm_levels_summary">সময় আৰু তাৰিখ কোৱা ধৰণত প্ৰভাৱ পেলাই</string>
+    <string name="accessibility_textnorm_levels_title">নম্বৰৰ প্ৰক্ৰিয়া চলি আছে</string>
+    <string name="action_licenses">অপেন ছৰ্চ অনুজ্ঞাপত্ৰ</string>
+    <string name="action_voice_pack_uninstall">আনইনষ্টল কৰক</string>
+    <string name="action_voice_pack_update">আপডে’ট কৰক</string>
+    <string name="analytics_screen_explanation">"যেতিয়া এই সুবিধা অন হৈ থাকে আমি বেনামীভাৱে ব্যৱহাৰৰ প্ৰতিবেদন সংগ্ৰহ কৰোঁ। এই কার্যই আপোনাৰ ডিভাইচত Googleৰ পাঠৰ পৰা কথন সুবিধাৰ কাৰ্যদক্ষতা বুজিবলৈ আৰু উন্নত কৰিবলৈ সহায় কৰে।
+
+ আমি সংগ্ৰহ কৰা সামগ্ৰিক তথ্যসমূহৰ উদাহৰণ:
+"<ul><li>কিমান সঘনাই পাঠৰ পৰা কথন সুবিধা ব্যৱহাৰ কৰা হয়।</li>"
+"<li>পাঠৰ পৰা কথন সুবিধাৰ অনুৰোধসমূহৰ কার্যদক্ষতা</li>"
+"<li>কি কি ভাষা ব্যৱহাৰ কৰা হৈছে।</li>"
+"<li>পাঠৰ পৰা কথন সুবিধাই কিমান সঘনাই কথন আউটপুট দিয়াত বিফল হয়।</li>"
+"</ul></string>
+    <string name="analytics_summary_off">অফ হৈ আছে</string>
+    <string name="analytics_summary_on">অন হৈ আছে</string>
+    <string name="analytics_title">বেনামী ব্যৱহাৰৰ প্ৰতিবেদনসমূহ</string>
+    <string name="app_name">Googleৰ পাঠৰ পৰা কথন ইঞ্জিন</string>
+    <string name="auto_update_wifi_summary">কেৱল ৱাই ফাই ব্যৱহাৰ কৰি কণ্ঠস্বৰ ডেটা ডাউনল’ড কৰক, এই কার্যই ডেটাৰ খৰচ কমাব</string>
+    <string name="auto_update_wifi_title">কেৱল ৱাই-ফাই ব্যৱহাৰ কৰক</string>
+    <string name="download_notification_description">পাঠৰ পৰা কথন সুবিধাৰ বাবে কণ্ঠস্বৰ ডেটা</string>
+    <string name="download_notification_title">%1$sৰ বাবে অফলাইন কণ্ঠস্বৰ</string>
+    <string name="f0_deviation_title">কণ্ঠধ্বনিৰ উত্থান-অৱনমন</string>
+    <string name="feedback_failed">"মতামতৰ ফ’ৰ্ম খুলিব পৰা নগ'ল"</string>
+    <string name="feedback_title">মতামত</string>
+    <string name="general_settings">সাধাৰণ ছেটিংসমূহ</string>
+    <string name="install_voices_title">কণ্ঠস্বৰ ডেটা ইনষ্টল কৰক</string>
+    <string name="language_detection_title">ভাষা চিনাক্তকৰণ</string>
+    <string name="loudness_summary">"অন্য অডিঅ' বাজি থাকিলে পাঠ কথনৰ ভলিউম স্বাভাৱিক মাত্ৰাতকৈ উচ্চ কৰক যাতে সেইবোৰ সহজে শুনিব পৰা যায়"</string>
+    <string name="loudness_title">কথনৰ ভলিউম পৰিৱর্ধন কৰক</string>
+    <string name="multi_voice_pack_title">%1$s কণ্ঠস্বৰসমূহ</string>
+    <string name="play_sample">পাঠৰ নমুনা এটা প্লে কৰক</string>
+    <string name="play_sample_text_button_description">%1$sৰ কণ্ঠত এটা পাঠৰ নমুনা প্লে কৰক</string>
+    <string name="sample_text_synthesis_failure">"এই কণ্ঠস্বৰৰ বাবে এটা উদাহৰণ সংশ্লেষণ কৰিব পৰা নগ'ল।"</string>
+    <string name="tts_default_example">কণ্ঠস্বৰ সংশ্লেষণৰ ই এটা উদাহৰণ৷</string>
+    <string name="tts_settings_label">Google TTS বিকল্পসমূহ</string>
+    <string name="unpack_voice_pack_service_title">পাঠৰ পৰা কথনৰ ডেটা আপডে’ট কৰি থকা হৈছে</string>
+    <string name="voice_data_install_title">Google TTS কণ্ঠস্বৰ ডেটা</string>
+    <string name="voice_entity_status_voice">কণ্ঠধ্বনি %1$s</string>
+    <string name="voice_entry_cancel_download_desc">ভাইচ পেকৰ ডাউনল’ড বাতিল কৰক</string>
+    <string name="voice_entry_delete_desc">কণ্ঠস্বৰৰ পেক মচক</string>
+    <string name="voice_entry_download_desc">কণ্ঠস্বৰৰ পেক ডাউনল’ড কৰক</string>
+    <string name="voice_entry_overflow_desc">অতিৰিক্ত কণ্ঠস্বৰৰ পেকৰ কার্যসমূহ</string>
+    <string name="voice_pack_no_download_manager">"ডাউনল’ড মেনেজাৰক অক্ষম কৰি থোৱা আছে বা উপলব্ধ নহয়; কণ্ঠস্বৰৰ পেক ডাউনল’ড কৰিব পৰা নগ'ল"</string>
+    <string name="voice_pack_not_enough_space">আভ্যন্তৰীণ সঞ্চয়াগাৰত খালী ঠাই কম আছে। এই কণ্ঠস্বৰ ইনষ্টল কৰিবলৈ আপুনি কিছু খালী ঠাই উলিয়াব লাগিব।</string>
+    <string name="voice_pack_status_downloadable">ডাউনল’ড কৰক (~%1$s)</string>
+    <string name="voice_pack_status_downloading">ডাউনল’ড কৰি থকা হৈছে…</string>
+    <string name="voice_pack_status_size">আকাৰ: ~%1$s</string>
+    <string name="voice_pack_status_updatable">আপডে’ট উপলব্ধ</string>
+    <string name="voice_pack_uninstall_dialog">এই কণ্ঠস্বৰ আনইষ্টল কৰিবনে?</string>
+    <string name="voice_pack_uninstall_keep">ৰাখক</string>
+    <string name="voice_pack_uninstall_uninstall">আনইনষ্টল কৰক</string>
+    <string name="voice_pack_unpack_failure">"ডাউনল’ড কৰা কণ্ঠস্বৰ ইনষ্টল কৰিব পৰা নগ'ল"</string>
+</resources>

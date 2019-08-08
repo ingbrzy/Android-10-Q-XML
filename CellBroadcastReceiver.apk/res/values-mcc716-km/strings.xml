@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ការ​ជូន​ដំណឹង​ពេល​អាសន្ន៖ សារនៃការអនុវត្ត​ត្រាប់តាម/ការហ្វឹកហាត់</string>
+    <string name="cmas_required_monthly_test">ការ​ជូន​ដំណឹង​ពេល​អាសន្ន៖ សារសាកល្បង</string>
+    <string name="enable_public_safety_messages_title">សារ​ដែលផ្តល់ព័ត៌មាន​ជាប្រយោជន៍</string>
+    <string name="public_safety_message">សារ​ដែលផ្តល់ព័ត៌មាន​ជាប្រយោជន៍</string>
+</resources>

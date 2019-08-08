@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Log ind på netværk</string>
+    <string name="action_bar_title">Log ind på %1$s</string>
+    <string name="action_do_not_use_network">Brug ikke dette netværk</string>
+    <string name="action_use_network">Brug dette netværk, som det er</string>
+    <string name="app_name">Login til captive portal</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Sideoplysninger</string>
+    <string name="page_info_address">Adresse:</string>
+    <string name="ssl_error_continue">Fortsæt alligevel via browseren</string>
+    <string name="ssl_error_date_invalid">Dette certifikat har en ugyldig dato.</string>
+    <string name="ssl_error_example">Det er f.eks. ikke sikkert, at loginsiden tilhører den anførte organisation.</string>
+    <string name="ssl_error_expired">Dette certifikat er udløbet.</string>
+    <string name="ssl_error_invalid">Dette certifikat er ugyldigt.</string>
+    <string name="ssl_error_mismatch">Navnet på websitet stemmer ikke overens med navnet på certifikatet.</string>
+    <string name="ssl_error_not_yet_valid">Dette certifikat er ikke gyldigt endnu.</string>
+    <string name="ssl_error_unknown">Ukendt certifikatfejl.</string>
+    <string name="ssl_error_untrusted">Dette certifikat stammer ikke fra en pålidelig kilde.</string>
+    <string name="ssl_error_view_certificate">Se certifikat</string>
+    <string name="ssl_error_warning">Der er sikkerhedsproblemer på det netværk, du forsøger at logge ind på.</string>
+    <string name="ssl_security_warning_title">Sikkerhedsadvarsel</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

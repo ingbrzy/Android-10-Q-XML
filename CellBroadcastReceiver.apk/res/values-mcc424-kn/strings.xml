@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">ಮುನ್ಸೂಚನೆಯ ಎಚ್ಚರಿಕೆ</string>
+    <string name="cmas_presidential_level_alert">ರಾಷ್ಟ್ರೀಯ ತುರ್ತು ಎಚ್ಚರಿಕೆ</string>
+    <string name="cmas_required_monthly_test">ಪರೀಕ್ಷಾ ಎಚ್ಚರಿಕೆ</string>
+</resources>

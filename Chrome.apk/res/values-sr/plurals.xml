@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">%d аудио датотека</item>
+        <item quantity="one">%d аудио датотека</item>
+        <item quantity="few">%d аудио датотеке</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d датотека</item>
+        <item quantity="one">%d датотека</item>
+        <item quantity="few">%d датотеке</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d слика</item>
+        <item quantity="one">%d слика</item>
+        <item quantity="few">%d слике</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d страница</item>
+        <item quantity="one">%d страница</item>
+        <item quantity="few">%d странице</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">%d видео снимака</item>
+        <item quantity="one">%d видео</item>
+        <item quantity="few">%d видео снимка</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">Уклони %d изабраних ставки</item>
+        <item quantity="one">Уклони 1 изабрану ставку</item>
+        <item quantity="few">Уклони %d изабране ставке</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">Дели %d изабраних ставки</item>
+        <item quantity="one">Дели 1 изабрану ставку</item>
+        <item quantity="few">Дели %d изабране ставке</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">%1$d отворених картица, додирните да бисте прешли на другу картицу</item>
+        <item quantity="one">%1$d отворена картица, додирните да бисте прешли на другу картицу</item>
+        <item quantity="few">%1$d отворене картице, додирните да бисте прешли на другу картицу</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">%1$d обележивача</item>
+        <item quantity="one">%1$d обележивач</item>
+        <item quantity="few">%1$d обележивача</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d картица</item>
+        <item quantity="one">%1$d картица</item>
+        <item quantity="few">%1$d картице</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (и још %d)"</item>
+        <item quantity="one">" (и још 1)"</item>
+        <item quantity="few">" (и још %d)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">Преузима се %d датотека.</item>
+        <item quantity="one">Преузима се датотека.</item>
+        <item quantity="few">Преузимају се %d датотеке.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d ч</item>
+        <item quantity="one">%d ч</item>
+        <item quantity="few">%d ч</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">Преузели сте %1$d датотека</item>
+        <item quantity="one">Преузели сте %1$d датотеку</item>
+        <item quantity="few">Преузели сте %1$d датотеке</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">%d преузимања је довршено.</item>
+        <item quantity="one">1 преузимање је довршено.</item>
+        <item quantity="few">%d преузимања су довршена.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">%d преузимања није успело.</item>
+        <item quantity="one">1 преузимање није успело.</item>
+        <item quantity="few">%d преузимања нису успела.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">%d преузимања на чекању.</item>
+        <item quantity="one">1 преузимање на чекању.</item>
+        <item quantity="few">%d преузимања на чекању.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">Пре %d дана</item>
+        <item quantity="one">Пре %d дана</item>
+        <item quantity="few">Пре %d дана</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">Пре %d сати</item>
+        <item quantity="one">Пре %d сата</item>
+        <item quantity="few">Пре %d сата</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">Пре %d минута</item>
+        <item quantity="one">Пре %d минута</item>
+        <item quantity="few">Пре %d минута</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">Chrome ће учитати странице када буду спремне</item>
+        <item quantity="one">Chrome ће учитати страницу када буде спремна</item>
+        <item quantity="few">Chrome ће учитати странице када буду спремне</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">%1$s… и још %2$s</item>
+        <item quantity="one">%1$s… и још %2$s</item>
+        <item quantity="few">%1$s… и још %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">%1$s… и још %2$s</item>
+        <item quantity="one">%1$s… и још %2$s</item>
+        <item quantity="few">%1$s… и још %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">%1$s… и још %2$s</item>
+        <item quantity="one">%1$s… и још %2$s</item>
+        <item quantity="few">%1$s… и још %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">%1$s… и још %2$s</item>
+        <item quantity="one">%1$s… и још %2$s</item>
+        <item quantity="few">%1$s… и још %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">Изабрано: %d</item>
+        <item quantity="one">Изабрано: 1</item>
+        <item quantity="few">Изабрано: %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">Ниво јачине сигнала: %d црта</item>
+        <item quantity="one">Ниво јачине сигнала: %d црта</item>
+        <item quantity="few">Ниво јачине сигнала: %d црте</item>
+    </plurals>
+</resources>

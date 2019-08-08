@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">अलार्म थप्नुहोस्</string>
+    <string name="add_notification_text">सूचना थप्नुहोस्</string>
+    <string name="add_ringtone_text">रिङटोन थप्नुहोस्</string>
+    <string name="alarm_sound_default">अलार्मका लागि पूर्वनिर्धारित ध्वनि</string>
+    <string name="app_label">मिडिया भण्डारण</string>
+    <string name="artist_label">कलाकार</string>
+    <string name="delete_ringtone_text">मेट्नुहोस्</string>
+    <string name="grant_dialog_button_allow">अनुमति दिनुहोस्</string>
+    <string name="grant_dialog_button_deny">अनुमति नदिनुहोस्</string>
+    <string name="notification_sound_default">सूचनाका लागि पूर्वनिर्धारित ध्वनि</string>
+    <string name="permission_audio"><b>^1</b> लाई यो सङ्गीत परिमार्जन गर्न वा मेटाउन दिने हो?</string>
+    <string name="permission_images"><b>^1</b> लाई यो छवि परिमार्जन गर्न वा मेटाउन दिने हो?</string>
+    <string name="permission_required">यो वस्तु परिमार्जन गर्न वा मेटाउन अनुमति आवश्यक पर्छ।</string>
+    <string name="permission_required_action">जारी राख्नुहोस्</string>
+    <string name="permission_video"><b>^1</b> लाई यो भिडियो परिमार्जन गर्न वा मेटाउन दिने हो?</string>
+    <string name="ringtone_default">पूर्वनिर्धारित रिङटोन</string>
+    <string name="root_audio">अडियो</string>
+    <string name="root_images">छविहरू</string>
+    <string name="root_videos">भिडियोहरू</string>
+    <string name="sound_name_awaken">Awaken</string>
+    <string name="sound_name_bounce">Bounce</string>
+    <string name="sound_name_drip">Drip</string>
+    <string name="sound_name_gallop">Gallop</string>
+    <string name="sound_name_nudge">Nudge</string>
+    <string name="sound_name_orbit">Orbit</string>
+    <string name="sound_name_rise">Rise</string>
+    <string name="sound_name_sway">Sway</string>
+    <string name="sound_name_wag">Wag</string>
+    <string name="storage_description">स्थानीय भण्डारण</string>
+    <string name="uid_label">मिडिया</string>
+    <string name="unable_to_add_ringtone">आफू अनुकूल रिङटोन थप्न सकिएन</string>
+    <string name="unable_to_delete_ringtone">आफू अनुकूल रिङटोनलाई मेट्न सकिएन</string>
+</resources>

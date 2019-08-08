@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">మరో %1$d</item>
+        <item quantity="one">మరో %1$d</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s రోజులు</item>
+        <item quantity="one">1 రోజు</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s గంటలు</item>
+        <item quantity="one">1 గంట</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s నిమిషాలు</item>
+        <item quantity="one">1 నిమిషం</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s యాప్‌లు</item>
+        <item quantity="one">1 యాప్</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s యాప్‌లు</item>
+        <item quantity="one">1 యాప్</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s సెకన్లు</item>
+        <item quantity="one">1 సెకను</item>
+    </plurals>
+</resources>

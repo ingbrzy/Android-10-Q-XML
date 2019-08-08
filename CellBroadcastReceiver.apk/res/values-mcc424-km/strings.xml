@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">ការជូន​ដំណឹងព្រមាន</string>
+    <string name="cmas_presidential_level_alert">ការ​ជូន​ដំណឹង​ពេល​អាសន្នថ្នាក់ជាតិ</string>
+    <string name="cmas_required_monthly_test">ការ​ជូន​ដំណឹងសាកល្បង</string>
+</resources>

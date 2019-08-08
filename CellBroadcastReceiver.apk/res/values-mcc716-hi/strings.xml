@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">आपातकालीन अलर्ट: कसरत/सिम्युलेशन मैसेज</string>
+    <string name="cmas_required_monthly_test">आपातकालीन अलर्ट: टेस्ट मैसेज</string>
+    <string name="enable_public_safety_messages_title">जानकारी देने वाला मैसेज</string>
+    <string name="public_safety_message">जानकारी देने वाला मैसेज</string>
+</resources>

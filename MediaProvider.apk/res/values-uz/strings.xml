@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">Signal qo‘shish</string>
+    <string name="add_notification_text">Bildirishnoma qo‘shish</string>
+    <string name="add_ringtone_text">Rington qo‘shish</string>
+    <string name="alarm_sound_default">Standart signal tovushi</string>
+    <string name="app_label">Multimedia xotirasi</string>
+    <string name="artist_label">Ijrochi</string>
+    <string name="delete_ringtone_text">O‘chirish</string>
+    <string name="grant_dialog_button_allow">Ruxsat</string>
+    <string name="grant_dialog_button_deny">Rad etish</string>
+    <string name="notification_sound_default">Standart bildirishnoma tovushi</string>
+    <string name="permission_audio"><b>^1</b> ilovasiga bu audio faylni tahrirlashi yoki olib tashlashi uchun ruxsat berilsinmi?</string>
+    <string name="permission_images"><b>^1</b> ilovasiga bu rasmni tahrirlashi yoki olib tashlashi uchun ruxsat berilsinmi?</string>
+    <string name="permission_required">Media faylni tahrirlash yoki olib tashlash uchun ruxsat zarur.</string>
+    <string name="permission_required_action">Davom etish</string>
+    <string name="permission_video"><b>^1</b> ilovasiga bu videoni tahrirlashi yoki olib tashlashi uchun ruxsat berilsinmi?</string>
+    <string name="ringtone_default">Standart rington</string>
+    <string name="root_audio">Audio</string>
+    <string name="root_images">Rasmlar</string>
+    <string name="root_videos">Videolar</string>
+    <string name="sound_name_awaken">Uyg‘otish</string>
+    <string name="sound_name_bounce">Sakrash</string>
+    <string name="sound_name_drip">Tomish</string>
+    <string name="sound_name_gallop">Sakrab chopish</string>
+    <string name="sound_name_nudge">Turtish</string>
+    <string name="sound_name_orbit">Orbita</string>
+    <string name="sound_name_rise">Ko‘tarilish</string>
+    <string name="sound_name_sway">Chayqalish</string>
+    <string name="sound_name_wag">Silkitish</string>
+    <string name="storage_description">Mahalliy xotira</string>
+    <string name="uid_label">Multimedia</string>
+    <string name="unable_to_add_ringtone">Maxsus rington qo‘shib bo‘lmadi</string>
+    <string name="unable_to_delete_ringtone">Maxsus ringtonni o‘chirib bo‘lmadi</string>
+</resources>

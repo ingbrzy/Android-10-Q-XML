@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">%d na Audio file</item>
+        <item quantity="one">%d Audio file</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d na File</item>
+        <item quantity="one">%d File</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d na Larawan</item>
+        <item quantity="one">%d Larawan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d na Page</item>
+        <item quantity="one">%d Page</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">%d na Video</item>
+        <item quantity="one">%d Video</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">Alisin ang %d na piniling item</item>
+        <item quantity="one">Alisin ang 1 piniling item</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">Ibahagi ang %d na piniling item</item>
+        <item quantity="one">Ibahagi ang 1 piniling item</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">%1$d na nakabukas na tab, i-tap para lumipat ng tab</item>
+        <item quantity="one">%1$d nakabukas na tab, i-tap para lumipat ng tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">%1$d na bookmark</item>
+        <item quantity="one">%1$d bookmark</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d na tab</item>
+        <item quantity="one">%1$d tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (+ %d pa)"</item>
+        <item quantity="one">" (+ 1 pa)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">Nagda-download ng %d na file.</item>
+        <item quantity="one">Nagda-download ng file.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d na oras</item>
+        <item quantity="one">%d oras</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">%1$d na file ang na-download</item>
+        <item quantity="one">%1$d file ang na-download</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">Tapos na ang %d na pag-download.</item>
+        <item quantity="one">Tapos na ang 1 pag-download.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">%d ang hindi na-download.</item>
+        <item quantity="one">1 ang hindi na-download.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">Nakabinbin ang %d na pag-download.</item>
+        <item quantity="one">Nakabinbin ang 1 pag-download.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">%d na araw ang nakalipas</item>
+        <item quantity="one">%d araw ang nakalipas</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">%d na oras ang nakalipas</item>
+        <item quantity="one">%d oras ang nakalipas</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">%d na minuto ang nakalipas</item>
+        <item quantity="one">%d minuto ang nakalipas</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">Ilo-load ng Chrome ang iyong mga page kapag handa na</item>
+        <item quantity="one">Ilo-load ng Chrome ang iyong page kapag handa na</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">%1$s… at %2$s na iba pa</item>
+        <item quantity="one">%1$s… at %2$s iba pa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">%1$s… at %2$s na iba pa</item>
+        <item quantity="one">%1$s… at %2$s iba pa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">%1$s… at %2$s na iba pa</item>
+        <item quantity="one">%1$s… at %2$s iba pa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">%1$s… at %2$s na iba pa</item>
+        <item quantity="one">%1$s… at %2$s iba pa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">%d ang napili</item>
+        <item quantity="one">1 ang napili</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">Antas ng Lakas ng Signal: %d na bar</item>
+        <item quantity="one">Antas ng Lakas ng Signal: %d bar</item>
+    </plurals>
+</resources>

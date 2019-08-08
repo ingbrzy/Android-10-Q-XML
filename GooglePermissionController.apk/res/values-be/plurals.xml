@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d іншага</item>
+        <item quantity="one">%1$d іншы</item>
+        <item quantity="few">%1$d іншыя</item>
+        <item quantity="many">%1$d іншых</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s дня</item>
+        <item quantity="one">%s дзень</item>
+        <item quantity="few">%s дні</item>
+        <item quantity="many">%s дзён</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s гадзіны</item>
+        <item quantity="one">%s гадзіна</item>
+        <item quantity="few">%s гадзіны</item>
+        <item quantity="many">%s гадзін</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s хвіліны</item>
+        <item quantity="one">%s хвіліна</item>
+        <item quantity="few">%s хвіліны</item>
+        <item quantity="many">%s хвілін</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s праграмы</item>
+        <item quantity="one">%s праграма</item>
+        <item quantity="few">%s праграмы</item>
+        <item quantity="many">%s праграм</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s праграмы</item>
+        <item quantity="one">%s праграма</item>
+        <item quantity="few">%s праграмы</item>
+        <item quantity="many">%s праграм</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s секунды</item>
+        <item quantity="one">%s секунда</item>
+        <item quantity="few">%s секунды</item>
+        <item quantity="many">%s секунд</item>
+    </plurals>
+</resources>

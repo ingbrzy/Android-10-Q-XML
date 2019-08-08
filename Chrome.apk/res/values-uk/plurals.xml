@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">%d аудіофайлу</item>
+        <item quantity="one">%d аудіофайл</item>
+        <item quantity="few">%d аудіофайли</item>
+        <item quantity="many">%d аудіофайлів</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d файлу</item>
+        <item quantity="one">%d файл</item>
+        <item quantity="few">%d файли</item>
+        <item quantity="many">%d файлів</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d зображення</item>
+        <item quantity="one">%d зображення</item>
+        <item quantity="few">%d зображення</item>
+        <item quantity="many">%d зображень</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d сторінки</item>
+        <item quantity="one">%d сторінка</item>
+        <item quantity="few">%d сторінки</item>
+        <item quantity="many">%d сторінок</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">%d відео</item>
+        <item quantity="one">%d відео</item>
+        <item quantity="few">%d відео</item>
+        <item quantity="many">%d відео</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">Вилучити %d вибраного елемента</item>
+        <item quantity="one">Вилучити 1 вибраний елемент</item>
+        <item quantity="few">Вилучити %d вибрані елементи</item>
+        <item quantity="many">Вилучити %d вибраних елементів</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">Поділитися %d вибраного елемента</item>
+        <item quantity="one">Поділитись 1 вибраним елементом</item>
+        <item quantity="few">Поділитися %d вибраними елементами</item>
+        <item quantity="many">Поділитися %d вибраними елементами</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">%1$d відкритої вкладки: натисніть, щоб перейти на іншу вкладку</item>
+        <item quantity="one">%1$d відкрита вкладка: натисніть, щоб перейти на іншу вкладку</item>
+        <item quantity="few">%1$d відкриті вкладки: натисніть, щоб перейти на іншу вкладку</item>
+        <item quantity="many">%1$d відкритих вкладок: натисніть, щоб перейти на іншу вкладку</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">%1$d закладки</item>
+        <item quantity="one">%1$d закладка</item>
+        <item quantity="few">%1$d закладки</item>
+        <item quantity="many">%1$d закладок</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d вкладки</item>
+        <item quantity="one">%1$d вкладка</item>
+        <item quantity="few">%1$d вкладки</item>
+        <item quantity="many">%1$d вкладок</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (+ і ще %d)"</item>
+        <item quantity="one">" (+ ще 1)"</item>
+        <item quantity="few">" (+ і ще %d)"</item>
+        <item quantity="many">" (+ і ще %d)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">Завантажується %d файлу.</item>
+        <item quantity="one">Завантажується файл.</item>
+        <item quantity="few">Завантажується %d файли.</item>
+        <item quantity="many">Завантажується %d файлів.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d год</item>
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d год</item>
+        <item quantity="many">%d год</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">Завантажено %1$d файлу</item>
+        <item quantity="one">Завантажено %1$d файл</item>
+        <item quantity="few">Завантажено %1$d файли</item>
+        <item quantity="many">Завантажено %1$d файлів</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">%d файлу завантажено.</item>
+        <item quantity="one">1 файл завантажено.</item>
+        <item quantity="few">%d файли завантажено.</item>
+        <item quantity="many">%d файлів завантажено.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">Не вдалося завантажити %d файлу.</item>
+        <item quantity="one">Не вдалося завантажити 1 файл.</item>
+        <item quantity="few">Не вдалося завантажити %d файли.</item>
+        <item quantity="many">Не вдалося завантажити %d файлів.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">Очікується %d завантаження.</item>
+        <item quantity="one">Очікується 1 завантаження.</item>
+        <item quantity="few">Очікується %d завантаження.</item>
+        <item quantity="many">Очікується %d завантажень.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">%d дня тому</item>
+        <item quantity="one">%d день тому</item>
+        <item quantity="few">%d дні тому</item>
+        <item quantity="many">%d днів тому</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">%d години тому</item>
+        <item quantity="one">%d годину тому</item>
+        <item quantity="few">%d години тому</item>
+        <item quantity="many">%d годин тому</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">%d хвилини тому</item>
+        <item quantity="one">%d хвилину тому</item>
+        <item quantity="few">%d хвилини тому</item>
+        <item quantity="many">%d хвилин тому</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">Коли все буде готово, Chrome завантажить сторінки</item>
+        <item quantity="one">Коли все буде готово, Chrome завантажить сторінку</item>
+        <item quantity="few">Коли все буде готово, Chrome завантажить сторінки</item>
+        <item quantity="many">Коли все буде готово, Chrome завантажить сторінки</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">%1$s… і ще %2$s</item>
+        <item quantity="one">%1$s… і ще %2$s</item>
+        <item quantity="few">%1$s… і ще %2$s</item>
+        <item quantity="many">%1$s… і ще %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">%1$s… і ще %2$s</item>
+        <item quantity="one">%1$s… і ще %2$s</item>
+        <item quantity="few">%1$s… і ще %2$s</item>
+        <item quantity="many">%1$s… і ще %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">%1$s… і ще %2$s</item>
+        <item quantity="one">%1$s… і ще %2$s</item>
+        <item quantity="few">%1$s… і ще %2$s</item>
+        <item quantity="many">%1$s… і ще %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">%1$s… і ще %2$s</item>
+        <item quantity="one">%1$s… і ще %2$s</item>
+        <item quantity="few">%1$s… і ще %2$s</item>
+        <item quantity="many">%1$s… і ще %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">Вибрано %d</item>
+        <item quantity="one">Вибрано 1</item>
+        <item quantity="few">Вибрано %d</item>
+        <item quantity="many">Вибрано %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">Рівень сигналу: %d поділки</item>
+        <item quantity="one">Рівень сигналу: %d поділка</item>
+        <item quantity="few">Рівень сигналу: %d поділки</item>
+        <item quantity="many">Рівень сигналу: %d поділок</item>
+    </plurals>
+</resources>

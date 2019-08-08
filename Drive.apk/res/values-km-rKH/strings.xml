@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessbility_suggestion_dropdown_closed">គ្មានការផ្តល់យោបល់ទេ</string>
+    <string name="accessbility_suggestion_dropdown_opened">បាន​បើក​ការ​ផ្ដល់​យោបល់​ទំនាក់ទំនង</string>
+    <string name="account_item">ប្ដូរ​ទៅ %1$s</string>
+    <string name="account_list">​បញ្ជី​គណនី</string>
+    <string name="action_label">ថយក្រោយ</string>
+    <string name="add_account">បន្ថែម​គណនី</string>
+    <string name="chips_action_cancel">បោះបង់</string>
+    <string name="chips_action_copy">ចម្លង</string>
+    <string name="chips_permission_text">អនុញ្ញាតឲ្យមានការណែនាំទំនាក់ទំនង</string>
+    <string name="dropdown_delete_button_desc">យក %s ចេញពីអ្នកទទួល</string>
+    <string name="hide_account_list">លាក់​គណនី</string>
+    <string name="manage_accounts">គ្រប់គ្រង​គណនី</string>
+    <string name="more_string">+%1$d</string>
+    <string name="selected_account">បាន​ចូល​ទៅ %1$s</string>
+    <string name="show_account_list">បង្ហាញ​គណនី</string>
+    <string name="sign_in">ចូល</string>
+</resources>

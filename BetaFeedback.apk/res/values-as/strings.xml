@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="character_counter_content_description">%2$dটাৰ ভিতৰত %1$dটা বৰ্ণ লিখা হৈছে</string>
+    <string name="character_counter_overflowed_content_description">%2$dটাৰ ভিতৰত %1$dটা বৰ্ণৰ সীমা অতিক্ৰম কৰিছে</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="copy">প্ৰতিলিপি কৰক</string>
+    <string name="dialog_english_only_msg">এই মুহূৰ্তত এই এপটো কেৱল ইংৰাজী ভাষাতহে উপলব্ধ। Googleৰ &lt;a href=%1$s>সমস্যাৰ খতিয়ান&lt;/a>ত জমা কৰা Androidৰ বাগ সমাধান আৰু সুবিধা যোগ কৰাৰ অনুৰোধ ইংৰাজী ভাষাতো হোৱা দৰকাৰ। &lt;br />&lt;br /> আপুনি যদি এটা Pixel ফ’ন ব্যৱহাৰ কৰি আছে আৰু এই এপটো ইংৰাজী ভাষাত ব্যৱহাৰ কৰিব নোৱাৰে, তেন্তে Googleলৈ &lt;a href=https://support.google.com/pixelphone/answer/6398243>মতামত পঠিওৱাৰ&lt;/a> আন এটা উপায় আছে।</string>
+    <string name="dialog_english_only_title">কেৱল ইংৰাজী</string>
+    <string name="expand_button_title">উন্নত</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$sক আঁতৰাওক</string>
+    <string name="not_set">ছেট কৰা হোৱা নাই</string>
+    <string name="og_account_disabled_a11y">একাউণ্ট অক্ষম কৰা আছে %1$s।</string>
+    <string name="og_add_another_account">আন এটা একাউণ্ট যোগ দিয়ক</string>
+    <string name="og_choose_an_account">একাউণ্ট এটা বাছনি কৰক</string>
+    <string name="og_close_icon_a11y">বন্ধ কৰক</string>
+    <string name="og_collapse_account_menu_a11y">একাউণ্ট মেনু সংকুচিত কৰক।</string>
+    <string name="og_expand_account_menu_a11y">একাউণ্ট মেনু সম্প্ৰসাৰিত কৰক</string>
+    <string name="og_google_one_account_a11y">Google One একাউণ্ট।</string>
+    <string name="og_manage_accounts">এই ডিভাইচত একাউণ্ট ব্যৱস্থিত কৰক</string>
+    <string name="og_my_account_desc_long_length">আপোনাৰ Google একাউণ্টটো পৰিচালনা কৰক</string>
+    <string name="og_my_account_desc_meduim_length">Google একাউণ্ট</string>
+    <string name="og_my_account_desc_short_length">একাউণ্ট</string>
+    <string name="og_privacy_policy">গোপনীয়তাৰ নীতি</string>
+    <string name="og_sign_in">চাইন ইন</string>
+    <string name="og_signed_in_user_a11y">%1$s হিচাপে ছাইন ইন কৰা হৈছে।</string>
+    <string name="og_switch_account_to_recent_a11y">%1$s একাউণ্টলৈ সলনি কৰক</string>
+    <string name="og_terms_of_service">সেৱাৰ চৰ্তাৱলী</string>
+    <string name="og_turn_on_incognito">ইনক’গনিট’ অন কৰক</string>
+    <string name="og_use_account_a11y">%1$s ব্যৱহাৰ কৰক।</string>
+    <string name="og_use_without_an_account">কোনো একাউণ্ট অবিহনে ব্যৱহাৰ কৰক</string>
+    <string name="password_toggle_content_description">পাছৱৰ্ড দেখুৱাওক</string>
+    <string name="preference_copied">\"%1$s\" ক্লিপব’ৰ্ডত প্ৰতিলিপি কৰা হ’ল</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">অফ অৱস্থাত আছে</string>
+    <string name="v7_preference_on">অন কৰক</string>
+</resources>

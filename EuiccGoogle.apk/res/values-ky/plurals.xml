@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_number_subtitle">
+        <item quantity="other">Бул түзмөккө %1$d номер кошулду, бирок бир убакта алардын 1 гана колдонууга болот</item>
+        <item quantity="one">Бул түзмөккө %1$d номер кошулду, бирок бир убакта алардын 1 гана колдонууга болот</item>
+    </plurals>
+    <plurals name="download_sub_multi_carriers_text">
+        <item quantity="other">%1$s байланыш операторунан жана дагы %3$d башка оператордон &lt;b>%2$d номерди&lt;/b> алып жатабыз. Буга бир аз убакыт талап кылынышы мүмкүн.</item>
+        <item quantity="one">%1$s байланыш операторунан жана дагы 1 байланыш операторунан &lt;b>%2$d номерди&lt;/b> алып жатабыз. Буга бир аз убакыт талап кылынышы мүмкүн.</item>
+    </plurals>
+    <plurals name="download_sub_text">
+        <item quantity="other">&lt;b>%2$d номерди&lt;/b> %1$s байланыш операторунан алып жатабыз. Буга бир аз убакыт талап кылынышы мүмкүн.</item>
+        <item quantity="one">Номериңизди %1$s байланыш операторунан алып жатабыз. Буга бир аз убакыт талап кылынышы мүмкүн.</item>
+    </plurals>
+    <plurals name="download_sub_title">
+        <item quantity="other">Номерлериңиз кошулууда…</item>
+        <item quantity="one">Номериңиз кошулууда…</item>
+    </plurals>
+    <plurals name="error_screen_title">
+        <item quantity="other">Байланыш оператору иштетилген жок</item>
+        <item quantity="one">%1$s иштетилген жок</item>
+    </plurals>
+    <plurals name="insufficient_memory_subtitle">
+        <item quantity="other">&lt;b>%d жаңы номер&lt;/b> телефонуңузга кошулууга даяр. Аларды көрүү үчүн учурдагы номерлердин бирин өчүрүшүңүз керек.</item>
+        <item quantity="one">&lt;b>%d жаңы номер&lt;/b> телефонуңузга кошулууга даяр. Аны көрүү үчүн учурдагы номерлердин бирин өчүрүшүңүз керек.</item>
+    </plurals>
+    <plurals name="insufficient_space_description_q">
+        <item quantity="other">Телефон номерлериңизди колдонуу үчүн, алгач бул түзмөктөн учурдагы номерлерди өчүрүп, орун бошотушуңуз керек. Бул аракетти кийинчерээк \"Жөндөөлөрдөн\" аткарсаңыз болот.</item>
+        <item quantity="one">Телефон номериңизди колдонуу үчүн, алгач бул түзмөктөн учурдагы номерлерди өчүрүп, орун бошотушуңуз керек. Бул аракетти кийинчерээк \"Жөндөөлөрдөн\" аткарсаңыз болот.</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_number_count">
+        <item quantity="other">%d номер</item>
+        <item quantity="one">%d номер</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_subtitle">
+        <item quantity="other">Бул байланыш операторлоруна катталган &lt;b>%d телефон номериңиз&lt;/b> кошууга даяр</item>
+        <item quantity="one">Бул байланыш операторуна катталган &lt;b>%d телефон номериңиз&lt;/b> кошууга даяр</item>
+    </plurals>
+    <plurals name="notification_carrier_unknown">
+        <item quantity="other">Кошумча %d номериңиз кошууга даяр</item>
+        <item quantity="one">Кошумча %d номериңиз кошууга даяр</item>
+    </plurals>
+    <plurals name="notification_multiple_carrier_name_known">
+        <item quantity="other">%1$s номериңиз жана дагы %2$d номер кошууга даяр</item>
+        <item quantity="one">%1$s номериңиз жана дагы %2$d номер кошууга даяр</item>
+    </plurals>
+    <plurals name="notification_single_carrier_name_known">
+        <item quantity="other">%1$s номериңиз кошууга даяр</item>
+        <item quantity="one">%1$s номериңиз кошууга даяр</item>
+    </plurals>
+    <plurals name="perm_error_description">
+        <item quantity="other">Кызматты иштетип жатканда бир жерден ката кетти. Жардам алуу үчүн байланыш операторуна кайрылыңыз.</item>
+        <item quantity="one">Кызматты иштетип жатканда бир жерден ката кетти. Жардам алуу үчүн %1$s операторуна кайрылыңыз.</item>
+    </plurals>
+    <plurals name="perm_error_description_q">
+        <item quantity="other">Телефон номерлериңизди иштетип жатканда бир жерден ката кетти. Жардам алуу үчүн %2$s номерине чалып, %1$s операторуна кайрылыңыз.</item>
+        <item quantity="one">Телефон номериңизди иштетип жатканда бир жерден ката кетти. Жардам алуу үчүн %2$s номерине чалып, %1$s операторуна кайрылыңыз.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone">
+        <item quantity="other">Телефон номерлериңизди иштетип жатканда бир жерден ката кетти. Жардам алуу үчүн %1$s операторуна кайрылыңыз.</item>
+        <item quantity="one">Телефон номериңизди иштетип жатканда бир жерден ката кетти. Жардам алуу үчүн %1$s операторуна кайрылыңыз.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone_no_carrier_name">
+        <item quantity="other">Телефон номерлериңизди иштетип жатканда бир жерден ката кетти. Жардам алуу үчүн байланыш операторуна кайрылыңыз.</item>
+        <item quantity="one">Телефон номериңизди иштетип жатканда бир жерден ката кетти. Байланыш операторуңузга байланышып, жардам алыңыз.</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_confirm_subtitle">
+        <item quantity="other">Бул түзмөк үчүн %d номер жеткиликтүү</item>
+        <item quantity="one">Бул түзмөк үчүн %d номер жеткиликтүү</item>
+    </plurals>
+    <plurals name="q_result_download_text">
+        <item quantity="other">Бул түзмөк үчүн %1$s операторунун %2$d номери жеткиликтүү</item>
+        <item quantity="one">Бул түзмөк үчүн %1$s операторунун 1 номери жеткиликтүү</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_multi_carriers">
+        <item quantity="other">Тилекке каршы, %1$s номериңиз жана дагы %2$d байланыш операторунун номерлери кошулбай калды.</item>
+        <item quantity="one">Тилекке каршы, %1$s номериңиз жана дагы %2$d байланыш операторунун номерлери кошулбай калды.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_no_carrier">
+        <item quantity="other">Тилекке каршы, бир да байланыш операторунун номери кошулбай калды.</item>
+        <item quantity="one">Тилекке каршы, байланыш операторуңуздун &lt;b>1 номери&lt;/b> кошулбай калды.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_single_carrier">
+        <item quantity="other">Тилекке каршы, %1$s байланыш операторунун &lt;b>%2$d номери&lt;/b> кошулбай калды.</item>
+        <item quantity="one">Тилекке каршы, %1$s байланыш операторунун &lt;b>%2$d номери&lt;/b> кошулбай калды.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_multi_carriers">
+        <item quantity="other">%1$s номерин жана дагы %2$d байланыш операторунун номерин кошууга орун жетишсиз.</item>
+        <item quantity="one">%1$s номерин жана дагы %2$d байланыш операторунун номерин кошууга орун жетишсиз.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_no_carrier">
+        <item quantity="other">Бир да байланыш операторунун номерин кошууга орун жетишсиз.</item>
+        <item quantity="one">&lt;b>1 номерди&lt;/b> кошууга орун жетишсиз.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_single_carrier">
+        <item quantity="other">%1$s байланыш операторунун &lt;b>%2$d номерин&lt;/b> кошууга орун жетишсиз.</item>
+        <item quantity="one">%1$s байланыш операторунун &lt;b>%2$d номерин&lt;/b> кошууга орун жетишсиз.</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_multiple_carriers">
+        <item quantity="other">%2$s, %3$s жана башка %4$d байланыш операторлорунун &lt;b>%1$d номерин&lt;/b> коштуңуз</item>
+        <item quantity="one">%2$s жана %3$s байланыш операторлорунун &lt;b>%1$d номерин&lt;/b> коштуңуз</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_single_carrier">
+        <item quantity="other">%2$s байланыш операторунун &lt;b>%1$d номерин&lt;/b> коштуңуз</item>
+        <item quantity="one">%2$s байланыш операторунун &lt;b>%1$d номерин&lt;/b> коштуңуз</item>
+    </plurals>
+    <plurals name="res_continue_title_all_success">
+        <item quantity="other">%1$d номер кошулду</item>
+        <item quantity="one">Телефон номери кошулду</item>
+    </plurals>
+    <plurals name="result_download_text">
+        <item quantity="other">%1$s байланыш операторунун &lt;b>%2$d номери&lt;/b> бул телефонго кошулууга даяр</item>
+        <item quantity="one">%1$s номериңиз телефонуңузга кошулууга даяр</item>
+    </plurals>
+    <plurals name="temp_error_description_q">
+        <item quantity="other">Телефон номерлериңизди иштетип жатканда бир жерден ката кетти. Бир аздан кийин Жөндөөлөргө өтүп, кайра аракет кылып көрсөңүз болот.</item>
+        <item quantity="one">Телефон номериңизди иштетип жатканда бир жерден ката кетти. Бир аздан кийин Жөндөөлөргө өтүп, кайра аракет кылып көрсөңүз болот.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">[Šîĝñ îñ ţö ñéţŵöŕķ one two three]</string>
+    <string name="action_bar_title">[Šîĝñ îñ ţö »%1$s« one two]</string>
+    <string name="action_do_not_use_network">[Ðö ñöţ ûšé ţĥîš ñéţŵöŕķ one two three]</string>
+    <string name="action_use_network">[Ûšé ţĥîš ñéţŵöŕķ åš îš one two three]</string>
+    <string name="app_name">[ÇåþţîVéÞöŕţåļĻöĝîñ one two three]</string>
+    <string name="ok">[ÖĶ one]</string>
+    <string name="page_info">[Þåĝé îñƒö one two]</string>
+    <string name="page_info_address">[Åððŕéšš: one two]</string>
+    <string name="ssl_error_continue">[Çöñţîñûé åñýŵåý Vîå ɓŕöŵšéŕ one two three four]</string>
+    <string name="ssl_error_date_invalid">[Ţĥîš çéŕţîƒîçåţé ĥåš åñ îñVåļîð ðåţé. one two three four five]</string>
+    <string name="ssl_error_example">[Föŕ éхåḿþļé, ţĥé ļöĝîñ þåĝé ḿåý ñöţ ɓéļöñĝ ţö ţĥé öŕĝåñîžåţîöñ šĥöŵñ. one two three four five six seven eight]</string>
+    <string name="ssl_error_expired">[Ţĥîš çéŕţîƒîçåţé ĥåš éхþîŕéð. one two three four]</string>
+    <string name="ssl_error_invalid">[Ţĥîš çéŕţîƒîçåţé îš îñVåļîð. one two three four]</string>
+    <string name="ssl_error_mismatch">"[Ţĥé ñåḿé öƒ ţĥé šîţé ðöéšñ'ţ ḿåţçĥ ţĥé ñåḿé öñ ţĥé çéŕţîƒîçåţé. one two three four five six seven]"</string>
+    <string name="ssl_error_not_yet_valid">"[Ţĥîš çéŕţîƒîçåţé îšñ'ţ Våļîð ýéţ. one two three four]"</string>
+    <string name="ssl_error_unknown">[Ûñķñöŵñ çéŕţîƒîçåţé éŕŕöŕ. one two three four]</string>
+    <string name="ssl_error_untrusted">"[Ţĥîš çéŕţîƒîçåţé îšñ'ţ ƒŕöḿ å ţŕûšţéð åûţĥöŕîţý. one two three four five six]"</string>
+    <string name="ssl_error_view_certificate">[νîéŵ çéŕţîƒîçåţé one two three]</string>
+    <string name="ssl_error_warning">[Ţĥé ñéţŵöŕķ ýöû’ŕé ţŕýîñĝ ţö ĵöîñ ĥåš šéçûŕîţý îššûéš. one two three four five six seven]</string>
+    <string name="ssl_security_warning_title">[Šéçûŕîţý ŵåŕñîñĝ one two three]</string>
+    <string name="status_bar_notification_info_overflow">[999+ one]</string>
+</resources>

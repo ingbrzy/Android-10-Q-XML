@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Yana %1$d ta</item>
+        <item quantity="one">Yana %1$d ta</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s kun</item>
+        <item quantity="one">1 kun</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s soat</item>
+        <item quantity="one">1 soat</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s daqiqa</item>
+        <item quantity="one">1 daqiqa</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s ta ilova</item>
+        <item quantity="one">1 ta ilova</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s ta ilova</item>
+        <item quantity="one">1 ta ilova</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s soniya</item>
+        <item quantity="one">1 soniya</item>
+    </plurals>
+</resources>

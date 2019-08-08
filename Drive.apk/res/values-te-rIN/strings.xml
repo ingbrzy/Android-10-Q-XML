@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessbility_suggestion_dropdown_closed">సూచనలు ఏవీ అందుబాటులో లేవు</string>
+    <string name="accessbility_suggestion_dropdown_opened">పరిచయ సూచనలు తెరవబడ్డాయి</string>
+    <string name="account_item">%1$sకి మార్చండి</string>
+    <string name="account_list">ఖాతా జాబితా</string>
+    <string name="action_label">తిరిగివెళ్లు</string>
+    <string name="add_account">ఖాతాను జోడించండి</string>
+    <string name="chips_action_cancel">రద్దు చేయి</string>
+    <string name="chips_action_copy">కాపీ చేయి</string>
+    <string name="chips_permission_text">పరిచయాల సూచనలను అనుమతించు</string>
+    <string name="dropdown_delete_button_desc">స్వీకర్తల నుండి %sని తీసివేయండి</string>
+    <string name="hide_account_list">ఖాతాలను దాచండి</string>
+    <string name="manage_accounts">ఖాతాలను నిర్వహించండి</string>
+    <string name="more_string">+%1$d</string>
+    <string name="selected_account">%1$sకి సైన్ ఇన్ చేయబడింది</string>
+    <string name="show_account_list">ఖాతాలను చూపండి</string>
+    <string name="sign_in">సైన్ ఇన్ చేయండి</string>
+</resources>

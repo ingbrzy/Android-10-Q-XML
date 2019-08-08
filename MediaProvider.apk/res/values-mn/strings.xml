@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">Сэрүүлэг нэмэх</string>
+    <string name="add_notification_text">Мэдэгдэл нэмэх</string>
+    <string name="add_ringtone_text">Хонхны ая нэмэх</string>
+    <string name="alarm_sound_default">Сэрүүлгийн өгөгдмөл дуу</string>
+    <string name="app_label">Медиа санах ой</string>
+    <string name="artist_label">Уран бүтээлч</string>
+    <string name="delete_ringtone_text">Устгах</string>
+    <string name="grant_dialog_button_allow">Зөвшөөрөх</string>
+    <string name="grant_dialog_button_deny">Татгалзах</string>
+    <string name="notification_sound_default">Мэдэгдлийн өгөгдмөл ая</string>
+    <string name="permission_audio"><b>^1</b>-д энэ хөгжмийг өөрчлөх эсвэл устгахыг зөвшөөрөх үү?</string>
+    <string name="permission_images"><b>^1</b>-д энэ зургийг өөрчлөх эсвэл устгахыг зөвшөөрөх үү?</string>
+    <string name="permission_required">Энэ зүйлийг өөрчлөх эсвэл устгахад зөвшөөрөл шаардлагатай.</string>
+    <string name="permission_required_action">Үргэлжлүүлэх</string>
+    <string name="permission_video"><b>^1</b>-д энэ видеог өөрчлөх эсвэл устгахыг зөвшөөрөх үү?</string>
+    <string name="ringtone_default">Үндсэн хонхны ая</string>
+    <string name="root_audio">Аудио</string>
+    <string name="root_images">Зураг</string>
+    <string name="root_videos">Бичлэг</string>
+    <string name="sound_name_awaken">Сэрсэн</string>
+    <string name="sound_name_bounce">Bounce</string>
+    <string name="sound_name_drip">Drip</string>
+    <string name="sound_name_gallop">Gallop</string>
+    <string name="sound_name_nudge">Nudge</string>
+    <string name="sound_name_orbit">Orbit</string>
+    <string name="sound_name_rise">Rise</string>
+    <string name="sound_name_sway">Sway</string>
+    <string name="sound_name_wag">Wag</string>
+    <string name="storage_description">Дотоод сан</string>
+    <string name="uid_label">Медиа</string>
+    <string name="unable_to_add_ringtone">Захиалгат хонхны ая нэмэх боломжгүй</string>
+    <string name="unable_to_delete_ringtone">Захиалгат хонхны ая устгах боломжгүй</string>
+</resources>

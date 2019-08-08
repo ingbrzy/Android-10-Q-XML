@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">ลงชื่อเข้าใช้เครือข่าย</string>
+    <string name="action_bar_title">ลงชื่อเข้าใช้ %1$s</string>
+    <string name="action_do_not_use_network">ไม่ใช้เครือข่ายนี้</string>
+    <string name="action_use_network">ใช้เครือข่ายนี้ตามที่เป็นอยู่</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ok">ตกลง</string>
+    <string name="page_info">ข้อมูลหน้าเว็บ</string>
+    <string name="page_info_address">ที่อยู่:</string>
+    <string name="ssl_error_continue">ดำเนินการต่อผ่านเบราว์เซอร์</string>
+    <string name="ssl_error_date_invalid">วันที่ในใบรับรองนี้ไม่ถูกต้อง</string>
+    <string name="ssl_error_example">ตัวอย่างเช่น หน้าเข้าสู่ระบบอาจไม่ใช่ขององค์กรที่แสดงไว้</string>
+    <string name="ssl_error_expired">ใบรับรองนี้หมดอายุแล้ว</string>
+    <string name="ssl_error_invalid">ใบรับรองนี้ไม่ถูกต้อง</string>
+    <string name="ssl_error_mismatch">ชื่อเว็บไซต์ไม่ตรงกับในใบรับรอง</string>
+    <string name="ssl_error_not_yet_valid">ใบรับรองนี้ยังใช้งานไม่ได้</string>
+    <string name="ssl_error_unknown">ข้อผิดพลาดใบรับรองที่ไม่รู้จัก</string>
+    <string name="ssl_error_untrusted">ใบรับรองนี้ไม่ได้มาจากผู้ออกที่เชื่อถือได้</string>
+    <string name="ssl_error_view_certificate">ดูใบรับรอง</string>
+    <string name="ssl_error_warning">เครือข่ายที่คุณพยายามเข้าร่วมมีปัญหาด้านความปลอดภัย</string>
+    <string name="ssl_security_warning_title">การแจ้งเตือนเกี่ยวกับความปลอดภัย</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_number_subtitle">
+        <item quantity="other">අංක %1$dක් මෙම උපාංගයට එක් කර ඇති නමුත් එක් වරකට 1 ක් පමණක් භාවිත කළ හැක</item>
+        <item quantity="one">අංක %1$dක් මෙම උපාංගයට එක් කර ඇති නමුත් එක් වරකට 1 ක් පමණක් භාවිත කළ හැක</item>
+    </plurals>
+    <plurals name="download_sub_multi_carriers_text">
+        <item quantity="other">අපි %1$s සහ තවත් වාහකයන් %3$d කෙනෙකුගෙන් අංක &lt;b>%2$d &lt;/b> ලබා ගනිමු. මෙයට යම් කාලයක් ගත විය හැකිය.</item>
+        <item quantity="one">අපි %1$s සහ තවත් වාහකයන් %3$d කෙනෙකුගෙන් අංක &lt;b>%2$d &lt;/b> ලබා ගනිමු. මෙයට යම් කාලයක් ගත විය හැකිය.</item>
+    </plurals>
+    <plurals name="download_sub_text">
+        <item quantity="other">අපි %1$s වෙතින් අංක &lt;b>%2$d &lt;/b> ලබා ගනිමු. මෙයට යම් කාලයක් ගත විය හැකිය.</item>
+        <item quantity="one">අපි %1$s වෙතින් අංක &lt;b>%2$d &lt;/b> ලබා ගනිමු. මෙයට යම් කාලයක් ගත විය හැකිය.</item>
+    </plurals>
+    <plurals name="download_sub_title">
+        <item quantity="other">ඔබේ අංක එක් කරමින්…</item>
+        <item quantity="one">ඔබේ අංක එක් කරමින්…</item>
+    </plurals>
+    <plurals name="error_screen_title">
+        <item quantity="other">ජාල ක්‍රියාත්මක කර නැත</item>
+        <item quantity="one">ජාල ක්‍රියාත්මක කර නැත</item>
+    </plurals>
+    <plurals name="insufficient_memory_subtitle">
+        <item quantity="other">&lt;b>නව අංක %d &lt;/b> ඔබේ දුරකථනයට එක් කිරීමට සුදානම්ය. ඒවා බැලීම පිණිස, ඔබට ඔබේ දැනට ඇති අංකවලින් එකක් මැකීමට අවශ්‍ය වනු ඇත.</item>
+        <item quantity="one">&lt;b>නව අංක %d &lt;/b> ඔබේ දුරකථනයට එක් කිරීමට සුදානම්ය. ඒවා බැලීම පිණිස, ඔබට ඔබේ දැනට ඇති අංකවලින් එකක් මැකීමට අවශ්‍ය වනු ඇත.</item>
+    </plurals>
+    <plurals name="insufficient_space_description_q">
+        <item quantity="other">ඔබේ අංක භාවිත කිරීමට, ඔබ පළමුව මෙම උපාංගයෙන් පවතින අංක මැකීමෙන් ඉඩකඩ නිදහස් කිරීමට අවශ්‍යයි. පසුව ඔබට සැකසීම් තුළින් මෙය කළ හැක.</item>
+        <item quantity="one">ඔබේ අංක භාවිත කිරීමට, ඔබ පළමුව මෙම උපාංගයෙන් පවතින අංක මැකීමෙන් ඉඩකඩ නිදහස් කිරීමට අවශ්‍යයි. පසුව ඔබට සැකසීම් තුළින් මෙය කළ හැක.</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_number_count">
+        <item quantity="other">අංක %d</item>
+        <item quantity="one">අංක %d</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_subtitle">
+        <item quantity="other">මෙම වාහකයාගෙන් ලැබෙන ඔබේ &lt;b>%d දුරකථන අංක&lt;/b> එක් කරනු ලැබීමට සූදානම්</item>
+        <item quantity="one">මෙම වාහකයාගෙන් ලැබෙන ඔබේ &lt;b>%d දුරකථන අංක&lt;/b> එක් කරනු ලැබීමට සූදානම්</item>
+    </plurals>
+    <plurals name="notification_carrier_unknown">
+        <item quantity="other">ඔබගේ අමතර අංක %d එක් කිරීමට සූදානම්ය</item>
+        <item quantity="one">ඔබගේ අමතර අංක %d එක් කිරීමට සූදානම්ය</item>
+    </plurals>
+    <plurals name="notification_multiple_carrier_name_known">
+        <item quantity="other">ඔබගේ අංක %1$s සහ තව %2$d එක් කිරීමට සූදානම්ය</item>
+        <item quantity="one">ඔබගේ අංක %1$s සහ තව %2$d එක් කිරීමට සූදානම්ය</item>
+    </plurals>
+    <plurals name="notification_single_carrier_name_known">
+        <item quantity="other">ඔබගේ අංක %1$s එක් කිරීමට සූදානම්ය</item>
+        <item quantity="one">ඔබගේ අංක %1$s එක් කිරීමට සූදානම්ය</item>
+    </plurals>
+    <plurals name="perm_error_description">
+        <item quantity="other">සේවය ක්‍රියාත්මක කිරීමට උත්සාහ කරන විට යම් දෙයක් වැරදිණි. උදවු සඳහා ඔබේ ජාල සැපයුම්කරුවන් සම්බන්ධ කර ගන්න.</item>
+        <item quantity="one">සේවය ක්‍රියාත්මක කිරීමට උත්සාහ කරන විට යම් දෙයක් වැරදිණි. උදවු සඳහා ඔබේ ජාල සැපයුම්කරුවන් සම්බන්ධ කර ගන්න.</item>
+    </plurals>
+    <plurals name="perm_error_description_q">
+        <item quantity="other">ඔබේ අංක ක්‍රියාත්මක කිරීමට උත්සාහ කරන විට යම් වැරදීමක් සිදු විය. උදවු සඳහා %2$s ඔස්සේ %1$s සම්බන්ධ කර ගන්න.</item>
+        <item quantity="one">ඔබේ අංක ක්‍රියාත්මක කිරීමට උත්සාහ කරන විට යම් වැරදීමක් සිදු විය. උදවු සඳහා %2$s ඔස්සේ %1$s සම්බන්ධ කර ගන්න.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone">
+        <item quantity="other">ඔබේ අංක ක්‍රියාත්මක කිරීමට උත්සාහ කරන විට යම් වැරදීමක් සිදු විය. උදවු සඳහා %1$s සම්බන්ධ කර ගන්න.</item>
+        <item quantity="one">ඔබේ අංක ක්‍රියාත්මක කිරීමට උත්සාහ කරන විට යම් වැරදීමක් සිදු විය. උදවු සඳහා %1$s සම්බන්ධ කර ගන්න.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone_no_carrier_name">
+        <item quantity="other">ඔබේ අංක ක්‍රියාත්මක කිරීමට උත්සාහ කරන විට යම් වැරදීමක් සිදු විය. උදවු සඳහා ඔබේ ජාල සපයන්නන් සම්බන්ධ කර ගන්න.</item>
+        <item quantity="one">ඔබේ අංක ක්‍රියාත්මක කිරීමට උත්සාහ කරන විට යම් වැරදීමක් සිදු විය. උදවු සඳහා ඔබේ ජාල සපයන්නන් සම්බන්ධ කර ගන්න.</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_confirm_subtitle">
+        <item quantity="other">මෙම උපාංගය සඳහා අංක %dක් තිබේ</item>
+        <item quantity="one">මෙම උපාංගය සඳහා අංක %dක් තිබේ</item>
+    </plurals>
+    <plurals name="q_result_download_text">
+        <item quantity="other">මෙම උපාංගය සඳහා %2$d අංක %1$sක් තිබේ</item>
+        <item quantity="one">මෙම උපාංගය සඳහා %2$d අංක %1$sක් තිබේ</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_multi_carriers">
+        <item quantity="other">අවාසනාවට, අපට %1$s සහ තවත් වාහක %2$d වෙතින් අංක එක් කළ නොහැකි විය.</item>
+        <item quantity="one">අවාසනාවට, අපට %1$s සහ තවත් වාහක %2$d වෙතින් අංක එක් කළ නොහැකි විය.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_no_carrier">
+        <item quantity="other">අවාසනාවකට, අපට ඔබේ වාහකයන් කිසි කෙනෙකුගෙන් ඔබේ අංක එක් කිරීමට නොහැකි විය.</item>
+        <item quantity="one">අවාසනාවකට, අපට ඔබේ වාහකයන් කිසි කෙනෙකුගෙන් ඔබේ අංක එක් කිරීමට නොහැකි විය.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_single_carrier">
+        <item quantity="other">අවාසනාවකට, අපට %1$s වෙතින් අංක &lt;b>%2$d &lt;/b> එක් කිරීමට නොහැකි විය.</item>
+        <item quantity="one">අවාසනාවකට, අපට %1$s වෙතින් අංක &lt;b>%2$d &lt;/b> එක් කිරීමට නොහැකි විය.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_multi_carriers">
+        <item quantity="other">%1$s සහ තවත් වාහක %2$d වෙතින් ඔබගේ අංක එක් කිරීමට ප්‍රමාණවත් ඉඩක් නොතිබුණි.</item>
+        <item quantity="one">%1$s සහ තවත් වාහක %2$d වෙතින් ඔබගේ අංක එක් කිරීමට ප්‍රමාණවත් ඉඩක් නොතිබුණි.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_no_carrier">
+        <item quantity="other">ඔබේ වාහකයන් කිසි කෙනෙකුගෙන් ඔබේ අංක එක් කිරීමට ප්‍රමාණවත් ඉඩක් නොතිබිණි.</item>
+        <item quantity="one">ඔබේ වාහකයන් කිසි කෙනෙකුගෙන් ඔබේ අංක එක් කිරීමට ප්‍රමාණවත් ඉඩක් නොතිබිණි.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_single_carrier">
+        <item quantity="other">%1$s වෙතින් අංක &lt;b>%2$d &lt;/b> එක් කිරීමට ප්‍රමාණවත් ඉඩක් නොතිබිණි.</item>
+        <item quantity="one">%1$s වෙතින් අංක &lt;b>%2$d &lt;/b> එක් කිරීමට ප්‍රමාණවත් ඉඩක් නොතිබිණි.</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_multiple_carriers">
+        <item quantity="other">ඔබ %2$s, %3$s සහ තවත් වාහකයන් %4$d ක් වෙතින් අංක &lt;b>%1$d &lt;/b> එක් කර ඇත</item>
+        <item quantity="one">ඔබ %2$s, %3$s සහ තවත් වාහකයන් %4$d ක් වෙතින් අංක &lt;b>%1$d &lt;/b> එක් කර ඇත</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_single_carrier">
+        <item quantity="other">ඔබ %2$s වෙතින් අංක &lt;b>%1$d &lt;/b> එක් කර ඇත</item>
+        <item quantity="one">ඔබ %2$s වෙතින් අංක &lt;b>%1$d &lt;/b> එක් කර ඇත</item>
+    </plurals>
+    <plurals name="res_continue_title_all_success">
+        <item quantity="other">අංක %1$d එක් කරන ලදී</item>
+        <item quantity="one">අංක %1$d එක් කරන ලදී</item>
+    </plurals>
+    <plurals name="result_download_text">
+        <item quantity="other">%1$s වෙතින් අංක &lt;b>%2$d &lt;/b> මෙම දුරකථනයට එක් කිරීමට සුදානම්ය</item>
+        <item quantity="one">%1$s වෙතින් අංක &lt;b>%2$d &lt;/b> මෙම දුරකථනයට එක් කිරීමට සුදානම්ය</item>
+    </plurals>
+    <plurals name="temp_error_description_q">
+        <item quantity="other">ඔබේ අංක ක්‍රියාත්මක කිරීමට උත්සාහ කරන විට යම් වැරදීමක් සිදු විය. පසුව ඔබට සැකසීම් තුළින් උත්සාහ කළ හැක.</item>
+        <item quantity="one">ඔබේ අංක ක්‍රියාත්මක කිරීමට උත්සාහ කරන විට යම් වැරදීමක් සිදු විය. පසුව ඔබට සැකසීම් තුළින් උත්සාහ කළ හැක.</item>
+    </plurals>
+</resources>

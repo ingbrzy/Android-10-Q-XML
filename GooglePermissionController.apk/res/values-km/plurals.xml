@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d ទៀត</item>
+        <item quantity="one">%1$d ទៀត</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s ថ្ងៃ</item>
+        <item quantity="one">1 ថ្ងៃ</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ម៉ោង</item>
+        <item quantity="one">1 ម៉ោង</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s នាទី</item>
+        <item quantity="one">1 នាទី</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">កម្មវិធី %s</item>
+        <item quantity="one">កម្មវិធី 1</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">កម្មវិធី %s</item>
+        <item quantity="one">កម្មវិធី 1</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s វិនាទី</item>
+        <item quantity="one">1 វិនាទី</item>
+    </plurals>
+</resources>

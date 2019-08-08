@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_number_subtitle">
+        <item quantity="other">На цей пристрій додано %1$d номера. Одночасно можна використовувати лише один</item>
+        <item quantity="one">На цей пристрій додано %1$d номер. Одночасно можна використовувати лише один</item>
+        <item quantity="few">На цей пристрій додано %1$d номери. Одночасно можна використовувати лише один</item>
+        <item quantity="many">На цей пристрій додано %1$d номерів. Одночасно можна використовувати лише один</item>
+    </plurals>
+    <plurals name="download_sub_multi_carriers_text">
+        <item quantity="other">Завантажуються номери (&lt;b>%2$d&lt;/b>), які надає %1$s і ще %3$d оператора. Це може зайняти деякий час.</item>
+        <item quantity="one">Завантажуються номери (&lt;b>%2$d&lt;/b>), які надає %1$s і ще %3$d оператор. Це може зайняти деякий час.</item>
+        <item quantity="few">Завантажуються номери (&lt;b>%2$d&lt;/b>), які надає %1$s і ще %3$d оператори. Це може зайняти деякий час.</item>
+        <item quantity="many">Завантажуються номери (&lt;b>%2$d&lt;/b>), які надає %1$s і ще %3$d операторів. Це може зайняти деякий час.</item>
+    </plurals>
+    <plurals name="download_sub_text">
+        <item quantity="other">Завантажуються &lt;b>%2$d номера&lt;/b>, які надає %1$s. Це може зайняти деякий час.</item>
+        <item quantity="one">Завантажується &lt;b>%2$d номер&lt;/b>, який надає %1$s. Це може зайняти деякий час.</item>
+        <item quantity="few">Завантажуються &lt;b>%2$d номери&lt;/b>, які надає %1$s. Це може зайняти деякий час.</item>
+        <item quantity="many">Завантажуються &lt;b>%2$d номерів&lt;/b>, які надає %1$s. Це може зайняти деякий час.</item>
+    </plurals>
+    <plurals name="download_sub_title">
+        <item quantity="other">Номери додаються…</item>
+        <item quantity="one">Номери додаються…</item>
+        <item quantity="few">Номери додаються…</item>
+        <item quantity="many">Номери додаються…</item>
+    </plurals>
+    <plurals name="error_screen_title">
+        <item quantity="other">Мережі не активовано</item>
+        <item quantity="one">Мережі не активовано</item>
+        <item quantity="few">Мережі не активовано</item>
+        <item quantity="many">Мережі не активовано</item>
+    </plurals>
+    <plurals name="insufficient_memory_subtitle">
+        <item quantity="other">На цей телефон уже можна додати &lt;b>%d нових номера&lt;/b>. Щоб переглянути їх, потрібно видалити один із наявних номерів.</item>
+        <item quantity="one">На цей телефон уже можна додати &lt;b>%d новий номер&lt;/b>. Щоб переглянути їх, потрібно видалити один із наявних номерів.</item>
+        <item quantity="few">На цей телефон уже можна додати &lt;b>%d нові номери&lt;/b>. Щоб переглянути їх, потрібно видалити один із наявних номерів.</item>
+        <item quantity="many">На цей телефон уже можна додати &lt;b>%d нових номерів&lt;/b>. Щоб переглянути їх, потрібно видалити один із наявних номерів.</item>
+    </plurals>
+    <plurals name="insufficient_space_description_q">
+        <item quantity="other">Щоб використовувати ваші номери, спершу потрібно звільнити місце на пристрої, видаливши наявні. Це можна зробити згодом у налаштуваннях.</item>
+        <item quantity="one">Щоб використовувати ваші номери, спершу потрібно звільнити місце на пристрої, видаливши наявні. Це можна зробити згодом у налаштуваннях.</item>
+        <item quantity="few">Щоб використовувати ваші номери, спершу потрібно звільнити місце на пристрої, видаливши наявні. Це можна зробити згодом у налаштуваннях.</item>
+        <item quantity="many">Щоб використовувати ваші номери, спершу потрібно звільнити місце на пристрої, видаливши наявні. Це можна зробити згодом у налаштуваннях.</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_number_count">
+        <item quantity="other">%d номера</item>
+        <item quantity="one">%d номер</item>
+        <item quantity="few">%d номери</item>
+        <item quantity="many">%d номерів</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_subtitle">
+        <item quantity="other">Можна додати &lt;b>%d номера телефону&lt;/b> цього оператора</item>
+        <item quantity="one">Можна додати &lt;b>%d номер телефону&lt;/b> цього оператора</item>
+        <item quantity="few">Можна додати &lt;b>%d номери телефону&lt;/b> цього оператора</item>
+        <item quantity="many">Можна додати &lt;b>%d номерів телефону&lt;/b> цього оператора</item>
+    </plurals>
+    <plurals name="notification_carrier_unknown">
+        <item quantity="other">Можна додати %d додаткового номера</item>
+        <item quantity="one">Можна додати %d додатковий номер</item>
+        <item quantity="few">Можна додати %d додаткові номери</item>
+        <item quantity="many">Можна додати %d додаткових номерів</item>
+    </plurals>
+    <plurals name="notification_multiple_carrier_name_known">
+        <item quantity="other">Можна додати номер %1$s і %2$d додаткового номера</item>
+        <item quantity="one">Можна додати номер %1$s і %2$d додатковий номер</item>
+        <item quantity="few">Можна додати номер %1$s і %2$d додаткові номери</item>
+        <item quantity="many">Можна додати номер %1$s і %2$d додаткових номерів</item>
+    </plurals>
+    <plurals name="notification_single_carrier_name_known">
+        <item quantity="other">Можна додати номери %1$s</item>
+        <item quantity="one">Можна додати номери %1$s</item>
+        <item quantity="few">Можна додати номери %1$s</item>
+        <item quantity="many">Можна додати номери %1$s</item>
+    </plurals>
+    <plurals name="perm_error_description">
+        <item quantity="other">Під час активації сервісу сталася помилка. Зверніться до операторів мереж по допомогу.</item>
+        <item quantity="one">Під час активації сервісу сталася помилка. Зверніться до операторів мереж по допомогу.</item>
+        <item quantity="few">Під час активації сервісу сталася помилка. Зверніться до операторів мереж по допомогу.</item>
+        <item quantity="many">Під час активації сервісу сталася помилка. Зверніться до операторів мереж по допомогу.</item>
+    </plurals>
+    <plurals name="perm_error_description_q">
+        <item quantity="other">Під час активації номерів сталася помилка. Зверніться по допомогу до оператора %1$s: %2$s.</item>
+        <item quantity="one">Під час активації номерів сталася помилка. Зверніться по допомогу до оператора %1$s: %2$s.</item>
+        <item quantity="few">Під час активації номерів сталася помилка. Зверніться по допомогу до оператора %1$s: %2$s.</item>
+        <item quantity="many">Під час активації номерів сталася помилка. Зверніться по допомогу до оператора %1$s: %2$s.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone">
+        <item quantity="other">Під час активації номерів сталася помилка. Зверніться по допомогу до оператора %1$s.</item>
+        <item quantity="one">Під час активації номерів сталася помилка. Зверніться по допомогу до оператора %1$s.</item>
+        <item quantity="few">Під час активації номерів сталася помилка. Зверніться по допомогу до оператора %1$s.</item>
+        <item quantity="many">Під час активації номерів сталася помилка. Зверніться по допомогу до оператора %1$s.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone_no_carrier_name">
+        <item quantity="other">Під час активації номерів сталася помилка. Зверніться по допомогу до операторів мереж.</item>
+        <item quantity="one">Під час активації номерів сталася помилка. Зверніться по допомогу до операторів мереж.</item>
+        <item quantity="few">Під час активації номерів сталася помилка. Зверніться по допомогу до операторів мереж.</item>
+        <item quantity="many">Під час активації номерів сталася помилка. Зверніться по допомогу до операторів мереж.</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_confirm_subtitle">
+        <item quantity="other">Для цього пристрою доступні %d номера</item>
+        <item quantity="one">Для цього пристрою доступний %d номер</item>
+        <item quantity="few">Для цього пристрою доступні %d номери</item>
+        <item quantity="many">Для цього пристрою доступні %d номерів</item>
+    </plurals>
+    <plurals name="q_result_download_text">
+        <item quantity="other">На цьому пристрої доступні %2$d номера оператора %1$s</item>
+        <item quantity="one">На цьому пристрої доступний %2$d номер оператора %1$s</item>
+        <item quantity="few">На цьому пристрої доступні %2$d номери оператора %1$s</item>
+        <item quantity="many">На цьому пристрої доступні %2$d номерів оператора %1$s</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_multi_carriers">
+        <item quantity="other">Не вдалося додати номери %1$s і %2$d номера інших операторів.</item>
+        <item quantity="one">Не вдалося додати номери %1$s і %2$d номер інших операторів.</item>
+        <item quantity="few">Не вдалося додати номери %1$s і %2$d номери інших операторів.</item>
+        <item quantity="many">Не вдалося додати номери %1$s і %2$d номерів інших операторів.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_no_carrier">
+        <item quantity="other">Не вдалося додати номери, які надають ваші оператори.</item>
+        <item quantity="one">Не вдалося додати номери, які надають ваші оператори.</item>
+        <item quantity="few">Не вдалося додати номери, які надають ваші оператори.</item>
+        <item quantity="many">Не вдалося додати номери, які надають ваші оператори.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_single_carrier">
+        <item quantity="other">Не вдалося додати &lt;b>%2$d номера&lt;/b>, які надає %1$s.</item>
+        <item quantity="one">Не вдалося додати &lt;b>%2$d номер&lt;/b>, який надає %1$s.</item>
+        <item quantity="few">Не вдалося додати &lt;b>%2$d номери&lt;/b>, які надає %1$s.</item>
+        <item quantity="many">Не вдалося додати &lt;b>%2$d номерів&lt;/b>, які надає %1$s.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_multi_carriers">
+        <item quantity="other">Недостатньо місця, щоб додати номери %1$s і %2$d номера інших операторів.</item>
+        <item quantity="one">Недостатньо місця, щоб додати номери %1$s і %2$d номер інших операторів.</item>
+        <item quantity="few">Недостатньо місця, щоб додати номери %1$s і %2$d номери інших операторів.</item>
+        <item quantity="many">Недостатньо місця, щоб додати номери %1$s і %2$d номерів інших операторів.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_no_carrier">
+        <item quantity="other">Замало вільного місця, щоб додати номери, які надають ваші оператори.</item>
+        <item quantity="one">Замало вільного місця, щоб додати номери, які надають ваші оператори.</item>
+        <item quantity="few">Замало вільного місця, щоб додати номери, які надають ваші оператори.</item>
+        <item quantity="many">Замало вільного місця, щоб додати номери, які надають ваші оператори.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_single_carrier">
+        <item quantity="other">Замало вільного місця, щоб додати &lt;b>%2$d номера&lt;/b>, які надає %1$s.</item>
+        <item quantity="one">Замало вільного місця, щоб додати &lt;b>%2$d номер&lt;/b>, який надає %1$s.</item>
+        <item quantity="few">Замало вільного місця, щоб додати &lt;b>%2$d номери&lt;/b>, які надає %1$s.</item>
+        <item quantity="many">Замало вільного місця, щоб додати &lt;b>%2$d номерів&lt;/b>, які надає %1$s.</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_multiple_carriers">
+        <item quantity="other">Додано номери (&lt;b>%1$d&lt;/b>), які надають %2$s, %3$s і ще %4$d оператора</item>
+        <item quantity="one">Додано номери (&lt;b>%1$d&lt;/b>), які надають %2$s, %3$s і ще %4$d оператор</item>
+        <item quantity="few">Додано номери (&lt;b>%1$d&lt;/b>), які надають %2$s, %3$s і ще %4$d оператори</item>
+        <item quantity="many">Додано номери (&lt;b>%1$d&lt;/b>), які надають %2$s, %3$s і ще %4$d операторів</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_single_carrier">
+        <item quantity="other">Додано &lt;b>%1$d номера&lt;/b>, які надає %2$s</item>
+        <item quantity="one">Додано &lt;b>%1$d номер&lt;/b>, який надає %2$s</item>
+        <item quantity="few">Додано &lt;b>%1$d номери&lt;/b>, які надає %2$s</item>
+        <item quantity="many">Додано &lt;b>%1$d номерів&lt;/b>, які надає %2$s</item>
+    </plurals>
+    <plurals name="res_continue_title_all_success">
+        <item quantity="other">Додано %1$d номера телефону</item>
+        <item quantity="one">Додано %1$d номер телефону</item>
+        <item quantity="few">Додано %1$d номери телефону</item>
+        <item quantity="many">Додано %1$d номерів телефону</item>
+    </plurals>
+    <plurals name="result_download_text">
+        <item quantity="other">На цей телефон уже можна додати &lt;b>%2$d номера&lt;/b>, які надає %1$s</item>
+        <item quantity="one">На цей телефон уже можна додати &lt;b>%2$d номер&lt;/b>, який надає %1$s</item>
+        <item quantity="few">На цей телефон уже можна додати &lt;b>%2$d номери&lt;/b>, які надає %1$s</item>
+        <item quantity="many">На цей телефон уже можна додати &lt;b>%2$d номерів&lt;/b>, які надає %1$s</item>
+    </plurals>
+    <plurals name="temp_error_description_q">
+        <item quantity="other">Під час активації номерів сталася помилка. Спробуйте пізніше в налаштуваннях.</item>
+        <item quantity="one">Під час активації номерів сталася помилка. Спробуйте пізніше в налаштуваннях.</item>
+        <item quantity="few">Під час активації номерів сталася помилка. Спробуйте пізніше в налаштуваннях.</item>
+        <item quantity="many">Під час активації номерів сталася помилка. Спробуйте пізніше в налаштуваннях.</item>
+    </plurals>
+</resources>

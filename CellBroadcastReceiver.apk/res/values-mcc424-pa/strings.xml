@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">ਚਿਤਾਵਨੀ ਸੁਚੇਤਨਾ</string>
+    <string name="cmas_presidential_level_alert">ਕੌਮੀ ਸੰਕਟਕਾਲੀਨ ਸੁਚੇਤਨਾ</string>
+    <string name="cmas_required_monthly_test">ਟੈਸਟ ਸੁਚੇਤਨਾ</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Ağda oturum açın</string>
+    <string name="action_bar_title">%1$s üzerinde oturum açın</string>
+    <string name="action_do_not_use_network">Bu ağı kullanma</string>
+    <string name="action_use_network">Bu ağı olduğu gibi kullan</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ok">Tamam</string>
+    <string name="page_info">Sayfa bilgileri</string>
+    <string name="page_info_address">Adres:</string>
+    <string name="ssl_error_continue">Yine de tarayıcıyla devam et</string>
+    <string name="ssl_error_date_invalid">Bu sertifikanın tarihi geçersiz.</string>
+    <string name="ssl_error_example">Örneğin, giriş sayfası, gösterilen kuruluşa ait olmayabilir.</string>
+    <string name="ssl_error_expired">Bu sertifikanın süresi dolmuş.</string>
+    <string name="ssl_error_invalid">Bu sertifika geçersiz.</string>
+    <string name="ssl_error_mismatch">Sitenin adı sertifika üzerindeki adla eşleşmiyor.</string>
+    <string name="ssl_error_not_yet_valid">Bu sertifika henüz geçerli değil.</string>
+    <string name="ssl_error_unknown">Bilinmeyen sertifika hatası.</string>
+    <string name="ssl_error_untrusted">Bu sertifika güvenilir bir yetkiliden değil.</string>
+    <string name="ssl_error_view_certificate">Sertifikayı göster</string>
+    <string name="ssl_error_warning">Katılmaya çalıştığınız ağda güvenlik sorunları var.</string>
+    <string name="ssl_security_warning_title">Güvenlik uyarısı</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

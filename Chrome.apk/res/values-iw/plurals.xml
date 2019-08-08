@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">%d קובצי אודיו</item>
+        <item quantity="one">קובץ אודיו אחד (%d)</item>
+        <item quantity="two">%d קובצי אודיו</item>
+        <item quantity="many">%d קובצי אודיו</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d קבצים</item>
+        <item quantity="one">קובץ אחד (%d)</item>
+        <item quantity="two">%d קבצים</item>
+        <item quantity="many">%d קבצים</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d תמונות</item>
+        <item quantity="one">תמונה אחת (%d)</item>
+        <item quantity="two">%d תמונות</item>
+        <item quantity="many">%d תמונות</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d דפים</item>
+        <item quantity="one">דף אחד (%d)</item>
+        <item quantity="two">%d דפים</item>
+        <item quantity="many">%d דפים</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">%d סרטונים</item>
+        <item quantity="one">סרטון אחד (%d)</item>
+        <item quantity="two">%d סרטונים</item>
+        <item quantity="many">%d סרטונים</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">הסר %d פריטים שנבחרו</item>
+        <item quantity="one">הסר פריט אחד שנבחר</item>
+        <item quantity="two">הסר %d פריטים שנבחרו</item>
+        <item quantity="many">הסר %d פריטים שנבחרו</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">שתף %d פריטים שנבחרו</item>
+        <item quantity="one">שתף פריט אחד שנבחר</item>
+        <item quantity="two">שתף %d פריטים שנבחרו</item>
+        <item quantity="many">שתף %d פריטים שנבחרו</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">%1$d כרטיסיות פתוחות, יש להקיש כדי להחליף כרטיסיות</item>
+        <item quantity="one">כרטיסייה פתוחה אחת (%1$d), יש להקיש כדי להחליף כרטיסיות</item>
+        <item quantity="two">%1$d כרטיסיות פתוחות, יש להקיש כדי להחליף כרטיסיות</item>
+        <item quantity="many">%1$d כרטיסיות פתוחות, יש להקיש כדי להחליף כרטיסיות</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">%1$d סימניות</item>
+        <item quantity="one">סימניה אחת (%1$d)</item>
+        <item quantity="two">%1$d סימניות</item>
+        <item quantity="many">%1$d סימניות</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d כרטיסיות</item>
+        <item quantity="one">כרטיסייה אחת (%1$d)</item>
+        <item quantity="two">%1$d כרטיסיות</item>
+        <item quantity="many">%1$d כרטיסיות</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (ועוד %d)"</item>
+        <item quantity="one">" (ועוד 1)"</item>
+        <item quantity="two">" (ועוד %d)"</item>
+        <item quantity="many">" (ועוד %d)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">מתבצעת הורדה של %d קבצים.</item>
+        <item quantity="one">מתבצעת הורדה של הקובץ.</item>
+        <item quantity="two">מתבצעת הורדה של %d קבצים.</item>
+        <item quantity="many">מתבצעת הורדה של %d קבצים.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה אחת</item>
+        <item quantity="two">שעתיים</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">הורדת %1$d קבצים</item>
+        <item quantity="one">הורדת קובץ אחד (%1$d)</item>
+        <item quantity="two">הורדת %1$d קבצים</item>
+        <item quantity="many">הורדת %1$d קבצים</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">%d הורדות הושלמו.</item>
+        <item quantity="one">הורדה אחת הושלמה.</item>
+        <item quantity="two">%d הורדות הושלמו.</item>
+        <item quantity="many">%d הורדות הושלמו.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">%d הורדות נכשלו.</item>
+        <item quantity="one">הורדה אחת נכשלה.</item>
+        <item quantity="two">%d הורדות נכשלו.</item>
+        <item quantity="many">%d הורדות נכשלו.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">%d הורדות בהמתנה.</item>
+        <item quantity="one">הורדה אחת בהמתנה.</item>
+        <item quantity="two">%d הורדות בהמתנה.</item>
+        <item quantity="many">%d הורדות בהמתנה.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">לפני %d ימים</item>
+        <item quantity="one">לפני יום</item>
+        <item quantity="two">לפני יומיים</item>
+        <item quantity="many">לפני %d ימים</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">לפני %d שעות</item>
+        <item quantity="one">לפני שעה</item>
+        <item quantity="two">לפני שעתיים</item>
+        <item quantity="many">לפני %d שעות</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">‏Chrome יטען את הדפים כשיהיו מוכנים</item>
+        <item quantity="one">‏Chrome יטען את הדף כשיהיה מוכן</item>
+        <item quantity="two">‏Chrome יטען את הדפים כשיהיו מוכנים</item>
+        <item quantity="many">‏Chrome יטען את הדפים כשיהיו מוכנים</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">‏%1$s‎…‎ ו-%2$s נוספים</item>
+        <item quantity="one">‏%1$s‎…‎ ו-%2$s נוסף</item>
+        <item quantity="two">‏%1$s‎…‎ ו-%2$s נוספים</item>
+        <item quantity="many">‏%1$s‎…‎ ו-%2$s נוספים</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">‏%1$s‎…‎ ו-%2$s נוספים</item>
+        <item quantity="one">‏%1$s‎…‎ ו-%2$s נוסף</item>
+        <item quantity="two">‏%1$s‎…‎ ו-%2$s נוספים</item>
+        <item quantity="many">‏%1$s‎…‎ ו-%2$s נוספים</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">‏%1$s‎…‎ ו-%2$s נוספות</item>
+        <item quantity="one">‏%1$s‎…‎ ו-%2$s נוספת</item>
+        <item quantity="two">‏%1$s‎…‎ ו-%2$s נוספות</item>
+        <item quantity="many">‏%1$s‎…‎ ו-%2$s נוספות</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">‏%1$s‎…‎ ו-%2$s נוספות</item>
+        <item quantity="one">‏%1$s‎…‎ ו-%2$s נוספת</item>
+        <item quantity="two">‏%1$s‎…‎ ו-%2$s נוספות</item>
+        <item quantity="many">‏%1$s‎…‎ ו-%2$s נוספות</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">נבחרו %d</item>
+        <item quantity="one">נבחר אחד</item>
+        <item quantity="two">נבחרו %d</item>
+        <item quantity="many">נבחרו %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">רמת עוצמת אות: %d עמודות</item>
+        <item quantity="one">רמת עוצמת אות: עמודה אחת</item>
+        <item quantity="two">רמת עוצמת אות: שתי עמודות</item>
+        <item quantity="many">רמת עוצמת אות: %d עמודות</item>
+    </plurals>
+</resources>

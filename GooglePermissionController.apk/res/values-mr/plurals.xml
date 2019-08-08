@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">आणखी %1$d</item>
+        <item quantity="one">आणखी %1$d</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s दिवस</item>
+        <item quantity="one">एक दिवस</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s तास</item>
+        <item quantity="one">एक तास</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s मिनिटे</item>
+        <item quantity="one">१ मिनिट</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s अ‍ॅप्स</item>
+        <item quantity="one">एक अ‍ॅप</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s अ‍ॅप्स</item>
+        <item quantity="one">एक अ‍ॅप</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s सेकंद</item>
+        <item quantity="one">एक सेकंद</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessbility_suggestion_dropdown_closed">Санал болгох зүйл алга</string>
+    <string name="accessbility_suggestion_dropdown_opened">Харилцагчийн санал болголт нээгдсэн</string>
+    <string name="account_item">%1$s руу шилжих</string>
+    <string name="account_list">Акаунтын жагсаалт</string>
+    <string name="action_label">Оруулах</string>
+    <string name="add_account">Акаунт нэмэх</string>
+    <string name="chips_action_cancel">Цуцлах</string>
+    <string name="chips_action_copy">Хуулах</string>
+    <string name="chips_permission_text">Харилцагчийн жагсаалт санал болгохыг зөвшөөрөх</string>
+    <string name="dropdown_delete_button_desc">Хүлээн авагчдын мэдээллээс %s-г хасах</string>
+    <string name="hide_account_list">Акаунтыг нуух</string>
+    <string name="manage_accounts">Акаунтуудыг удирдах</string>
+    <string name="more_string">+%1$d</string>
+    <string name="selected_account">%1$s руу нэвтэрсэн</string>
+    <string name="show_account_list">Акаунтыг харуулах</string>
+    <string name="sign_in">Нэвтрэх</string>
+</resources>

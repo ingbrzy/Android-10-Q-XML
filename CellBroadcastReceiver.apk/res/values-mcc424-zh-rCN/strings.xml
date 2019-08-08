@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">警报</string>
+    <string name="cmas_presidential_level_alert">国家紧急警报</string>
+    <string name="cmas_required_monthly_test">测试警报</string>
+</resources>

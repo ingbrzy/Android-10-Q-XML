@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">জৰুৰীকালীন সতৰ্কবাণী: অনুশীলন/ছিমুলেশ্বন বাৰ্তা</string>
+    <string name="cmas_required_monthly_test">জৰুৰীকালীন সতৰ্কবাণী: পৰীক্ষামূলক বাৰ্তা</string>
+    <string name="enable_public_safety_messages_title">তথ্যসমৃদ্ধ বাৰ্তা</string>
+    <string name="public_safety_message">তথ্যসমৃদ্ধ বাৰ্তা</string>
+</resources>

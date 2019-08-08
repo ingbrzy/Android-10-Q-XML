@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d további</item>
+        <item quantity="one">%1$d további</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s nap</item>
+        <item quantity="one">1 nap</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s óra</item>
+        <item quantity="one">1 óra</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s perc</item>
+        <item quantity="one">1 perc</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s alkalmazás</item>
+        <item quantity="one">1 alkalmazás</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s alkalmazás</item>
+        <item quantity="one">1 alkalmazás</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s másodperc</item>
+        <item quantity="one">1 másodperc</item>
+    </plurals>
+</resources>

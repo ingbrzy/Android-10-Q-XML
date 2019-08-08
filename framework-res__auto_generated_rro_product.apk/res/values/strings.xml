@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_defaultDialer">com.google.android.dialer</string>
+    <string name="config_defaultGallery">com.google.android.apps.photos</string>
+    <string name="config_defaultMusic">com.google.android.music</string>
+    <string name="config_deviceProvisioningPackage">com.google.android.apps.work.oobconfig</string>
+    <string name="config_wallpaperCropperPackage">com.google.android.apps.wallpaper</string>
+    <string name="default_wallpaper_component">com.breel.wallpapers/com.breel.wallpapers.dioramas.lagos.LagosWallpaperService</string>
+</resources>

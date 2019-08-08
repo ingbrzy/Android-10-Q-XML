@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">오디오 파일 %d개</item>
+        <item quantity="one">오디오 파일 %d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">파일 %d개</item>
+        <item quantity="one">파일 %d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">이미지 %d개</item>
+        <item quantity="one">이미지 %d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d페이지</item>
+        <item quantity="one">%d페이지</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">동영상 %d개</item>
+        <item quantity="one">동영상 %d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">선택한 %d개 항목 삭제</item>
+        <item quantity="one">선택한 1개 항목 삭제</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">선택한 %d개 항목 공유</item>
+        <item quantity="one">선택한 1개 항목 공유</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">열려 있는 탭 %1$d개, 탭 간에 전환하려면 탭하세요.</item>
+        <item quantity="one">열려 있는 탭 %1$d개, 탭 간에 전환하려면 탭하세요.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">북마크 %1$d개</item>
+        <item quantity="one">북마크 %1$d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">탭 %1$d개</item>
+        <item quantity="one">탭 %1$d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (%d개 더보기)"</item>
+        <item quantity="one">" (1개 더보기)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">파일 %d개 다운로드 중</item>
+        <item quantity="one">파일 다운로드 중</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">%d시간</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">%1$d개 파일 다운로드됨</item>
+        <item quantity="one">%1$d개 파일 다운로드됨</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">다운로드 %d개 완료</item>
+        <item quantity="one">다운로드 1개 완료</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">다운로드 %d개 실패</item>
+        <item quantity="one">다운로드 1개 실패</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">다운로드 %d개 대기 중</item>
+        <item quantity="one">다운로드 1개 대기 중</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">%d일 전</item>
+        <item quantity="one">%d일 전</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">%d시간 전</item>
+        <item quantity="one">%d시간 전</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">%d분 전</item>
+        <item quantity="one">%d분 전</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">준비가 완료되면 Chrome에서 페이지를 로드합니다.</item>
+        <item quantity="one">준비가 완료되면 Chrome에서 페이지를 로드합니다.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">%1$s 외 %2$s개</item>
+        <item quantity="one">%1$s 외 %2$s개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">%1$s 외 %2$s개</item>
+        <item quantity="one">%1$s 외 %2$s개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">%1$s 외 %2$s개</item>
+        <item quantity="one">%1$s 외 %2$s개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">%1$s 외 %2$s개</item>
+        <item quantity="one">%1$s 외 %2$s개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">%d개 선택됨</item>
+        <item quantity="one">1개 선택됨</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">신호 강도: 막대 %d개</item>
+        <item quantity="one">신호 강도: 막대 %d개</item>
+    </plurals>
+</resources>

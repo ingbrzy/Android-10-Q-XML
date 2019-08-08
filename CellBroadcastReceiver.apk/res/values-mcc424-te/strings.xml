@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">అప్రమత్త హెచ్చరిక</string>
+    <string name="cmas_presidential_level_alert">జాతీయ అత్యవసర హెచ్చరిక</string>
+    <string name="cmas_required_monthly_test">పరీక్ష హెచ్చరిక</string>
+</resources>

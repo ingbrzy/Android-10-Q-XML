@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">ไฟล์เสียง %d ไฟล์</item>
+        <item quantity="one">ไฟล์เสียง %d ไฟล์</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d ไฟล์</item>
+        <item quantity="one">%d ไฟล์</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d ภาพ</item>
+        <item quantity="one">%d ภาพ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d หน้า</item>
+        <item quantity="one">%d หน้า</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">วิดีโอ %d รายการ</item>
+        <item quantity="one">วิดีโอ %d รายการ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">นำ %d รายการที่เลือกออก</item>
+        <item quantity="one">นำ 1 รายการที่เลือกออก</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">แชร์ %d รายการที่เลือก</item>
+        <item quantity="one">แชร์ 1 รายการที่เลือก</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">เปิดแท็บไว้ %1$d แท็บ แตะเพื่อเปลี่ยนแท็บ</item>
+        <item quantity="one">เปิดแท็บไว้ %1$d แท็บ แตะเพื่อเปลี่ยนแท็บ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">บุ๊กมาร์ก %1$d รายการ</item>
+        <item quantity="one">บุ๊กมาร์ก %1$d รายการ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d แท็บ</item>
+        <item quantity="one">%1$d แท็บ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (และอีก %d รายการ)"</item>
+        <item quantity="one">" (และอีก 1 รายการ)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">กำลังดาวน์โหลด %d ไฟล์</item>
+        <item quantity="one">กำลังดาวน์โหลดไฟล์</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d ชม.</item>
+        <item quantity="one">%d ชม.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">ดาวน์โหลดแล้ว %1$d ไฟล์</item>
+        <item quantity="one">ดาวน์โหลดแล้ว %1$d ไฟล์</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">การดาวน์โหลด %d รายการเสร็จสมบูรณ์</item>
+        <item quantity="one">การดาวน์โหลด 1 รายการเสร็จสมบูรณ์</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">การดาวน์โหลดล้มเหลว %d รายการ</item>
+        <item quantity="one">การดาวน์โหลดล้มเหลว 1 รายการ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">การดาวน์โหลดที่รอดำเนินการ %d รายการ</item>
+        <item quantity="one">การดาวน์โหลดที่รอดำเนินการ 1 รายการ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">%d วันที่ผ่านมา</item>
+        <item quantity="one">%d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">%d ชั่วโมงที่ผ่านมา</item>
+        <item quantity="one">%d ชั่วโมงที่ผ่านมา</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+        <item quantity="one">%d นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">Chrome จะโหลดหน้าเว็บเมื่อพร้อม</item>
+        <item quantity="one">Chrome จะโหลดหน้าเว็บเมื่อพร้อม</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">%1$s… และอีก %2$s รายการ</item>
+        <item quantity="one">%1$s… และอีก %2$s รายการ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">%1$s… และอีก %2$s วิธี</item>
+        <item quantity="one">%1$s… และอีก %2$s วิธี</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">%1$s… และอีก %2$s แห่ง</item>
+        <item quantity="one">%1$s… และอีก %2$s แห่ง</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">%1$s… และอีก %2$s ตัวเลือก</item>
+        <item quantity="one">%1$s… และอีก %2$s ตัวเลือก</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">เลือก %d รายการ</item>
+        <item quantity="one">เลือก 1 รายการ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">ระดับความแรงของสัญญาณ: %d แถบ</item>
+        <item quantity="one">ระดับความแรงของสัญญาณ: %d แถบ</item>
+    </plurals>
+</resources>

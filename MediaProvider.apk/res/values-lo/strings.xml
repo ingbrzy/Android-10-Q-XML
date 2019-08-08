@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">ເພີ່ມໂມງປຸກ</string>
+    <string name="add_notification_text">ເພີ່ມການແຈ້ງເຕືອນ</string>
+    <string name="add_ringtone_text">ເພີ່ມຣິງໂທນ</string>
+    <string name="alarm_sound_default">ສຽງໂມງປຸກຕາມຄ່າເລີ່ມຕົ້ນ</string>
+    <string name="app_label">ພື້ນທີ່ຈັດເກັບຂໍ້ມູນມີເດຍ</string>
+    <string name="artist_label">ສິນລະປິນ</string>
+    <string name="delete_ringtone_text">​ລຶບ</string>
+    <string name="grant_dialog_button_allow">ອະນຸຍາດ</string>
+    <string name="grant_dialog_button_deny">ປະຕິເສດ</string>
+    <string name="notification_sound_default">ສຽງແຈ້ງເຕືອນເລີ່ມຕົ້ນ</string>
+    <string name="permission_audio">ອະນຸຍາດ <b>^1</b> ໃຫ້ແກ້ໄຂ ຫຼື ລຶບເພງນີ້ອອກບໍ?</string>
+    <string name="permission_images">ອະນຸຍາດ <b>^1</b> ໃຫ້ແກ້ໄຂ ຫຼື ລຶບຮູບນີ້ອອກບໍ?</string>
+    <string name="permission_required">ຕ້ອງການສິດອະນຸຍາດເພື່ອແກ້ໄຂ ຫຼື ລຶບລາຍການນີ້ອອກ.</string>
+    <string name="permission_required_action">ດຳເນີນການຕໍ່</string>
+    <string name="permission_video">ອະນຸຍາດ <b>^1</b> ໃຫ້ແກ້ໄຂ ຫຼື ລຶບວິດີໂອນີ້ອອກບໍ?</string>
+    <string name="ringtone_default">ຣິງໂທນເລີ່ມຕົ້ນ</string>
+    <string name="root_audio">ສຽງ</string>
+    <string name="root_images">ຮູບພາບ</string>
+    <string name="root_videos">ວິດີໂອ</string>
+    <string name="sound_name_awaken">Awaken</string>
+    <string name="sound_name_bounce">Bounce</string>
+    <string name="sound_name_drip">Drip</string>
+    <string name="sound_name_gallop">Gallop</string>
+    <string name="sound_name_nudge">Nudge</string>
+    <string name="sound_name_orbit">Orbit</string>
+    <string name="sound_name_rise">Rise</string>
+    <string name="sound_name_sway">Sway</string>
+    <string name="sound_name_wag">Wag</string>
+    <string name="storage_description">ບ່ອນຈັດເກັບຂໍ້ມູນໃນເຄື່ອງ</string>
+    <string name="uid_label">ມີເດຍ</string>
+    <string name="unable_to_add_ringtone">Unable to add custom ringtone</string>
+    <string name="unable_to_delete_ringtone">Unable to delete custom ringtone</string>
+</resources>

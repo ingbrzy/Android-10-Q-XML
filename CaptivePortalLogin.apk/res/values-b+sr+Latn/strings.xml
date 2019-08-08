@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Prijavi me na mrežu</string>
+    <string name="action_bar_title">Prijavite se u: %1$s</string>
+    <string name="action_do_not_use_network">Ne koristi ovu mrežu</string>
+    <string name="action_use_network">Koristi ovu mrežu takvu kakva je</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ok">Potvrdi</string>
+    <string name="page_info">Informacije o stranici</string>
+    <string name="page_info_address">Adresa:</string>
+    <string name="ssl_error_continue">Ipak nastavi preko pregledača</string>
+    <string name="ssl_error_date_invalid">Datum ovog sertifikata je nevažeći.</string>
+    <string name="ssl_error_example">Na primer, stranica za prijavljivanje možda ne pripada prikazanoj organizaciji.</string>
+    <string name="ssl_error_expired">Ovaj sertifikat je istekao.</string>
+    <string name="ssl_error_invalid">Ovaj sertifikat je nevažeći.</string>
+    <string name="ssl_error_mismatch">Naziv sajta se ne podudara sa nazivom na sertifikatu.</string>
+    <string name="ssl_error_not_yet_valid">Ovaj sertifikat još uvek nije važeći.</string>
+    <string name="ssl_error_unknown">Nepoznata greška sertifikata.</string>
+    <string name="ssl_error_untrusted">Ovaj sertifikat ne potiče iz pouzdanog izvora.</string>
+    <string name="ssl_error_view_certificate">Prikaži sertifikat</string>
+    <string name="ssl_error_warning">Mreža kojoj pokušavate da se pridružite ima bezbednosnih problema.</string>
+    <string name="ssl_security_warning_title">Bezbednosno upozorenje</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

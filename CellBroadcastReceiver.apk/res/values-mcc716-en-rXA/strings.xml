@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">[Éḿéŕĝéñçý åļéŕţ: Éхéŕçîšé/Šîḿûļåţîöñ ḿéššåĝé one two three four five]</string>
+    <string name="cmas_required_monthly_test">[Éḿéŕĝéñçý åļéŕţ: Ţéšţ ḿéššåĝé one two three four]</string>
+    <string name="enable_public_safety_messages_title">[ÎñƒöŕḿåţîVé ḿéššåĝé one two three]</string>
+    <string name="public_safety_message">[ÎñƒöŕḿåţîVé ḿéššåĝé one two three]</string>
+</resources>

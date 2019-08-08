@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="subsCancellationReasons">
+        <item>Želim da uštedim novac</item>
+        <item>Ne mogu da pronađem muziku koja mi se sviđa</item>
+        <item>Ne mogu da pronađem funkcije koje želim</item>
+        <item>Imam tehničkih problema</item>
+        <item>Besplatna verzija je dovoljna</item>
+        <item>Ja sam deo porodične pretplate</item>
+        <item>Preći ću na drugu aplikaciju za muziku</item>
+        <item>Kupio/la sam je greškom</item>
+        <item>Drugo</item>
+    </string-array>
+</resources>

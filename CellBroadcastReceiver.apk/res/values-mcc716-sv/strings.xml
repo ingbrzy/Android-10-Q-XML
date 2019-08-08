@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Varning om nödsituation: övnings-/simuleringsmeddelande</string>
+    <string name="cmas_required_monthly_test">Varning om nödsituation: testmeddelande</string>
+    <string name="enable_public_safety_messages_title">Informationsmeddelande</string>
+    <string name="public_safety_message">Informationsmeddelande</string>
+</resources>

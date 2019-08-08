@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">%d ملف صوتي</item>
+        <item quantity="zero">%d ملف صوتي</item>
+        <item quantity="one">ملف صوتي واحد (%d)</item>
+        <item quantity="two">ملفان صوتيان (%d)</item>
+        <item quantity="few">%d ملفات صوتية</item>
+        <item quantity="many">%d ملفًا صوتيًا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d ملف</item>
+        <item quantity="zero">%d ملف</item>
+        <item quantity="one">ملف واحد (%d)</item>
+        <item quantity="two">ملفان (%d)</item>
+        <item quantity="few">%d ملفات</item>
+        <item quantity="many">%d ملفًا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d صورة</item>
+        <item quantity="zero">%d صورة</item>
+        <item quantity="one">صورة واحدة (%d)</item>
+        <item quantity="two">صورتان (%d)</item>
+        <item quantity="few">%d صور</item>
+        <item quantity="many">%d صورةً</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d صفحة</item>
+        <item quantity="zero">%d صفحة</item>
+        <item quantity="one">صفحة واحدة (%d)</item>
+        <item quantity="two">صفحتان (%d)</item>
+        <item quantity="few">%d صفحات</item>
+        <item quantity="many">%d صفحةً</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">%d فيديو</item>
+        <item quantity="zero">%d فيديو</item>
+        <item quantity="one">فيديو واحد (%d)</item>
+        <item quantity="two">فيديوهان (%d)</item>
+        <item quantity="few">%d فيديوهات</item>
+        <item quantity="many">%d فيديو</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">إزالة %d عنصر محدد</item>
+        <item quantity="zero">إزالة %d عنصر محدد</item>
+        <item quantity="one">إزالة عنصر واحد محدد</item>
+        <item quantity="two">إزالة عنصرين (%d) محددين</item>
+        <item quantity="few">إزالة %d عناصر محددة</item>
+        <item quantity="many">إزالة %d عنصرًا محددًا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">مشاركة %d عنصر محدد</item>
+        <item quantity="zero">مشاركة %d عنصر محدد</item>
+        <item quantity="one">مشاركة عنصر واحد محدد</item>
+        <item quantity="two">مشاركة عنصرين (%d) محددين</item>
+        <item quantity="few">مشاركة %d عناصر محددة</item>
+        <item quantity="many">مشاركة %d عنصرًا محددًا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">%1$d علامة تبويب مفتوحة، يُرجى النقر لتبديل علامات التبويب</item>
+        <item quantity="zero">%1$d علامات تبويب مفتوحة، يُرجى النقر لتبديل علامات التبويب</item>
+        <item quantity="one">%1$d علامة تبويب مفتوحة، يُرجى النقر لتبديل علامات التبويب</item>
+        <item quantity="two">علامتا تبويب مفتوحتان%1$d، يُرجى النقر لتبديل علامات التبويب</item>
+        <item quantity="few">%1$d علامات تبويب مفتوحة، يُرجى النقر لتبديل علامات التبويب</item>
+        <item quantity="many">%1$d علامة تبويب مفتوحة، يُرجى النقر لتبديل علامات التبويب</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">%1$d إشارة مرجعية</item>
+        <item quantity="zero">%1$d إشارات مرجعية</item>
+        <item quantity="one">إشارة مرجعية %1$d</item>
+        <item quantity="two">إشارتان مرجعيتان (%1$d)</item>
+        <item quantity="few">%1$d إشارات مرجعية</item>
+        <item quantity="many">%1$d إشارةً مرجعيةً</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d علامة تبويب</item>
+        <item quantity="zero">%1$d علامة تبويب</item>
+        <item quantity="one">علامة تبويب واحدة (%1$d)</item>
+        <item quantity="two">علامتا تبويب (%1$d)</item>
+        <item quantity="few">%1$d علامات تبويب</item>
+        <item quantity="many">%1$d علامة تبويب</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (أكثر من %d عنصر آخر)"</item>
+        <item quantity="zero">" (أكثر من %d عناصر أخرى)"</item>
+        <item quantity="one">" (أكثر من عنصر واحد آخر)"</item>
+        <item quantity="two">" (أكثر من عنصرين (%d) آخرين)"</item>
+        <item quantity="few">" (أكثر من %d عناصر أخرى)"</item>
+        <item quantity="many">" (أكثر من %d عنصرًا آخر)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">جارٍ تنزيل %d ملف.</item>
+        <item quantity="zero">جارٍ تنزيل %d ملف</item>
+        <item quantity="one">جارٍ تنزيل ملف واحد.</item>
+        <item quantity="two">جارٍ تنزيل ملفين (%d).</item>
+        <item quantity="few">جارٍ تنزيل %d ملفات.</item>
+        <item quantity="many">جارٍ تنزيل %d ملفًا.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">ساعة واحدة (%d)</item>
+        <item quantity="two">ساعتان (%d)</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعةً</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">تم تنزيل %1$d ملف</item>
+        <item quantity="zero">تم تنزيل %1$d ملفات</item>
+        <item quantity="one">تم تنزيل ملف %1$d</item>
+        <item quantity="two">تم تنزيل ملفين (%1$d)</item>
+        <item quantity="few">تم تنزيل %1$d ملفات</item>
+        <item quantity="many">تم تنزيل %1$d ملفًا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">اكتملت %d عملية تنزيل.</item>
+        <item quantity="zero">اكتملت %d عملية تنزيل.</item>
+        <item quantity="one">اكتملت عملية تنزيل واحدة.</item>
+        <item quantity="two">اكتملت عمليتا تنزيل (%d).</item>
+        <item quantity="few">اكتملت %d عمليات تنزيل.</item>
+        <item quantity="many">اكتملت %d عملية تنزيل.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">تعذَّر إتمام %d عملية تنزيل.</item>
+        <item quantity="zero">تعذَّر إتمام %d عملية تنزيل.</item>
+        <item quantity="one">تعذَّر إتمام عملية تنزيل واحدة.</item>
+        <item quantity="two">تعذَّر إتمام عمليتي تنزيل (%d).</item>
+        <item quantity="few">تعذَّر إتمام %d عمليات تنزيل.</item>
+        <item quantity="many">تعذَّر إتمام %d عملية تنزيل.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">هناك %d عملية تنزيل مُعلَّقة.</item>
+        <item quantity="zero">هناك %d عملية تنزيل مُعلَّقة.</item>
+        <item quantity="one">هناك عملية تنزيل واحدة مُعلَّقة.</item>
+        <item quantity="two">هناك عمليتا تنزيل (%d) مُعلَّقتان.</item>
+        <item quantity="few">هناك %d عمليات تنزيل مُعلَّقة.</item>
+        <item quantity="many">هناك %d عملية تنزيل مُعلَّقة.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">قبل %d يوم</item>
+        <item quantity="zero">قبل %d يوم</item>
+        <item quantity="one">قبل يوم واحد (%d)</item>
+        <item quantity="two">قبل يومين (%d)</item>
+        <item quantity="few">قبل %d أيام</item>
+        <item quantity="many">قبل %d يومًا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">قبل %d ساعة</item>
+        <item quantity="zero">قبل %d ساعة</item>
+        <item quantity="one">قبل ساعة واحدة (%d)</item>
+        <item quantity="two">قبل ساعتين (%d)</item>
+        <item quantity="few">قبل %d ساعات</item>
+        <item quantity="many">قبل %d ساعة</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">قبل %d دقيقة</item>
+        <item quantity="zero">قبل %d دقيقة</item>
+        <item quantity="one">قبل دقيقة واحدة (%d)</item>
+        <item quantity="two">قبل دقيقتين (%d)</item>
+        <item quantity="few">قبل %d دقائق</item>
+        <item quantity="many">قبل %d دقيقة</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">‏سيحمِّل Chrome الصفحات عندما تصبح جاهزة</item>
+        <item quantity="zero">‏لن يحمِّل Chrome أي صفحات عندما تصبح جاهزة</item>
+        <item quantity="one">‏سيحمِّل Chrome الصفحة عندما تصبح جاهزة</item>
+        <item quantity="two">‏سيحمِّل Chrome الصفحتين عندما تصبح جاهزتين</item>
+        <item quantity="few">‏سيحمِّل Chrome الصفحات عندما تصبح جاهزة</item>
+        <item quantity="many">‏سيحمِّل Chrome الصفحات عندما تصبح جاهزة</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">‏%1$s… و%2$s جهة اتصال إضافية</item>
+        <item quantity="zero">‏%1$s… و%2$s جهة اتصال إضافية</item>
+        <item quantity="one">‏%1$s… وجهة اتصال إضافية واحدة %2$s</item>
+        <item quantity="two">‏%1$s… وجهتا اتصال إضافيتان (%2$s)</item>
+        <item quantity="few">‏%1$s… و%2$s جهات اتصال إضافية</item>
+        <item quantity="many">‏%1$s… و%2$s جهة اتصال إضافية</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">‏%1$s… و%2$s طريقة دفع إضافية</item>
+        <item quantity="zero">‏%1$s… و%2$s طريقة دفع إضافية</item>
+        <item quantity="one">‏%1$s… وطريقة دفع إضافية واحدة (%2$s)</item>
+        <item quantity="two">‏%1$s… وطريقتا دفع إضافيتان (%2$s)</item>
+        <item quantity="few">‏%1$s… و%2$s طرق دفع إضافية</item>
+        <item quantity="many">‏%1$s… و%2$s طريقة دفع إضافية</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">‏%1$s… و%2$s عنوان إضافي</item>
+        <item quantity="zero">‏%1$s… و%2$s عنوان إضافي</item>
+        <item quantity="one">‏%1$s… وعنوان إضافي واحد (%2$s)</item>
+        <item quantity="two">‏%1$s… وعنوانان إضافيان (%2$s)</item>
+        <item quantity="few">‏%1$s… و%2$s عناوين إضافية</item>
+        <item quantity="many">‏%1$s… و%2$s عنوانًا إضافيًا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">‏%1$s… و%2$s خيار إضافي</item>
+        <item quantity="zero">‏%1$s… و%2$s خيار إضافي</item>
+        <item quantity="one">‏%1$s… وخيار إضافي واحد (%2$s)</item>
+        <item quantity="two">‏%1$s… وخياران إضافيان (%2$s)</item>
+        <item quantity="few">‏%1$s… و%2$s خيارات إضافية</item>
+        <item quantity="many">‏%1$s… و%2$s خيارًا إضافيًا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">تم تحديد %d عنصر</item>
+        <item quantity="zero">تم تحديد %d عنصر</item>
+        <item quantity="one">تم تحديد عنصر واحد</item>
+        <item quantity="two">تم تحديد عنصرين (%d)</item>
+        <item quantity="few">تم تحديد %d عناصر</item>
+        <item quantity="many">تم تحديد %d عنصرًا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">مستوى قوة الإشارة: %d شريط</item>
+        <item quantity="zero">مستوى قوة الإشارة: %d شريط</item>
+        <item quantity="one">مستوى قوة الإشارة: شريط واحد (%d)</item>
+        <item quantity="two">مستوى قوة الإشارة: شريطان (%d)</item>
+        <item quantity="few">مستوى قوة الإشارة: %d أشرطة</item>
+        <item quantity="many">مستوى قوة الإشارة: %d شريطًا</item>
+    </plurals>
+</resources>

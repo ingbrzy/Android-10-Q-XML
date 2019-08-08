@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">የአደጋ ጊዜ ማንቂያ፦ የልምምድ/ማስመሰል መልዕክት</string>
+    <string name="cmas_required_monthly_test">የአደጋ ጊዜ ማንቂያ፦ የሙከራ መልዕክት</string>
+    <string name="enable_public_safety_messages_title">መረጃ ሰጪ መልዕክት</string>
+    <string name="public_safety_message">መረጃ ሰጪ መልዕክት</string>
+</resources>

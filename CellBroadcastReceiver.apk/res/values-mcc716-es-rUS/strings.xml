@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Alerta de emergencia: mensaje de simulacro/prueba</string>
+    <string name="cmas_required_monthly_test">Alerta de emergencia: mensaje de prueba</string>
+    <string name="enable_public_safety_messages_title">Mensaje informativo</string>
+    <string name="public_safety_message">Mensaje informativo</string>
+</resources>

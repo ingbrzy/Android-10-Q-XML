@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d კიდევ</item>
+        <item quantity="one">%1$d კიდევ</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s დღე</item>
+        <item quantity="one">1 დღე</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s საათი</item>
+        <item quantity="one">1 საათი</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s წუთი</item>
+        <item quantity="one">1 წუთი</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s აპი</item>
+        <item quantity="one">1 აპი</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s აპი</item>
+        <item quantity="one">1 აპი</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s წამი</item>
+        <item quantity="one">1 წამი</item>
+    </plurals>
+</resources>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">%d 個音訊檔案</item>
+        <item quantity="one">%d 個音訊檔案</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d 個檔案</item>
+        <item quantity="one">%d 個檔案</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d 張圖片</item>
+        <item quantity="one">%d 張圖片</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d 個網頁</item>
+        <item quantity="one">%d 個網頁</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">%d 部影片</item>
+        <item quantity="one">%d 部影片</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">移除 %d 個選取的項目</item>
+        <item quantity="one">移除 1 個選取的項目</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">分享 %d 個選取的項目</item>
+        <item quantity="one">分享 1 個選取的項目</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">已開啟 %1$d 個分頁，輕觸即可切換分頁</item>
+        <item quantity="one">已開啟 %1$d 個分頁，輕觸即可切換分頁</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">%1$d 個書籤</item>
+        <item quantity="one">%1$d 個書籤</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d 個分頁</item>
+        <item quantity="one">%1$d 個分頁</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">(還有 %d 個)</item>
+        <item quantity="one">(還有 1 個)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">正在下載 %d 個檔案。</item>
+        <item quantity="one">正在下載檔案。</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d 小時</item>
+        <item quantity="one">%d 小時</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">已下載 %1$d 個檔案</item>
+        <item quantity="one">已下載 %1$d 個檔案</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">已完成 %d 項下載作業。</item>
+        <item quantity="one">已完成 1 項下載作業。</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">無法完成 %d 項下載作業。</item>
+        <item quantity="one">無法完成 1 項下載作業。</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">%d 項下載作業仍待處理。</item>
+        <item quantity="one">1 項下載作業仍待處理。</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">%d 天前</item>
+        <item quantity="one">%d 天前</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">%d 小時前</item>
+        <item quantity="one">%d 小時前</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">%d 分鐘前</item>
+        <item quantity="one">%d 分鐘前</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">Chrome 準備就緒後將載入你的網頁</item>
+        <item quantity="one">Chrome 準備就緒後將載入你的網頁</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">%1$s… 和另外 %2$s 個聯絡人</item>
+        <item quantity="one">%1$s… 和另外 %2$s 個聯絡人</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">%1$s… 和另外 %2$s 種付款方式</item>
+        <item quantity="one">%1$s… 和另外 %2$s 種付款方式</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">%1$s… 和另外 %2$s 個地址</item>
+        <item quantity="one">%1$s… 和另外 %2$s 個地址</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">%1$s… 和另外 %2$s 種運送方式</item>
+        <item quantity="one">%1$s… 和另外 %2$s 種運送方式</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">已選取 %d 個項目</item>
+        <item quantity="one">已選取 1 個項目</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">訊號強度等級：%d 格</item>
+        <item quantity="one">訊號強度等級：%d 格</item>
+    </plurals>
+</resources>

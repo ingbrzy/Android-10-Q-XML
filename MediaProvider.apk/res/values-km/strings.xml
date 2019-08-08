@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">បញ្ចូល​ម៉ោងរោទ៍</string>
+    <string name="add_notification_text">បញ្ចូល​ការជូន​ដំណឹង</string>
+    <string name="add_ringtone_text">បន្ថែម​សំឡេង​រោទ៍</string>
+    <string name="alarm_sound_default">សំឡេងម៉ោងរោទិ៍លំនាំដើម</string>
+    <string name="app_label">ទំហំផ្ទុកមេឌៀ</string>
+    <string name="artist_label">សិល្បករ</string>
+    <string name="delete_ringtone_text">លុប</string>
+    <string name="grant_dialog_button_allow">អនុញ្ញាត</string>
+    <string name="grant_dialog_button_deny">បដិសេធ</string>
+    <string name="notification_sound_default">សំឡេង​ជូន​ដំណឹង​លំនាំដើម</string>
+    <string name="permission_audio">អនុញ្ញាតឱ្យ​ <b>^1</b> កែតម្រូវ ឬលុប​តន្ត្រី​នេះដែរទេ?</string>
+    <string name="permission_images">អនុញ្ញាតឱ្យ​ <b>^1</b> កែតម្រូវ ឬលុប​រូបភាព​នេះដែរទេ​?</string>
+    <string name="permission_required">តម្រូវ​ឱ្យមាន​ការអនុញ្ញាត ដើម្បី​កែតម្រូវ ឬ​លុបធាតុ​នេះ។</string>
+    <string name="permission_required_action">បន្ត</string>
+    <string name="permission_video">អនុញ្ញាតឱ្យ​ <b>^1</b> កែតម្រូវ ឬលុប​វីដេអូ​នេះដែរទេ?</string>
+    <string name="ringtone_default">សំឡេង​រោទ៍​លំនាំដើម</string>
+    <string name="root_audio">សំឡេង</string>
+    <string name="root_images">រូបភាព</string>
+    <string name="root_videos">វីដេអូ</string>
+    <string name="sound_name_awaken">ភ្ញាក់</string>
+    <string name="sound_name_bounce">លោត</string>
+    <string name="sound_name_drip">ស្រក់</string>
+    <string name="sound_name_gallop">បោលសេះ</string>
+    <string name="sound_name_nudge">កេះ</string>
+    <string name="sound_name_orbit">គន្លង</string>
+    <string name="sound_name_rise">រះ</string>
+    <string name="sound_name_sway">យោល</string>
+    <string name="sound_name_wag">គ្រវី</string>
+    <string name="storage_description">ទំហំផ្ទុកមូលដ្ឋាន</string>
+    <string name="uid_label">មេឌៀ</string>
+    <string name="unable_to_add_ringtone">មិន​អាច​បន្ថែម​សំឡេង​រោទ៍​ផ្ទាល់ខ្លួន​បាន</string>
+    <string name="unable_to_delete_ringtone">មិន​អាច​លុប​សំឡេង​រោទ៍​ផ្ទាល់ខ្លួន​បាន​ទេ</string>
+</resources>

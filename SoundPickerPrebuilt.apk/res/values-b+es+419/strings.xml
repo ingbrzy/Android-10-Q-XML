@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icon_content_description">Ícono de diálogo</string>
+    <string name="password_toggle_content_description">Mostrar contraseña</string>
+</resources>

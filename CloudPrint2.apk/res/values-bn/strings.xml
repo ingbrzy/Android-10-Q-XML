@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">হোম এ নেভিগেট করুন</string>
+    <string name="abc_action_bar_up_description">উপরের দিকে নেভিগেট করুন</string>
+    <string name="abc_action_menu_overflow_description">আরও বিকল্প</string>
+    <string name="abc_action_mode_done">সম্পন্ন হয়েছে</string>
+    <string name="abc_activity_chooser_view_see_all">সবগুলো দেখুন</string>
+    <string name="abc_activitychooserview_choose_application">একটি অ্যাপ্লিকেশান বেছে নিন</string>
+    <string name="abc_capital_off">বন্ধ</string>
+    <string name="abc_capital_on">চালু</string>
+    <string name="abc_search_hint">অনুসন্ধান...</string>
+    <string name="abc_searchview_description_clear">ক্যোয়ারী সাফ করুন</string>
+    <string name="abc_searchview_description_query">ক্যোয়ারী খুঁজুন</string>
+    <string name="abc_searchview_description_search">খুঁজুন</string>
+    <string name="abc_searchview_description_submit">ক্যোয়ারী জমা দিন</string>
+    <string name="abc_searchview_description_voice">ভয়েস অনুসন্ধান</string>
+    <string name="abc_shareactionprovider_share_with">এর সাথে শেয়ার করুন</string>
+    <string name="abc_shareactionprovider_share_with_application">%s এর সাথে শেয়ার করুন</string>
+    <string name="abc_toolbar_collapse_description">সঙ্কুচিত করুন</string>
+    <string name="accept">স্বীকার করুন</string>
+    <string name="account_label">অ্যাকাউন্ট</string>
+    <string name="acl_list_title">যাদের অ্যাক্সেস রয়েছে</string>
+    <string name="acl_printer_access_level_private_subtitle">স্পষ্টভাবে যাদের অনুমতি দেওয়া হয়েছে কেবলমাত্র সেইসব লোকেরাই প্রিন্টার যোগ করতে পারবেন</string>
+    <string name="acl_printer_access_level_private_title">ব্যক্তিগত</string>
+    <string name="acl_printer_access_level_public_subtitle">লিঙ্কটি আছে এমন যেকোনো ব্যক্তির মুদ্রকটিতে অ্যাক্সেস রয়েছে এবং প্রিন্ট কার্যগুলি জমা করতে পারবেন</string>
+    <string name="acl_printer_access_level_public_title">লিঙ্কটি আছে এমন যেকোনো ব্যক্তির অ্যাক্সেস রয়েছে</string>
+    <string name="acl_public_share_note">দ্রষ্টব্য: আপনি যাদের সাথে ইতিমধ্যেই এই মুদ্রকটি শেয়ার করেছেন তারা এই প্রিন্টারের সর্বজনীন ব্যবহারকারী হিসেবে গণ্য হবেন - যদি আপনি পরে এটিকে ব্যক্তিগত করেন, তাহলে আপনাকে এটি পুনরায় তাদের সাথে শেয়ার করতে হবে৷</string>
+    <string name="acl_role_description_manager">পরিচালনা করতে পারেন</string>
+    <string name="acl_role_description_none">কোনো অ্যাক্সেস নেই</string>
+    <string name="acl_role_description_owner">মালিক</string>
+    <string name="acl_role_description_user">প্রিন্ট করতে পারেন</string>
+    <string name="add_people_acl_entry_hint">ব্যক্তিদের যোগ করুন…</string>
+    <string name="add_people_hint">নাম, ইমেল ঠিকানা, অথবা গোষ্ঠীগুলি লিখুন...</string>
+    <string name="add_people_title">ব্যক্তিদের যোগ করুন</string>
+    <string name="add_printer">প্রিন্টার জুড়ুন</string>
+    <string name="add_printer_failed">প্রিন্টার যোগ করা যায়নি</string>
+    <string name="adding_printer">প্রিন্টার যোগ করা হচ্ছে...</string>
+    <string name="app_name">ক্লাউড প্রিন্ট</string>
+    <string name="apply">প্রয়োগ করুন</string>
+    <string name="cancel">বাতিল করুন</string>
+    <string name="cdd_collate">ক্রমসজ্জিত</string>
+    <string name="cdd_color">রঙ</string>
+    <string name="cdd_copies">প্রতিলিপিগুলি</string>
+    <string name="cdd_dpi">প্রিন্টের গুণমান</string>
+    <string name="cdd_duplex">ডুপ্লেক্স</string>
+    <string name="cdd_fit_to_page">পৃষ্ঠাতে মানানসই</string>
+    <string name="cdd_margin">মার্জিন</string>
+    <string name="cdd_media_size">মিডিয়ার আকার</string>
+    <string name="cdd_option_color_auto">অটো</string>
+    <string name="cdd_option_color_color">রঙ</string>
+    <string name="cdd_option_color_monochrome">একবর্ণ</string>
+    <string name="cdd_option_dpi_double">%1$d x %2$d dpi</string>
+    <string name="cdd_option_dpi_horizontal">অনুভূমিক dpi</string>
+    <string name="cdd_option_dpi_single">%1$d dpi</string>
+    <string name="cdd_option_dpi_vertical">উল্লম্ব dpi</string>
+    <string name="cdd_option_duplex_long_edge">দীর্ঘ প্র্রান্ত</string>
+    <string name="cdd_option_duplex_off">বন্ধ</string>
+    <string name="cdd_option_duplex_short_edge">ছোট প্রান্ত</string>
+    <string name="cdd_option_fit_to_page_fill">পৃষ্ঠা পূরণ করুন</string>
+    <string name="cdd_option_fit_to_page_fit">পৃষ্ঠাতে মানানসই</string>
+    <string name="cdd_option_fit_to_page_grow">পৃষ্ঠা অনুযায়ী প্রসারণ করুন</string>
+    <string name="cdd_option_fit_to_page_none">কোনো কিছুই নয়</string>
+    <string name="cdd_option_fit_to_page_shrink">পৃষ্ঠা অনুযায়ী সঙ্কোচন করুন</string>
+    <string name="cdd_option_margin_borderless">সীমানাবিহীন</string>
+    <string name="cdd_option_margin_bottom">নিচে</string>
+    <string name="cdd_option_margin_custom">কাস্টম</string>
+    <string name="cdd_option_margin_left">বাঁ</string>
+    <string name="cdd_option_margin_right">ডান</string>
+    <string name="cdd_option_margin_standard">মানক</string>
+    <string name="cdd_option_margin_top">শীর্ষ</string>
+    <string name="cdd_option_media_size">%1$d x %2$d mm</string>
+    <string name="cdd_option_orientation_auto">অটো</string>
+    <string name="cdd_option_orientation_landscape">ভূদৃশ্য</string>
+    <string name="cdd_option_orientation_portrait">প্রতিকৃতি</string>
+    <string name="cdd_page_orientation">সজ্জা</string>
+    <string name="cdd_page_range">পৃষ্ঠার ব্যাপ্তি</string>
+    <string name="cdd_reverse">বিপরীত ক্রম</string>
+    <string name="close">বন্ধ করুন</string>
+    <string name="cloud_warning">&lt;font face=\"sans-serif-medium\">দ্রষ্টব্য:&lt;/font> চালিয়ে যাওয়ার অর্থ হল, আপনি যে ডকুমেন্টগুলি ক্লাউড প্রিন্ট ব্যবহার করে প্রিন্ট করবেন সেগুলি Google-এ পাঠানো হবে, এবং আপনাকে মনে রাখতে হবে যে প্রিন্ট না হওয়া পর্যন্ত সেখানে থাকবে। Google প্রিন্ট সম্পর্কিত ডেটা সেভ করতে পারে। &lt;a href=\"%1$s\">আরও জানুন&lt;/a></string>
+    <string name="content_description_account_image">অ্যাকাউন্টের ছবি</string>
+    <string name="content_description_navigation_drawer_close">পার্শ্ব নেভিগেশান বন্ধ করুন</string>
+    <string name="content_description_navigation_drawer_open">পার্শ্ব নেভিগেশান খুলুন</string>
+    <string name="content_description_navigation_item">আইটেম নেভিগেশান আইকন</string>
+    <string name="content_description_printer_icon">প্রিন্টার আইকন</string>
+    <string name="content_description_printer_info_icon">জেনেরিক প্রিন্টার তথ্য আইকন</string>
+    <string name="could_not_receive_printers_heading">প্রিন্টারের তালিকা পাওয়া যায়নি</string>
+    <string name="could_not_receive_printers_message">সার্ভার থেকে প্রিন্টারের তালিকা পাওয়া যায়নি৷ আপনি কি আবার চেষ্টা করতে চান?</string>
+    <string name="could_not_resolve_content_type">ক্লাউড প্রিন্ট শুরু করা যায়নি: অচেনা ফাইলের প্রকার</string>
+    <string name="could_not_start">ক্লাউড প্রিন্ট শুরু করা যায়নি</string>
+    <string name="could_not_start_unknown_intent">ক্লাউড প্রিন্ট শুরু করা যায়নি: অচেনা ক্রিয়া</string>
+    <string name="currently_offline">বর্তমানে অফলাইন</string>
+    <string name="decline">অস্বীকার করুন</string>
+    <string name="default_document_title">শিরোনামহীন</string>
+    <string name="delete">মুছুন</string>
+    <string name="delete_item">মুছুন</string>
+    <string name="delete_printer_msg">আপনি কি এই মুদ্রকটি সরানোর বিষয়ে নিশ্চিত?</string>
+    <string name="delete_printer_msg_own_cloud">"আপনি কি আপনার ক্লাউড সচেতন মুদ্রকটি মোছার বিষয়ে নিশ্চিত? 
+আপনি পরে যেকোনো সময় এটিকে পুনরায় সংযুক্ত করতে পারবেন৷"</string>
+    <string name="delete_printer_msg_own_connector">আপনার প্রিন্টারটিকে যে আবার নথিভুক্ত হয়নি তা নিশ্চিত করতে দয়া করে যে কম্পিউটারের সাথে আপনার প্রিন্টার সংযুক্ত রয়েছে তাতে Google ক্লাউড প্রিন্ট সংযোগকারী অক্ষম করুন৷</string>
+    <string name="delete_printer_msg_public">"আপনি কি আপনার মুদ্রকগুলির তালিকা থেকে এই সর্বজনীন মুদ্রকটি সরানোর বিষয়ে নিশ্চিত? 
+আপনি পরে যেকোনো সময়ে এটিকে আবার যোগ করতে পারবেন৷"</string>
+    <string name="delete_printer_msg_shared_directly">"আপনি কি আপনার তালিকা থেকে এই মুদ্রকটিকে সরানোর বিষয়ে নিশ্চিত? 
+আপনি পরে যেকোনো সময় প্রিন্টারের মালিককে এটি আবার আপনার সাথে শেয়ার করার জন্য বলতে পারেন৷"</string>
+    <string name="delete_printer_title">প্রিন্টার মুছুন</string>
+    <string name="document_sending">একটি প্রিন্টের কাজ পাঠানো হচ্ছে</string>
+    <string name="document_sending_title">একটি প্রিন্টের কাজ পাঠানো হচ্ছে</string>
+    <string name="document_submit_failed">একটি প্রিন্টের কাজ জমা দিতে ব্যর্থ হয়েছে</string>
+    <string name="document_submit_failed_title">একটি প্রিন্টের কাজ জমা দিতে ব্যর্থ হয়েছে</string>
+    <string name="document_submit_failed_title_multiple">প্রিন্টের কাজগুলি জমা দিতে ব্যর্থ হয়েছে: %1$d</string>
+    <string name="document_submit_success_and_failed_title">জমা দেওয়া প্রিন্টের কাজগুলি: %1$d৷ ব্যর্থ প্রিন্টের কাজগুলি: %2$d</string>
+    <string name="document_submitted">প্রিন্টের কাজ জমা দেওয়া হয়েছে</string>
+    <string name="document_submitted_title">প্রিন্টের কাজ জমা দেওয়া হয়েছে</string>
+    <string name="document_submitted_title_multiple">প্রিন্টের কাজগুলি জমা দেওয়া হয়েছে: %1$d</string>
+    <string name="document_will_upload_in_background">প্রিন্টের কাজ পাশ্চাদপটে আপলোড হবে</string>
+    <string name="failure_msg_authentication_failed">প্রমাণীকরণ ব্যর্থ হয়েছে</string>
+    <string name="failure_msg_could_not_connect">সার্ভারের সাথে সংযোগ করা যাযনি</string>
+    <string name="failure_msg_could_not_create_http_request">HTTP অনুরোধ তৈরি করা যায়নি</string>
+    <string name="failure_msg_could_not_create_request">সার্ভার অনুরোধ তৈরি করা যায়নি</string>
+    <string name="failure_msg_could_not_execute_http_request">HTTP অনুরোধ নির্বাহ করা যায়নি</string>
+    <string name="failure_msg_could_not_parse">সার্ভার প্রতিক্রিয়া পার্স করা যায়নি</string>
+    <string name="failure_msg_file_not_found">ফাইল খুঁজে পাওয়া যায়নি বা অ্যাক্সেসযোগ্য নয়</string>
+    <string name="failure_msg_format_printer_delete">"প্রিন্টার মোছা যায়নি৷ 
+ত্রুটি: %1$s"</string>
+    <string name="failure_msg_format_printer_share">"প্রিন্টার মোছা যায়নি৷ 
+ত্রুটি: %1$s"</string>
+    <string name="failure_msg_format_printer_share_with">"%1$s এর সাথে প্রিন্টার শেয়ার করা যায়নি৷ 
+ত্রুটি: %2$s"</string>
+    <string name="failure_msg_format_printer_update">"প্রিন্টার আপডেট করা যায়নি৷ 
+ত্রুটি: %1$s"</string>
+    <string name="failure_msg_insufficient_memory">দস্তাবেজটি প্রক্রিয়া করার জন্য পর্যাপ্ত মেমরি নেই। কম রেসুলিউশানে প্রিন্টের চেষ্টা করুন।</string>
+    <string name="failure_msg_internal_error">অভ্যন্তরীণ অ্যাপ্লিকেশান ত্রুটি</string>
+    <string name="failure_msg_out_of_memory">পর্যাপ্ত মেমরি নেই</string>
+    <string name="failure_msg_print_document_conversion">দস্তাবেজটি মুদ্রণযোগ্য ফর্ম্যাটে রূপান্তর করা যায়নি।</string>
+    <string name="failure_msg_printer_lookup">প্রিন্টারের ক্ষমতা লোড করা যায়নি</string>
+    <string name="failure_msg_printer_missing">প্রিন্টার অনুপস্থিত</string>
+    <string name="failure_msg_privet_register_pending_user_action">ব্যবহারকারী ক্রিয়া মুলতুবি রয়েছে</string>
+    <string name="failure_msg_request_failed">অনুরোধ ব্যর্থ হয়েছে</string>
+    <string name="failure_msg_success_is_false">সার্ভার অপ্রত্যাশিত ব্যর্থতা ফেরত পাঠিয়েছে</string>
+    <string name="failure_msg_unexpected_number_of_printers">প্রতিক্রিয়াতে অপ্রত্যাশিত সংখ্যক প্রিন্টার রয়েছে</string>
+    <string name="failure_request_msg">অনুরোধ ব্যর্থ হয়েছে</string>
+    <string name="failure_server_failed_response">সার্ভার ত্রুটিপূর্ণ স্থিতি নির্দেশ করছে</string>
+    <string name="feature_off">বন্ধ</string>
+    <string name="feature_on">চালু</string>
+    <string name="gcp_add_account">অ্যাকাউন্ট যোগ করুন</string>
+    <string name="help_and_feedback">সহায়তা ও প্রতিক্রিয়া</string>
+    <string name="invitation_invited_by">"আমন্ত্রণ জানিয়েছেন: "</string>
+    <string name="invitation_processing_failed">আপনার আমন্ত্রণ প্রক্রিয়া করা যাবে না</string>
+    <string name="invitation_will_be_processed_in_background">আমন্ত্রণ প্রক্রিয়ায় রয়েছে</string>
+    <string name="invitations_load_failure">আমন্ত্রণের তালিকা লোড করা যায়নি৷</string>
+    <string name="invited_by_label">এর দ্বারা আমন্ত্রিত হয়েছেন</string>
+    <string name="job_section_held">প্রিন্ট করার জন্য প্রস্তুত</string>
+    <string name="job_section_other">অন্যান্য</string>
+    <string name="local_device_registration_title">ডিভাইস নিবন্ধন</string>
+    <string name="local_discovery">স্থানীয় আবিষ্কার</string>
+    <string name="local_discovery_off_message">এটি চালু করার জন্য ওয়াই ফাই এ সংযোগ করুন</string>
+    <string name="local_printer_display_name_format">%s (স্থানীয়)</string>
+    <string name="manage_acl_permission">অনুমতিগুলি পরিচালনা করুন</string>
+    <string name="menu_hint_search_printers">মুদ্রকগুলির খুঁজুন</string>
+    <string name="no_accounts_message">ক্লাউড প্রিন্ট ব্যবহার করার জন্য, আপনাকে আপনার ডিভাইসে একটি Google অ্যাকাউন্ট যোগ করতে হবে</string>
+    <string name="no_advanced_options_message_title">কোনো উন্নত বিকল্প নেই</string>
+    <string name="no_devices_to_add">যোগ করার জন্য কোনো প্রিন্টার নেই</string>
+    <string name="offline_more_than_a_month">এক মাসের বেশি সময় ধরে অফলাইন</string>
+    <string name="offline_more_than_a_week">এক সপ্তাহের বেশি সময় ধরে অফলাইন</string>
+    <string name="offline_more_than_a_year">এক বছরের বেশি সময় ধরে অফলাইন</string>
+    <string name="ok">ঠিক আছে</string>
+    <string name="page_1">১</string>
+    <string name="page_2">২</string>
+    <string name="play_store_description">"অফিসিয়াল Google ক্লাউড প্রিন্ট অ্যাপের লেটেস্ট রিলিজটি ডাউনলোড করুন। Android এর জন্য ক্লাউড প্রিন্ট ব্যবহার করে আপনি: 
+
+- যে কোনো উপযুক্ত Android ডিভাইস থেকে Google ক্লাউড প্রিন্টের সাথে সংযুক্ত যে কোনো প্রিন্টারে প্রিন্ট নিতে পারেন 
+- গ্যালারির মত কোনো অ্যাপ থেকে ছবি অথবা দস্তাবেজ সরাসরি ক্লাউড প্রিন্টে শেয়ার করতে পারেন 
+- চলমান প্রিন্টগুলি ট্র্যাক করতে পারেন 
+- প্রিন্টারের আমন্ত্রণগুলি প্রক্রিয়াকরণ করতে পারেন। ক্লাউড প্রিন্ট এ ইমেলে আসা আমন্ত্রণের লিঙ্কগুলি খুলুন। 
+- ক্লাউড এর সাথে ব্যবহার করা যাবে, এমন নতুন প্রিন্টার খুঁজে সেগুলি স্থানীয় নেটওয়ার্কে নথিভুক্ত করতে পারেন* 
+
+ Android ডিভাইস থেকে প্রিন্ট করা এখন কত সহজ। 
+
+ Google ক্লাউড প্রিন্ট অ্যাপটি Android KitKat এ প্রিন্ট প্লাগ ইন হিসেবে পাওয়া যায়, এবং Android এর আগের সংস্করণগুলিতে একটি আলাদা অ্যাপ হিসেবে ব্যবহার করা যায়। আপনার ডিভাইসটি KitKat এ আপডেট করলে পুরনো আইকনটি আপনাকে নিজের হাতে সরাতে হতে পারে। 
+*স্থানীয় আবিষ্কার সমস্ত মডেলে সমর্থিত নয় - বিশদ বিবরণের জন্য আপনার প্রিন্টারের সেটআপ ম্যানুয়াল দেখুন 
+
+অনুমতির বিজ্ঞপ্তি: 
+- পরিচিতি: প্রিন্টারের সাথে ইন্টারঅ্যাক্ট করার জন্য আপনার Google অ্যাকাউন্ট পরিচালনা করতে ক্লাউড প্রিন্ট অ্যাপটির পরিচিতি অনুমতি প্রয়োজন 
+- সঞ্চয়স্থান: প্রিন্ট করার জন্য ফাইলগুলি অ্যাক্সেস করতে ক্লাউড প্রিন্ট অ্যাপটির সঞ্চয়স্থানের অনুমতি প্রয়োজন"</string>
+    <string name="play_store_tagline">যে কোনো Android ট্যাবলেট বা স্মার্টফোন থেকে যেকোনো জায়গা থেকে প্রিন্ট করুন৷</string>
+    <string name="play_store_whats_new">"
+- Google ক্লাউড প্রিন্ট 2.0 প্রিন্টারের জন্য সমর্থন যোগ করে (ড্রাইভারবিহীন স্থানীয় প্রিন্ট, সহজ সেট আপ) 
+- প্রিন্টার পরিচালক বৈশিষ্ট্যগুলি যোগ করে (সেটিংস > প্রিন্ট > ক্লাউড প্রিন্ট > ’সেটিংস’ মেনু > প্রিন্টার পরিচালনা করুন) 
+- ত্রুটি সমাধান ও UI এর উন্নতি"</string>
+    <string name="please_confirm_registration_on_device">ডিভাইসে নিবন্ধন নিশ্চিত করুন</string>
+    <string name="pref_about">সম্পর্কে</string>
+    <string name="pref_account">অ্যাকাউন্ট</string>
+    <string name="pref_account_settings_title">অ্যাকাউন্ট সেটিংস</string>
+    <string name="pref_add_account">অ্যাকাউন্ট যোগ করুন</string>
+    <string name="pref_category_about">সম্পর্কে</string>
+    <string name="pref_category_features">বৈশিষ্ট্যসমূহ</string>
+    <string name="pref_category_manage">পরিচালনা</string>
+    <string name="pref_category_options">বিকল্পগুলি</string>
+    <string name="pref_category_settings">সেটিংস</string>
+    <string name="pref_open_source">মুক্ত উৎস লাইসেন্সগুলি</string>
+    <string name="pref_printer_visibility_title">প্রিন্টারের দৃশ্যতা</string>
+    <string name="pref_privacy_policy">গোপনীয়তা নীতি</string>
+    <string name="pref_terms_of_service">পরিষেবার শর্তাবলী</string>
+    <string name="preferences">সেটিংস</string>
+    <string name="preferences_license_summary">ওপেন সোর্স সফ্টওয়্যারের লাইসেন্স বিবরণ</string>
+    <string name="preferences_license_title">ওপেন সোর্স লাইসেন্স</string>
+    <string name="print">প্রিন্ট</string>
+    <string name="print_job_deleted">\"%1$s\" মোছা হয়েছে</string>
+    <string name="print_job_deleted_multiple">%1$dটি প্রিন্টার কাজ মোছা হয়েছে</string>
+    <string name="print_queue_empty">কোনো প্রিন্ট কাজ নেই৷</string>
+    <string name="print_queue_load_failure">প্রিন্টের কাজগুলি লোড করা যায়নি৷</string>
+    <string name="printer_added_format">%1$s যোগ করা হয়েছে</string>
+    <string name="printer_available_to_everyone">সকলের জন্য উপলব্ধ</string>
+    <string name="printer_detail_title_firmware_update_url">ফার্মওয়্যার আপডেট URL</string>
+    <string name="printer_detail_title_firmware_version">ফার্মওয়্যার সংস্করণ</string>
+    <string name="printer_detail_title_gcp_version">Google ক্লাউড প্রিন্ট সংস্করণ</string>
+    <string name="printer_detail_title_manufacturer">প্রস্তুতকর্তা</string>
+    <string name="printer_detail_title_model">মডেল</string>
+    <string name="printer_detail_title_printer_id">প্রিন্টার ID</string>
+    <string name="printer_detail_title_printer_type">প্রিন্টারের প্রকার</string>
+    <string name="printer_detail_title_proxy">প্রক্সি</string>
+    <string name="printer_detail_title_registered_time">ক্লাউড প্রিন্টের সাথে নথিভুক্ত রয়েছে</string>
+    <string name="printer_detail_title_serial_number">ক্রমিক সংখ্যা</string>
+    <string name="printer_detail_title_supported_content_types">সমর্থিত সামগ্রীর প্রকারগুলি</string>
+    <string name="printer_detail_title_tags">ট্যাগগুলি</string>
+    <string name="printer_detail_title_update_time">শেষবার আপডেট হয়েছে</string>
+    <string name="printer_details_advanced_title">উন্নত বিশদ বিবরণ</string>
+    <string name="printer_details_title">সাধারণ তথ্য</string>
+    <string name="printer_label">প্রিন্টার</string>
+    <string name="printer_last_job_format">সর্বশেষ প্রিন্ট কার্যটি ছিল %1$s</string>
+    <string name="printer_list_empty">প্রিন্টার তালিকা খালি</string>
+    <string name="printer_list_load_failure">মুদ্রকগুলি লোড করা যায়নি৷</string>
+    <string name="printer_list_search_no_matches">কোনো মিলে যাওয়া মূদ্রক নেই</string>
+    <string name="printer_owned_by">%1$s এর মালিকানাধীন</string>
+    <string name="printer_owned_by_me">আমার মালিকানাধীন</string>
+    <string name="printer_status_offline_msg">প্রিন্টার অফলাইনে আছে</string>
+    <string name="printer_status_online_msg">প্রিন্টার অনলাইনে উপস্থিত এবং প্রিন্ট কাজের জন্য প্রস্তুত</string>
+    <string name="printer_support_url_at">সমর্থন %1$s এ উপলব্ধ</string>
+    <string name="printer_type_connector">Google Chrome এর মাধ্যমে সংযুক্ত ক্লাসিক প্রিন্টার</string>
+    <string name="printer_type_docs">Google দস্তাবেজ প্রিন্টার</string>
+    <string name="printer_type_drive">Google ড্রাইভ প্রিন্টার</string>
+    <string name="printer_type_gcp_ready">ক্লাউডের জন্য প্রস্তুত প্রিন্টার</string>
+    <string name="printer_type_hp">HP ePrinter</string>
+    <string name="printers_shown_entry_all">সমস্ত</string>
+    <string name="printers_shown_entry_none">কিছুই নেই</string>
+    <string name="printers_shown_entry_recent">সাম্প্রতিক</string>
+    <string name="printers_shown_summary_all">এই অ্যাকাউন্টের সমস্ত প্রিন্টার দেখানো হবে৷ পরিবর্তন করতে আলতো চাপুন৷</string>
+    <string name="printers_shown_summary_none">এই অ্যাকাউন্টের কোনো প্রিন্টার দেখানো হবে না৷ পরিবর্তন করতে আলতো চাপুন৷</string>
+    <string name="printers_shown_summary_recent">এই অ্যাকাউন্ট থেকে শুধুমাত্র সাম্প্রতিক ব্যবহৃত মুদ্রকগুলি দেখানো হবে৷ পরিবর্তন করতে আলতো চাপুন৷</string>
+    <string name="privet_device_address">"ঠিকানা: "</string>
+    <string name="privet_registration_failure">প্রিন্টার নথিভুক্ত করা যায়নি</string>
+    <string name="privet_registration_success">প্রিন্টার সফলভাবে নথিভূক্ত করা হয়েছে</string>
+    <string name="quota_limited">দিন প্রতি পৃষ্ঠাগুলি</string>
+    <string name="quota_limited_template">দৈনিক কোটা: %1$d পৃষ্ঠা(গুলি)</string>
+    <string name="quota_remaining">আজ %1$dটি পৃষ্ঠা অবশিষ্ট রয়েছে</string>
+    <string name="quota_unlimited">সীমাহীন কোটা</string>
+    <string name="refresh">রিফ্রেশ</string>
+    <string name="register_with_account_template">%2$s এর সাথে %1$s এর নিবন্ধন করা হচ্ছে</string>
+    <string name="rename">পুনঃনামকরণ</string>
+    <string name="rename_printer_hint">একটি নতুন প্রিন্টারের নাম লিখুন…</string>
+    <string name="rename_printer_title">প্রিন্টারের আবার নাম দিন</string>
+    <string name="save">সেভ করুন</string>
+    <string name="search">খুঁজুন</string>
+    <string name="search_menu_title">খুঁজুন</string>
+    <string name="select_file">ফাইল বেছে নিন</string>
+    <string name="share_public_url">প্রিন্টারের URL শেয়ার করুন</string>
+    <string name="sharing_toast">শেয়ার করা হচ্ছে...</string>
+    <string name="status_bar_notification_info_overflow">৯৯৯+</string>
+    <string name="status_done">প্রিন্ট করা হয়েছে</string>
+    <string name="status_error">ত্রুটি</string>
+    <string name="status_expired">মেয়াদ উত্তীর্ণ হয়েছে</string>
+    <string name="status_held">ঘটেছে</string>
+    <string name="status_in_progress">প্রক্রিয়ায় আছে</string>
+    <string name="status_queued">সারিবদ্ধ</string>
+    <string name="status_sending">পাঠানো হচ্ছে…</string>
+    <string name="status_submitted">জমা দেওয়া হয়েছে</string>
+    <string name="subtitle_print_preview_multiple_documents">একাধিক দস্তাবেজ</string>
+    <string name="success_msg">সফল হয়েছে</string>
+    <string name="title_add_printer">প্রিন্টার যোগ করুন</string>
+    <string name="title_advanced_print_options">উন্নত প্রিন্ট বিকল্পগুলি</string>
+    <string name="title_invitations">আমন্ত্রণগুলি</string>
+    <string name="title_manage_printer">প্রিন্টার পরিচালনা করুন</string>
+    <string name="title_manage_printers">মুদ্রকগুলি পরিচালনা করুন</string>
+    <string name="title_print_jobs">প্রিন্ট কাজগুলি</string>
+    <string name="title_print_preview">প্রিন্ট পূর্বরূপ</string>
+    <string name="title_printers">মুদ্রকগুলি</string>
+    <string name="to_print_file">ফাইল প্রিন্ট করুন...</string>
+    <string name="unknown_printer">অজানা প্রিন্টার</string>
+    <string name="updating_toast">আপডেট করা হচ্ছে...</string>
+</resources>

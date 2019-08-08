@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d개 더보기</item>
+        <item quantity="one">%1$d개 더보기</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s일</item>
+        <item quantity="one">1일</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s시간</item>
+        <item quantity="one">1시간</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s분</item>
+        <item quantity="one">1분</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">앱 %s개</item>
+        <item quantity="one">앱 1개</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">앱 %s개</item>
+        <item quantity="one">앱 1개</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s초</item>
+        <item quantity="one">1초</item>
+    </plurals>
+</resources>

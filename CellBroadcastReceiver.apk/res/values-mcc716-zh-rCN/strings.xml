@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">紧急警报：演习/模拟消息</string>
+    <string name="cmas_required_monthly_test">紧急警报：测试消息</string>
+    <string name="enable_public_safety_messages_title">有用的消息</string>
+    <string name="public_safety_message">有用的消息</string>
+</resources>

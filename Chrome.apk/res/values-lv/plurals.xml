@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">%d audio faili</item>
+        <item quantity="zero">%d audio faili</item>
+        <item quantity="one">%d audio fails</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d faili</item>
+        <item quantity="zero">%d faili</item>
+        <item quantity="one">%d fails</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d attēli</item>
+        <item quantity="zero">%d attēli</item>
+        <item quantity="one">%d attēls</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d lapas</item>
+        <item quantity="zero">%d lapas</item>
+        <item quantity="one">%d lapa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">%d videoklipi</item>
+        <item quantity="zero">%d videoklipi</item>
+        <item quantity="one">%d videoklips</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">Noņemt %d atlasītos vienumus</item>
+        <item quantity="zero">Noņemt %d atlasītos vienumus</item>
+        <item quantity="one">Noņemt 1 atlasīto vienumu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">Kopīgot %d atlasītos vienumus</item>
+        <item quantity="zero">Kopīgot %d atlasītos vienumus</item>
+        <item quantity="one">Kopīgot 1 atlasīto vienumu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">%1$d atvērtas cilnes. Pieskarieties, lai pārslēgtu cilnes.</item>
+        <item quantity="zero">%1$d atvērtu ciļņu. Pieskarieties, lai pārslēgtu cilnes.</item>
+        <item quantity="one">%1$d atvērta cilne. Pieskarieties, lai pārslēgtu cilnes.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">%1$d grāmatzīmes</item>
+        <item quantity="zero">%1$d grāmatzīmju</item>
+        <item quantity="one">%1$d grāmatzīme</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d cilnes</item>
+        <item quantity="zero">%1$d cilnes</item>
+        <item quantity="one">%1$d cilne</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (un vēl %d)"</item>
+        <item quantity="zero">" (un vēl %d)"</item>
+        <item quantity="one">" (un vēl 1)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">Notiek %d failu lejupielāde.</item>
+        <item quantity="zero">Notiek %d failu lejupielāde.</item>
+        <item quantity="one">Notiek faila lejupielāde.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d h</item>
+        <item quantity="zero">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">Lejupielādēti %1$d faili</item>
+        <item quantity="zero">Lejupielādēti %1$d faili</item>
+        <item quantity="one">Lejupielādēts %1$d fails</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">%d lejupielādes ir pabeigtas.</item>
+        <item quantity="zero">%d lejupielādes ir pabeigtas.</item>
+        <item quantity="one">1 lejupielāde ir pabeigta.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">%d lejupielādes neizdevās.</item>
+        <item quantity="zero">%d lejupielādes neizdevās.</item>
+        <item quantity="one">1 lejupielāde neizdevās.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">%d neapstiprinātas lejupielādes.</item>
+        <item quantity="zero">%d neapstiprinātu lejupielāžu.</item>
+        <item quantity="one">1 neapstiprināta lejupielāde.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">pirms %d dienām</item>
+        <item quantity="zero">pirms %d dienām</item>
+        <item quantity="one">pirms %d dienas</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">pirms %d stundām</item>
+        <item quantity="zero">pirms %d stundām</item>
+        <item quantity="one">pirms %d stundas</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">pirms %d minūtēm</item>
+        <item quantity="zero">pirms %d minūtēm</item>
+        <item quantity="one">pirms %d minūtes</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">Kad ierīce būs gatava, jūsu lapas tiks ielādētas pārlūkā Chrome</item>
+        <item quantity="zero">Kad ierīce būs gatava, jūsu lapas tiks ielādētas pārlūkā Chrome</item>
+        <item quantity="one">Kad ierīce būs gatava, jūsu lapa tiks ielādēta pārlūkā Chrome</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">%1$s… un vēl %2$s</item>
+        <item quantity="zero">%1$s… un vēl %2$s</item>
+        <item quantity="one">%1$s… un vēl %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">%1$s… un vēl %2$s</item>
+        <item quantity="zero">%1$s… un vēl %2$s</item>
+        <item quantity="one">%1$s… un vēl %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">%1$s… un vēl %2$s</item>
+        <item quantity="zero">%1$s… un vēl %2$s</item>
+        <item quantity="one">%1$s… un vēl %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">%1$s… un vēl %2$s</item>
+        <item quantity="zero">%1$s… un vēl %2$s</item>
+        <item quantity="one">%1$s… un vēl %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">Atlasīti %d vienumi</item>
+        <item quantity="zero">Atlasīti %d vienumi</item>
+        <item quantity="one">Atlasīts 1 vienums</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">Signāla stipruma līmenis: %d joslas</item>
+        <item quantity="zero">Signāla stipruma līmenis: %d joslu</item>
+        <item quantity="one">Signāla stipruma līmenis: %d josla</item>
+    </plurals>
+</resources>

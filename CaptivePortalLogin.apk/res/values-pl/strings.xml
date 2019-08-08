@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Zaloguj się do sieci</string>
+    <string name="action_bar_title">Zaloguj się w aplikacji %1$s</string>
+    <string name="action_do_not_use_network">Nie używaj tej sieci</string>
+    <string name="action_use_network">Używaj tej sieci tak jak jest</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Informacje o stronie</string>
+    <string name="page_info_address">Adres:</string>
+    <string name="ssl_error_continue">Kontynuuj mimo to w przeglądarce</string>
+    <string name="ssl_error_date_invalid">Certyfikat ma nieprawidłową datę.</string>
+    <string name="ssl_error_example">Na przykład strona logowania może nie należeć do wyświetlanej organizacji.</string>
+    <string name="ssl_error_expired">Certyfikat wygasł.</string>
+    <string name="ssl_error_invalid">Certyfikat jest nieprawidłowy.</string>
+    <string name="ssl_error_mismatch">Nazwa witryny nie pasuje do nazwy na certyfikacie.</string>
+    <string name="ssl_error_not_yet_valid">Certyfikat nie jest jeszcze ważny.</string>
+    <string name="ssl_error_unknown">Nieznany błąd certyfikatu.</string>
+    <string name="ssl_error_untrusted">Certyfikat nie pochodzi od zaufanego urzędu.</string>
+    <string name="ssl_error_view_certificate">Wyświetl certyfikat</string>
+    <string name="ssl_error_warning">W sieci, z którą próbujesz się połączyć, występują problemy z zabezpieczeniami.</string>
+    <string name="ssl_security_warning_title">Ostrzeżenie dotyczące bezpieczeństwa</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

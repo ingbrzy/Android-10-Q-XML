@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Hasi saioa sarean</string>
+    <string name="action_bar_title">Hasi saioa %1$s sarean</string>
+    <string name="action_do_not_use_network">Ez erabili sare hau</string>
+    <string name="action_use_network">Erabili sare hau bere horretan</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ok">Ados</string>
+    <string name="page_info">Orriari buruzko informazioa</string>
+    <string name="page_info_address">Helbidea:</string>
+    <string name="ssl_error_continue">Jarraitu arakatzailearen bidez, halere</string>
+    <string name="ssl_error_date_invalid">Ziurtagiriaren datak ez du balio.</string>
+    <string name="ssl_error_example">Adibidez, baliteke saioa hasteko orria adierazitako erakundearena ez izatea.</string>
+    <string name="ssl_error_expired">Ziurtagiria iraungi da.</string>
+    <string name="ssl_error_invalid">Ziurtagiriak ez du balio.</string>
+    <string name="ssl_error_mismatch">Webgunearen izena ez dator bat ziurtagirian agertzen den izenarekin.</string>
+    <string name="ssl_error_not_yet_valid">Ziurtagiriak ez du balio oraindik.</string>
+    <string name="ssl_error_unknown">Errore ezezagun bat gertatu da ziurtagiriarekin.</string>
+    <string name="ssl_error_untrusted">Ziurtagiria ez da autoritate fidagarri batena.</string>
+    <string name="ssl_error_view_certificate">Ikusi ziurtagiria</string>
+    <string name="ssl_error_warning">Erabili nahi duzun sareak segurtasun-arazoak ditu.</string>
+    <string name="ssl_security_warning_title">Segurtasun-abisua</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

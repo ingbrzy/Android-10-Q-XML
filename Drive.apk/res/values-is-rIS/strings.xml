@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessbility_suggestion_dropdown_closed">Engar tillögur í boði</string>
+    <string name="accessbility_suggestion_dropdown_opened">Tillögur um tengiliði opnaðar</string>
+    <string name="account_item">Skipta yfir í %1$s</string>
+    <string name="account_list">Listi yfir reikninga</string>
+    <string name="action_label">Venda</string>
+    <string name="add_account">Bæta reikningi við</string>
+    <string name="chips_action_cancel">Hætta við</string>
+    <string name="chips_action_copy">Afrita</string>
+    <string name="chips_permission_text">Leyfa tillögur að tengiliðum</string>
+    <string name="dropdown_delete_button_desc">Fjarlægja %s úr viðtakendum</string>
+    <string name="hide_account_list">Fela reikninga</string>
+    <string name="manage_accounts">Umsjón með reikningum</string>
+    <string name="more_string">+%1$d</string>
+    <string name="selected_account">Skráð inn á %1$s</string>
+    <string name="show_account_list">Sýna reikninga</string>
+    <string name="sign_in">Innskráning</string>
+</resources>

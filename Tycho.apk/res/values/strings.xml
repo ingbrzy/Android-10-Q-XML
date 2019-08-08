@@ -1,0 +1,1969 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="access">Access</string>
+    <string name="account_management_body">Google Fi has been set up for account access only. This means you can use the Google Fi app to manage your account and settings. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a>&lt;br>&lt;br>&lt;b>Calling, texting, and voicemail are not available via Google Fi on this device.&lt;/b></string>
+    <string name="account_management_title">Account access only</string>
+    <string name="account_number">Account number</string>
+    <string name="account_number_dialog">"Find your account number and most of your other info on your last bill.
+
+This info may not be readily available if you use a prepaid or non-traditional phone service. Contact your service provider for assistance."</string>
+    <string name="account_password_dialog">"Forgot your %s? You'll have to contact your service provider since it isn't shown on your bill."</string>
+    <string name="account_settings">Account settings</string>
+    <string name="account_suspended">Your service is on hold</string>
+    <string name="account_suspended_detail">To resume Google Fi service, make sure to resolve any issues with your payment.</string>
+    <string name="account_suspended_pending_detail">It may take up to 1 hour for your service to resume.</string>
+    <string name="account_terminated">@string/service_canceled</string>
+    <string name="activate">Activate</string>
+    <string name="activate_euicc_fragment_text">To use Google Fi for calls, texts, and data on this device, activate Google Fi.</string>
+    <string name="activate_euicc_fragment_title">Google Fi is not your active carrier</string>
+    <string name="activate_later">Set up later</string>
+    <string name="activating_nova">Activating…</string>
+    <string name="activating_slow">This takes a minute or two, sometimes longer.</string>
+    <string name="activation_body_try_later">"Unfortunately, your Google Fi service can't be activated right now.
+
+You'll be prompted to activate as soon as you've finished setting up your device.
+
+Code: %1$s"</string>
+    <string name="activation_complete_calls_new_number">Your new number is %1$s.</string>
+    <string name="activation_complete_calls_no_number">"Not available until your number is assigned (we're working on it)."</string>
+    <string name="activation_complete_calls_old_number">Your number is %1$s.</string>
+    <string name="activation_complete_calls_port_error">Not available due to an issue with your number transfer.</string>
+    <string name="activation_complete_calls_port_in_15m">Not available until your number transfer is complete (about 15 minutes).</string>
+    <string name="activation_complete_calls_port_in_2d">Not available until your number transfer is complete (about 1–2 business days).</string>
+    <string name="activation_complete_calls_port_late">"We're working to change your phone number to %1$s. Continue using your current Fi phone number, %2$s, until the transfer is complete."</string>
+    <string name="activation_complete_calls_port_skipped">We still need some information to complete your number transfer.</string>
+    <string name="activation_complete_data_active">Your data connection should be active.</string>
+    <string name="activation_complete_data_not_active">Your data connection is not yet active.</string>
+    <string name="activation_complete_footer_port">"&lt;b>You'll get a notification on this phone as soon as your number is transferred.&lt;/b>"</string>
+    <string name="activation_complete_footer_port_error">&lt;b>To resolve the issue, call us at %1$s.&lt;/b></string>
+    <string name="activation_complete_footer_port_error_unicorn">&lt;b>For help with this, ask a parent to contact us at %1$s.&lt;/b></string>
+    <string name="activation_complete_footer_port_skipped">Please complete your transfer by following the instructions in the Google Fi app.</string>
+    <string name="activation_complete_footer_self_service_inapp">You can manage your service and settings anytime with the Google Fi app.</string>
+    <string name="activation_complete_footer_self_service_suw">"You can manage your service and settings anytime with the Google Fi app that's already on your phone."</string>
+    <string name="activation_complete_footer_support_inapp">You can reach us with any questions about your number or manage your service and settings anytime with the Google Fi app.</string>
+    <string name="activation_complete_footer_support_suw">"You can reach us with any questions about your number or manage your service and settings anytime with the Google Fi app that's already on your phone."</string>
+    <string name="activation_complete_footer_tnt">"As a reminder, your number is only active on this phone. It's no longer registered to another device."</string>
+    <string name="activation_complete_intro_activated">"You've activated service on this phone."</string>
+    <string name="activation_complete_intro_port_error">"You've activated service on this phone, but there's a problem with your number transfer."</string>
+    <string name="activation_complete_intro_tnt">"You've moved your number to this phone."</string>
+    <string name="activation_configure_super_network_body">"To maximize coverage, your service will be briefly disconnected. If this isn't a good time, just cancel and Google Fi will try to maximize coverage overnight."</string>
+    <string name="activation_configure_super_network_title">OK to disconnect?</string>
+    <string name="activation_disclaimer_button">Got it</string>
+    <string name="activation_disclaimer_info_designed_to_beyond">"As a reminder, this phone doesn't support all the same Fi features as your previous phone. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a>"</string>
+    <string name="activation_disclaimer_info_designed_to_maybe">"This phone hasn't been fully tested on Fi, and it doesn't support all the Fi features of your previous phone. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a>"</string>
+    <string name="activation_disclaimer_info_maybe">"As a reminder, this phone hasn't been fully tested on Fi, but most features should work as intended. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a>"</string>
+    <string name="activation_disclaimer_supported_capabilities_international">International data at the same US rates</string>
+    <string name="activation_disclaimer_supported_capabilities_network">4G LTE speeds + unlimited calls and texts</string>
+    <string name="activation_disclaimer_supported_capabilities_support">24/7 human-to-human support</string>
+    <string name="activation_disclaimer_supported_capabilities_title">You can expect to get:</string>
+    <string name="activation_disclaimer_title">Before we get started</string>
+    <string name="activation_disclaimer_unsupported_capabilities_switching">"This phone gets most (but not all) of Fi's coverage, so you may have trouble connecting in some spots that worked before."</string>
+    <string name="activation_disclaimer_unsupported_capabilities_title">"What's changing:"</string>
+    <string name="activation_enable_mobile_data">To activate service, first turn on mobile data.</string>
+    <string name="activation_error_account_closed">Service for this account was previously canceled.</string>
+    <string name="activation_error_account_state">"Unfortunately, your Google Fi service can't be activated because your account currently isn't authorized for service."</string>
+    <string name="activation_error_account_suspended">"Unfortunately, your Google Fi service can't be activated right now because it is currently on hold."</string>
+    <string name="activation_error_account_terminated">"Your account currently isn't authorized for service on Google Fi."</string>
+    <string name="activation_error_airplane_mode">To activate service on Google Fi, first &lt;a href=\"#clickify\">turn off airplane mode&lt;/a> and then try again.</string>
+    <string name="activation_error_backend_down">"Unfortunately, your Google Fi service can't be activated right now. Try again in a few minutes."</string>
+    <string name="activation_error_body_error_code">ID: %s</string>
+    <string name="activation_error_callback_request_no_connection">Not available offline</string>
+    <string name="activation_error_callback_request_title">Have us call you</string>
+    <string name="activation_error_callback_request_wait_time">Estimated wait time is %1$s</string>
+    <string name="activation_error_cant_request_required_permissions_phone_body">"Unfortunately, calls and texts won't work on Google Fi until you go to Settings and turn on phone permissions."</string>
+    <string name="activation_error_cant_request_required_permissions_phone_sms_body">"Unfortunately, calls and texts won't work on Google Fi until you go to Settings and turn on phone and SMS permissions."</string>
+    <string name="activation_error_cellular_data">To activate service on Google Fi, first &lt;a href=\"#clickify\">turn on mobile data&lt;/a> and then try again.</string>
+    <string name="activation_error_closed_contact_info">To activate service again on Google Fi, first call %1$s.</string>
+    <string name="activation_error_data_only_sim_no_active_talk_and_text_device">"Unfortunately, we can't activate this SIM card because you don't have a primary device on your account. That's the device associated with your phone number."</string>
+    <string name="activation_error_generic_error">"Unfortunately, your Google Fi service can't be activated right now."</string>
+    <string name="activation_error_help_contact_info">If you need help, call %1$s.</string>
+    <string name="activation_error_help_contact_info_issue_number">Need help? Call &lt;b>%1$s&lt;/b> and mention issue number &lt;b>%2$s&lt;/b>.</string>
+    <string name="activation_error_no_connection">"Unfortunately, your Google Fi service can't be activated because your phone can't connect to the Internet.&lt;br>&lt;br>To activate service, first check your Internet connection and then try again."</string>
+    <string name="activation_error_required_permissions_phone_not_granted_body">"Unfortunately, calls and texts won't work on Google Fi until you allow phone permissions."</string>
+    <string name="activation_error_required_permissions_phone_sms_not_granted_body">"Unfortunately, calls and texts won't work on Google Fi until you allow phone and SMS permissions."</string>
+    <string name="activation_error_required_permissions_privacy">Concerned about privacy? We get it. You can &lt;a href=\"#clickify\">read our policy here&lt;/a>.</string>
+    <string name="activation_error_required_permissions_title">We have to ask for permissions</string>
+    <string name="activation_error_resume_service_paused_by_admin">To set up Google Fi on this device, your account owner or manager first needs to resume your service.</string>
+    <string name="activation_error_secret_code_details">Tap for 24/7 support</string>
+    <string name="activation_error_secret_code_details_result">Call %1$s and provide your secret code: %2$s</string>
+    <string name="activation_error_secret_code_dialog_body">Call us at %1$s and provide your secret code.</string>
+    <string name="activation_error_secret_code_dialog_title">Secret code</string>
+    <string name="activation_error_secret_code_title">How to contact us</string>
+    <string name="activation_error_sim_error">"Unfortunately, your Google Fi service can't be activated due to an issue with your SIM card."</string>
+    <string name="activation_error_sim_too_old">To get Google Fi service on this device, first remove the current SIM card and replace it with one supported for this device.&lt;br>&lt;br> &lt;b>What SIMs are supported?&lt;/b>&lt;br>If you ordered this device from Google Fi, use the SIM that we sent along with this device.&lt;br>&lt;br>&lt;b>Need to get a supported SIM?&lt;/b>&lt;br>Visit fi.google.com/order-sim&lt;br>&lt;br>Code: %1$s</string>
+    <string name="activation_error_suspended_contact_info">To activate service, first call %1$s.</string>
+    <string name="activation_error_wifi">To activate service, first connect to a Wi‑Fi network and then try again.</string>
+    <string name="activation_error_wrong_sim_in_talk_and_text_device">"To get Google Fi service on this device, first remove the current SIM card and replace it with your primary Google Fi SIM. That's the SIM card associated with your phone number."</string>
+    <string name="activation_must_insert_sim_existing_user_detail">"To continue setting up, make sure your Google Fi SIM card is inserted correctly.
+
+Don't have a SIM card?"</string>
+    <string name="activation_must_insert_sim_existing_user_negative_choice_detail">"Use this app just to manage your account (but you won't get service)"</string>
+    <string name="activation_must_insert_sim_existing_user_negative_choice_title">Get account access only</string>
+    <string name="activation_must_insert_sim_existing_user_positive_choice_detail">"We'll send you one for free so you can get service."</string>
+    <string name="activation_must_insert_sim_existing_user_positive_choice_title">Order a SIM card</string>
+    <string name="activation_must_insert_sim_new_user_detail">To continue setting up, make sure your Google Fi SIM card is inserted correctly.&lt;br>&lt;br>Need help? Call &lt;b>%1$s&lt;/b> or visit &lt;a href=\"#clickify\">fi.google.com/activate&lt;/a>.</string>
+    <string name="activation_must_insert_sim_title">Insert your SIM card</string>
+    <string name="activation_no_gaia">If you already have a Google Account associated with Google Fi, sign in to get started.&lt;br>&lt;br>Or you can sign up for Google Fi service at &lt;a href=\"#clickify\">fi.google.com&lt;/a>.</string>
+    <string name="activation_notification_port_error_body">@string/straighten_things_out</string>
+    <string name="activation_notification_port_error_title">@string/couldnt_transfer</string>
+    <string name="activation_notification_port_skipped_body">To get calls and texts on Google Fi, first transfer your number.</string>
+    <string name="activation_notification_port_skipped_title">@string/port_title</string>
+    <string name="activation_service_will_resume_title">Your service is paused</string>
+    <string name="activation_set_up_later_details">"Your Google Fi account won't work on this phone until you activate service.
+
+Whenever you're ready, come back to this app to finish setup."</string>
+    <string name="activation_set_up_later_title">Set up your phone later</string>
+    <string name="activation_sign_up_on_web">Sign up at fi.google.com</string>
+    <string name="activation_sign_up_or_retry">Sign up for Google Fi service with %1$s, or &lt;a href=\"#clickify\">use a different account&lt;/a>.</string>
+    <string name="activation_sign_up_title">Sign up for Google Fi</string>
+    <string name="activation_title_airplane_mode">Turn off airplane mode</string>
+    <string name="activation_title_backend_down">Try activating service again</string>
+    <string name="activation_title_cellular_data">Turn on mobile data</string>
+    <string name="activation_title_change_sim_card">Change SIM card</string>
+    <string name="activation_title_no_connection">Check your connection</string>
+    <string name="activation_title_sim_card_error">SIM card error</string>
+    <string name="activation_title_try_later">Activate service later</string>
+    <string name="activation_title_wifi">Connect to Wi‑Fi</string>
+    <string name="activation_unsupported_device_existing_user_detail">"Google Fi isn't compatible with this phone, so we can't activate service right now.&lt;br>&lt;br>To get service, you'll need a phone that works with Fi. To just manage your settings, you can &lt;a href=\"#clickify\">enter account access mode&lt;/a>."</string>
+    <string name="activation_unsupported_device_new_user_detail">"Google Fi isn't compatible with this phone, so we can't activate service right now. To get service, you'll need a phone that works with Fi."</string>
+    <string name="activation_unsupported_device_title">"This phone won't work on Fi"</string>
+    <string name="activation_unsupported_version">To activate service, your phone needs the latest version of the Google Fi app.</string>
+    <string name="activation_unsupported_version_title">Update Google Fi</string>
+    <string name="activation_welcome_button">Start setup</string>
+    <string name="activation_welcome_text_existing_user">Welcome back! Setting up Google Fi will only take a few minutes.</string>
+    <string name="activation_welcome_text_existing_user_permissions_needed">"Welcome back! To get Fi working on your phone, you'll need to allow phone and SMS permissions."</string>
+    <string name="activation_welcome_text_new_user">"We're glad you're here! Setting up Google Fi will only take a few minutes."</string>
+    <string name="activation_welcome_text_new_user_permissions_needed">"We're glad you're here! To get Fi working on your phone, you'll need to allow phone and SMS permissions."</string>
+    <string name="activation_welcome_title">"Let's get connected"</string>
+    <string name="activation_wrong_account">"Google Fi is not yet associated with the Google Account you're using:"</string>
+    <string name="active">Active</string>
+    <string name="actual_value">Valued at %1$s</string>
+    <string name="add_a_number">Add a number</string>
+    <string name="add_a_person">Add a person</string>
+    <string name="add_account">Use a different account</string>
+    <string name="add_another_member_disabled">Add up to %1$d people</string>
+    <string name="add_another_person">Add another person</string>
+    <string name="add_blocked_disclaimer">Blocked numbers are shared with other Google products, including Hangouts. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a></string>
+    <string name="add_blocked_number_title">Block a number</string>
+    <string name="add_data_only_sim">Add data‑only SIM</string>
+    <string name="add_device_choose_hardware_family_title">Select a device</string>
+    <string name="add_device_confirmation">"&lt;b>Order successful&lt;/b>&lt;br>&lt;br>If you are switching over to your new phone, we'll move your talk and text service when you activate."</string>
+    <string name="add_device_confirmation_with_dpp_text">%1$s&lt;br>&lt;br>You can still enroll your phone in device protection between now and %2$d days after it ships.</string>
+    <string name="add_device_error">"Couldn't add a device right now."</string>
+    <string name="add_device_update_app_dialog">To order a new device, get the latest version of the Google Fi app.</string>
+    <string name="add_forwarding_header">Forward calls to this number</string>
+    <string name="add_member_alerts">"You can track your group's data usage with alerts."</string>
+    <string name="add_member_bill_cap">Bill protection for your group will kick in at &lt;b>%1$s&lt;/b>, instead of %2$s.</string>
+    <string name="add_member_bill_cap_no_gb">Bill Protection is subject to change based on the number of people on your plan.</string>
+    <string name="add_member_bill_cap_unchanged">Bill protection for your group will stay at &lt;b>%1$s&lt;/b>.</string>
+    <string name="add_member_check_email">Enter a Gmail or Google email address</string>
+    <string name="add_member_choose_buy_or_bring_title">How will %1$s activate on Fi?</string>
+    <string name="add_member_choose_hardware_family_title">Select a device for %1$s</string>
+    <string name="add_member_disabled_dasher_error">The administrator for %1$s has turned off Google Fi access</string>
+    <string name="add_member_disabled_dasher_error_no_domain">The administrator for this domain has turned off Google Fi access</string>
+    <string name="add_member_email_body">Bill Protection for your group will kick in at &lt;b>%1$s&lt;/b> (was %2$s) if you add someone.</string>
+    <string name="add_member_email_title">"Enter the new member's email address"</string>
+    <string name="add_member_error">"Couldn't add a member right now."</string>
+    <string name="add_member_intro_title">"Here's what to expect if you add someone"</string>
+    <string name="add_member_next_steps_body">"You're all set, but %1$s needs to:&lt;br>&lt;br> &lt;a href=#list_item>&lt;b>Accept the invite&lt;/b> sent to %2$s.&lt;/a>&lt;br>&lt;br> &lt;a href=#list_item>&lt;b>Activate service&lt;/b> by using the Google Fi app on their device. This step only applies if they're new to Google Fi.&lt;/a>&lt;br>&lt;br>You won't start paying for %1$s until they activate service with Google Fi."</string>
+    <string name="add_member_unicorn_next_steps_body">Help %1$s get started:&lt;br>&lt;br> &lt;a href=#list_item>&lt;b>Sign in &amp;amp; accept the invite&lt;/b> sent to %2$s.&lt;/a>&lt;br>&lt;br> &lt;a href=#list_item>&lt;b>Activate service&lt;/b> by using the Google Fi app on their device. &lt;/a>&lt;br>&lt;br>If you have Chrome filters set in Family Link, check to allow fi.google.com. &lt;br>&lt;br>Payments for %1$s start after their Google Fi service is activated.</string>
+    <string name="add_member_unsupported_account_error">Enter an email address supported by Google Fi</string>
+    <string name="add_member_update_app_dialog">To add someone to your plan, get the latest version of the Google Fi app.</string>
+    <string name="add_member_voice">Calls &amp; texts will be %1$s﻿/﻿mo for this person.</string>
+    <string name="add_member_voice_no_cost">"You'll pay an additional flat rate for this person's calls &amp; texts."</string>
+    <string name="add_voicemail_greeting">Add voicemail greeting</string>
+    <string name="added_member">Added a member</string>
+    <string name="added_x">Added %1$s</string>
+    <string name="added_you">Added you</string>
+    <string name="additional_data_dialog_body">"%2$s will be charged at the usual rate for %1$s's full-speed data until this cycle ends. %1$s can't return to free data once you allow charges this cycle."</string>
+    <string name="additional_data_dialog_body_owner">"You'll be charged at the usual rate for %1$s's full-speed data until this cycle ends. %1$s can't return to free data once you allow charges this cycle."</string>
+    <string name="additional_data_dialog_body_owner_rate">"You'll be charged %1$s for %2$s's full-speed data until this cycle ends. %2$s can't return to free data once you allow charges this cycle."</string>
+    <string name="additional_data_dialog_body_rate">"%3$s will be charged %1$s for %2$s's full-speed data until this cycle ends. %2$s can't return to free data once you allow charges this cycle."</string>
+    <string name="additional_data_dialog_body_self">"%1$s will be charged at the usual rate for full-speed data until this cycle ends. You can't return to free data once you allow charges this cycle."</string>
+    <string name="additional_data_dialog_body_self_owner">"You'll be charged at the usual rate for full-speed data until this cycle ends. You can't return to free data once you allow charges this cycle."</string>
+    <string name="additional_data_dialog_body_self_owner_rate">"You'll be charged %1$s for full-speed data until this cycle ends. You can't return to free data once you allow charges this cycle."</string>
+    <string name="additional_data_dialog_body_self_rate">"%2$s will be charged %1$s for full-speed data until this cycle ends. You can't return to free data once you allow charges this cycle."</string>
+    <string name="additional_data_dialog_title">Allow charges for faster data?</string>
+    <string name="address_updated">Service address updated</string>
+    <string name="airtel">Airtel</string>
+    <string name="all">All</string>
+    <string name="allow_charges">Allow charges</string>
+    <string name="also_notify_by_email">Also notify by email</string>
+    <string name="america_movil">America Movil</string>
+    <string name="amount_paid">%1$s charged</string>
+    <string name="amount_remaining">%1$s remaining</string>
+    <string name="apartment_or_suite">Apartment or suite</string>
+    <string name="aplosA11yChartTypeCombo">Combo Chart</string>
+    <string name="aplosA11yChartTypeGroupBar">{0,choice,1#|1&lt;Grouped }Bar</string>
+    <string name="aplosA11yChartTypeLine">Line</string>
+    <string name="aplosA11yChartTypePie">Pie</string>
+    <string name="aplosA11yChartTypeStackedBar">{0,choice,1#|1&lt;Stacked }Bar</string>
+    <string name="aplosA11yChartTypeStackedLine">{0,choice,1#|1&lt;Stacked }Line</string>
+    <string name="aplosA11yChartTypeStackedStep">{0,choice,1#|1&lt;Stacked }Step</string>
+    <string name="aplosA11yChartTypeStep">Step</string>
+    <string name="aplosA11yChartTypeTemplate">{0} Chart</string>
+    <string name="aplosA11yDomainExplorerDomainAnnounce">{0}:</string>
+    <string name="aplosA11yDomainExplorerValueAnnounce">{0} is {1}</string>
+    <string name="aplosA11yUnknownChartType">Chart</string>
+    <string name="aplosExploreModeAvailableAnnouncement">Click to start exploring chart.</string>
+    <string name="aplosExploreModeBorder">Leaving explorable chart boundary.</string>
+    <string name="aplosExploreModeEndBoundary">End of chart.</string>
+    <string name="aplosExploreModeStartBoundary">Explore Chart using directional controls or by touch.</string>
+    <string name="app_name">Google Fi</string>
+    <string name="app_theme">App theme</string>
+    <string name="app_theme_dark">Dark</string>
+    <string name="app_theme_light">Light</string>
+    <string name="app_theme_system">System default</string>
+    <string name="app_usage">App usage</string>
+    <string name="att">AT&amp;T</string>
+    <string name="authorization_code">Secret code</string>
+    <string name="authorization_code_details">For added security, use a secret code to verify your identity when you contact us.</string>
+    <string name="auto_payment">Auto-payment</string>
+    <string name="auto_payment_scheduled_for_message">Auto-pay scheduled for %1$s</string>
+    <string name="auto_switching_enabled">Auto switching enabled</string>
+    <string name="axiata">Axiata</string>
+    <string name="back">Back</string>
+    <string name="bad_blocked_number">Enter a valid number</string>
+    <string name="bar_chart_alert_label">"Alert
+%1$s"</string>
+    <string name="bar_chart_content_description_alert">"You'll receive a data usage alert at %1$s."</string>
+    <string name="bar_chart_content_description_group_usage">Group usage is %1$s.</string>
+    <string name="bar_chart_content_description_usage">Data usage is %1$s.</string>
+    <string name="bar_chart_data_plan_flag">%1$s plan</string>
+    <string name="bar_chart_group_usage_label">"Group
+%1$s"</string>
+    <string name="based_on_usage">"%1$s
+based on usage"</string>
+    <string name="beta">%1$s (Beta)</string>
+    <string name="beta_talkback">Beta</string>
+    <string name="bill_cap_info_dialog_description_full_speed_individual">"Data becomes free after you use %1$s, but slows down after you use %2$s.
+
+You restored full-speed data for %3$s."</string>
+    <string name="bill_cap_info_dialog_description_full_speed_shared_other">"%1$s's full-speed data has been restored for %2$s.
+
+Data becomes free after your group uses %3$s, but slows down for any member who uses over %4$s."</string>
+    <string name="bill_cap_info_dialog_description_full_speed_shared_self">"Your full-speed data has been restored for %1$s.
+
+Data becomes free after your group uses %2$s, but slows down for any member who uses over %3$s."</string>
+    <string name="bill_cap_info_dialog_description_over_cap_individual">"Once you've used %1$s, data is free for the rest of the cycle.
+
+If you use over %2$s, you'll experience slower data, but full-speed data can be restored for %3$s."</string>
+    <string name="bill_cap_info_dialog_description_over_cap_shared">"Your group has used %1$s. Once a group of %2$d members uses %3$s, data is free for the rest of the cycle.
+
+Any member who uses over %4$s will experience slower data, but full-speed data can be restored for %5$s."</string>
+    <string name="bill_cap_info_dialog_description_under_cap_shared">"Once a group of %1$d members uses %2$s, data is free for the rest of the cycle.
+
+Any member who uses over %3$s will experience slower data, but full-speed data can be restored for %4$s."</string>
+    <string name="bill_cap_info_dialog_title_full_speed">Paying extra for full-speed data</string>
+    <string name="bill_protection">Bill Protection</string>
+    <string name="bill_protection_alerts_header">No wondering about data usage</string>
+    <string name="bill_protection_data_header">No (unpleasant) surprises</string>
+    <string name="bill_protection_upfront_body">You no longer pay in advance for data. Calls &amp; texts are still %1$s upfront.</string>
+    <string name="bill_protection_upfront_body_shared">You no longer pay in advance for data. Calls &amp; texts are still %1$s, plus %2$s per additional person upfront.</string>
+    <string name="bill_protection_upfront_header">No upfront data charges</string>
+    <string name="billing">Billing</string>
+    <string name="billing_flow_error">"Sorry, our payments system isn't available right now."</string>
+    <string name="billing_owner">the group owner</string>
+    <string name="billing_signup_launch_error">"Can't launch billing signup right now"</string>
+    <string name="billing_term_title">Billing</string>
+    <string name="block_number">Block</string>
+    <string name="block_number_description">Block calls, texts, and voicemail from</string>
+    <string name="blocked_addition_failed">"Couldn't add number"</string>
+    <string name="blocked_deletion_failed">Unable to delete blocked number</string>
+    <string name="blocked_numbers_description_title">Blocked numbers</string>
+    <string name="blocked_numbers_zero_state">To stop someone from calling or texting you, add their number here.</string>
+    <string name="blocking_limit_reached">"Can't add number. You can have up to 1000 blocked numbers."</string>
+    <string name="body_soft_upgrade_tycho">"You're using an older version of the Google Fi app."</string>
+    <string name="bold_header_with_body">&lt;b>%1$s&lt;/b>&lt;br>&lt;br>%2$s</string>
+    <string name="bootstrap_euicc_profile_body">Activate Google Fi to use your device for calls, text, and data.</string>
+    <string name="bootstrap_euicc_profile_title">Set up your device</string>
+    <string name="bp_data_plan_item_details">%1$s, no charge past %2$s</string>
+    <string name="bp_data_tooltip_dialog_body">Your data charge will vary depending on usage. With Bill Protection, data is free after you reach a level of usage. That level changes based on the number of active people on your plan.</string>
+    <string name="bp_data_tooltip_dialog_title">How data is charged</string>
+    <string name="bp_overview_alerts_details">"Choose when and how you're notified about data usage. You can edit these under Alerts > Settings."</string>
+    <string name="bp_overview_data_details">%1$s After %2$s, data is slower.</string>
+    <string name="bp_overview_data_details_shared">"%1$s When someone uses over %2$s, that person's data is slower."</string>
+    <string name="bp_overview_description">Pay only for the data you use up to %1$s — the rest is on us. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a></string>
+    <string name="bp_overview_header">"You're covered under Bill Protection"</string>
+    <string name="bp_overview_title">Introducing Bill Protection</string>
+    <string name="bp_overview_title_new">Welcome to Google Fi</string>
+    <string name="bp_overview_upfront_body_no_cost">You no longer pay in advance for data.</string>
+    <string name="bp_overview_upfront_details_new">"Don't use much data? You only pay for what you use up to %1$s."</string>
+    <string name="bp_overview_upfront_details_new_shared">"Don't use much data? Your group only pays for data usage up to %1$s."</string>
+    <string name="bp_overview_upfront_title">@string/bill_protection_upfront_header</string>
+    <string name="bp_statement_new_member_dialog_next_months_charges_subtitle">Pay ahead for calls &amp; texts</string>
+    <string name="bridge">Fi Network Tools</string>
+    <string name="bridge_cell_usage_rate_exceeded_stop_action">Stop downloads</string>
+    <string name="bridge_cell_usage_rate_exceeded_text">Downloads that started when you were connected to Wi‑Fi are now continuing over mobile data.</string>
+    <string name="bridge_cell_usage_rate_exceeded_title">Downloading over mobile data</string>
+    <string name="bridge_feedback_filename">VPN log</string>
+    <string name="bridge_go_to_wifi_settings">Go to Wi‑Fi settings</string>
+    <string name="bridge_invalidated_wifi_text">"Your Wi‑Fi connection isn't working, so you're now using mobile data."</string>
+    <string name="bridge_invalidated_wifi_title">Using mobile data</string>
+    <string name="bridge_key_icon_talkback">G key icon</string>
+    <string name="bridge_notification_channel_name">Fi Network Tools</string>
+    <string name="bridge_notification_subtext">Fi Network Tools</string>
+    <string name="bridge_on_border_wifi_text">"Your Wi‑Fi connection is poor, so you're now using mobile data."</string>
+    <string name="bridge_on_border_wifi_title">Using mobile data</string>
+    <string name="bridge_secure_connection_text">"Your mobile and Wi‑Fi data is sent through Google Fi's Virtual Private Network (VPN)."</string>
+    <string name="bridge_secure_connection_title">Get more privacy and more security</string>
+    <string name="bridge_toggle">Enhance network</string>
+    <string name="bridge_using_mobile_data_text">Get fewer connection interruptions by more quickly connecting to mobile data when Wi‑Fi is poor.</string>
+    <string name="bridge_using_mobile_data_title">Use mobile data when Wi‑Fi is poor</string>
+    <string name="bridge_vpn_info">&lt;img src=vpn_icon> appears in the status bar when the Google Fi VPN is active. The Google Fi VPN increases data usage by about %1$s. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a></string>
+    <string name="bullet_pair_format">%1$s • %2$s</string>
+    <string name="bulleted_financed_device_description">&lt;br>&lt;a href=#sublist_bullet>%1$s (%2$s balance)&lt;/a></string>
+    <string name="bulleted_list_item">&lt;a href=#list_item>%1$s&lt;/a></string>
+    <string name="bulleted_list_item_with_newline">&lt;br>&lt;a href=#list_item>%1$s&lt;/a></string>
+    <string name="butterbar_soft_upgrade_tycho_button">Update app</string>
+    <string name="button">Button</string>
+    <string name="buy_new_device">Buy new device</string>
+    <string name="buy_option">"You'll buy their phone"</string>
+    <string name="byod_bring_option">They already have a phone</string>
+    <string name="byod_buy_details_body_non_owner">Heads up — %1$s will &lt;b>not&lt;/b> be able to sign up for device protection or pay for this device over time (these features are only available to group owners).</string>
+    <string name="byod_buy_details_body_owner">%1$s&lt;br>&lt;br>To get a device for %2$s with these features, go back and buy their device yourself.</string>
+    <string name="byod_buy_details_intro">%1$s will buy a device from Google Fi.</string>
+    <string name="byod_buy_option">"They'll buy a phone from Fi"</string>
+    <string name="byteShort">B</string>
+    <string name="cached_uicc_subscription">Cached subscription:</string>
+    <string name="call_again">Call again</string>
+    <string name="call_blocking">Spam &amp; blocked numbers</string>
+    <string name="call_forwarding">Call forwarding</string>
+    <string name="call_forwarding_zero_state">Calls to your Google Fi number will also go to the numbers you add here.</string>
+    <string name="call_me_now">Call me now</string>
+    <string name="call_now">Call now</string>
+    <string name="call_voicemail">Call voicemail</string>
+    <string name="calls_and_texts">Calls &amp; texts</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_activation">Cancel activation</string>
+    <string name="cancel_group_plan">Cancel group plan</string>
+    <string name="cancel_invite_description">@string/uninvite</string>
+    <string name="cancel_payoff">Cancel payoff</string>
+    <string name="cancel_payoff_dialog_body">"Your balance won't be paid off on your next statement. Instead, you'll stay on monthly device payments."</string>
+    <string name="cancel_payoff_error">"Couldn't cancel payment"</string>
+    <string name="cancel_service">Cancel service</string>
+    <string name="cancelling_number">%1$s (canceling)</string>
+    <string name="cannot_block_group_member">"Can't block this number"</string>
+    <string name="cannot_enroll_dpp">Cannot enroll in device protection</string>
+    <string name="capacity_title">Storage</string>
+    <string name="card_configure_super_network_activate">Maximize coverage</string>
+    <string name="card_configure_super_network_error_description">@string/straighten_things_out</string>
+    <string name="card_configure_super_network_error_title">"Couldn't maximize coverage"</string>
+    <string name="card_configure_super_network_init_description">To get faster speed in more places, let Google Fi fine-tune your SIM card. This takes about %1$s, sometimes longer.</string>
+    <string name="card_configure_super_network_init_title">Maximize your coverage</string>
+    <string name="card_configure_super_network_running_description">"You won't have service for a few minutes, but you can still connect to Wi‑Fi."</string>
+    <string name="card_configure_super_network_running_title">Maximizing coverage…</string>
+    <string name="carrier_selection_menu_failed">Unable to load network selection menu</string>
+    <string name="carrier_selection_not_allowed">Network selection menu not available on MCC/MNC: %1$s</string>
+    <string name="change_alert">Go to Settings > Alerts to change</string>
+    <string name="change_role_title_other">"Change %1$s's role"</string>
+    <string name="change_role_title_self">Change your role</string>
+    <string name="changes_saved">Changes saved.</string>
+    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="checked">Checked</string>
+    <string name="child">Child</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="choose_account_body">Choose an account to use for Google Fi service on this device.</string>
+    <string name="choose_account_title">@string/app_name</string>
+    <string name="choose_amount_title">Monthly repay amount</string>
+    <string name="choose_hardware_size_title">Choose model</string>
+    <string name="city">City</string>
+    <string name="claim_header">File a claim</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="close">Close</string>
+    <string name="close_account_contact_us">"We're sorry to see you go. If we've fallen short, can we make things right? &lt;a href=\"#clickify\">Contact&amp;nbsp;us&lt;/a>"</string>
+    <string name="close_shared_account_remove_members">&lt;b>Just want to remove individual members?&lt;/b> You can easily remove individual members from your group by navigating to their individual plan page.</string>
+    <string name="close_shared_contact_body">"%1$s&lt;br>&lt;br>Canceling your group plan will end service for everyone in your group: &lt;b>%2$s&lt;/b>&lt;br>&lt;br>%3$s&lt;br>&lt;br>&lt;b>Transferring your number?&lt;/b> Just continue from here. We'll provide you with your account number and PIN and keep your line active until your transfer goes through."</string>
+    <string name="close_shared_hard_option_description">Group members will still be able to transfer their phone numbers to a new provider or their own Google Fi plan.</string>
+    <string name="close_shared_hard_option_title">Immediately - no calls, texts, or data</string>
+    <string name="close_shared_soft_option_description">"You continue to pay for your group members' service until they leave the plan (including data). They can transfer their phone numbers to a new provider or their own Google Fi plan."</string>
+    <string name="close_shared_soft_option_title">Keep their service until they leave</string>
+    <string name="close_shared_soft_or_hard_cancel_body">When do you want to end service for your group members?</string>
+    <string name="close_shared_soft_or_hard_cancel_title">Group members</string>
+    <string name="closure_confirmation_body_abandon">"We've canceled your service and released your number. You'll receive an email shortly to confirm your service was canceled.&lt;br>&lt;br>Even after you've canceled service, it can take up to %1$d days to close out remaining changes. You may receive an additional statement."</string>
+    <string name="closure_confirmation_body_abandon_member_removed">"We've released your number."</string>
+    <string name="closure_confirmation_body_gv">"We're working to cancel your service and transfer your number. You'll receive an email shortly to confirm your service was canceled, followed by another email to let you know your number was transferred to Google Voice."</string>
+    <string name="closure_confirmation_body_gv_member_removed">"We're working to transfer your number to Google Voice. You'll receive an email shortly to confirm that your number has transferred successfully."</string>
+    <string name="closure_confirmation_body_provider">Your phone number is now unlocked and can be handed off to a new provider.&lt;br>&lt;br>To transfer your number, you may need to give this info to your new provider.</string>
+    <string name="closure_confirmation_title">Next steps</string>
+    <string name="closure_confirmation_title_abandon">"You're all set"</string>
+    <string name="closure_dpp_body_named_device">Do you want to continue device protection for your %1$s?</string>
+    <string name="closure_dpp_body_named_devices_header">Do you want to continue device protection for the following devices?&lt;br></string>
+    <string name="closure_feedback_body">"We'd appreciate hearing why you chose to leave Google Fi."</string>
+    <string name="closure_insurance_disclaimer_owner">%1$s&lt;br>&lt;br>Your &lt;b>device protection coverage&lt;/b> will continue as long as the group owner continues to pay for it.</string>
+    <string name="closure_insurance_disclaimer_self">%1$s&lt;br>&lt;br>Your &lt;b>device protection coverage&lt;/b> will be discontinued unless you move to an individual Fi plan.</string>
+    <string name="closure_number_abandon">Or, let your number go:</string>
+    <string name="closure_number_body">%1$s&lt;br>&lt;br>&lt;b>Transfer your number to:&lt;/b></string>
+    <string name="closure_number_content_description">Do you want to transfer your number or let it go?</string>
+    <string name="closure_number_dialog_abandon">By continuing, your service will be immediately canceled and your number will be released — no getting it back.</string>
+    <string name="closure_number_dialog_abandon_member_removed">By continuing, your number will be released — no getting it back.</string>
+    <string name="closure_number_dialog_gv">"You'll continue to have service with Google Fi until the moment your number is transferred to Google Voice. You'll be notified when your transfer is done."</string>
+    <string name="closure_number_dialog_gv_member_removed">"You'll be notified when your number has been transferred to Google Voice."</string>
+    <string name="closure_number_dialog_provider">"By continuing, your number will be unlocked so that it can be released to another provider.&lt;br>&lt;br>We'll also provide you with your &lt;b>account number&lt;/b> and &lt;b>PIN&lt;/b> and keep your line active until your transfer goes through."</string>
+    <string name="closure_number_dialog_provider_member_removed">"By continuing, your number will be unlocked so that it can be released to another provider.&lt;br>&lt;br>We'll also provide you with your &lt;b>account number&lt;/b> and &lt;b>PIN&lt;/b>."</string>
+    <string name="closure_number_error">"Can't access your account."</string>
+    <string name="closure_number_error_gv">"Can't transfer number to Google Voice. Choose another option to continue."</string>
+    <string name="closure_number_option_abandon">Release your number immediately (no getting it back)</string>
+    <string name="closure_number_option_gv">Google Voice</string>
+    <string name="closure_number_option_gv_unavailable">Option not available. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a></string>
+    <string name="closure_number_option_provider">Another provider</string>
+    <string name="closure_support_and_transfer_number">"%1$s&lt;br>&lt;br>Transferring your number? Just continue from here. We'll provide you with your &lt;b>account number&lt;/b> and &lt;b>PIN&lt;/b> and keep your line active until your transfer goes through."</string>
+    <string name="closure_terms_bill_protection">The number of active people on your plan affects your Bill Protection level.</string>
+    <string name="closure_terms_body">By canceling service, you confirm that:</string>
+    <string name="closure_terms_body_group">By canceling service, you confirm that the following will happen to:</string>
+    <string name="closure_terms_number">Your phone number will be released unless you choose to transfer it.</string>
+    <string name="closure_terms_payments_self">"You'll be billed for any remaining charges within %1$d days."</string>
+    <string name="closure_terms_service">"You'll no longer have Fi service — no calls, texts, or data."</string>
+    <string name="code_label">%1$d-digit code</string>
+    <string name="collapsed_card_arrow_talk_back">Show more</string>
+    <string name="color_title">Color</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="compatibility_checker_body">"&lt;b>2. Make sure they have a Fi SIM&lt;/b>&lt;br>&lt;br>You don't need to order one if:&lt;br> &lt;a href=#list_item>Their phone is %s&lt;/a>&lt;br> &lt;a href=#list_item>They already have a new or active Fi SIM&lt;/a>"</string>
+    <string name="compatibility_checker_button_text">Check phone compatibility</string>
+    <string name="compatibility_checker_check_phone_title">1. Check if their phone works on Fi</string>
+    <string name="compatibility_checker_dont_order_sim">"Don't order a Fi SIM"</string>
+    <string name="compatibility_checker_error">"Can't check device compatibility right now."</string>
+    <string name="compatibility_checker_order_sim">Order a free Fi SIM</string>
+    <string name="condition_lock_true">factory reset</string>
+    <string name="condition_power_false">Cannot turn on</string>
+    <string name="condition_power_true">Turns on</string>
+    <string name="condition_screen_false">screen broken</string>
+    <string name="condition_screen_true">screen intact</string>
+    <string name="confirm">Confirm</string>
+    <string name="confirm_and_exit_setup">Confirm &amp; exit setup</string>
+    <string name="confirm_new_plan_details_title">Confirm your new plan details</string>
+    <string name="confirm_not_moving_talk_and_text">"You won't be able to get calls and texts on this phone unless you make it your primary device.
+
+If you change your mind later on, you can make this your primary device at any time."</string>
+    <string name="confirmation_transfer_to_individual_plan_body">"Congratulations! You've moved to your own Fi plan! It may take %1$d – %2$d minutes for your account to transfer successfully."</string>
+    <string name="confirmation_transfer_to_individual_plan_title">Successfully transferred to individual Fi plan</string>
+    <string name="connect">Connect</string>
+    <string name="connectivity_error">To change this setting, first connect to Wi‑Fi or mobile data.</string>
+    <string name="contact_owner">Contact your account owner for details.</string>
+    <string name="contact_unicorn">For help with this, ask a parent to contact us at %1$s.</string>
+    <string name="contact_us">Contact us</string>
+    <string name="continue_and_cancel">Continue &amp; cancel service</string>
+    <string name="continue_and_release">Continue &amp; release number</string>
+    <string name="continue_anyway">Continue anyway</string>
+    <string name="continue_dpp">Continue enrollment</string>
+    <string name="continue_dpp_with_cost">Continue enrollment for %1$s/mo</string>
+    <string name="continue_text">Continue</string>
+    <string name="copied_imei_clipboard_description">IMEI</string>
+    <string name="copied_imei_snackbar_text">IMEI copied</string>
+    <string name="copied_phone_number_clipboard_description">Phone number</string>
+    <string name="copied_phone_number_snackbar_text">Phone number copied</string>
+    <string name="corp_permission_denied_error">This operation is not permitted on corporate-managed plans.</string>
+    <string name="cost_per_gb_format">%1$s﻿/﻿GB</string>
+    <string name="cost_per_mms">%1$s/MMS</string>
+    <string name="cost_per_sms">%1$s/SMS</string>
+    <string name="cost_plus_taxes_and_fees">"%1$s
++ taxes &amp; fees"</string>
+    <string name="cost_plus_taxes_and_shipping">"%1$s
++ taxes &amp; shipping"</string>
+    <string name="couldnt_transfer">"Couldn't transfer your number"</string>
+    <string name="coverage">Coverage</string>
+    <string name="coverage_date">Coverage is retroactive to %1$s</string>
+    <string name="coverage_header">What device protection covers</string>
+    <string name="coverage_known_premium">%1$s (for a one-time %2$s charge)</string>
+    <string name="coverage_ship">"Coverage is retroactive to your device's ship date"</string>
+    <string name="coverage_unknown_premium">%1$s (for a one-time prorated charge)</string>
+    <string name="create_invitation_error">"Couldn't create invitation right now"</string>
+    <string name="credit">Credit</string>
+    <string name="credit_check_approved_body">"&lt;b>Sweet! You're approved to pay over time for this %1$s and other devices totaling %2$s.&lt;/b>&lt;br>&lt;br>We'll run the final credit check, which can affect your credit score, after you review your purchase."</string>
+    <string name="credit_check_approved_no_credit">"&lt;b>Sweet! You're approved to pay over time for this %1$s.&lt;/b>&lt;br>&lt;br>We'll run the final credit check, which can affect your credit score, after you review your purchase."</string>
+    <string name="credit_check_approved_no_model">"&lt;b>Sweet! You're approved to pay over time for this new device and other devices totaling %1$s.&lt;/b>&lt;br>&lt;br>We'll run the final credit check, which can affect your credit score, after you review your purchase."</string>
+    <string name="credit_check_approved_no_model_no_credit">"&lt;b>Sweet! You're approved to pay over time for this new device.&lt;/b>&lt;br>&lt;br>We'll run the final credit check, which can affect your credit score, after you review your purchase."</string>
+    <string name="credit_check_declined_body">"&lt;b>Based on the credit check, you can only purchase a phone in one full payment.&lt;/b>&lt;br>&lt;br>This credit check didn't affect your credit score, but it may show on your credit report.&lt;br>&lt;br>See the details at %1$s or in this letter:"</string>
+    <string name="credit_check_declined_no_letter">"&lt;b>Based on the credit check, you can only purchase a phone in one full payment.&lt;/b>&lt;br>&lt;br>This credit check didn't affect your credit score, but it may show on your credit report.&lt;br>&lt;br>See the details at %1$s."</string>
+    <string name="credit_check_error">"Couldn't get credit check results right now"</string>
+    <string name="credit_check_ineligible_multiple_gaia">"You've previously applied for credit with Google Fi.&lt;br>&lt;br>You're already in our system and have applied for credit using a different Google Account. If this isn't the case, &lt;a href=\"#clickify\">contact&amp;nbsp;us&lt;/a>.&lt;br>&lt;br>You can still continue by purchasing a device in one full payment."</string>
+    <string name="credit_check_intro_body">"Google Fi runs a credit check to see if you're eligible to pay over time for a device.&lt;br>&lt;br>&lt;b>You'll have a chance to enter your info and review it before we run the check.&lt;/b>&lt;br>&lt;br>This is a \"soft\" check — it will only affect your credit score if you're approved and then accept the payment plan terms."</string>
+    <string name="credit_check_intro_title">Credit check</string>
+    <string name="credit_check_launch_error">"Couldn't start credit check right now"</string>
+    <string name="credit_check_results_title">Credit check results</string>
+    <string name="credit_date">Credit on %1$s</string>
+    <string name="credit_for_self">Credit for you</string>
+    <string name="credit_for_user">Credit for %1$s</string>
+    <string name="credit_format">(%1$s)</string>
+    <string name="current_cycle_ends_soon_sentence">Your current cycle ends in less than 1 day</string>
+    <string name="current_cycle_highlights_title">Extras this cycle so far</string>
+    <string name="current_statement">%1$s — Current statement</string>
+    <string name="daily_usage">Daily usage</string>
+    <string name="daily_usage_title_format">%1$s (%2$s)</string>
+    <string name="data">Data</string>
+    <string name="data_alert_description">"You'll get a push notification at the alert level you set. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a>"</string>
+    <string name="data_alert_description_others">"You'll get a push notification at the alert level you set. Alerts you set here are only sent to you. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a>"</string>
+    <string name="data_alert_error">"Couldn't load data alerts"</string>
+    <string name="data_alerts">Data alerts</string>
+    <string name="data_binge_feedback_default_desc">"[Data Binge] Notification not useful
+
+OPTIONAL: 
+Google account associated with Fi (so that we can look at previous data usage):
+
+Other comments:"</string>
+    <string name="data_binge_feedback_dialog_title">Was this notification useful?</string>
+    <string name="data_binge_not_useful">Not useful</string>
+    <string name="data_binge_snooze_message">"If data usage is still high, you'll be notified again in %1$s"</string>
+    <string name="data_binge_text">"We've noticed high mobile data usage over a short time frame. Connecting to Wi‑Fi can help you use less data."</string>
+    <string name="data_binge_title">Data usage spike</string>
+    <string name="data_binge_turn_off">Turn off alerts</string>
+    <string name="data_binge_useful">Useful</string>
+    <string name="data_binge_with_feedback_text">"We've noticed high mobile data usage over a short time frame. Connecting to Wi‑Fi can help you use less data.
+
+Was this notification useful?"</string>
+    <string name="data_cost_range">%1$s ‑ %2$s</string>
+    <string name="data_cost_range_content_description">Cost is between %1$s and %2$s, based on usage</string>
+    <string name="data_extra_full_speed">%1$s extra full-speed</string>
+    <string name="data_extra_full_speed_no_amount">Paying for full-speed data</string>
+    <string name="data_info_button">Data&amp;nbsp;&lt;a href=#info_button>More info&lt;/a></string>
+    <string name="data_is_free">Data is free</string>
+    <string name="data_is_paused">Data is paused</string>
+    <string name="data_only">Data-only</string>
+    <string name="data_only_sim">Data-only SIM</string>
+    <string name="data_only_sim_body">How data‑only SIMs work&lt;br>&lt;br>&lt;a href=#list_item>Use in any &lt;a href=\"#clickify\">compatible&amp;nbsp;device&lt;/a> or try in other devices (some devices require a SIM adapter)&lt;/a>&lt;br>&lt;a href=#list_item> Coverage in 170+ countries (&lt;a href=\"#clickify\">see&amp;nbsp;coverage&amp;nbsp;map&lt;/a>)&lt;/a>&lt;br>&lt;a href=#list_item>%1$s&lt;/a></string>
+    <string name="data_only_sim_cost">No extra costs — just pay for the data you use until Bill Protection kicks in</string>
+    <string name="data_only_sim_cost_bill_cap">No extra costs — just pay for the data you use up to %1$s on an individual plan</string>
+    <string name="data_only_sim_cost_group">No extra costs — just pay for the data your group uses until Bill Protection kicks in</string>
+    <string name="data_only_sim_cost_group_rate">No extra costs — just pay %1$s for the data your group uses until Bill Protection kicks in</string>
+    <string name="data_only_sim_cost_rate">No extra costs — just pay %1$s for the data you use until Bill Protection kicks in</string>
+    <string name="data_only_sim_cost_rate_bill_cap">No extra costs — just pay %1$s for the data you use up to %2$s on an individual plan</string>
+    <string name="data_only_sim_error">"Couldn't add data‑only SIM"</string>
+    <string name="data_only_sim_help">To use this SIM in a different device, you may need to configure your device. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a></string>
+    <string name="data_only_sim_success">Data‑only SIM successfully ordered</string>
+    <string name="data_spikes">Data spikes</string>
+    <string name="data_usage">Data usage</string>
+    <string name="data_usage_chart_series">Data usage per user</string>
+    <string name="data_usage_other_users">Other users</string>
+    <string name="data_usage_subtitle">Cycle ends %1$s</string>
+    <string name="data_usage_subtitle_group">Group usage: %2$s. Cycle ends %1$s</string>
+    <string name="data_usage_system_uid">Android OS</string>
+    <string name="data_usage_tethering">Tethering</string>
+    <string name="data_usage_title">"You've used %1$s so far"</string>
+    <string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
+    <string name="data_usage_unknown_uid">Unknown app %1$d</string>
+    <string name="data_usage_widget_ends_soon">&lt; 1 day left</string>
+    <string name="date_range">%1$s – %2$s</string>
+    <string name="days_hours">%1$s %2$s</string>
+    <string name="default_data_operator">Default data operator:</string>
+    <string name="default_device_nickname">"%1$s's device"</string>
+    <string name="default_device_nickname_unattributed">Unknown device</string>
+    <string name="default_web_client_id">639584562370-cne5m87rgeb5gnt5o0ilhrvhtar4vj9j.apps.googleusercontent.com</string>
+    <string name="delayed_charge">"%1$s
+Delayed charge"</string>
+    <string name="delayed_usage_hint">* Unbilled data usage from before this cycle</string>
+    <string name="delayed_usage_label">*</string>
+    <string name="delete">Delete</string>
+    <string name="delinquent_fix_now_title">Update your payment method</string>
+    <string name="description">Description</string>
+    <string name="destination" />
+    <string name="details">Details</string>
+    <string name="details_callout">%1$s&lt;br>&lt;a href=#textAppearance>%2$s&lt;/a></string>
+    <string name="device_cancellation_member">Service cancellation notice: %1$s will be billed for the remaining %2$s balance after your cancellation takes effect (once your number is transferred)</string>
+    <string name="device_cancellation_self">"Service cancellation notice: You'll be billed for the remaining %1$s balance after your cancellation takes effect (once your number is transferred)"</string>
+    <string name="device_charges_title">Device charges — everything look good?</string>
+    <string name="device_details_eligible_for_dpp">%1$s • Eligible for protection</string>
+    <string name="device_details_financing">%1$s • %2$d payments left</string>
+    <string name="device_details_financing_next_cycle">%1$s • Payoff scheduled</string>
+    <string name="device_financing">Device payments</string>
+    <string name="device_full_price_msrp">&lt;del>%2$s&lt;/del> %1$s</string>
+    <string name="device_list_cancelling_number">%1$s • Transfer canceling</string>
+    <string name="device_list_pending_number">%1$s • Transfer in progress</string>
+    <string name="device_list_transfer_error_number">%1$s • Transfer error</string>
+    <string name="device_name">Name</string>
+    <string name="device_out_of_stock_price">out of stock — %1$s</string>
+    <string name="device_out_of_stock_price_msrp">out of stock — &lt;del>%2$s&lt;/del>&amp;nbsp;%1$s</string>
+    <string name="device_pricing_options">From %1$s</string>
+    <string name="device_pricing_options_msrp">From &lt;del>%2$s&lt;/del> %1$s</string>
+    <string name="device_pricing_options_no_months">From %1$s or %2$s﻿/﻿mo</string>
+    <string name="device_pricing_options_no_months_msrp">From &lt;del>%3$s&lt;/del> %1$s or %2$s﻿/﻿mo</string>
+    <string name="device_pricing_options_shortened">%1$s or %2$s﻿/﻿mo</string>
+    <string name="device_pricing_options_shortened_msrp">&lt;del>%3$s&lt;/del> %1$s or %2$s﻿/﻿mo</string>
+    <string name="device_pricing_options_with_monthly">From %1$s or %2$s﻿/﻿mo for %3$d mos</string>
+    <string name="device_pricing_options_with_monthly_msrp">From &lt;del>%4$s&lt;/del> %1$s or %2$s﻿/﻿mo for %3$d mos</string>
+    <string name="device_protection">Device protection</string>
+    <string name="device_protection_bullets">"&lt;a href=#list_item>Accidental damage (including drops, cracks and spills)&lt;/a>&lt;br>&lt;a href=#list_item>Mechanical breakdown (beyond the manufacturer's warranty period)&lt;/a>"</string>
+    <string name="device_protection_deductible_known">To replace this device, a %1$s deductible will apply.</string>
+    <string name="device_protection_deductible_known_bullet">To replace this device, a %1$s deductible will apply</string>
+    <string name="device_protection_deductible_unknown">A deductible will apply for replacements.</string>
+    <string name="device_protection_deductible_unknown_bullet">A deductible will apply for replacements</string>
+    <string name="device_protection_description_named_device">Coverage for your %1$s</string>
+    <string name="device_protection_enrollment">Device protection enrollment</string>
+    <string name="device_protection_info_button">Device protection&amp;nbsp;&lt;a href=#info_button>More info&lt;/a></string>
+    <string name="device_protection_intro_header">With device protection, you can quickly get your phone replaced in the event of:</string>
+    <string name="device_protection_learn_more">%1$s &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a></string>
+    <string name="device_protection_non_owner_claim">Only the person who purchased this device can file a claim. %1$s</string>
+    <string name="device_protection_non_owner_enroll">Only the person who purchased this device can enroll in protection. %1$s</string>
+    <string name="device_protection_report">To report a defective or damaged device, &lt;a href=\"#clickify\">contact&amp;nbsp;us&lt;/a>.</string>
+    <string name="device_term_title">Devices</string>
+    <string name="device_trade_in">Device trade-in</string>
+    <string name="devices">Devices</string>
+    <string name="disable_starburst_auto_switching" />
+    <string name="disconnect" />
+    <string name="discontinue_body">"You can discontinue coverage at any time, but you won't be able to enroll this device again."</string>
+    <string name="discontinue_button">Discontinue</string>
+    <string name="discontinue_header">Discontinue coverage</string>
+    <string name="discretionary_fees">Other fees</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="dismiss_button_talk_back">Click to dismiss</string>
+    <string name="dismissed">Dismissed</string>
+    <string name="do_not_move_talk_and_text_details">"You won't get calls and texts on this phone."</string>
+    <string name="do_not_move_talk_and_text_title">"Don't move number"</string>
+    <string name="dogfood_invitation_accept">Join dogfood</string>
+    <string name="dogfood_invitation_details">Be the first to test new features and give feedback.</string>
+    <string name="dogfood_invitation_dismiss">@string/no_thanks</string>
+    <string name="dogfood_invitation_title">Want more of a good thing?</string>
+    <string name="done">Done</string>
+    <string name="dont_cancel">"Don't cancel"</string>
+    <string name="dont_leave">"Don't leave"</string>
+    <string name="dont_notify_me">"Don't notify me"</string>
+    <string name="dont_save">"Don't save"</string>
+    <string name="download">Download</string>
+    <string name="dpp_description_enrolled_cost">Enrolled for %1$s﻿/﻿month</string>
+    <string name="dpp_description_ineligible_shipped">"Google Fi couldn't process your account's last payment. Resolve any payment issues, then enroll by %1$s."</string>
+    <string name="dpp_description_ineligible_unshipped">"Google Fi couldn't process your account's last payment. Resolve any payment issues, then enroll up to %1$d days after device shipment."</string>
+    <string name="dpp_description_line2_owned">"%1$s
+Only you can unenroll"</string>
+    <string name="dpp_description_line2_unowned">"%1$s
+Only %2$s can unenroll"</string>
+    <string name="dpp_description_shipped">Enroll by %1$s</string>
+    <string name="dpp_description_unshipped">Enroll up to %1$d days after device shipment</string>
+    <string name="dpp_discontinue_body_refund_known">"You won't be able to enroll this device again. Your next statement will show an estimated %1$s credit."</string>
+    <string name="dpp_discontinue_body_refund_unknown">"You won't be able to enroll this device again."</string>
+    <string name="dpp_discontinue_title">Discontinue device protection?</string>
+    <string name="dpp_option_enroll_title_no_price">Enroll in protection</string>
+    <string name="dpp_option_enroll_title_price">Enroll in protection for %1$s﻿/﻿mo</string>
+    <string name="dpp_option_no_protection">No device protection</string>
+    <string name="due_monthly">Due monthly</string>
+    <string name="due_monthly_cost_range_content_description">%1$s to %2$s + taxes &amp; fees</string>
+    <string name="due_today">Due today</string>
+    <string name="e911_setting_description">This is where you primarily use Google Fi. We use this address for taxes and emergency calls. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a></string>
+    <string name="edit_alert">Edit alert</string>
+    <string name="edit_device">Edit device</string>
+    <string name="eid">EID:</string>
+    <string name="eligible_protection">Eligible for device protection</string>
+    <string name="em_dash">—</string>
+    <string name="email_already_invited">%1$s has already been invited</string>
+    <string name="emergency_address">Service address</string>
+    <string name="emergency_callback_number">"Can't block emergency numbers"</string>
+    <string name="enable_starburst_auto_switching" />
+    <string name="enroll_button">Enroll for %1$s﻿/﻿month</string>
+    <string name="enroll_device_error">"Couldn't enroll this device"</string>
+    <string name="enroll_in_insurance">Enroll in device protection</string>
+    <string name="enroll_insurance_details_bullets">&lt;a href=#list_item>Device protection is %1$s﻿/﻿month&lt;/a>&lt;br> &lt;a href=#list_item>%2$s&lt;/a>&lt;br> &lt;a href=#list_item>%3$s&lt;/a>&lt;br> &lt;a href=#list_item>Device protection is offered by Assurant, who will receive your device info, email address, and service address&lt;/a></string>
+    <string name="enroll_launch_error">"Can't enroll this device right now"</string>
+    <string name="enrolled">Enrolled</string>
+    <string name="enter_a_city">Enter a city</string>
+    <string name="enter_a_description">Enter a description</string>
+    <string name="enter_a_name">Enter a name</string>
+    <string name="enter_a_name_with_limit">Enter up to %1$d characters</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="enter_a_physical_address">Enter a physical address</string>
+    <string name="enter_a_state">Enter a state</string>
+    <string name="enter_a_street_address">Enter a street address</string>
+    <string name="enter_a_zip_code">Enter a zip code</string>
+    <string name="enter_contest_error">"Couldn't enter challenge right now"</string>
+    <string name="error_fetching_settings">"These settings aren't available right now. Check your network connection and try again later."</string>
+    <string name="error_fetching_statements">"Can't load billing statements right now"</string>
+    <string name="error_launching_feedback">Error launching feedback.</string>
+    <string name="error_saving_emergency_address">"Couldn't update service address. Try again later."</string>
+    <string name="error_settings_not_available">"These settings aren't available right now. Check your network connection and try again later."</string>
+    <string name="estimated_statement">Preview — still finalizing</string>
+    <string name="estimated_value">Estimated %1$s</string>
+    <string name="etisalat">Etisalat</string>
+    <string name="evaluated_condition">Reviewed condition</string>
+    <string name="exit_app">Exit app</string>
+    <string name="expanded_card_arrow_talk_back">Show less</string>
+    <string name="expanded_device_info_device">Device ID: %1$d</string>
+    <string name="expanded_device_info_purchase">Purchase ID: %1$s</string>
+    <string name="expanded_device_info_trade_in">Trade in ID: %1$s</string>
+    <string name="feedback_subheader">Help us improve Google Fi</string>
+    <string name="fi_ready_devices_button_text">View Fi-ready devices</string>
+    <string name="field_report_activity_content_could_not_find_better_carrier" />
+    <string name="field_report_activity_content_found_better_carrier" />
+    <string name="field_report_activity_content_running" />
+    <string name="field_report_activity_title_could_not_find_better_carrier" />
+    <string name="field_report_activity_title_running" />
+    <string name="field_report_butter_bar_content_running" />
+    <string name="field_report_butter_bar_title_couldnt_find_better_carrier" />
+    <string name="field_report_butter_bar_title_running" />
+    <string name="field_report_button_header" />
+    <string name="field_report_button_subheader" />
+    <string name="field_report_cant_start_dialog_account_disabled_content" />
+    <string name="field_report_cant_start_dialog_account_disabled_title" />
+    <string name="field_report_cant_start_dialog_airplane_mode_content" />
+    <string name="field_report_cant_start_dialog_airplane_mode_title" />
+    <string name="field_report_cant_start_dialog_data_off_content" />
+    <string name="field_report_cant_start_dialog_data_off_title" />
+    <string name="field_report_cant_start_dialog_data_paused_content" />
+    <string name="field_report_cant_start_dialog_data_paused_title" />
+    <string name="field_report_cant_start_dialog_emergency_call_content" />
+    <string name="field_report_cant_start_dialog_emergency_call_title" />
+    <string name="field_report_cant_start_dialog_generic_content" />
+    <string name="field_report_cant_start_dialog_generic_title" />
+    <string name="field_report_cant_start_dialog_in_call_content" />
+    <string name="field_report_cant_start_dialog_in_call_title" />
+    <string name="field_report_cant_start_dialog_maximize_coverage_content" />
+    <string name="field_report_cant_start_dialog_maximize_coverage_title" />
+    <string name="field_report_cant_start_dialog_service_paused_content" />
+    <string name="field_report_cant_start_dialog_service_paused_title" />
+    <string name="field_report_cant_start_dialog_switch_in_progress_content" />
+    <string name="field_report_cant_start_dialog_switch_in_progress_title" />
+    <string name="field_report_confirm_dialog_content" />
+    <string name="field_report_confirm_dialog_title" />
+    <string name="field_report_content_couldnt_find_better_carrier" />
+    <string name="field_report_content_found_better_carrier" />
+    <string name="field_report_notification_content_ongoing" />
+    <string name="field_report_notification_title_couldnt_find_better_carrier" />
+    <string name="field_report_notification_title_ongoing" />
+    <string name="field_report_title_found_better_carrier" />
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="firebase_database_url">https://com-api-project-639584562370.firebaseio.com</string>
+    <string name="first_statement_format">First statement available on &lt;b>%1$s&lt;/b></string>
+    <string name="fix_autopayment_detail">To avoid any issues with your next auto-payment, make sure to update your primary payment method.</string>
+    <string name="fix_me_failed">Repair failed. Please try again later.</string>
+    <string name="fix_me_repairing">Repairing…</string>
+    <string name="fix_me_successful">Repair successful.</string>
+    <string name="fix_me_title">Repair service</string>
+    <string name="fix_now">Fix now</string>
+    <string name="forward_calls">Forward calls to this number</string>
+    <string name="forwarding_check_number">Check number and try again</string>
+    <string name="forwarding_country_error">Please enter a US number</string>
+    <string name="forwarding_delete_error">"Couldn't delete forwarding number."</string>
+    <string name="forwarding_delete_message">Calls will no longer be forwarded to %1$s.</string>
+    <string name="forwarding_delete_title">Remove number?</string>
+    <string name="forwarding_deleted_snackbar">Number deleted.</string>
+    <string name="forwarding_duplicate_error">The number you provided is already a forwarding number</string>
+    <string name="forwarding_gv_error">"Can't add Google Voice number as forwarding number"</string>
+    <string name="forwarding_number_needs_verification">Number must be verified for forwarding</string>
+    <string name="forwarding_result_error_details_v1">Your number could not be verified at this time.</string>
+    <string name="forwarding_result_error_generic_description">"Oops, something went wrong. We couldn't send verification code to %1$s."</string>
+    <string name="forwarding_result_error_title">"Can't verify number"</string>
+    <string name="forwarding_result_success_description">All set! Calls will be forwarded to %1$s.</string>
+    <string name="forwarding_result_success_title">Verified</string>
+    <string name="forwarding_save_error">"Couldn't save forwarding number."</string>
+    <string name="forwarding_self_error">The number you provided already receives your calls</string>
+    <string name="forwarding_unverified_snackbar">"Couldn't verify number."</string>
+    <string name="forwarding_update_error">"Couldn't update forwarding number."</string>
+    <string name="forwarding_verified_snackbar">Number verified. Calls will be forwarded to %1$s.</string>
+    <string name="friend_section_header">Referred by</string>
+    <string name="friends_joined">"Friends who've joined Fi"</string>
+    <string name="full_speed">Paying for %1$s extra&amp;nbsp;&lt;a href=#info_button>More info&lt;/a></string>
+    <string name="full_term">&lt;b>%1$s —&lt;/b> %2$s</string>
+    <string name="gb">GB</string>
+    <string name="gb_at_cost">%1$s at %2$s</string>
+    <string name="gb_format">%1$s GB</string>
+    <string name="gb_with_units">%1$s&lt;a href=#textAppearance> GB&lt;/a></string>
+    <string name="gci">GCI</string>
+    <string name="gcm_defaultSenderId">639584562370</string>
+    <string name="generate_authorization_code">Get secret code</string>
+    <string name="get_full_speed_error_self">"Couldn't get full-speed data"</string>
+    <string name="get_info_failed">Failed to get info</string>
+    <string name="get_new_code">Get new code</string>
+    <string name="get_otp_failed">"Couldn't get secret code. Try again later."</string>
+    <string name="getting_info">Getting info</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="go_back">Go back</string>
+    <string name="google_api_key">AIzaSyBHermhhWtLHtcpgg1jqTfRF5XqEhJOxlc</string>
+    <string name="google_app_id">1:639584562370:android:0fabcb0fce2023b7</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBHermhhWtLHtcpgg1jqTfRF5XqEhJOxlc</string>
+    <string name="google_email_address">Google email address</string>
+    <string name="google_storage_bucket">google.com:api-project-639584562370.appspot.com</string>
+    <string name="got_it">Got it</string>
+    <string name="greeting_label">Greeting</string>
+    <string name="group_closure_outstanding_charges">%1$s&lt;br>&lt;br>The group owner will be responsible for covering any outstanding charges you may have on their group plan.</string>
+    <string name="group_members">Group members</string>
+    <string name="group_plan_tos_dialog_body">"Members can manage their own accounts, including adding devices, canceling service, and transferring phone numbers. The group owner is responsible for activity and charges on member accounts, including any device protection payments.&lt;br>&lt;br>By continuing, you agree to the &lt;a href=\"#clickify\">Terms&amp;nbsp;of&amp;nbsp;Service&lt;/a>, which includes the terms for Group Plans. You also agree to let Google Fi set the service address in this person's account by sharing yours when they join your plan. You or the member can view or change this address any time in settings."</string>
+    <string name="group_plan_tos_dialog_title">Group plan terms</string>
+    <string name="group_plan_unicorn_tos_dialog_body">"Members can manage their own accounts, including adding devices, canceling service, and transferring phone numbers. The group owner is responsible for activity and charges on member accounts, including any device protection payments.&lt;br>&lt;br> By continuing, you agree to the &lt;a href=\"#clickify\">Terms&amp;nbsp;of&amp;nbsp;Service&lt;/a>, which includes the terms for Group Plans. You also agree to let Google Fi set the service address in this person's account by sharing yours when they join your plan. You or the member can view or change this address any time in settings.&lt;br>&lt;br> &lt;b>Group plan terms for Google Accounts managed with Family Link&lt;/b>&lt;br>&lt;br> Children with accounts managed with Family Link can view their account activity but cannot add devices, cancel service, transfer numbers or refer other people to Fi. Children with accounts managed with Family Link must have a parent contact customer support on their behalf.&lt;br>&lt;br> &lt;b>By continuing, you agree on behalf of you and your children with accounts managed with Family Link to:&lt;/b>&lt;br>&lt;br> The Google Fi &lt;a href=\"#clickify\">Terms&amp;nbsp;of&amp;nbsp;Service&lt;/a> (Terms), which explains your &lt;a href=\"#clickify\">Customer Proprietary Network Information&lt;/a> (CPNI) rights. The Terms also include the &lt;a href=\"#clickify\">Electronic&amp;nbsp;Communications&amp;nbsp;Policy&lt;/a>, and your agreement means you are willing and able to receive account-related information from Google Fi electronically, rather than in paper form.&lt;br>&lt;br> Let Google Fi help you get the most out of Wi‑Fi by using Wi‑Fi Assistant, which automatically connects you to open networks we've verified as fast and reliable and uses a Google VPN to help secure your data. You can turn this on or off at any time in Google Settings.&lt;br>&lt;br> Have your device(s) set to sync saved Wi‑Fi networks and passwords with your Google Account(s), so you don't need to enter them on multiple devices. You can change this anytime in Google Settings."</string>
+    <string name="group_repay">Group repay</string>
+    <string name="group_repay_canceled">No longer owes %1$s</string>
+    <string name="group_repay_declined_fixed">Chose not to repay a fixed amount of %1$s</string>
+    <string name="group_repay_declined_full">Chose not to repay their total</string>
+    <string name="group_repay_declined_other">Chose not to repay %1$s</string>
+    <string name="group_repay_enabled_checkbox">Allow payment requests</string>
+    <string name="group_repay_fixed_details_owner_text">Always this much, even if over their total</string>
+    <string name="group_repay_fixed_details_text">Always this much, even if over your total</string>
+    <string name="group_repay_fixed_title_text">Fixed amount</string>
+    <string name="group_repay_from_you_canceled">You did not repay</string>
+    <string name="group_repay_full_details_format">The full amount %1$s pays for you</string>
+    <string name="group_repay_full_details_owner_format">The full amount you pay for %1$s</string>
+    <string name="group_repay_full_title_owner_text">Their individual total</string>
+    <string name="group_repay_full_title_text">Your individual total</string>
+    <string name="group_repay_highlight_subtitle">%1$s — %2$d of %3$d repaid</string>
+    <string name="group_repay_highlight_title">Money collected</string>
+    <string name="group_repay_none_title_text">No repayment</string>
+    <string name="group_repay_owner_fixed_format">Repaying %1$s</string>
+    <string name="group_repay_owner_full">Repaying their individual total</string>
+    <string name="group_repay_owner_none">No repayment</string>
+    <string name="group_repay_paid_fixed">Repaid a fixed amount of %1$s</string>
+    <string name="group_repay_paid_full">Repaid their total</string>
+    <string name="group_repay_paid_other">Repaid %1$s</string>
+    <string name="group_repay_pending_fixed">Owes a fixed amount of %1$s</string>
+    <string name="group_repay_pending_full">Owes their total</string>
+    <string name="group_repay_pending_other">Owes %1$s</string>
+    <string name="group_repay_settings">Group repay settings</string>
+    <string name="group_repay_setup_default_error">"Couldn't set your repayment amount right now."</string>
+    <string name="group_repay_setup_description_format">"You'll receive a monthly request to send %1$s money through Google Pay. Both you and %1$s can choose the amount to send. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a>"</string>
+    <string name="group_repay_setup_description_owner_format">%1$s will receive a monthly request to send you money through Google Pay. Both you and %1$s can choose the amount to send. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a></string>
+    <string name="group_repay_setup_owner_description">Let others in your group pay you back each month through Google Pay.&lt;br>&lt;br>You and they can choose the amount to send each month. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a></string>
+    <string name="group_repay_setup_owner_subtitle">Your group</string>
+    <string name="group_repay_setup_owner_title">Manage repay for %1$s</string>
+    <string name="group_repay_setup_title">Manage repay</string>
+    <string name="group_repay_statement_completed">You repaid %1$s</string>
+    <string name="group_repay_statement_pending_fixed">You owe a fixed amount</string>
+    <string name="group_repay_statement_pending_full">You owe your total</string>
+    <string name="group_repay_statement_pending_overage">You owe for extra data</string>
+    <string name="group_repay_statement_pending_unknown">You owe %1$s</string>
+    <string name="group_repay_to_x">You sent %1$s %2$s</string>
+    <string name="group_repay_to_x_canceled">You did not repay %1$s</string>
+    <string name="group_repay_to_x_pending">You owe %1$s %2$s</string>
+    <string name="group_repay_user_count_zero">No one repaying</string>
+    <string name="group_repay_validation_error">Please enter a valid amount.</string>
+    <string name="group_total">Group total</string>
+    <string name="group_usage">Group usage</string>
+    <string name="hard_closure_confirmation_dialog">"%1$s&lt;br>&lt;br>Your group members' calls, texts, and data will be cut off immediately. They will still be able to transfer their phone numbers to a new provider."</string>
+    <string name="hard_closure_group_body">Remember that your group members no longer have service on Google Fi - no calls, text, or mobile data.&lt;br>&lt;br>They have %1$d days to decide to move on to an individual Fi account, transfer their number, or release it.</string>
+    <string name="hard_closure_your_group_number_terms">Group members will have %1$d days to decide to move to an individual Fi plan, transfer their number, or release it.</string>
+    <string name="hard_closure_your_group_service_terms">Everyone in your group, including you, will immediately lose Fi service – no calls, text, or data.</string>
+    <string name="hard_credit_check_notice">"Next, we'll run the final credit check, which can affect your credit score."</string>
+    <string name="hardware_delivery_requires_signature">A signature will be required for delivery, make sure to confirm shipping address. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a></string>
+    <string name="hardware_display_info_with_link">%1$s&lt;br>&lt;a href=\"#clickify\">%2$s&lt;/a></string>
+    <string name="hardware_family_title_announce">%1$s (coming soon)</string>
+    <string name="hardware_purchase_dpp_item_details">Provided by Assurant, who will receive information about the device, your email address, and your service address.</string>
+    <string name="hardware_purchase_dpp_tooltip_text">%1$s Be sure to activate Fi service within %2$d days of device shipment.</string>
+    <string name="hardware_size_option_title">%1$s (%2$s″ display)</string>
+    <string name="hats_invitation_accept">Take our survey</string>
+    <string name="hats_invitation_body">Help us improve Google Fi</string>
+    <string name="hats_invitation_dismiss">@string/no_thanks</string>
+    <string name="hats_lib_close_button_description">Close</string>
+    <string name="hats_lib_default_prompt_title">Please help us improve Google.</string>
+    <string name="hats_lib_default_star_rating_bar_description">Star Rating Bar</string>
+    <string name="hats_lib_default_thank_you">Thank you for your feedback!</string>
+    <string name="hats_lib_next">Next</string>
+    <string name="hats_lib_none_of_the_above">None of the above</string>
+    <string name="hats_lib_open_text_hint">Enter your comments here</string>
+    <string name="hats_lib_open_text_no_pii">"Don't include personal information"</string>
+    <string name="hats_lib_prompt_no_thanks">No thanks</string>
+    <string name="hats_lib_prompt_take_our_survey">Show question</string>
+    <string name="hats_lib_submit">Submit</string>
+    <string name="hats_lib_thank_you_followup_message">Help us improve our product by answering more questions</string>
+    <string name="hats_thank_you_description">— Google Fi team</string>
+    <string name="hats_thank_you_title">Thanks for taking the time to share your thoughts with us.</string>
+    <string name="help">Help</string>
+    <string name="help_center">Help articles</string>
+    <string name="hges_3at">Three AT</string>
+    <string name="hges_3hk">Three HK</string>
+    <string name="hges_3uk">Three UK</string>
+    <string name="hi_user">Hi %1$s</string>
+    <string name="highlight_credit">@string/service_credit</string>
+    <string name="highlight_data_allowance_change">Data plan changed</string>
+    <string name="highlight_data_allowance_change_subtitle">To %1$s</string>
+    <string name="highlight_data_allowance_change_subtitle_with_old">From %1$s to %2$s</string>
+    <string name="highlight_data_paused">Data paused</string>
+    <string name="highlight_data_refund">Credit for unused data</string>
+    <string name="highlight_data_refund_subtitle">%1$s back</string>
+    <string name="highlight_data_resumed">Data resumed</string>
+    <string name="highlight_data_usage">Additional data used</string>
+    <string name="highlight_insurance_discontinued">Discontinued</string>
+    <string name="highlight_insurance_discontinued_model">Discontinued — %1$s</string>
+    <string name="highlight_insurance_enrollment">@string/enrolled</string>
+    <string name="highlight_insurance_enrollment_model">Enrolled — %1$s</string>
+    <string name="highlight_service_activated">Service activated</string>
+    <string name="highlight_service_paused">Service paused</string>
+    <string name="highlight_service_reactivated">Service reactivated</string>
+    <string name="highlight_service_resumed">Service resumed</string>
+    <string name="highlight_service_suspended">Service on hold</string>
+    <string name="highlights">Highlights</string>
+    <string name="html_line_break">&lt;br></string>
+    <string name="html_paragraph_break">&lt;br>&lt;br></string>
+    <string name="iah_clear_search_button_content_description">Clear search</string>
+    <string name="iah_contact_us">Contact us</string>
+    <string name="iah_hide_hours">Hide hours</string>
+    <string name="iah_hide_hours_announcement">No longer showing hours of operation.</string>
+    <string name="iah_hours_of_operation">Hours of operation</string>
+    <string name="iah_menu_chat">Chat</string>
+    <string name="iah_menu_email">Email</string>
+    <string name="iah_ok">OK</string>
+    <string name="iah_phone">Phone</string>
+    <string name="iah_pick_support_phone_number">Pick support phone number</string>
+    <string name="iah_popular_articles">Popular articles</string>
+    <string name="iah_search_box_hint">Describe your issue</string>
+    <string name="iah_search_button_content_description">Search</string>
+    <string name="iah_send_feedback">Send feedback</string>
+    <string name="iah_show_hours">Show hours</string>
+    <string name="iah_show_hours_announcement">Showing hours of operation, under each contact channel description.</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="idea">Idea</string>
+    <string name="imei_label">IMEI: %1$s</string>
+    <string name="imported_blocked_number_description">Imported from device</string>
+    <string name="in_app_feedback_description">"We use your feedback to improve your app experience. If you'd like help and want to speak to someone, &lt;a href=\"#clickify\"> contact&amp;nbsp;us&lt;/a>."</string>
+    <string name="in_app_feedback_description_unicorn">"We use your feedback to improve your app experience. If you'd like help, please ask your parent to contact us on your behalf."</string>
+    <string name="in_app_feedback_title">Sending feedback</string>
+    <string name="inactive">Inactive</string>
+    <string name="inactive_greetings_label">Other</string>
+    <string name="include_location_consent_body">Automatically send cell tower info and approximate location history to Google Fi from your phone to help improve network quality.</string>
+    <string name="include_location_consent_negative">@string/no_thanks</string>
+    <string name="include_location_consent_positive">Turn on network diagnostics</string>
+    <string name="include_location_consent_positive_details">You can change this at any time in Google Fi settings</string>
+    <string name="include_location_consent_title">Help improve network quality</string>
+    <string name="inelgibile">Ineligible</string>
+    <string name="info_not_available_error">Info not available right now</string>
+    <string name="insurance_enroll_success">Successfully enrolled in insurance.</string>
+    <string name="international">International</string>
+    <string name="international_call_detail">%1$d min at %2$s/min</string>
+    <string name="international_call_detail_wifi">%1$d min at %2$s/min (Wi‑Fi)</string>
+    <string name="international_card_cellular_calls_rate">%1$s/min</string>
+    <string name="international_card_cellular_calls_title">Voice calls (cellular)</string>
+    <string name="international_card_connectivity_error_subheader">To see rates, first connect to Wi‑Fi or mobile data.</string>
+    <string name="international_card_free">Free</string>
+    <string name="international_card_loaded_new_subheader">"We've got you covered here. It may take a few minutes to connect upon arrival."</string>
+    <string name="international_card_loaded_subheader">Google Fi has you covered here</string>
+    <string name="international_card_loading_subheader">Checking your coverage and rates…</string>
+    <string name="international_card_referral_share_text">"%1$s! Google Fi has me covered at the same rates. Here's a credit if you'd like to try Google Fi: %2$s"</string>
+    <string name="international_card_referral_share_text_credit">"%1$s! Google Fi has me covered at the same rates. Here's a %3$s credit if you'd like to try Google Fi: %2$s"</string>
+    <string name="international_card_sms_rate">%1$s/msg</string>
+    <string name="international_card_sms_title">SMS</string>
+    <string name="international_card_unavailable_rate">Rate unavailable</string>
+    <string name="international_card_view_rates">View rates</string>
+    <string name="international_card_wifi_calls_rate">Rates vary</string>
+    <string name="international_card_wifi_calls_title">Voice calls (Wi‑Fi)</string>
+    <string name="international_charge_subtitle">%1$s, %2$s</string>
+    <string name="international_charge_title">%1$s %2$s</string>
+    <string name="international_details_text">Rates vary for international calls. No data roaming fees in 170+ destinations. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a></string>
+    <string name="international_options">International features</string>
+    <string name="international_usage_tip">International usage</string>
+    <string name="international_usage_tip_detail">Reporting may be delayed up to 60 days</string>
+    <string name="invalid_address">Address not valid. Check all fields and try again.</string>
+    <string name="invalid_mcc_mnc">Invalid MCC/MNC: %1$s</string>
+    <string name="invalid_state">State not valid</string>
+    <string name="invalid_street_address">Street address not valid</string>
+    <string name="invalid_zip">Enter a valid zip code</string>
+    <string name="invite_now">Invite now</string>
+    <string name="invite_resend_failed">"Couldn't send invite"</string>
+    <string name="invitee_sent">Invite sent</string>
+    <string name="invitee_sent_email">Invite sent to %1$s</string>
+    <string name="invitee_uninvited">Uninvited</string>
+    <string name="invitee_uninvited_name">%1$s uninvited</string>
+    <string name="keep_your_number">Keep your number</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="last_months_cycle">"Last month's cycle"</string>
+    <string name="last_months_usage_format">"Last month's usage (for %1$s)"</string>
+    <string name="learn_more">Learn more</string>
+    <string name="leave_app">Leave app</string>
+    <string name="leave_contest_confirmation_body">If you leave, your referrals will no longer be eligible for gifts. Your progress will be saved, so you can re-enter at any time.</string>
+    <string name="leave_contest_confirmation_header">Leave challenge?</string>
+    <string name="leave_contest_error">"Couldn't leave challenge right now"</string>
+    <string name="leave_group_option_individual_plan">Individual Fi plan</string>
+    <string name="leave_group_plan">Leave group plan</string>
+    <string name="leave_plan_terms_device_financing">The group owner will continue making monthly payments toward the balance owed on your device.</string>
+    <string name="libraries_material_featurehighlight_dismiss">Dismiss</string>
+    <string name="line_break">"
+"</string>
+    <string name="line_item_account_credit">Account credit</string>
+    <string name="line_item_additional_data">Additional data</string>
+    <string name="line_item_additional_full_speed_data">Additional full-speed data</string>
+    <string name="line_item_additional_voice_and_text">Additional talk &amp; text charges</string>
+    <string name="line_item_data_over_cap">Data (Bill Protection at %1$s)</string>
+    <string name="line_item_data_over_cap_details">Used %1$s</string>
+    <string name="line_item_data_refund">Credit for unused data</string>
+    <string name="line_item_device_financing">Device payment</string>
+    <string name="line_item_device_financing_detail">%1$s﻿/﻿month, %2$s remaining</string>
+    <string name="line_item_device_financing_final">Device payment — full payoff</string>
+    <string name="line_item_device_financing_refund">Device return</string>
+    <string name="line_item_device_financing_refund_detail">Refund of paid balance</string>
+    <string name="line_item_domestic_data">Domestic data usage</string>
+    <string name="line_item_gv_balance_credit">Google Voice credit transfer</string>
+    <string name="line_item_insurance_deductible_detail">%1$s — %2$s</string>
+    <string name="line_item_insurance_enrollment">Coverage retroactive to ship date</string>
+    <string name="line_item_insurance_enrollment_date">Coverage retroactive to %1$s</string>
+    <string name="line_item_insurance_premium">Device protection</string>
+    <string name="line_item_insurance_premium_detail_model">%1$s (%2$s)</string>
+    <string name="line_item_insurance_refund_detail">Credit for coverage</string>
+    <string name="line_item_insurance_refund_detail_device">Credit for coverage on %1$s</string>
+    <string name="line_item_international_calls">International calls</string>
+    <string name="line_item_international_data">International data usage</string>
+    <string name="line_item_payment">Payment on %1$s</string>
+    <string name="line_item_prepaid_bp">Credit for prepaid data</string>
+    <string name="line_item_prepaid_bp_details">Already paid for %1$s</string>
+    <string name="line_item_prepaid_bp_details_rate">Already paid for %1$s at %2$s</string>
+    <string name="line_item_prepaid_data">Prepaid data</string>
+    <string name="line_item_previous_balance_detail">As of %1$s</string>
+    <string name="line_item_prior_balance">Previous balance</string>
+    <string name="line_item_prior_balance_date">Previous balance as of %1$s</string>
+    <string name="line_item_prorated_tnt_charge_detail">%1$s of service</string>
+    <string name="line_item_prorated_tnt_charge_detail_dates">%1$s of service (%2$s)</string>
+    <string name="line_item_prorated_tnt_credit_detail">Credit for %1$s of service</string>
+    <string name="line_item_prorated_tnt_credit_detail_dates">Credit for %1$s of service (%2$s)</string>
+    <string name="line_item_remaining_balance">Remaining balance</string>
+    <string name="line_item_service_charge">Service charge</string>
+    <string name="line_item_service_charge_date">Service charge on %1$s</string>
+    <string name="line_item_service_credit">@string/service_credit</string>
+    <string name="line_item_taxes_and_fees">Taxes &amp; regulatory fees</string>
+    <string name="line_item_unknown">Unknown charges</string>
+    <string name="line_item_voice_and_text_detail">Calls, texts, 24/7 support</string>
+    <string name="line_item_voice_and_text_detail_owner">1 person, %1$s/owner</string>
+    <string name="line_item_voice_and_text_detail_owner_member">%1$d people, %2$s + %3$s/member</string>
+    <string name="line_item_voice_and_text_prorated_charge">Prorated charge for service</string>
+    <string name="line_item_voice_and_text_prorated_credit">Prorated credit for service</string>
+    <string name="loading">Loading</string>
+    <string name="loading_details">Loading details…</string>
+    <string name="loading_subscriptions">Loading subscriptions</string>
+    <string name="location_body">"To help improve network quality, automatically send cell tower info and approximate location history to Google Fi from your phone.
+
+You can change this any time in Google Fi settings."</string>
+    <string name="location_dont_include">@string/no_thanks</string>
+    <string name="location_include">Turn on</string>
+    <string name="location_title">Turn on network diagnostics?</string>
+    <string name="manage_greeting">Manage greeting</string>
+    <string name="manage_greeting_details">Record a personal voicemail greeting or manage all greetings</string>
+    <string name="manage_members">People</string>
+    <string name="manage_payment_methods_launch_error">"Can't load payment methods right now"</string>
+    <string name="manage_plan">Manage plan</string>
+    <string name="manager">Manager</string>
+    <string name="manager_buy_device_restrictions">"Heads up — if you buy a device, you will not be able to sign up for device protection or pay for this device over time.
+
+These features are only available to group owners."</string>
+    <string name="manager_details">"Can see all account activity. Can't adjust payment or member roles."</string>
+    <string name="mandatory_fees">Taxes &amp; government surcharges</string>
+    <string name="mb">MB</string>
+    <string name="megabyteShort">MB</string>
+    <string name="member">Member</string>
+    <string name="member_details">Can adjust own settings only</string>
+    <string name="member_joined">A member joined</string>
+    <string name="member_joined_x">"A member joined %1$s's plan"</string>
+    <string name="member_joined_you">A member joined your plan</string>
+    <string name="member_removed_before_you_go_body">"You've been removed from your group plan, but you can still get your own account on Google Fi or transfer your number to another service provider (we'll provide you with your &lt;b>account number&lt;/b> and &lt;b>PIN&lt;/b>)"</string>
+    <string name="member_removed_description">You no longer have Fi service because you were removed from a group plan.</string>
+    <string name="member_removed_description_date">"You no longer have Fi service because you were removed from a group plan. We're holding your number until %1$s."</string>
+    <string name="member_removed_description_other">%1$s has been removed from your group plan.</string>
+    <string name="member_removed_hard_before_you_go_body">"%1$s.&lt;br>&lt;br>Just continue and we'll guide you through the process step-by-step."</string>
+    <string name="member_section_header">New members</string>
+    <string name="microsite_button_content_description">Open holiday experience</string>
+    <string name="microsite_highlight_body">Play the game to reach our gift to you</string>
+    <string name="microsite_highlight_header">Happy holidays from Google Fi!</string>
+    <string name="minor_role_dialog">You can only change permissions for members who are 18 or older.</string>
+    <string name="missing_active_greeting_label">"Couldn't show active greeting"</string>
+    <string name="mms">MMS</string>
+    <string name="monthly_charges">Monthly charges</string>
+    <string name="monthly_plan">Monthly plan</string>
+    <string name="more_actions">More actions</string>
+    <string name="more_info">More info</string>
+    <string name="move_talk_and_text_body">Your Fi service is currently associated with a different device. To set up your number on this phone, first make this your primary device.</string>
+    <string name="move_talk_and_text_details">Get calls and texts on this phone. This deactivates your number on any other phones.</string>
+    <string name="move_talk_and_text_title">Move number</string>
+    <string name="mtn">MTN</string>
+    <string name="network_operator">Network operator:</string>
+    <string name="new_member_description">"%1$s hasn't activated Fi service on their phone yet."</string>
+    <string name="new_member_notification">"This month's total is more than usual"</string>
+    <string name="new_number_description">"You've chosen to get a new number on Google Fi.
+
+It'll take just a minute to find a number and assign it to you."</string>
+    <string name="next">Next</string>
+    <string name="next_months_charges">"Next month's charges"</string>
+    <string name="next_months_charges_format">"Next month's charges (for %1$s)"</string>
+    <string name="next_statement_format">Next statement available on &lt;b>%1$s&lt;/b></string>
+    <string name="no_number">No number</string>
+    <string name="no_sim">No Google Fi SIM</string>
+    <string name="no_statements_sub_header">Your first statement will appear here soon</string>
+    <string name="no_statements_yet">No bills yet</string>
+    <string name="no_thanks">No thanks</string>
+    <string name="non_self_credit_disclaimer">"A member's individual credit may be applied to the total group charges."</string>
+    <string name="non_self_credit_disclaimer_with_deep_link">"A member's individual credit may be applied to the total group charges. To opt in or out, visit %1$s on a computer."</string>
+    <string name="not_available">Not available</string>
+    <string name="not_checked">Not checked</string>
+    <string name="not_yet_active">Not yet active</string>
+    <string name="not_yet_invited">Not yet invited</string>
+    <string name="notification_body_interactive_setup">Tap to finish activation</string>
+    <string name="notification_body_super_network">Get faster speed in more places by fine-tuning your SIM card.</string>
+    <string name="notification_body_tycho_supported">Tap to finish activation to improve your service</string>
+    <string name="notification_body_upgrade_tycho">Get the updated Google Fi app from Google Play and try activating again.</string>
+    <string name="notification_carrier_setup_text">Tap to set up calls, texts, and data.</string>
+    <string name="notification_carrier_setup_title">Activate your service</string>
+    <string name="notification_controls">Alerts</string>
+    <string name="notification_greeting_processed_failed_description">Tap to try again</string>
+    <string name="notification_greeting_processed_failed_title">"Couldn't process greeting"</string>
+    <string name="notification_greeting_processed_success_description">Your new greeting has finished processing</string>
+    <string name="notification_greeting_processed_success_title">Voicemail greeting set</string>
+    <string name="notification_new_voicemail">New voicemail</string>
+    <string name="notification_new_voicemail_no_connection">Tap to call voicemail. Offline playback not available.</string>
+    <string name="notification_title_activation_failed">"Can't activate Google Fi"</string>
+    <string name="notification_title_launch_tycho">Google Fi not fully activated</string>
+    <string name="notification_title_super_network">Maximize your coverage</string>
+    <string name="notification_title_tycho_supported">Google Fi now supports this phone</string>
+    <string name="notify_binge">Notify when your data usage spikes</string>
+    <string name="notify_me">Notify me</string>
+    <string name="notify_me_error">"Couldn't change notifications right now"</string>
+    <string name="notify_roaming">Notify about coverage before and during travel</string>
+    <string name="notify_updates_title">Get news, updates, and tips by email</string>
+    <string name="nova_esim">Google Fi eSIM</string>
+    <string name="nova_sim">Google Fi SIM</string>
+    <string name="null_imsi">Null IMSI</string>
+    <string name="number">Number</string>
+    <string name="number_term_title">Phone number</string>
+    <string name="number_to_transfer">Number to transfer</string>
+    <string name="off">Off</string>
+    <string name="offline_bar_shop_text">"You're offline. To shop with Fi, first connect to Wi‑Fi or data."</string>
+    <string name="offline_bar_text">"You're offline. To manage your account, first connect to Wi‑Fi or data."</string>
+    <string name="okay">Okay</string>
+    <string name="on_date">On %1$s</string>
+    <string name="onboarding_alerts_body">"Choose when you're notified about data usage. You can receive alerts as push notifications, emails, or both."</string>
+    <string name="onboarding_data_body">"Data is still %1$s. After %2$s, it's on us — so you'll never spend over %3$s on data per cycle."</string>
+    <string name="onboarding_data_body_new">"After %1$s, the rest of your data is on us — so you'll never spend over %2$s on data per cycle."</string>
+    <string name="onboarding_data_speed">Data speed is slowed after %1$s</string>
+    <string name="onboarding_data_speed_group">Data speed is slowed for anyone using over %1$s</string>
+    <string name="onboarding_gb_at_cost">Data: %1$s at %2$s</string>
+    <string name="onboarding_no_charges">Bill Protection kicked in at %1$s</string>
+    <string name="onboarding_upfront_bill_cap">"%1$s until %2$s — then it's on us"</string>
+    <string name="onboarding_upfront_body_new">"Don't use much data? Data is %1$s, and you only pay for what you use up to %2$s."</string>
+    <string name="onboarding_upfront_body_new_shared">"Don't use much data? Data is %1$s, and your group only pays for data usage up to %2$s."</string>
+    <string name="only_for_group_owners">Only available for group owners</string>
+    <string name="open_source_licenses">Open source licenses</string>
+    <string name="open_tanzanite" />
+    <string name="option">Option</string>
+    <string name="orange">Orange</string>
+    <string name="order_canceled">Order canceled</string>
+    <string name="order_data_only_sim">Order data‑only SIM</string>
+    <string name="ordered">Ordered</string>
+    <string name="ordered_on">Ordered on %1$s</string>
+    <string name="outage_description_degraded_12h_or_less">"We're up and running, just not at our usual level of availability. This should last less than 12 hours. %s"</string>
+    <string name="outage_description_degraded_12h_to_24_h">"We're up and running, just not at our usual level of availability. This should last less than 24 hours. %s"</string>
+    <string name="outage_description_degraded_24h_or_more">"We're up and running, just not at our usual level of availability. We'll keep you posted. %s"</string>
+    <string name="outage_description_delayed">"Your account info isn't updating right away. Rest assured we're still keeping track of all updates. %s"</string>
+    <string name="outage_description_unavailable_12h_or_less">"We're on it. We expect to be back up within 12 hours. %s"</string>
+    <string name="outage_description_unavailable_12h_to_24_h">"We're on it. We expect to be back up within 24 hours. %s"</string>
+    <string name="outage_description_unavailable_24h_or_more">"We're on it and we'll keep you posted. %s"</string>
+    <string name="outage_title_degraded">Service limited</string>
+    <string name="outage_title_delayed">Temporary account delays</string>
+    <string name="outage_title_generic">Service alert</string>
+    <string name="outage_title_unavailable">Service outage</string>
+    <string name="over_cap">Data is free until this cycle ends&amp;nbsp;&lt;a href=#info_button>More info&lt;/a></string>
+    <string name="over_cap_details_description">Your group saved %1$s with Bill Protection</string>
+    <string name="over_cap_details_footer">Your group used %1$s, but Bill Protection kicked in at %2$s. Any usage after %2$s was free.</string>
+    <string name="over_cap_details_footer_additional_data">Your group used %1$s, but Bill Protection kicked in at %2$s. Any usage after %2$s was free, excluding the cost for additional full-speed data.</string>
+    <string name="over_cap_details_row">%1$s (%2$s of %3$s)</string>
+    <string name="over_cap_other">Data is free for %1$s&amp;nbsp;&lt;a href=#info_button>More info&lt;/a></string>
+    <string name="owner">Owner</string>
+    <string name="owner_section_header">Owner</string>
+    <string name="paid_off_scheduled">Your balance of %1$s is set to be paid off on your next statement</string>
+    <string name="paragraph_break">"
+
+"</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pause">Pause</string>
+    <string name="pause_data">Pause data</string>
+    <string name="pause_data_error">"Couldn't pause data for %1$s"</string>
+    <string name="pause_data_error_self">"Couldn't pause data"</string>
+    <string name="pause_data_indefinitely">Indefinitely</string>
+    <string name="pause_data_to_cycle_end">For the rest of the cycle</string>
+    <string name="pause_service">Pause service</string>
+    <string name="pause_service_bp_text">&lt;br>&lt;br>&lt;b>Bill Protection&lt;/b>: Will kick in at %1$s for your group (instead of %2$s).</string>
+    <string name="pause_service_bp_text_no_gb">&lt;br>&lt;br>&lt;b>Bill Protection&lt;/b>: Can change depending on the number of people on your plan.</string>
+    <string name="pause_service_bp_text_unchanged">&lt;br>&lt;br>&lt;b>Bill Protection&lt;/b>: Will stay at %1$s for your group.</string>
+    <string name="pause_service_error">"Couldn't pause service for %1$s"</string>
+    <string name="pause_service_error_self">"Couldn't pause service"</string>
+    <string name="pause_service_text">This turns off service for %1$d days – no calling, texting, or using data. You can turn service back on at any time.&lt;br>&lt;br>&lt;b>Credit for calls &amp;amp; texts&lt;/b>: Issued per day of paused service.%2$s&lt;br>&lt;br>&lt;b>Device payments?&lt;/b> Keep making them, including for device protection.</string>
+    <string name="pause_service_title">Pause service?</string>
+    <string name="pay_off_device">Pay off device</string>
+    <string name="pay_off_device_dialog_body">"If you continue, we'll add your current balance (&lt;b>%1$s&lt;/b>) to your next statement along with your regular monthly charges."</string>
+    <string name="pay_off_device_dialog_title">Pay off device?</string>
+    <string name="pay_off_devices_body">"&lt;b>Why can't I pay over time?&lt;/b>&lt;br>&lt;br>%1$s&lt;br>&lt;br>&lt;a href=#list_item>%2$s&lt;/a>&lt;br>&lt;br>&lt;a href=#list_item>Wait for payoff to complete. The payoff balance will be billed automatically on your next statement.&lt;/a>&lt;br>&lt;br>&lt;a href=#list_item>Once payoff is complete, you can pay over time for a new device.&lt;/a>&lt;br>&lt;br>Alternatively, you can purchase this %4$s today for one full payment of %3$s."</string>
+    <string name="pay_off_devices_body_intro_sentence">To pay over time for a new device, you first need to pay off &lt;b>%1$s&lt;/b> of your existing balances.</string>
+    <string name="pay_off_devices_body_intro_sentence_no_balance">To pay over time for a new device, you first need to pay off your existing balances.</string>
+    <string name="pay_off_devices_body_no_model">"&lt;b>Why can't I pay over time?&lt;/b>&lt;br>&lt;br>%1$s&lt;br>&lt;br>&lt;a href=#list_item>%2$s&lt;/a>&lt;br>&lt;br>&lt;a href=#list_item>Wait for payoff to complete. The payoff balance will be billed automatically on your next statement.&lt;/a>&lt;br>&lt;br>&lt;a href=#list_item>Once payoff is complete, you can pay over time for a new device.&lt;/a>&lt;br>&lt;br>Alternatively, you can purchase this new device today for one full payment of %3$s."</string>
+    <string name="pay_over_time_adverse_action_subtitle">To see if this option is available to you, &lt;a href=\"#clickify\">contact&amp;nbsp;us&lt;/a></string>
+    <string name="pay_over_time_after_pay_off_subtitle">First, pay off your existing balance. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a></string>
+    <string name="pay_over_time_declined_subtitle">Not eligible. &lt;a href=\"#clickify\">See&amp;nbsp;details&lt;/a></string>
+    <string name="pay_over_time_not_enough_credit_subtitle">Not enough credit — only %1$s credit remaining</string>
+    <string name="pay_over_time_subtitle">%1$s today. No interest. Credit check required.</string>
+    <string name="pay_over_time_subtitle_months">%1$s﻿/﻿mo for %2$d months</string>
+    <string name="pay_over_time_subtitle_no_months">%1$s﻿/﻿mo</string>
+    <string name="pay_over_time_subtitle_promo">"%1$s
+%2$s if not activated within %3$d days of shipment."</string>
+    <string name="pay_over_time_title">Pay %1$s over time</string>
+    <string name="pay_over_time_title_msrp">Pay &lt;del>%2$s&lt;/del> %1$s over time</string>
+    <string name="pay_over_time_visit_web_subtitle">Visit &lt;b>fi.google.com&lt;/b> to pay over time for this device</string>
+    <string name="pay_today_in_full">Pay today in full</string>
+    <string name="pay_today_subtitle_promo">%1$s if not activated within %2$d days of shipment.</string>
+    <string name="pay_today_title">Pay %1$s today</string>
+    <string name="pay_today_title_msrp">Pay &lt;del>%2$s&lt;/del> %1$s today</string>
+    <string name="payment">Payment</string>
+    <string name="payment_due_by_message">Payment due by %1$s</string>
+    <string name="payment_failed">Payment not received</string>
+    <string name="payment_failed_detail">"Google Fi couldn't process your most recent payment. To keep your service active, make sure to resolve any issues with your payment by %1$s."</string>
+    <string name="payment_method">Payment method</string>
+    <string name="payment_options_title">Payment options</string>
+    <string name="payment_pending">Payment pending</string>
+    <string name="payment_pending_detail">It may take up to 1 hour to confirm your recent payment.</string>
+    <string name="payment_settings">Payment settings</string>
+    <string name="payoff_error">"Couldn't pay off balance"</string>
+    <string name="pending_number">%1$s (scheduled)</string>
+    <string name="permission_location">Let Google Fi use your location to find the strongest signal near you.</string>
+    <string name="permission_location_fallback">"Contact us and we'll help your device find the strongest signal near you."</string>
+    <string name="permission_location_system">Turn on location permissions for Google Fi.</string>
+    <string name="permission_phone">To get calls and voicemail working again, turn on phone permissions for Google Fi.</string>
+    <string name="permission_phone_fallback">To get calls and voicemail working again, turn on phone permissions for Google Fi.</string>
+    <string name="permission_phone_location">To get calls and voicemail working again, turn on phone permissions for Google Fi. To get the strongest possible signal, turn on location permissions too.</string>
+    <string name="permission_phone_location_fallback">To get calls and voicemail working again, turn on phone permissions for Google Fi. To get the strongest possible signal, turn on location permissions too.</string>
+    <string name="permission_phone_sms">To get calls and texts working again, turn on phone and SMS permissions for Google Fi.</string>
+    <string name="permission_phone_sms_fallback">"Contact us and we'll help you get calls and texts working again."</string>
+    <string name="permission_phone_sms_location">To get calls and texts working again, turn on phone and SMS permissions for Google Fi. To get the strongest possible signal, turn on location permissions too.</string>
+    <string name="permission_phone_sms_location_fallback">"Contact us and we'll help you get calls and texts working again and also help your device get the strongest signal."</string>
+    <string name="permission_phone_sms_system">"Calls and texts won't work unless you turn on phone and SMS permissions for Google Fi."</string>
+    <string name="permission_phone_system">"Calls and voicemail won't work unless you turn on phone permissions for Google Fi."</string>
+    <string name="permission_sms">To get texts working again, turn on SMS permissions for Google Fi.</string>
+    <string name="permission_sms_fallback">Contact us to get texts working again.</string>
+    <string name="permission_sms_location">To get texts working again, turn on SMS permissions for Google Fi. To get the strongest possible signal, turn on location permissions too.</string>
+    <string name="permission_sms_location_fallback">"Contact us and we'll help you get texts working again and also help your device get the strongest signal."</string>
+    <string name="permission_sms_system">"Texts won't work unless you turn on SMS permissions for Google Fi."</string>
+    <string name="permission_title">Restore your service</string>
+    <string name="permission_title_location">Get the strongest signal</string>
+    <string name="persistent_process" />
+    <string name="petabyteShort">PB</string>
+    <string name="phones">Phones</string>
+    <string name="pin">PIN</string>
+    <string name="plan_charges_title">Group plan charges — everything look good?</string>
+    <string name="plan_intl_roaming">Service outside the US</string>
+    <string name="plan_intl_voice">Calls to non-US numbers</string>
+    <string name="plan_voice">Calls &amp; texts</string>
+    <string name="please_wait">Please wait</string>
+    <string name="plugin" />
+    <string name="port_account_instructions">Enter your %1$s account info to get your number transfer started. Google Fi handles the rest.</string>
+    <string name="port_account_instructions_retry">The info you entered did not match the info on file with %1$s for %2$s. Check each entry and try again.&lt;br>&lt;br>Not the right number? &lt;a href=\"#clickify\">Start&amp;nbsp;over&lt;/a></string>
+    <string name="port_account_instructions_retry_unknown_carrier">The info you entered did not match the info on file with your previous provider for %1$s. Check each entry and try again.&lt;br>&lt;br>Not the right number? &lt;a href=\"#clickify\">Start&amp;nbsp;over&lt;/a></string>
+    <string name="port_account_instructions_unknown_carrier">Enter the info on file with your current provider to get your number transfer started. Google Fi handles the rest.</string>
+    <string name="port_account_name">Name on %1$s account</string>
+    <string name="port_account_name_help">"Account owner's name"</string>
+    <string name="port_account_name_unknown_carrier">Name on account</string>
+    <string name="port_account_number">%1$s account number</string>
+    <string name="port_account_number_empty">Enter %s</string>
+    <string name="port_account_number_help_att">8–15 numbers, should be on your bill</string>
+    <string name="port_account_number_help_sprint">Usually 9 numbers, no letters</string>
+    <string name="port_account_number_help_tmobile">9–15 numbers, should be on your bill</string>
+    <string name="port_account_number_help_unknown_carrier">Usually numeric, should be on your bill</string>
+    <string name="port_account_number_help_verizon">8–18 numbers, should be on your bill</string>
+    <string name="port_account_number_not_alphanumeric">Enter letters and numbers only</string>
+    <string name="port_account_number_too_long">Enter up to %1$d characters</string>
+    <string name="port_account_number_too_long_and_not_alphanumeric">Enter up to %1$d characters, using letters and numbers only</string>
+    <string name="port_account_number_unknown_carrier">Account number</string>
+    <string name="port_account_password_att">AT&amp;T security passcode</string>
+    <string name="port_account_password_empty">Enter %s</string>
+    <string name="port_account_password_help_att">4–8 numbers, may be the last 4 of your SSN</string>
+    <string name="port_account_password_help_sprint">Usually 6–10 numbers</string>
+    <string name="port_account_password_help_tmobile">Usually the last 4 numbers of your SSN</string>
+    <string name="port_account_password_help_unknown_carrier">Sometimes the last 4 numbers of your SSN</string>
+    <string name="port_account_password_help_verizon">Usually the last 4 numbers of your SSN</string>
+    <string name="port_account_password_sprint">Sprint security PIN/password</string>
+    <string name="port_account_password_tmobile">T-Mobile account PIN</string>
+    <string name="port_account_password_unknown_carrier">Account PIN/passcode</string>
+    <string name="port_account_password_verizon">Verizon billing PIN</string>
+    <string name="port_billing">%1$s billing address</string>
+    <string name="port_billing_empty">Enter billing address</string>
+    <string name="port_billing_street_name">%1$s billing street name</string>
+    <string name="port_billing_street_name_empty">Enter billing street name</string>
+    <string name="port_billing_street_name_unknown_carrier">Billing street name</string>
+    <string name="port_billing_unknown_carrier">Billing address</string>
+    <string name="port_delay_dialog">"Most number transfers take less than 15 minutes, but in some rare cases it can take up to two days.
+
+In the meantime, you'll continue to have service with your previous carrier.
+
+As soon as the transfer is complete, you'll get a notification on your phone letting you know that calls and texts are available on Google Fi."</string>
+    <string name="port_delay_dialog_title">What happens to my number?</string>
+    <string name="port_delay_disclaimer">Number transfers can sometimes take a while. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a></string>
+    <string name="port_different_number_dialog_body">"This means you'll permanently lose your Google Voice number."</string>
+    <string name="port_different_number_dialog_title">Use different number?</string>
+    <string name="port_enter_number">Confirm the number you want to transfer to Google Fi.</string>
+    <string name="port_enter_number_empty">Enter the number you want to transfer to Google Fi.</string>
+    <string name="port_error_temporary">"Unfortunately, number setup isn't available right now due to an issue on our end."</string>
+    <string name="port_gv_different_number">Use different number</string>
+    <string name="port_gv_disclaimer">&lt;a href=#textAppearance>%1$s&lt;/a>&lt;br>&lt;br>To make this your Google Fi number, first transfer it from Google Voice.</string>
+    <string name="port_in_progress">Number transfer in progress</string>
+    <string name="port_ineligible">Not eligible for transfer</string>
+    <string name="port_keep_gv_dialog">"&lt;b>If you continue, you'll lose your Google Voice number: %1$s&lt;/b>&lt;br>&lt;br>To keep that number, you'll need to transfer it to Google Fi."</string>
+    <string name="port_out_body">You may need to give this info to your new provider. As a reminder, your service will be canceled once your number is transferred.</string>
+    <string name="port_out_body_removed">You no longer have Fi service because you were removed from a group plan. To transfer your number, you may need to give this info to your new provider.</string>
+    <string name="port_out_status_gv_desc_removed">You no longer have Fi service because you were removed from a group plan. Your number is being transferred to Google Voice.</string>
+    <string name="port_out_status_gv_title">Cancellation in progress</string>
+    <string name="port_out_status_provider_title">Cancellation pending</string>
+    <string name="port_out_title">Number transfer info</string>
+    <string name="port_title">Set up your number</string>
+    <string name="port_to_individual_plan_desc_removed">You no longer have Fi service because you were removed from a group plan. Your number is being transferred to your own Google Fi account.</string>
+    <string name="postpay_callout">"You're no longer prepaying for data"</string>
+    <string name="postpay_callout_new">Data will be charged next month</string>
+    <string name="postpay_dialog_body">"Data is now billed after you use it. You'll see a single charge for data after each cycle ends."</string>
+    <string name="postpay_dialog_body_new">"Data is billed after you use it. You'll see your data charges on your next statement."</string>
+    <string name="postpay_dialog_title">"Where's the charge for data?"</string>
+    <string name="preferences_license_title">Open source licenses</string>
+    <string name="preorder">Pre-order</string>
+    <string name="preorder_device_subtitle">Leaves warehouse by %1$s</string>
+    <string name="previous_balance">Previous balance</string>
+    <string name="primes_marker">PrImEs</string>
+    <string name="primes_version">241954285</string>
+    <string name="privacy">Privacy</string>
+    <string name="privacy_settings_description">Information you share with Google helps make Google Fi better. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a></string>
+    <string name="privacy_settings_description_unicorn">"Information you share with Google helps make Google Fi better. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a>&lt;br>&lt;br>Your child's information is shared only with you. After turning 13, they'll have the option to share their information."</string>
+    <string name="project_id">google.com:api-project-639584562370</string>
+    <string name="promotions">Promotions</string>
+    <string name="purchase_canceled">Purchase canceled</string>
+    <string name="push_notifications_channel_name">Push notifications</string>
+    <string name="radio_button">Radio button</string>
+    <string name="reason_damaged_screen">damaged screen</string>
+    <string name="reason_empty_package">phone missing from trade-in kit</string>
+    <string name="reason_lock">"phone isn't factory reset"</string>
+    <string name="reason_lost">phone reported lost or stolen</string>
+    <string name="reason_model_mismatch">incorrectly reported phone model</string>
+    <string name="reason_other">other</string>
+    <string name="reason_phone_not_in_catalog">phone ineligible for trade-in</string>
+    <string name="reason_power">"phone doesn't turn on/off"</string>
+    <string name="reason_received_late">phone received more than %1$s days after initiation of trade-in</string>
+    <string name="reason_screen_intact">screen intact</string>
+    <string name="reason_touch_screen">"touch screen doesn't work"</string>
+    <string name="reasons_for_change">Reasons for change in value: %1$s</string>
+    <string name="record_greeting">Record greeting</string>
+    <string name="record_greeting_back_body">If you go back, your recording will be discarded.</string>
+    <string name="record_greeting_back_discard">Discard</string>
+    <string name="record_greeting_back_title">Discard recording?</string>
+    <string name="record_greeting_default_name_format">Greeting %d</string>
+    <string name="record_greeting_duplicate_name_error_format">\"%s\" already exists</string>
+    <string name="record_greeting_keep">Keep</string>
+    <string name="record_greeting_name_title">Name your greeting</string>
+    <string name="record_greeting_playback">Sound good?</string>
+    <string name="record_greeting_playback_failed_body">"Can't play recording"</string>
+    <string name="record_greeting_playback_in_progress">Playing back…</string>
+    <string name="record_greeting_record">Tap to record</string>
+    <string name="record_greeting_recording_failed_body">This could be a system problem, or another app may be using the mic.</string>
+    <string name="record_greeting_recording_failed_title">"Can't open mic"</string>
+    <string name="record_greeting_recording_in_progress">Recording…</string>
+    <string name="record_greeting_rerecord">Redo</string>
+    <string name="record_greeting_rerecord_body">Your recording will be discarded.</string>
+    <string name="record_greeting_upload_failed_body">"Your recording is still available but can't be uploaded right now."</string>
+    <string name="record_greeting_upload_failed_cancel">Back to recording</string>
+    <string name="record_greeting_upload_failed_title">"Can't upload greeting"</string>
+    <string name="record_greeting_uploading_body">This can take 5–10 seconds</string>
+    <string name="record_greeting_uploading_title">Uploading…</string>
+    <string name="referral_badge_content_description">This referral qualifies for the Race to HQ contest.</string>
+    <string name="referral_cap_body">"You can still invite more friends, and they'll be eligible for a Fi credit. However, you're no longer eligible to receive additional referral credit."</string>
+    <string name="referral_cap_body_credit">"You can still invite more friends, and they'll be eligible for a %1$s Fi credit. However, you're no longer eligible to receive additional referral credit."</string>
+    <string name="referral_cap_title">Referral cap reached</string>
+    <string name="referral_contest_in_progress_header_desc">"You're on your way to earning additional gifts for your active referrals until %1$s."</string>
+    <string name="referral_contest_in_progress_header_desc_fallback">"You're on your way to earning additional gifts until our challenge ends."</string>
+    <string name="referral_contest_in_progress_header_title">"Fi it Forward: You're in!"</string>
+    <string name="referral_contest_loading_error_description">"Can't load challenge details.
+Check your connection and try again."</string>
+    <string name="referral_contest_over_count_zero">&lt;a href=#textAppearance>0&lt;/a>&lt;br>Referrals made</string>
+    <string name="referral_contest_over_header_desc_no_prize">Thanks for participating! You can still earn %1$s credit for your active referrals by sharing your unique referral code. %2$s</string>
+    <string name="referral_contest_over_header_desc_no_prize_fallback">Thanks for participating! You can still earn Fi credit for your active referrals by sharing your unique referral code.</string>
+    <string name="referral_contest_over_header_title">Fi it Forward is over</string>
+    <string name="referral_copied">Referral code copied to clipboard</string>
+    <string name="referral_description">"After your referral has been active for %1$d days, you'll both get a Fi credit. &lt;a href=\"#clickify\">Terms and conditions apply&lt;/a>"</string>
+    <string name="referral_description_cap">"You're no longer eligible to receive Fi credit. However, you can still refer friends as new subscribers, and we'll credit them after they've been active for %1$d days. &lt;a href=\"#clickify\">Terms and conditions apply&lt;/a>"</string>
+    <string name="referral_description_cap_credit">"You're no longer eligible to receive Fi credit. However, you can still refer friends as new subscribers, and we'll credit them %2$s after they've been active for %1$d days. &lt;a href=\"#clickify\">Terms and conditions apply&lt;/a>"</string>
+    <string name="referral_description_credit">"After your referral has been active for %1$d days, you'll both get %3$s Fi credit. %2$s &lt;a href=\"#clickify\">Terms and conditions apply&lt;/a>"</string>
+    <string name="referral_description_credit_different">"After your referral has been active for %1$d days, you'll get %3$s Fi credit and they'll get %4$s Fi credit. %2$s &lt;a href=\"#clickify\">Terms and conditions apply&lt;/a>"</string>
+    <string name="referral_description_deadline">They’ll need to use their referral code before %1$s.</string>
+    <string name="referral_details">Referral details</string>
+    <string name="referral_details_canceled">No longer eligible for credit</string>
+    <string name="referral_details_capped">"Not eligible for credit (%1$s's cap reached)"</string>
+    <string name="referral_details_capped_self">Not eligible for credit (your cap reached)</string>
+    <string name="referral_details_credit_received">Credit received</string>
+    <string name="referral_details_full">Credit received: %1$s</string>
+    <string name="referral_details_partial">Credit received: %1$s (%2$s to come)</string>
+    <string name="referral_details_unknown">Status unavailable</string>
+    <string name="referral_details_waiting">Not yet eligible for credit (under %1$d days)</string>
+    <string name="referral_ended">The window for sharing the Fi love has closed.</string>
+    <string name="referral_ended_waiting">The window for sharing the Fi love has closed. You can still receive credit for friends who have already joined.</string>
+    <string name="referral_enter_contest_button">Enter to win</string>
+    <string name="referral_enter_contest_header_description">You can enter our challenge to earn additional gifts for active referrals made from %1$s to %2$s.&lt;br>&lt;br>If you enter, your first name and number of referrals will be available to the general public until %2$s. &lt;a href=\"#clickify\">Challenge details &amp; terms&lt;/a></string>
+    <string name="referral_enter_contest_header_description_fallback">For a limited time, you can enter our challenge to earn additional gifts for your active referrals.&lt;br>&lt;br>If you enter, your first name and number of referrals will be available to the general public until the challenge ends. &lt;a href=\"#clickify\">Challenge details &amp; terms&lt;/a></string>
+    <string name="referral_enter_contest_header_title">Fi it Forward: Enter to win</string>
+    <string name="referral_error">Your referral code is temporarily unavailable due to an issue on our end. Please try again later.</string>
+    <string name="referral_launch">"Refer a friend and you'll both earn a Fi credit"</string>
+    <string name="referral_launch_credit">"Refer a friend and you'll both earn %1$s"</string>
+    <string name="referral_launch_credit_deadline">"Refer a friend by %2$s and you'll earn %1$s"</string>
+    <string name="referral_launch_credit_different">"Refer a friend and you'll earn %1$s"</string>
+    <string name="referral_launch_ended">Keep track of the referrals you made</string>
+    <string name="referral_leave_contest">Leave challenge</string>
+    <string name="referral_list_subtitle">%1$s to come on a future statement</string>
+    <string name="referral_list_subtitle_combined_credit_referral_pending">%1$s • %2$s</string>
+    <string name="referral_list_title_group">Your group has received &lt;b>%1$s&lt;/b></string>
+    <string name="referral_list_title_you">You have received &lt;b>%1$s&lt;/b></string>
+    <string name="referral_prizes">Gifts</string>
+    <string name="referral_see_leaderboard">See leaderboard</string>
+    <string name="referral_share_text">"Here's a referral code to get a credit when you join Google Fi! Redeem it at %1$s"</string>
+    <string name="referral_share_text_credit">"Here's a referral code to get a %2$s credit when you join Google Fi! Redeem it at %1$s"</string>
+    <string name="referral_share_title">"Here's your referral code"</string>
+    <string name="referral_share_title_credit">"Here's your referral code (worth %1$s!)"</string>
+    <string name="referred_by_friend">Referred by a friend</string>
+    <string name="referred_by_x">Referred by %1$s</string>
+    <string name="referred_friend">Referred a friend</string>
+    <string name="referred_x">Referred %1$s</string>
+    <string name="refresh">Refresh</string>
+    <string name="refreshing">Refreshing…</string>
+    <string name="remaining_credit_disclaimer">Any Fi credit not applied this statement will apply toward future charges.</string>
+    <string name="remove">Remove</string>
+    <string name="remove_device_error">"Couldn't remove device"</string>
+    <string name="remove_member">Remove %1$s from plan</string>
+    <string name="remove_member_before_you_go_body">"This cuts off service right away. %1$s will immediately lose Fi service – no calls, texts or data.&lt;br>&lt;br>&lt;b>Don't want to cut off service yet?&lt;/b> To let %1$s keep Fi service until they're ready to go, ask them to leave your plan instead. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a>"</string>
+    <string name="remove_member_confirmation_body">%1$s has been removed from your group plan.&lt;br>&lt;br>%1$s will receive an email letting them know that their service was canceled and that they have %2$d days to take action on their account.</string>
+    <string name="remove_member_confirmation_dialog">"By continuing, %1$s's service will be canceled."</string>
+    <string name="remove_member_confirmation_title">@string/service_canceled</string>
+    <string name="remove_member_terms_device_financing">"The group owner will continue to make monthly payments toward the balance owed on %1$s's device, with the option to pay it off at any time."</string>
+    <string name="remove_member_terms_device_financing_self">"You'll continue to make monthly payments toward the balance owed on %1$s's device, with the option to pay it off at any time."</string>
+    <string name="remove_member_terms_insurance">"The group owner will continue to pay for device protection on %1$s's behalf, with the option to cancel at any time."</string>
+    <string name="remove_member_terms_insurance_self">"You'll continue to pay for device protection on %1$s's behalf, with the option to cancel at any time."</string>
+    <string name="remove_member_terms_number">%1$s will have %2$d days to decide to transfer their number, or release it.</string>
+    <string name="remove_member_terms_number_individual">%1$s will have %2$d days to decide to move to an individual Fi account, transfer their number, or release it.</string>
+    <string name="remove_member_terms_payments">The group owner will be billed for any remaining charges within %1$d days.</string>
+    <string name="remove_member_terms_service">%1$s will immediately lose Fi service – no calls, texts, or data.</string>
+    <string name="remove_member_title">"Cancel %1$s's service"</string>
+    <string name="remove_number">Remove number</string>
+    <string name="remove_sim">Remove SIM</string>
+    <string name="remove_sim_dialog_body">This data-only SIM will no longer have Fi service.</string>
+    <string name="remove_sim_dialog_title">Remove device?</string>
+    <string name="removed">Service canceled</string>
+    <string name="removed_device_name">(Removed)</string>
+    <string name="render_inline_service_credit_title">Credit details</string>
+    <string name="render_service_credit_details_error">"Can't load details right now"</string>
+    <string name="render_service_credit_title">Fi credit</string>
+    <string name="replace_sim_card">Replace SIM card</string>
+    <string name="reported_condition">Reported condition</string>
+    <string name="resend_invite">Resend invite</string>
+    <string name="resend_invite_description">Resend invite</string>
+    <string name="rest_of_group">Rest of group</string>
+    <string name="result" />
+    <string name="resume_data_error">"Couldn't resume data for %1$s"</string>
+    <string name="resume_data_error_self">"Couldn't resume data"</string>
+    <string name="resume_data_success">Data resumed for %1$s</string>
+    <string name="resume_data_success_self">Data resumed</string>
+    <string name="resume_service_error">"Couldn't resume service for %1$s"</string>
+    <string name="resume_service_error_self">"Couldn't resume service"</string>
+    <string name="resume_service_success">Service resumed for %1$s</string>
+    <string name="resume_service_success_self">Service resumed</string>
+    <string name="resume_setup">Resume setup</string>
+    <string name="roaming_coverage_notification_body">"We've got you covered. It may take a few minutes to connect."</string>
+    <string name="roaming_notification_body_no_data">SMS is %1$s/msg. Cellular calls are %2$s/min. Rates vary for Wi‑Fi calls. Mobile data is not available.</string>
+    <string name="roaming_notification_no_details">"Tap to see Google Fi's rates."</string>
+    <string name="roaming_notification_no_service">"Google Fi doesn't have coverage here, but Wi‑Fi calling may be available."</string>
+    <string name="sample_data_usage">Sample data usage</string>
+    <string name="sample_statement">Sample statement</string>
+    <string name="save">Save</string>
+    <string name="save_changes_body">"Your changes won't take effect unless you save them."</string>
+    <string name="save_changes_error">"Couldn't save changes"</string>
+    <string name="save_changes_title">Save changes?</string>
+    <string name="saving_dialog_title">Still saving…</string>
+    <string name="see_compatible_phones">See compatible phones</string>
+    <string name="see_referrals">See referrals</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="send_location_description">Automatically send cell tower info and approximate location history to Google Fi from your phone to help improve network quality</string>
+    <string name="send_location_title">Network diagnostics</string>
+    <string name="send_money">Send money</string>
+    <string name="service_canceled">Service canceled</string>
+    <string name="service_credit">Service credit</string>
+    <string name="service_credit_section_title_remaining">%1$s (%2$s to come)</string>
+    <string name="service_credit_section_title_self">%1$s – You</string>
+    <string name="service_credit_section_title_self_remaining">%1$s – You (%2$s to come)</string>
+    <string name="service_credit_section_title_user">%1$s – %2$s</string>
+    <string name="service_credit_section_title_user_remaining">%1$s – %2$s (%3$s to come)</string>
+    <string name="service_is_paused">Service is paused</string>
+    <string name="service_reactivated_success_self">Service reactivated</string>
+    <string name="service_term_title">Service</string>
+    <string name="setting_error">Unable to change setting.</string>
+    <string name="settings">Settings</string>
+    <string name="share_params_checkbox">Send transfer information to %1$s</string>
+    <string name="share_params_title">Is %1$s handling your transfer for you?</string>
+    <string name="share_usage_description">Let Google Fi use and share your Customer Proprietary Network Information with Google to offer you additional products and services</string>
+    <string name="share_usage_title">Additional CPNI usage</string>
+    <string name="share_voicemail_details">Automatically send voicemails to Google</string>
+    <string name="share_voicemail_title">Improve voicemail transcription</string>
+    <string name="share_your_code">Share your code</string>
+    <string name="share_your_referral_code">Share your referral code</string>
+    <string name="shared_closure_number_dialog_provider">"By continuing, your number will be unlocked so that it can be released to another provider.&lt;br>&lt;br>We'll also provide you with your &lt;b>account number&lt;/b> and &lt;b>PIN&lt;/b> to help transfer your number."</string>
+    <string name="shared_closure_you_insurance_terms">Your device protection will be discontinued.</string>
+    <string name="shared_closure_your_group_insurance_terms_member">Device protection coverage will be discontinued for all group members with enrolled devices. They will have the option to continue coverage on an individual Fi plan.</string>
+    <string name="shared_closure_your_group_insurance_terms_owner">Device protection coverage will be discontinued for all group members with enrolled devices.</string>
+    <string name="shared_the_fi_love">Share the Fi love</string>
+    <string name="shipped">Shipped</string>
+    <string name="shipped_on">Shipped on %1$s</string>
+    <string name="shop">Shop</string>
+    <string name="shop_no_load">"Couldn't load content right now"</string>
+    <string name="shop_tab_subheader">Find your next phone</string>
+    <string name="shop_update_app">Update your app to use Shop</string>
+    <string name="show_more">Show more</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="silence_for_x">Silence for %1$s</string>
+    <string name="sim_id_label">SIM ID: %1$s</string>
+    <string name="sim_operator">Sim operator:</string>
+    <string name="singtel">Singtel</string>
+    <string name="skip">Skip</string>
+    <string name="skip_for_now">Skip for now</string>
+    <string name="skip_port">Transfer later</string>
+    <string name="slower_data">Slower data</string>
+    <string name="smartphone_data_title">Device</string>
+    <string name="sms">SMS</string>
+    <string name="soft_cancelled_butterbar_title">Service ends soon</string>
+    <string name="soft_closure_confirmation_dialog">%1$s&lt;br>&lt;br>Your group will continue to have service until they leave. Until then, you will continue to pay for their service.</string>
+    <string name="soft_closure_group_body">Remember that your group members will continue to have service for up to %1$d days.&lt;br>&lt;br>They will have to decide to move to an individual Fi plan, transfer their number, or release it.</string>
+    <string name="soft_closure_your_group_service_terms">Group members will continue to have service on Google Fi for up to %1$d days, after which their service will end automatically.</string>
+    <string name="soft_closure_your_number_terms">Your phone number will be released unless you choose to transfer it.</string>
+    <string name="soft_closure_your_payments_terms">"You'll continue to be billed for any group members who stay on your plan. After everyone leaves, you'll be billed for any remaining charges and outstanding balances within %1$d days."</string>
+    <string name="soft_closure_your_service_terms">"You'll no longer have service on Google Fi - no calls, texts, or mobile data - unless you move to your own Fi plan."</string>
+    <string name="softbank">SoftBank</string>
+    <string name="source" />
+    <string name="spam_blocking_description">"To prevent suspected spam calls from disturbing you, you'll need the Phone App by Google. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a>"</string>
+    <string name="spam_blocking_text">Filter spam calls</string>
+    <string name="spam_blocking_title">Spam</string>
+    <string name="sprint">Sprint</string>
+    <string name="starburst">Starburst</string>
+    <string name="starburst_feature_not_enabled" />
+    <string name="start_credit_check">Start credit check</string>
+    <string name="start_transfer">Start transfer</string>
+    <string name="start_transfer_and_cancel">Start transfer &amp; cancellation</string>
+    <string name="state">State</string>
+    <string name="statement">Statement</string>
+    <string name="statement_download_failed">Failed to download statement</string>
+    <string name="statement_downloaded">Statement downloaded</string>
+    <string name="statement_downloading_notification">Downloading Google Fi statement for %1$s</string>
+    <string name="statement_filename">Google Fi Statement (%1$s).pdf</string>
+    <string name="statement_new_member_dialog_description">"You're paying for part of their last month (just this once) and next month (as usual)."</string>
+    <string name="statement_new_member_dialog_last_months_charges_subtitle">Prorated calls, texts, and data</string>
+    <string name="statement_new_member_dialog_last_months_charges_title">"Last month's charges"</string>
+    <string name="statement_new_member_dialog_next_months_charges_subtitle">Pay ahead for calls, texts, and data</string>
+    <string name="statement_new_member_dialog_next_months_charges_title">"Next month's charges"</string>
+    <string name="statement_new_member_dialog_title">%1$s joined this cycle</string>
+    <string name="statement_new_members_dialog_title">%1$d people joined this cycle</string>
+    <string name="stc">Saudi Telecom Company</string>
+    <string name="straighten_things_out">"Contact us and we'll help straighten things out."</string>
+    <string name="street_address">Street address</string>
+    <string name="submit">Submit</string>
+    <string name="subscribed_to_notifications">"We'll email you when this model is available"</string>
+    <string name="subscriber_section_header">Referrer</string>
+    <string name="sudFontSecondary">google-sans</string>
+    <string name="sudFontSecondaryMedium">google-sans-medium</string>
+    <string name="sud_back_button_label">Back</string>
+    <string name="sud_more_button_label">More</string>
+    <string name="sud_next_button_label">Next</string>
+    <string name="suggested_retail_price_content_description">Discounted from %1$s</string>
+    <string name="summary">Summary</string>
+    <string name="support">Support</string>
+    <string name="switch_already_active">Already on MCC/MNC: %1$s</string>
+    <string name="switch_button">Switch</string>
+    <string name="switch_disabled">Cannot override carrier.</string>
+    <string name="switch_error">Error: %1$s</string>
+    <string name="switch_get_subscriptions_error">Could not get subscriptions</string>
+    <string name="switch_in_progress">Switching to MCC/MNC: %1$s</string>
+    <string name="switch_no_next_subscription">No next available subscription</string>
+    <string name="switch_success">Successfully switched</string>
+    <string name="tab_title_account">Account</string>
+    <string name="tanzanite" />
+    <string name="tax_amount_refund">%1$s - Refund</string>
+    <string name="taxes_and_fees">Taxes &amp; regulatory fees</string>
+    <string name="telefonica">Telefonica</string>
+    <string name="telia_sonera">Telia Sonera</string>
+    <string name="tell_a_friend">Tell a friend</string>
+    <string name="tell_a_friend_chooser">Tell a friend about your coverage</string>
+    <string name="terabyteShort">TB</string>
+    <string name="tethering_data_title">Tethered devices</string>
+    <string name="text_me">Text me</string>
+    <string name="text_me_now">Text me now</string>
+    <string name="text_messages">Text messages</string>
+    <string name="this_device">This device</string>
+    <string name="time_elapsed_invalid">‒‒:‒‒</string>
+    <string name="time_elapsed_invalid_talk_back">Unknown seconds</string>
+    <string name="time_stamp" />
+    <string name="title_soft_upgrade_tycho">Update Google Fi</string>
+    <string name="tmobile">T-Mobile</string>
+    <string name="today_label">Today</string>
+    <string name="tos_agree">I agree</string>
+    <string name="total">Total</string>
+    <string name="total_cost_content_description">Total cost is %1$s.</string>
+    <string name="total_due_monthly">Total due monthly</string>
+    <string name="total_due_today">Total due today</string>
+    <string name="trade_in">Trade-in</string>
+    <string name="trade_in_butter_bar">Trade in an old phone, get Fi credit</string>
+    <string name="trade_in_canceled">Trade-in • Canceled</string>
+    <string name="trade_in_canceled_date">Trade-in • Canceled on %1$s</string>
+    <string name="trade_in_credit">Trade-in credit</string>
+    <string name="trade_in_credit_applied">Trade-in • &lt;a href=#textAppearance> %1$s&lt;/a></string>
+    <string name="trade_in_credit_applied_credit">%1$s Fi credit issued</string>
+    <string name="trade_in_credit_applied_credit_all_used">All Fi credit used</string>
+    <string name="trade_in_credit_applied_credit_all_used_details">The %1$s you received for trading in your phone has been applied to your monthly statements</string>
+    <string name="trade_in_credit_applied_credit_details">Applies to your monthly statement</string>
+    <string name="trade_in_credit_applied_credit_remaining">%1$s Fi credit remaining</string>
+    <string name="trade_in_credit_applied_refund">%1$s refund issued</string>
+    <string name="trade_in_credit_applied_refund_and_credit">%1$s refund and %2$s Fi credit issued</string>
+    <string name="trade_in_credit_applied_refund_and_credit_all_used">%1$s refund issued and all Fi credit used</string>
+    <string name="trade_in_credit_applied_refund_and_credit_remain">%1$s refund issued and %2$s Fi credit remaining</string>
+    <string name="trade_in_credit_applied_refund_details">Can take 2–3 days to appear on your credit card statement</string>
+    <string name="trade_in_credit_applied_refund_to">%1$s refund issued to %2$s</string>
+    <string name="trade_in_credit_remaining">%1$s remaining</string>
+    <string name="trade_in_credit_used">%1$s used</string>
+    <string name="trade_in_details">Trade-in details</string>
+    <string name="trade_in_dialog_body">Get Fi credit or a card refund when you trade in an old phone and buy a new one.&lt;br>&lt;br>Visit &lt;b>%1$s&lt;/b> on a computer to get started.</string>
+    <string name="trade_in_dialog_title">Get credit for your old phone</string>
+    <string name="trade_in_kit_sent">Trade-in • Kit sent</string>
+    <string name="trade_in_kit_sent_date">Trade-in • Kit sent on %1$s</string>
+    <string name="trade_in_phone_inspected">Trade-in • Waiting to issue credit</string>
+    <string name="trade_in_phone_received">Trade-in • Received for review</string>
+    <string name="trade_in_phone_received_date">Trade-in • Received on %1$s for review</string>
+    <string name="trade_in_phone_returned">Trade-in • Sent back</string>
+    <string name="trade_in_phone_returned_date">Trade-in • Sent back on %1$s</string>
+    <string name="trade_in_requested">Trade-in • Kit requested</string>
+    <string name="trade_in_requested_date">Trade-in • Kit requested on %1$s</string>
+    <string name="trade_in_return">Phone sent back to you</string>
+    <string name="trade_in_return_date">Phone sent back to you on %1$s</string>
+    <string name="trade_in_return_details">Returning because actual value was lower than estimated</string>
+    <string name="trade_in_return_track_shipment">Track shipment</string>
+    <string name="trade_in_status">Trade-in status</string>
+    <string name="trade_in_step_1_kit_requested">Trade-in kit requested</string>
+    <string name="trade_in_step_1_kit_requested_date">Trade-in kit requested on %1$s</string>
+    <string name="trade_in_step_1_kit_sent">Trade-in kit sent</string>
+    <string name="trade_in_step_1_kit_sent_date">Trade-in kit sent on %1$s</string>
+    <string name="trade_in_step_1_track_kit">Track kit</string>
+    <string name="trade_in_step_2_device_received">Received for review</string>
+    <string name="trade_in_step_2_device_received_date">Received on %1$s for review</string>
+    <string name="trade_in_step_2_track_device">Track device</string>
+    <string name="trade_in_step_2_waiting_device">Waiting to receive device</string>
+    <string name="trade_in_step_3_device_inspection">Phone being reviewed</string>
+    <string name="trade_in_step_3_inspection_completed">Phone reviewed</string>
+    <string name="trade_in_step_3_inspection_completed_date">Phone reviewed on %1$s</string>
+    <string name="trade_in_step_3_waiting_inspection">Waiting for results of review</string>
+    <string name="trade_in_step_4_waiting_credit">Waiting to issue credit</string>
+    <string name="trade_in_step_4_waiting_credit_details">"If you pre-ordered a device, we'll issue credit when the device ships"</string>
+    <string name="trade_in_step_4_waiting_value">Determining trade-in value</string>
+    <string name="trade_in_waiting_phone_return">Trade-in • Preparing to send back</string>
+    <string name="trade_in_waiting_return">Preparing to send phone back to you</string>
+    <string name="trade_in_waiting_return_details">You previously requested that this phone be sent back to you if its actual value was lower than its estimated value</string>
+    <string name="trade_in_with_purchase_on_web">Want to trade in an old phone too? Complete this purchase on a computer at &lt;b>%1$s&lt;/b>.</string>
+    <string name="transfer_error_number">%1$s (transfer error)</string>
+    <string name="transfer_gv">Transfer Google Voice number</string>
+    <string name="transfer_in_progress">Transfer in progress</string>
+    <string name="transfer_started">Your number transfer has been started.</string>
+    <string name="transfer_to_individual_plan_body">Continue to add your credit card information. You will be enrolled for automatic payments, which start after your service is activated. Your card will be charged once a month.</string>
+    <string name="transfer_to_individual_plan_title">Transfer to individual Fi plan</string>
+    <string name="try_again">Try again</string>
+    <string name="turn_on_mobile_data">Turn on mobile data</string>
+    <string name="uicc_subscription">Uicc subscription:</string>
+    <string name="unable_to_reactivate_account">"Please make sure you're connected to Wi‑Fi and try again. If this continues, contact us and we'll help reactivate your service."</string>
+    <string name="unable_to_reactivate_account_bad_sim">"Unfortunately, your SIM card can't be reactivated. To get back on Google Fi, first contact us and we'll help get you a new SIM card."</string>
+    <string name="unable_to_reactivate_account_title">"Couldn't reactivate service"</string>
+    <string name="unblock">Unblock</string>
+    <string name="unblock_number">Unblock %1$s?</string>
+    <string name="under_cap">Data is free after %1$s</string>
+    <string name="undo">Undo</string>
+    <string name="unicorn_contact_body">Until you turn 13, ask your parent to contact us for you</string>
+    <string name="unicorn_contact_header">Looking for help?</string>
+    <string name="unicorn_verification_error">Something went wrong with your request</string>
+    <string name="unicorn_verification_failed">You can no longer invite this person to Google Fi</string>
+    <string name="uninvite">Uninvite</string>
+    <string name="uninvite_dialog_title">Uninvite?</string>
+    <string name="uninvite_dialog_title_name">Uninvite %1$s?</string>
+    <string name="uninvite_failed">"Couldn't uninvite"</string>
+    <string name="unknown">Unknown</string>
+    <string name="unknown_billing_issue_title">Your account has a billing issue.</string>
+    <string name="unknown_carrier">Unknown Carrier</string>
+    <string name="unknown_error_occurred">Something went wrong.</string>
+    <string name="unknown_number">Unknown number</string>
+    <string name="unsubscribed_from_notifications">You will not receive an email update about this model</string>
+    <string name="unsupported_device_promotion_details">Visit &lt;b>%1$s&lt;/b> on your computer to view the promotion and buy a new device.</string>
+    <string name="unsupported_device_promotion_title">A web-only promotion is going on!</string>
+    <string name="unsupported_version">To use the Google Fi app, please update to the latest version.</string>
+    <string name="update">Update</string>
+    <string name="update_app">Update app</string>
+    <string name="update_invitation_error">"Couldn't save info. Try again later."</string>
+    <string name="update_required_error">To complete this action, get the latest version of the app.</string>
+    <string name="upgrade_device_button">@string/continue_text</string>
+    <string name="upgrade_device_text">"Better service is coming your way. This device was designed for Fi, so you'll get the best that Fi has to offer — including coverage in more locations. &lt;a href=\"#clickify\">Learn&amp;nbsp;more&lt;/a>"</string>
+    <string name="upgrade_device_title">"You've upgraded!"</string>
+    <string name="upgrade_device_title_with_name">"%s, you've upgraded!"</string>
+    <string name="uscc">USCC</string>
+    <string name="use_location">Use location</string>
+    <string name="user_already_in_plan">%1$s is already a plan member</string>
+    <string name="user_list_five_users">%1$s, %2$s, %3$s, %4$s and you</string>
+    <string name="user_list_four_users">%1$s, %2$s, %3$s and you</string>
+    <string name="user_list_generic">Your group</string>
+    <string name="user_list_single_user">You</string>
+    <string name="user_list_six_users">%1$s, %2$s, %3$s, %4$s, %5$s and you</string>
+    <string name="user_list_three_users">%1$s, %2$s and you</string>
+    <string name="user_list_two_users">%1$s and you</string>
+    <string name="value_before_eval_send_back">"If the value after review is lower than %1$s, we'll send back your phone"</string>
+    <string name="value_before_eval_update">"If the device's condition is different from what you reported, we'll credit you the updated value"</string>
+    <string name="verification_failed_expired">Oops, that code expired</string>
+    <string name="verification_failed_generic">"Oops, that code didn't work"</string>
+    <string name="verify">Verify</string>
+    <string name="verify_by_call">Verify by call</string>
+    <string name="verify_by_text">Verify by text</string>
+    <string name="verify_description_call_format">"We just called %1$s to give you your code. Enter it here, and you're done!"</string>
+    <string name="verify_description_sms_format">"We just sent your code to %1$s. Enter it here, and you're done!"</string>
+    <string name="verify_dialog_call_only_title">Verify number by phone call</string>
+    <string name="verify_dialog_message">"We'll call %1$s to give you a verification code."</string>
+    <string name="verify_dialog_message_list_v1">"To verify your number, we'll call you at %1$s."</string>
+    <string name="verify_dialog_message_select_type">"We'll contact %1$s to give you a verification code. How do you want us to reach you?"</string>
+    <string name="verify_dialog_message_v1">"Your number needs to be verified first. To do this, we'll call you at %1$s."</string>
+    <string name="verify_dialog_title">Verify your number</string>
+    <string name="verify_later">Verify later</string>
+    <string name="verify_no_code">"Didn't get a code?"</string>
+    <string name="verify_no_code_dialog_body_format">"We'll contact %1$s to give you a new verification code. How do you want us to reach you?"</string>
+    <string name="verify_no_code_dialog_title">"Let's try that again"</string>
+    <string name="verify_now">Verify now</string>
+    <string name="verify_polling_description">"We're calling you. When you pick up, just dial this verification code:"</string>
+    <string name="verify_polling_description_format">"We're calling you at %1$s. When you pick up, just dial this verification code:"</string>
+    <string name="verify_polling_title">Verifying number…</string>
+    <string name="verify_resend_text">Resend text</string>
+    <string name="verify_switch_to_call">Verify by call instead</string>
+    <string name="verify_switch_to_text">Verify by text instead</string>
+    <string name="verify_title">Verify your number</string>
+    <string name="verizon">Verizon</string>
+    <string name="view_details">View details</string>
+    <string name="view_referral_details_canceled">"%2$s's friend has decided not to complete their first %1$d days as a Fi subscriber."</string>
+    <string name="view_referral_details_canceled_name">%2$s has decided not to complete their first %1$d days as a Fi subscriber.</string>
+    <string name="view_referral_details_canceled_self">Your friend has decided not to complete their first %1$d days as a Fi subscriber.</string>
+    <string name="view_referral_details_canceled_self_name">%2$s has decided not to complete their first %1$d days as a Fi subscriber.</string>
+    <string name="view_referral_details_full">%1$s and their friend have each received a Fi credit.</string>
+    <string name="view_referral_details_full_self">You and your friend have each received a Fi credit.</string>
+    <string name="view_referral_details_partial">%1$s has started to earn credits on this referral. They will continue to earn the remainder of their Fi credit on future statements.</string>
+    <string name="view_referral_details_partial_self">"You've started to earn credits on this referral. You will continue to earn the remainder of your Fi credit on future statements."</string>
+    <string name="view_referral_details_waiting">"They'll each receive a Fi credit after %2$s's friend accrues %1$d days of active service."</string>
+    <string name="view_referral_details_waiting_name">"They'll each receive a Fi credit after %2$s accrues %1$d days of active service."</string>
+    <string name="view_referral_details_waiting_self">"You'll each receive a Fi credit after your friend accrues %1$d days of active service."</string>
+    <string name="view_referral_details_waiting_self_name">"You'll each receive a Fi credit after %2$s accrues %1$d days of active service."</string>
+    <string name="view_referral_title">"Hooray! %1$s's friend is now on Google Fi"</string>
+    <string name="view_referral_title_canceled">%1$s and their friend are no longer eligible for a credit</string>
+    <string name="view_referral_title_canceled_name">%1$s and their friend %2$s are no longer eligible for a credit</string>
+    <string name="view_referral_title_canceled_self">You and your friend are no longer eligible for a credit</string>
+    <string name="view_referral_title_canceled_self_name">You and your friend %1$s are no longer eligible for a credit</string>
+    <string name="view_referral_title_name">"Hooray! %1$s's friend %2$s is now on Google Fi"</string>
+    <string name="view_referral_title_self">Hooray! Your friend is now on Google Fi</string>
+    <string name="view_referral_title_self_name">Hooray! Your friend %1$s is now on Google Fi</string>
+    <string name="vimpelcom">Vimpelcom</string>
+    <string name="vodafone">Vodafone</string>
+    <string name="voice_call">Voice call</string>
+    <string name="voice_calls">Voice calls</string>
+    <string name="voice_description">Unlimited US calls &amp; texts, unlimited international texting in 170 countries, and 24/7 support</string>
+    <string name="voice_settings">Phone settings</string>
+    <string name="voicemail">Voicemail</string>
+    <string name="voicemail_greeting">Your greeting</string>
+    <string name="voicemail_greeting_delete_confirm">Delete greeting?</string>
+    <string name="voicemail_greeting_delete_error_format">"Couldn't delete %s"</string>
+    <string name="voicemail_greeting_details">To record or change your greeting, call voicemail. Make sure your settings allow calling to access voicemail.</string>
+    <string name="voicemail_greeting_error">"Couldn't load greetings"</string>
+    <string name="voicemail_greeting_new_greeting_failed_format">"Couldn't process %s"</string>
+    <string name="voicemail_greeting_new_greeting_success_format">%s has been set as your active greeting</string>
+    <string name="voicemail_greeting_placeholder_name">greeting</string>
+    <string name="voicemail_greeting_play_talk_back">Play</string>
+    <string name="voicemail_greeting_playback_failed">"Couldn't play greeting"</string>
+    <string name="voicemail_greeting_processing">Processing…</string>
+    <string name="voicemail_greeting_processing_started_format">%s uploaded. It will become your active greeting after processing is complete.</string>
+    <string name="voicemail_greeting_record_talk_back">Record</string>
+    <string name="voicemail_greeting_set_active">Set as active</string>
+    <string name="voicemail_greeting_set_active_error_format">"Couldn't set %s as active"</string>
+    <string name="voicemail_greeting_stop_talk_back">Stop</string>
+    <string name="voicemail_greeting_system_greeting_name">System default</string>
+    <string name="voicemail_greeting_title">Manage greeting</string>
+    <string name="voicemail_pin_description">A PIN is required for touch-tone voicemail access.</string>
+    <string name="voicemail_pin_invalid">Enter 4–10 digits, not starting with 0</string>
+    <string name="voicemail_pin_off_details">Set a PIN to access voicemail from any phone</string>
+    <string name="voicemail_pin_on_details">****</string>
+    <string name="voicemail_pin_save_error">"Couldn't save PIN. Try again later."</string>
+    <string name="voicemail_pin_saved">PIN saved.</string>
+    <string name="voicemail_settings_description">Visual voicemail is automatically available for Google Fi in the &lt;a href=\"#clickify\">Phone&amp;nbsp;app&lt;/a>.</string>
+    <string name="voicemail_settings_save_error">"Couldn't change setting. Try again later."</string>
+    <string name="voicemail_sms_transcripts">Transcripts</string>
+    <string name="voicemail_sms_transcripts_details">"Get your voicemails as texts (we'll transcribe them for you)"</string>
+    <string name="voicemail_touchtone_access">Call to listen</string>
+    <string name="voicemail_touchtone_access_details">"Check and manage your voicemails by calling Fi's automated system"</string>
+    <string name="voicemail_transcript_not_available">Transcript not available</string>
+    <string name="waiting_join">Waiting for member to join</string>
+    <string name="waiting_to_activate">Waiting for phone activation</string>
+    <string name="we_are_here_for_you">"We're here for you 24/7"</string>
+    <string name="welcome_to_google_fi">Welcome to Google Fi</string>
+    <string name="whats_this">"What's this?"</string>
+    <string name="where_can_i_find">Where can I find this?</string>
+    <string name="why">Why?</string>
+    <string name="widget_name">Data Usage Widget</string>
+    <string name="x_credit">%2$s has %1$s in credit to come</string>
+    <string name="x_credit_group">Your group has %1$s in credit to come</string>
+    <string name="x_credit_self">You have %1$s in credit to come</string>
+    <string name="x_credit_to_come">%1$s credit to come</string>
+    <string name="x_joined">%1$s joined</string>
+    <string name="x_joined_y">"%1$s joined %2$s's plan"</string>
+    <string name="x_joined_you">%1$s joined your plan</string>
+    <string name="y_added_member">%1$s added a member</string>
+    <string name="y_added_x">%1$s added %2$s</string>
+    <string name="y_added_you">%1$s added you</string>
+    <string name="y_referred_by_friend">%1$s was referred by a friend</string>
+    <string name="y_referred_by_x">%1$s was referred by %2$s</string>
+    <string name="y_referred_friend">%1$s referred a friend</string>
+    <string name="y_referred_x">%1$s referred %2$s</string>
+    <string name="you">You</string>
+    <string name="you_added_member">You added a member</string>
+    <string name="you_added_x">You added %1$s</string>
+    <string name="you_joined">You joined</string>
+    <string name="you_joined_x">"You joined %1$s's plan"</string>
+    <string name="you_referred_by_friend">You were referred by a friend</string>
+    <string name="you_referred_by_x">You were referred by %1$s</string>
+    <string name="you_referred_friend">You referred a friend</string>
+    <string name="you_referred_x">You referred %1$s</string>
+    <string name="your_group">Your group</string>
+    <string name="your_group_plan">Your group plan</string>
+    <string name="your_plan">Your plan</string>
+    <string name="your_referral_code">Your referral code</string>
+    <string name="zip_code">Zip code</string>
+    <item type="string" name="APKTOOL_DUMMY_0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_22">false</item>
+    <item type="string" name="APKTOOL_DUMMY_29">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_87">false</item>
+    <item type="string" name="APKTOOL_DUMMY_88">false</item>
+    <item type="string" name="APKTOOL_DUMMY_89">false</item>
+    <item type="string" name="APKTOOL_DUMMY_95">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ff">false</item>
+    <item type="string" name="APKTOOL_DUMMY_100">false</item>
+    <item type="string" name="APKTOOL_DUMMY_125">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_165">false</item>
+    <item type="string" name="APKTOOL_DUMMY_170">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_181">false</item>
+    <item type="string" name="APKTOOL_DUMMY_199">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1f8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_218">false</item>
+    <item type="string" name="APKTOOL_DUMMY_22b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_283">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2d3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_310">false</item>
+    <item type="string" name="APKTOOL_DUMMY_311">false</item>
+    <item type="string" name="APKTOOL_DUMMY_325">false</item>
+    <item type="string" name="APKTOOL_DUMMY_326">false</item>
+    <item type="string" name="APKTOOL_DUMMY_327">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_387">false</item>
+    <item type="string" name="APKTOOL_DUMMY_391">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3fa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3fb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_433">false</item>
+    <item type="string" name="APKTOOL_DUMMY_434">false</item>
+    <item type="string" name="APKTOOL_DUMMY_438">false</item>
+    <item type="string" name="APKTOOL_DUMMY_454">false</item>
+    <item type="string" name="APKTOOL_DUMMY_45b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_45c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_45d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_45e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_45f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_460">false</item>
+    <item type="string" name="APKTOOL_DUMMY_461">false</item>
+    <item type="string" name="APKTOOL_DUMMY_462">false</item>
+    <item type="string" name="APKTOOL_DUMMY_46a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_497">false</item>
+    <item type="string" name="APKTOOL_DUMMY_498">false</item>
+    <item type="string" name="APKTOOL_DUMMY_499">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4a8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_514">false</item>
+    <item type="string" name="APKTOOL_DUMMY_515">false</item>
+    <item type="string" name="APKTOOL_DUMMY_531">false</item>
+    <item type="string" name="APKTOOL_DUMMY_554">false</item>
+    <item type="string" name="APKTOOL_DUMMY_55b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_56a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5ef">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5f0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_623">false</item>
+    <item type="string" name="APKTOOL_DUMMY_624">false</item>
+    <item type="string" name="APKTOOL_DUMMY_634">false</item>
+    <item type="string" name="APKTOOL_DUMMY_642">false</item>
+    <item type="string" name="APKTOOL_DUMMY_64a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_653">false</item>
+    <item type="string" name="APKTOOL_DUMMY_654">false</item>
+    <item type="string" name="APKTOOL_DUMMY_66a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_671">false</item>
+    <item type="string" name="APKTOOL_DUMMY_686">false</item>
+    <item type="string" name="APKTOOL_DUMMY_69b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6f2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6f3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_70a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_755">false</item>
+</resources>

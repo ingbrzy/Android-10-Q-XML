@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">још %1$d</item>
+        <item quantity="one">још %1$d</item>
+        <item quantity="few">још %1$d</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s дана</item>
+        <item quantity="one">%s дан</item>
+        <item quantity="few">%s дана</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s сати</item>
+        <item quantity="one">%s сат</item>
+        <item quantity="few">%s сата</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s минута</item>
+        <item quantity="one">%s минут</item>
+        <item quantity="few">%s минута</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s апликација</item>
+        <item quantity="one">%s апликација</item>
+        <item quantity="few">%s апликације</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s апликација</item>
+        <item quantity="one">%s апликација</item>
+        <item quantity="few">%s апликације</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s секунди</item>
+        <item quantity="one">%s секунда</item>
+        <item quantity="few">%s секунде</item>
+    </plurals>
+</resources>

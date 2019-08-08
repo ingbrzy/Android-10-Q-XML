@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">Alertong babala</string>
+    <string name="cmas_presidential_level_alert">Alerto para sa pambansang emergency</string>
+    <string name="cmas_required_monthly_test">Pansubok na alerto</string>
+</resources>

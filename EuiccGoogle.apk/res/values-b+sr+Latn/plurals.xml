@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_number_subtitle">
+        <item quantity="other">%1$d brojeva je dodato na ovaj uređaj, ali istovremeno može da se koristi samo 1</item>
+        <item quantity="one">%1$d broj je dodat na ovaj uređaj, ali istovremeno može da se koristi samo 1</item>
+        <item quantity="few">%1$d broja su dodata na ovaj uređaj, ali istovremeno može da se koristi samo 1</item>
+    </plurals>
+    <plurals name="download_sub_multi_carriers_text">
+        <item quantity="other">Preuzimamo brojeve (&lt;b>%2$d&lt;/b>) od mobilnog operatera %1$s i još %3$d mobilnih operatera. To može malo da potraje.</item>
+        <item quantity="one">Preuzimamo brojeve (&lt;b>%2$d&lt;/b>) od mobilnog operatera %1$s i još %3$d mobilnog operatera. To može malo da potraje.</item>
+        <item quantity="few">Preuzimamo brojeve (&lt;b>%2$d&lt;/b>) od mobilnog operatera %1$s i još %3$d mobilna operatera. To može malo da potraje.</item>
+    </plurals>
+    <plurals name="download_sub_text">
+        <item quantity="other">Preuzimamo &lt;b>%2$d brojeva&lt;/b> od mobilnog operatera %1$s. To može malo da potraje.</item>
+        <item quantity="one">Preuzimamo &lt;b>%2$d broj&lt;/b> od mobilnog operatera %1$s. To može malo da potraje.</item>
+        <item quantity="few">Preuzimamo &lt;b>%2$d broja&lt;/b> od mobilnog operatera %1$s. To može malo da potraje.</item>
+    </plurals>
+    <plurals name="download_sub_title">
+        <item quantity="other">Dodaju se brojevi…</item>
+        <item quantity="one">Dodaju se brojevi…</item>
+        <item quantity="few">Dodaju se brojevi…</item>
+    </plurals>
+    <plurals name="error_screen_title">
+        <item quantity="other">Mreže nisu aktivirane</item>
+        <item quantity="one">Mreže nisu aktivirane</item>
+        <item quantity="few">Mreže nisu aktivirane</item>
+    </plurals>
+    <plurals name="insufficient_memory_subtitle">
+        <item quantity="other">&lt;b>%d novih brojeva&lt;/b> je spremno za dodavanje na telefon. Da biste ih videli, treba da izbrišete jedan od aktuelnih brojeva.</item>
+        <item quantity="one">&lt;b>%d novi broj&lt;/b> je spreman za dodavanje na telefon. Da biste ih videli, treba da izbrišete jedan od aktuelnih brojeva.</item>
+        <item quantity="few">&lt;b>%d nova broja&lt;/b> su spremna za dodavanje na telefon. Da biste ih videli, treba da izbrišete jedan od aktuelnih brojeva.</item>
+    </plurals>
+    <plurals name="insufficient_space_description_q">
+        <item quantity="other">Da biste koristili brojeve, prvo treba da oslobodite prostor tako što ćete izbrisati postojeće brojeve sa ovog uređaja. To možete da obavite kasnije u Podešavanjima.</item>
+        <item quantity="one">Da biste koristili brojeve, prvo treba da oslobodite prostor tako što ćete izbrisati postojeće brojeve sa ovog uređaja. To možete da obavite kasnije u Podešavanjima.</item>
+        <item quantity="few">Da biste koristili brojeve, prvo treba da oslobodite prostor tako što ćete izbrisati postojeće brojeve sa ovog uređaja. To možete da obavite kasnije u Podešavanjima.</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_number_count">
+        <item quantity="other">%d brojeva</item>
+        <item quantity="one">%d broj</item>
+        <item quantity="few">%d broja</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_subtitle">
+        <item quantity="other">&lt;b>%d brojeva telefona&lt;/b> ovih mobilnih operatera je spremno za dodavanje</item>
+        <item quantity="one">&lt;b>%d broj telefona&lt;/b> ovih mobilnih operatera je spreman za dodavanje</item>
+        <item quantity="few">&lt;b>%d broja telefona&lt;/b> ovih mobilnih operatera su spremna za dodavanje</item>
+    </plurals>
+    <plurals name="notification_carrier_unknown">
+        <item quantity="other">%d dodatnih brojeva je spremno za dodavanje</item>
+        <item quantity="one">%d dodatni broj je spreman za dodavanje</item>
+        <item quantity="few">%d dodatna broja su spremna za dodavanje</item>
+    </plurals>
+    <plurals name="notification_multiple_carrier_name_known">
+        <item quantity="other">Brojevi mobilnog operatera %1$s i još %2$d brojeva je spremno za dodavanje</item>
+        <item quantity="one">Brojevi mobilnog operatera %1$s i još %2$d broj su spremni za dodavanje</item>
+        <item quantity="few">Brojevi mobilnog operatera %1$s i još %2$d broja su spremna za dodavanje</item>
+    </plurals>
+    <plurals name="notification_single_carrier_name_known">
+        <item quantity="other">Brojevi mobilnog operatera %1$s su spremni za dodavanje</item>
+        <item quantity="one">Brojevi mobilnog operatera %1$s su spremni za dodavanje</item>
+        <item quantity="few">Brojevi mobilnog operatera %1$s su spremni za dodavanje</item>
+    </plurals>
+    <plurals name="perm_error_description">
+        <item quantity="other">Došlo je do greške pri pokušaju aktiviranja usluge. Pomoć potražite od mrežnih operatera.</item>
+        <item quantity="one">Došlo je do greške pri pokušaju aktiviranja usluge. Pomoć potražite od mrežnih operatera.</item>
+        <item quantity="few">Došlo je do greške pri pokušaju aktiviranja usluge. Pomoć potražite od mrežnih operatera.</item>
+    </plurals>
+    <plurals name="perm_error_description_q">
+        <item quantity="other">Došlo je do greške pri pokušaju aktiviranja brojeva. Pomoć potražite od mobilnog operatera %1$s na %2$s.</item>
+        <item quantity="one">Došlo je do greške pri pokušaju aktiviranja brojeva. Pomoć potražite od mobilnog operatera %1$s na %2$s.</item>
+        <item quantity="few">Došlo je do greške pri pokušaju aktiviranja brojeva. Pomoć potražite od mobilnog operatera %1$s na %2$s.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone">
+        <item quantity="other">Došlo je do greške pri pokušaju aktiviranja brojeva. Kontaktirajte %1$s za pomoć.</item>
+        <item quantity="one">Došlo je do greške pri pokušaju aktiviranja brojeva. Kontaktirajte %1$s za pomoć.</item>
+        <item quantity="few">Došlo je do greške pri pokušaju aktiviranja brojeva. Kontaktirajte %1$s za pomoć.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone_no_carrier_name">
+        <item quantity="other">Došlo je do greške pri pokušaju aktiviranja brojeva. Pomoć potražite od mrežnih operatera.</item>
+        <item quantity="one">Došlo je do greške pri pokušaju aktiviranja brojeva. Pomoć potražite od mrežnih operatera.</item>
+        <item quantity="few">Došlo je do greške pri pokušaju aktiviranja brojeva. Pomoć potražite od mrežnih operatera.</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_confirm_subtitle">
+        <item quantity="other">%d brojeva je dostupno za ovaj uređaj</item>
+        <item quantity="one">%d broj je dostupan za ovaj uređaj</item>
+        <item quantity="few">%d broja su dostupna za ovaj uređaj</item>
+    </plurals>
+    <plurals name="q_result_download_text">
+        <item quantity="other">%2$d brojeva mobilnog operatera %1$s je dostupno za ovaj uređaj</item>
+        <item quantity="one">%2$d broj mobilnog operatera %1$s je dostupan za ovaj uređaj</item>
+        <item quantity="few">%2$d broja mobilnog operatera %1$s su dostupna za ovaj uređaj</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_multi_carriers">
+        <item quantity="other">Nažalost, nismo uspeli da dodamo brojeve mobilnog operatera %1$s i još %2$d mobilnih operatera.</item>
+        <item quantity="one">Nažalost, nismo uspeli da dodamo brojeve mobilnog operatera %1$s i još %2$d mobilnog operatera.</item>
+        <item quantity="few">Nažalost, nismo uspeli da dodamo brojeve mobilnog operatera %1$s i još %2$d mobilna operatera.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_no_carrier">
+        <item quantity="other">Nažalost, nismo uspeli da dodamo brojeve nijednog vašeg mobilnog operatera.</item>
+        <item quantity="one">Nažalost, nismo uspeli da dodamo brojeve nijednog vašeg mobilnog operatera.</item>
+        <item quantity="few">Nažalost, nismo uspeli da dodamo brojeve nijednog vašeg mobilnog operatera.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_single_carrier">
+        <item quantity="other">Nažalost, nismo uspeli da dodamo &lt;b>%2$d brojeva&lt;/b> mobilnog operatera %1$s.</item>
+        <item quantity="one">Nažalost, nismo uspeli da dodamo &lt;b>%2$d broj&lt;/b> mobilnog operatera %1$s.</item>
+        <item quantity="few">Nažalost, nismo uspeli da dodamo &lt;b>%2$d broja&lt;/b> mobilnog operatera %1$s.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_multi_carriers">
+        <item quantity="other">Nije bilo dovoljno prostora da dodamo brojeve mobilnog operatera %1$s i još %2$d mobilnih operatera.</item>
+        <item quantity="one">Nije bilo dovoljno prostora da dodamo brojeve mobilnog operatera %1$s i još %2$d mobilnog operatera.</item>
+        <item quantity="few">Nije bilo dovoljno prostora da dodamo brojeve mobilnog operatera %1$s i još %2$d mobilna operatera.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_no_carrier">
+        <item quantity="other">Nije bilo dovoljno prostora za dodavanje brojeva nijednog vašeg mobilnog operatera.</item>
+        <item quantity="one">Nije bilo dovoljno prostora za dodavanje brojeva nijednog vašeg mobilnog operatera.</item>
+        <item quantity="few">Nije bilo dovoljno prostora za dodavanje brojeva nijednog vašeg mobilnog operatera.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_single_carrier">
+        <item quantity="other">Nije bilo dovoljno prostora za dodavanje &lt;b>%2$d brojeva&lt;/b> mobilnog operatera %1$s.</item>
+        <item quantity="one">Nije bilo dovoljno prostora za dodavanje &lt;b>%2$d broja&lt;/b> mobilnog operatera %1$s.</item>
+        <item quantity="few">Nije bilo dovoljno prostora za dodavanje &lt;b>%2$d broja&lt;/b> mobilnog operatera %1$s.</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_multiple_carriers">
+        <item quantity="other">Dodali ste brojeve (&lt;b>%1$d&lt;/b>) mobilnih operatera %2$s, %3$s i još %4$d</item>
+        <item quantity="one">Dodali ste brojeve (&lt;b>%1$d&lt;/b>) mobilnih operatera %2$s, %3$s i još %4$d</item>
+        <item quantity="few">Dodali ste brojeve (&lt;b>%1$d&lt;/b>) mobilnih operatera %2$s, %3$s i još %4$d</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_single_carrier">
+        <item quantity="other">Dodali ste &lt;b>%1$d brojeva&lt;/b> mobilnog operatera %2$s</item>
+        <item quantity="one">Dodali ste &lt;b>%1$d broj&lt;/b> mobilnog operatera %2$s</item>
+        <item quantity="few">Dodali ste &lt;b>%1$d broja&lt;/b> mobilnog operatera %2$s</item>
+    </plurals>
+    <plurals name="res_continue_title_all_success">
+        <item quantity="other">%1$d brojeva je dodato</item>
+        <item quantity="one">%1$d broj je dodat</item>
+        <item quantity="few">%1$d broja su dodata</item>
+    </plurals>
+    <plurals name="result_download_text">
+        <item quantity="other">&lt;b>%2$d brojeva&lt;/b> mobilnog operatera %1$s je spremno za dodavanje na ovaj telefon</item>
+        <item quantity="one">&lt;b>%2$d broj&lt;/b> mobilnog operatera %1$s je spreman za dodavanje na ovaj telefon</item>
+        <item quantity="few">&lt;b>%2$d broja&lt;/b> mobilnog operatera %1$s su spremna za dodavanje na ovaj telefon</item>
+    </plurals>
+    <plurals name="temp_error_description_q">
+        <item quantity="other">Došlo je do greške pri pokušaju aktiviranja brojeva. Možete ponovo da probate kasnije u Podešavanjima.</item>
+        <item quantity="one">Došlo je do greške pri pokušaju aktiviranja brojeva. Možete ponovo da probate kasnije u Podešavanjima.</item>
+        <item quantity="few">Došlo je do greške pri pokušaju aktiviranja brojeva. Možete ponovo da probate kasnije u Podešavanjima.</item>
+    </plurals>
+</resources>

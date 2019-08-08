@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">Ойготкуч кошуу</string>
+    <string name="add_notification_text">Билдирме кошуу</string>
+    <string name="add_ringtone_text">Шыңгыр кошуу</string>
+    <string name="alarm_sound_default">Ойготкучтун демейки үнү</string>
+    <string name="app_label">Медиа сактагыч</string>
+    <string name="artist_label">Аткаруучу</string>
+    <string name="delete_ringtone_text">Жок кылуу</string>
+    <string name="grant_dialog_button_allow">Уруксат берүү</string>
+    <string name="grant_dialog_button_deny">Жок</string>
+    <string name="notification_sound_default">Демейки эскертме үнү</string>
+    <string name="permission_audio"><b>^1</b> колдонмосуна бул музыканы өзгөртүп же өчүрүүгө уруксат берилсинби?</string>
+    <string name="permission_images"><b>^1</b> колдонмосуна бул музыканы өзгөртүүгө же өчүрүүгө уруксат берилсинби?</string>
+    <string name="permission_required">Бул нерсени түзөтүү же жок кылуу үчүн уруксат талап кылынат.</string>
+    <string name="permission_required_action">Улантуу</string>
+    <string name="permission_video"><b>^1</b> колдонмосуна бул музыканы өзгөртүп же өчүрүүгө уруксат берилсинби?</string>
+    <string name="ringtone_default">Демейки шыңгыр</string>
+    <string name="root_audio">Аудио</string>
+    <string name="root_images">Сүрөттөр</string>
+    <string name="root_videos">Видеолор</string>
+    <string name="sound_name_awaken">Awaken</string>
+    <string name="sound_name_bounce">Bounce</string>
+    <string name="sound_name_drip">Drip</string>
+    <string name="sound_name_gallop">Gallop</string>
+    <string name="sound_name_nudge">Nudge</string>
+    <string name="sound_name_orbit">Orbit</string>
+    <string name="sound_name_rise">Rise</string>
+    <string name="sound_name_sway">Sway</string>
+    <string name="sound_name_wag">Wag</string>
+    <string name="storage_description">Жергиликтүү сактагыч</string>
+    <string name="uid_label">Мультимедия</string>
+    <string name="unable_to_add_ringtone">Жеке рингтон кошулбай жатат</string>
+    <string name="unable_to_delete_ringtone">Жеке рингтон жок кылынбай жатат</string>
+</resources>

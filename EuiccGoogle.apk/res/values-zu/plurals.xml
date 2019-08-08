@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_number_subtitle">
+        <item quantity="other">Izinombolo ezingu-%1$d zingeziwe kule divayisi, kodwa engu-1 kuphela engasetshenziswa ngesikhathi</item>
+        <item quantity="one">Izinombolo ezingu-%1$d zingeziwe kule divayisi, kodwa engu-1 kuphela engasetshenziswa ngesikhathi</item>
+    </plurals>
+    <plurals name="download_sub_multi_carriers_text">
+        <item quantity="other">Sithola &lt;b>%2$d izinombolo&lt;/b> kusuka ku-%1$s nezinye izinkampani zenethiwekhi ezingu-%3$d. Lokhu kungathatha isikhathi esithile.</item>
+        <item quantity="one">Sithola &lt;b>%2$d izinombolo&lt;/b> kusuka ku-%1$s nezinye izinkampani zenethiwekhi ezingu-%3$d. Lokhu kungathatha isikhathi esithile.</item>
+    </plurals>
+    <plurals name="download_sub_text">
+        <item quantity="other">Sithola &lt;b>%2$d izinombolo&lt;/b> kusuka ku-%1$s. Lokhu kungathatha isikhathi esithile.</item>
+        <item quantity="one">Sithola &lt;b>%2$d izinombolo&lt;/b> kusuka ku-%1$s. Lokhu kungathatha isikhathi esithile.</item>
+    </plurals>
+    <plurals name="download_sub_title">
+        <item quantity="other">Kungezwa izinombolo zakho…</item>
+        <item quantity="one">Kungezwa izinombolo zakho…</item>
+    </plurals>
+    <plurals name="error_screen_title">
+        <item quantity="other">Amanethiwekhi awenziwanga wasebenza</item>
+        <item quantity="one">Amanethiwekhi awenziwanga wasebenza</item>
+    </plurals>
+    <plurals name="insufficient_memory_subtitle">
+        <item quantity="other">&lt;b>%d izinombolo ezintsha&lt;/b> zilungele ukungezwa efonini yakho. Ukuze uzibone, uzodinga ukususa eyodwa yezinombolo zakho zamanje.</item>
+        <item quantity="one">&lt;b>%d izinombolo ezintsha&lt;/b> zilungele ukungezwa efonini yakho. Ukuze uzibone, uzodinga ukususa eyodwa yezinombolo zakho zamanje.</item>
+    </plurals>
+    <plurals name="insufficient_space_description_q">
+        <item quantity="other">Ukuze usebenzise izinombolo zakho, kokuqala uzodinga ukukhulula isikhala ngokususa izinombolo ezikhona kusuka kule divayisi. Ungenza lokhu kamuva kuzilungiselelo.</item>
+        <item quantity="one">Ukuze usebenzise izinombolo zakho, kokuqala uzodinga ukukhulula isikhala ngokususa izinombolo ezikhona kusuka kule divayisi. Ungenza lokhu kamuva kuzilungiselelo.</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_number_count">
+        <item quantity="other">%d izinombolo</item>
+        <item quantity="one">%d izinombolo</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_subtitle">
+        <item quantity="other">&lt;b>%d izinombolo zakho zefoni&lt;/b> kusukela kulezi zinkampani zenethiwekhi zilungele ukungezwa</item>
+        <item quantity="one">&lt;b>%d izinombolo zakho zefoni&lt;/b> kusukela kulezi zinkampani zenethiwekhi zilungele ukungezwa</item>
+    </plurals>
+    <plurals name="notification_carrier_unknown">
+        <item quantity="other">Izinombolo zakho ezingeziwe ezingu-%d zilungelwe ukungezwa</item>
+        <item quantity="one">Izinombolo zakho ezingeziwe ezingu-%d zilungelwe ukungezwa</item>
+    </plurals>
+    <plurals name="notification_multiple_carrier_name_known">
+        <item quantity="other">Izinombolo zakho %1$s nezingu-%2$d ngaphezulu zilungele ukungezwa</item>
+        <item quantity="one">Izinombolo zakho %1$s nezingu-%2$d ngaphezulu zilungele ukungezwa</item>
+    </plurals>
+    <plurals name="notification_single_carrier_name_known">
+        <item quantity="other">Izinombolo zakho %1$s zilungele ukungezwa</item>
+        <item quantity="one">Izinombolo zakho %1$s zilungele ukungezwa</item>
+    </plurals>
+    <plurals name="perm_error_description">
+        <item quantity="other">Kukhona okungahambanga kahle ngenkathi kuzanywa ukwenziwa kusebenze isevisi. Sicela uxhumane nabahlinzeki bakho benethiwekhi ukuze uthole usizo.</item>
+        <item quantity="one">Kukhona okungahambanga kahle ngenkathi kuzanywa ukwenziwa kusebenze isevisi. Sicela uxhumane nabahlinzeki bakho benethiwekhi ukuze uthole usizo.</item>
+    </plurals>
+    <plurals name="perm_error_description_q">
+        <item quantity="other">Okuthile akuhambanga kahle ngenkathi uzama ukusebenzisa izinombolo zakho. Sicela uxhumane ne-%1$s ngosizo ku-%2$s.</item>
+        <item quantity="one">Okuthile akuhambanga kahle ngenkathi uzama ukusebenzisa izinombolo zakho. Sicela uxhumane ne-%1$s ngosizo ku-%2$s.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone">
+        <item quantity="other">Okuthile akuhambanga kahle ngenkathi uzama ukusebenzisa izinombolo zakho. Sicela uxhumane ne-%1$s ukuze uthole usizo.</item>
+        <item quantity="one">Okuthile akuhambanga kahle ngenkathi uzama ukusebenzisa izinombolo zakho. Sicela uxhumane ne-%1$s ukuze uthole usizo.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone_no_carrier_name">
+        <item quantity="other">Okuthile akuhambanga kahle ngenkathi uzama ukusebenzisa izinombolo zakho. Sicela uxhumane nabahlinzeki benethiwekhi yakho ngosizo.</item>
+        <item quantity="one">Okuthile akuhambanga kahle ngenkathi uzama ukusebenzisa izinombolo zakho. Sicela uxhumane nabahlinzeki benethiwekhi yakho ngosizo.</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_confirm_subtitle">
+        <item quantity="other">%d izinombolo ezitholakalela le divayisi</item>
+        <item quantity="one">%d izinombolo ezitholakalela le divayisi</item>
+    </plurals>
+    <plurals name="q_result_download_text">
+        <item quantity="other">%2$d %1$s izinombolo ezitholakalela le divayisi</item>
+        <item quantity="one">%2$d %1$s izinombolo ezitholakalela le divayisi</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_multi_carriers">
+        <item quantity="other">Ngeshwa, asikwazanga ukungeza izinombolo zakho kusuka ku-%1$s nezinye izinkampani zenethiwekhi ezingu-%2$d.</item>
+        <item quantity="one">Ngeshwa, asikwazanga ukungeza izinombolo zakho kusuka ku-%1$s nezinye izinkampani zenethiwekhi ezingu-%2$d.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_no_carrier">
+        <item quantity="other">Ngeshwa, asikwazanga ukungeza izinombolo zakho kusuka kunoma iziphi izinkampani zakho zenethiwekhi.</item>
+        <item quantity="one">Ngeshwa, asikwazanga ukungeza izinombolo zakho kusuka kunoma iziphi izinkampani zakho zenethiwekhi.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_single_carrier">
+        <item quantity="other">Ngeshwa, asikwazanga ukungeza &lt;b>%2$d izinombolo&lt;/b> kusuka ku-%1$s.</item>
+        <item quantity="one">Ngeshwa, asikwazanga ukungeza &lt;b>%2$d izinombolo&lt;/b> kusuka ku-%1$s.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_multi_carriers">
+        <item quantity="other">Asikho isikhala esanele ukungeza izinombolo zakho kusuka ku-%1$s nezinye izinkampani zenethiwekhi ezingu-%2$d.</item>
+        <item quantity="one">Asikho isikhala esanele ukungeza izinombolo zakho kusuka ku-%1$s nezinye izinkampani zenethiwekhi ezingu-%2$d.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_no_carrier">
+        <item quantity="other">Sasingekho isikhala esanele ukungeza izinombolo zakho kusuka kunoma iziphi izinkampani zakho zenethiwekhi.</item>
+        <item quantity="one">Sasingekho isikhala esanele ukungeza izinombolo zakho kusuka kunoma iziphi izinkampani zakho zenethiwekhi.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_single_carrier">
+        <item quantity="other">Sasingekho isikhala esanele ukungeza &lt;b>%2$d izinombolo&lt;/b> kusuka ku-%1$s.</item>
+        <item quantity="one">Sasingekho isikhala esanele ukungeza &lt;b>%2$d izinombolo&lt;/b> kusuka ku-%1$s.</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_multiple_carriers">
+        <item quantity="other">Ungeze &lt;b>%1$d izinombolo&lt;/b> kusuka ku-%2$s, %3$s nezinye izinkampani zenethiwekhi ezingu-%4$d</item>
+        <item quantity="one">Ungeze &lt;b>%1$d izinombolo&lt;/b> kusuka ku-%2$s, %3$s nezinye izinkampani zenethiwekhi ezingu-%4$d</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_single_carrier">
+        <item quantity="other">Ungeze &lt;b>%1$d izinombolo&lt;/b> kusuka ku-%2$s</item>
+        <item quantity="one">Ungeze &lt;b>%1$d izinombolo&lt;/b> kusuka ku-%2$s</item>
+    </plurals>
+    <plurals name="res_continue_title_all_success">
+        <item quantity="other">%1$d izinombolo zefoni zingeziwe</item>
+        <item quantity="one">%1$d izinombolo zefoni zingeziwe</item>
+    </plurals>
+    <plurals name="result_download_text">
+        <item quantity="other">&lt;b>%2$d izinombolo&lt;/b> kusuka ku-%1$s zilungele ukungezwa kule foni</item>
+        <item quantity="one">&lt;b>%2$d izinombolo&lt;/b> kusuka ku-%1$s zilungele ukungezwa kule foni</item>
+    </plurals>
+    <plurals name="temp_error_description_q">
+        <item quantity="other">Okuthile akuhambanga kahle ngenkathi uzama ukusebenzisa izinombolo zakho. Ungazama futhi kamuva kuzilungiselelo.</item>
+        <item quantity="one">Okuthile akuhambanga kahle ngenkathi uzama ukusebenzisa izinombolo zakho. Ungazama futhi kamuva kuzilungiselelo.</item>
+    </plurals>
+</resources>

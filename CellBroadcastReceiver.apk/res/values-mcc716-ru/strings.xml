@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Оповещение об учебной тревоге</string>
+    <string name="cmas_required_monthly_test">Тестовое оповещение о чрезвычайных ситуациях</string>
+    <string name="enable_public_safety_messages_title">Информационное сообщение</string>
+    <string name="public_safety_message">Информационное сообщение</string>
+</resources>

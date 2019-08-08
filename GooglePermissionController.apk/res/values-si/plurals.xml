@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">.තව %1$d</item>
+        <item quantity="one">.තව %1$d</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">දින %sක්</item>
+        <item quantity="one">දින %sක්</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">පැය %sක්</item>
+        <item quantity="one">පැය %sක්</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">විනාඩි %sක්</item>
+        <item quantity="one">විනාඩි %sක්</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">යෙදුම් %sක්</item>
+        <item quantity="one">යෙදුම් %sක්</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">යෙදුම් %sක්</item>
+        <item quantity="one">යෙදුම් %sක්</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">තත්පර %s</item>
+        <item quantity="one">තත්පර %s</item>
+    </plurals>
+</resources>

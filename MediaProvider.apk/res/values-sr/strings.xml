@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">Додајте аларм</string>
+    <string name="add_notification_text">Додајте обавештење</string>
+    <string name="add_ringtone_text">Додај мелодију звона</string>
+    <string name="alarm_sound_default">Подразумевани звук аларма</string>
+    <string name="app_label">Меморијски простор за медије</string>
+    <string name="artist_label">Извођач</string>
+    <string name="delete_ringtone_text">Избриши</string>
+    <string name="grant_dialog_button_allow">Дозволи</string>
+    <string name="grant_dialog_button_deny">Одбиј</string>
+    <string name="notification_sound_default">Подраз. звук обавештења</string>
+    <string name="permission_audio">Желите ли да дозволите да <b>^1</b> мења или брише ову музику?</string>
+    <string name="permission_images">Желите ли да дозволите да <b>^1</b> мења или брише ову слику?</string>
+    <string name="permission_required">Потребна је дозвола за измену или брисање ове ставке.</string>
+    <string name="permission_required_action">Настави</string>
+    <string name="permission_video">Желите ли да дозволите да <b>^1</b> мења или брише овај видео?</string>
+    <string name="ringtone_default">Подразумевана мелодија звона</string>
+    <string name="root_audio">Звук</string>
+    <string name="root_images">Слике</string>
+    <string name="root_videos">Видео снимци</string>
+    <string name="sound_name_awaken">пробуђен</string>
+    <string name="sound_name_bounce">скок</string>
+    <string name="sound_name_drip">капање</string>
+    <string name="sound_name_gallop">галоп</string>
+    <string name="sound_name_nudge">гуркање</string>
+    <string name="sound_name_orbit">кружење</string>
+    <string name="sound_name_rise">успон</string>
+    <string name="sound_name_sway">њихање</string>
+    <string name="sound_name_wag">махање</string>
+    <string name="storage_description">Локални меморијски простор</string>
+    <string name="uid_label">Медији</string>
+    <string name="unable_to_add_ringtone">Додавање прилагођене мелодије звона није успело</string>
+    <string name="unable_to_delete_ringtone">Брисање прилагођене мелодије звона није успело</string>
+</resources>

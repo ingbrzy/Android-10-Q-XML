@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_calendar">Agregar evento</string>
+    <string name="action_call">Llamar</string>
+    <string name="action_contact">Agregar contacto</string>
+    <string name="action_copy">Copiar texto</string>
+    <string name="action_document_scanning">Escanear documento</string>
+    <string name="action_email">Enviar correo</string>
+    <string name="action_image_search">Buscar imagen</string>
+    <string name="action_keep">Keep</string>
+    <string name="action_map">Maps</string>
+    <string name="action_message_image">Mensajes</string>
+    <string name="action_more">Más</string>
+    <string name="action_open_url">Abrir URL</string>
+    <string name="action_save">Guardar imagen</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_share_chooser_title">Compartir con</string>
+    <string name="action_shopping">Shopping</string>
+    <string name="action_sms">Enviar mensaje</string>
+    <string name="action_text_selection">Seleccionar texto</string>
+    <string name="action_translate">Traductor</string>
+    <string name="action_wifi">Conectar a Wi-Fi</string>
+    <string name="barcode_chip_text">Escanea el cód. de barras</string>
+    <string name="error_action_not_found">No se encontró la app en el dispositivo.</string>
+    <string name="icon_content_description">Ícono de diálogo</string>
+    <string name="iris_talkback_label_address">Dirección: %s</string>
+    <string name="iris_talkback_label_calendar">Agregar un evento de calendario</string>
+    <string name="iris_talkback_label_contact">Crear contacto para %s</string>
+    <string name="iris_talkback_label_email">Dirección de correo electrónico: %s</string>
+    <string name="iris_talkback_label_phone">Número de teléfono: %s</string>
+    <string name="iris_talkback_label_qrcode">Código QR: %s</string>
+    <string name="iris_talkback_label_qrcode_wifi">Conectarse a la red Wi‑Fi %s</string>
+    <string name="iris_talkback_label_sms">Enviar SMS: %s</string>
+    <string name="iris_talkback_label_url">Sitio web: %s</string>
+    <string name="password_toggle_content_description">Mostrar contraseña</string>
+    <string name="qr_wifi_error_could_not_connect">Debes conectarte manualmente a %s</string>
+    <string name="qr_wifi_error_generic_error">No se puede establecer conexión con la red Wi-Fi</string>
+    <string name="qr_wifi_error_no_permissions">La app debe solicitar el permiso de la red Wi‑Fi</string>
+    <string name="qr_wifi_error_no_wifi_available">El dispositivo no puede conectarse a la red Wi‑Fi</string>
+    <string name="qr_wifi_error_password_invalid">El código QR incluye una contraseña de Wi‑Fi incorrecta</string>
+    <string name="qr_wifi_error_ssid_invalid">El código QR incluye un nombre de red Wi‑Fi incorrecto</string>
+    <string name="qr_wifi_successfully_connecting">Conectando a %s…</string>
+    <string name="text_copied_to_clipboard">Texto copiado al portapapeles</string>
+    <string name="time_difference_now">Ahora</string>
+    <string name="time_difference_short_days_and_hours">%1$s %2$s﻿</string>
+    <string name="time_difference_short_hours_and_minutes">%1$s %2$s﻿</string>
+</resources>

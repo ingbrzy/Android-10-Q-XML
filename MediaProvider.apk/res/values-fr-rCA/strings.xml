@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">Ajouter une alarme</string>
+    <string name="add_notification_text">Ajouter une notification</string>
+    <string name="add_ringtone_text">Ajouter une sonnerie</string>
+    <string name="alarm_sound_default">"Son de l'alarme par défaut"</string>
+    <string name="app_label">Stockage multimédia</string>
+    <string name="artist_label">Artiste</string>
+    <string name="delete_ringtone_text">Supprimer</string>
+    <string name="grant_dialog_button_allow">Autoriser</string>
+    <string name="grant_dialog_button_deny">Refuser</string>
+    <string name="notification_sound_default">Son de notification par défaut</string>
+    <string name="permission_audio">Autoriser <b>^1</b> à modifier ou à supprimer cette musique?</string>
+    <string name="permission_images">Autoriser <b>^1</b> à modifier ou à supprimer cette image?</string>
+    <string name="permission_required">Une autorisation est requise pour modifier ou supprimer cet élément.</string>
+    <string name="permission_required_action">Continuer</string>
+    <string name="permission_video">Autoriser <b>^1</b> à modifier ou à supprimer cette vidéo?</string>
+    <string name="ringtone_default">Sonnerie par défaut</string>
+    <string name="root_audio">Audio</string>
+    <string name="root_images">Images</string>
+    <string name="root_videos">Vidéos</string>
+    <string name="sound_name_awaken">Éveil</string>
+    <string name="sound_name_bounce">Rebondissement</string>
+    <string name="sound_name_drip">Goutte</string>
+    <string name="sound_name_gallop">Galop</string>
+    <string name="sound_name_nudge">Coup de coude</string>
+    <string name="sound_name_orbit">Orbite</string>
+    <string name="sound_name_rise">Accentuer</string>
+    <string name="sound_name_sway">Balancement</string>
+    <string name="sound_name_wag">Remuer</string>
+    <string name="storage_description">Stockage local</string>
+    <string name="uid_label">Multimédia</string>
+    <string name="unable_to_add_ringtone">"Impossible d'ajouter une sonnerie personnalisée"</string>
+    <string name="unable_to_delete_ringtone">Impossible de supprimer la sonnerie personnalisée</string>
+</resources>

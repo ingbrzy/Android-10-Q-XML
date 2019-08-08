@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_number_subtitle">
+        <item quantity="other">%1$d Nummern wurden diesem Gerät hinzugefügt, es kann aber jeweils nur eine verwendet werden</item>
+        <item quantity="one">%1$d Nummer wurde diesem Gerät hinzugefügt, es kann aber jeweils nur eine verwendet werden</item>
+    </plurals>
+    <plurals name="download_sub_multi_carriers_text">
+        <item quantity="other">Es werden &lt;b>%2$d Nummern&lt;/b> von %1$s und %3$d weiteren Mobilfunkanbietern abgerufen. Das kann eine Weile dauern.</item>
+        <item quantity="one">Es werden &lt;b>%2$d Nummern&lt;/b> von %1$s und einem weiteren Mobilfunkanbieter abgerufen. Das kann eine Weile dauern.</item>
+    </plurals>
+    <plurals name="download_sub_text">
+        <item quantity="other">Es werden &lt;b>%2$d Nummern&lt;/b> von %1$s abgerufen. Das kann eine Weile dauern.</item>
+        <item quantity="one">Wir rufen deine Nummer von %1$s ab. Das kann eine Weile dauern.</item>
+    </plurals>
+    <plurals name="download_sub_title">
+        <item quantity="other">Deine Nummern werden hinzugefügt…</item>
+        <item quantity="one">Deine Nummer wird hinzugefügt…</item>
+    </plurals>
+    <plurals name="error_screen_title">
+        <item quantity="other">Netzwerke sind nicht aktiviert</item>
+        <item quantity="one">%1$s ist nicht aktiviert</item>
+    </plurals>
+    <plurals name="insufficient_memory_subtitle">
+        <item quantity="other">&lt;b>%d neue Nummern&lt;/b> können deinem Smartphone jetzt hinzugefügt werden. Lösche eine der vorhandenen Nummern, damit du sie sehen kannst.</item>
+        <item quantity="one">&lt;b>%d neue Nummer&lt;/b> kann deinem Smartphone jetzt hinzugefügt werden. Lösche eine der vorhandenen Nummern, damit du sie sehen kannst.</item>
+    </plurals>
+    <plurals name="insufficient_space_description_q">
+        <item quantity="other">Damit du deine Nummern nutzen kannst, musst du zuerst Platz schaffen, indem du vorhandene Nummern von diesem Gerät löschst. Du kannst das später unter \"Einstellungen\" erledigen.</item>
+        <item quantity="one">Damit du deine Nummer nutzen kannst, musst du zuerst Platz schaffen, indem du vorhandene Nummern von diesem Gerät löschst. Du kannst das später unter \"Einstellungen\" erledigen.</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_number_count">
+        <item quantity="other">%d Nummern</item>
+        <item quantity="one">%d Nummer</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_subtitle">
+        <item quantity="other">Deine &lt;b>%d Telefonnummern&lt;/b> von diesen Mobilfunkanbietern können hinzugefügt werden</item>
+        <item quantity="one">Deine &lt;b>%d Telefonnummer&lt;/b> von diesem Mobilfunkanbieter kann hinzugefügt werden</item>
+    </plurals>
+    <plurals name="notification_carrier_unknown">
+        <item quantity="other">%d zusätzliche Nummern können jetzt hinzugefügt werden</item>
+        <item quantity="one">%d zusätzliche Nummer kann jetzt hinzugefügt werden</item>
+    </plurals>
+    <plurals name="notification_multiple_carrier_name_known">
+        <item quantity="other">Deine %1$s-Nummern und %2$d weitere können jetzt hinzugefügt werden</item>
+        <item quantity="one">Deine %1$s-Nummer und %2$d weitere können jetzt hinzugefügt werden</item>
+    </plurals>
+    <plurals name="notification_single_carrier_name_known">
+        <item quantity="other">Deine %1$s-Nummern können jetzt hinzugefügt werden</item>
+        <item quantity="one">Deine %1$s-Nummer kann jetzt hinzugefügt werden</item>
+    </plurals>
+    <plurals name="perm_error_description">
+        <item quantity="other">Beim Aktivieren des Dienstes ist ein Fehler aufgetreten. Bitte wende dich an deine Netzwerkanbieter.</item>
+        <item quantity="one">Beim Aktivieren des Dienstes ist ein Fehler aufgetreten. Bitte wende dich an %1$s.</item>
+    </plurals>
+    <plurals name="perm_error_description_q">
+        <item quantity="other">Beim Aktivieren der Nummern ist ein Fehler aufgetreten. Wende dich unter %2$s an %1$s.</item>
+        <item quantity="one">Beim Aktivieren der Nummer ist ein Fehler aufgetreten. Wende dich unter %2$s an %1$s.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone">
+        <item quantity="other">Beim Aktivieren der Nummern ist ein Fehler aufgetreten. Wende dich für Unterstützung an %1$s.</item>
+        <item quantity="one">Beim Aktivieren der Nummer ist ein Fehler aufgetreten. Wende dich für Unterstützung an %1$s.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone_no_carrier_name">
+        <item quantity="other">Beim Aktivieren der Nummern ist ein Fehler aufgetreten. Wende dich für Unterstützung an deine Netzanbieter.</item>
+        <item quantity="one">Beim Aktivieren der Nummer ist ein Fehler aufgetreten. Wende dich für Unterstützung an deinen Netzanbieter.</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_confirm_subtitle">
+        <item quantity="other">Für dieses Gerät sind %d Nummern verfügbar</item>
+        <item quantity="one">Für dieses Gerät ist %d Nummer verfügbar</item>
+    </plurals>
+    <plurals name="q_result_download_text">
+        <item quantity="other">Für dieses Gerät sind %2$d %1$s-Nummern verfügbar</item>
+        <item quantity="one">Für dieses Gerät ist 1 %1$s-Nummer verfügbar</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_multi_carriers">
+        <item quantity="other">Deine Nummern von %1$s und %2$d weiteren Mobilfunkanbietern konnten leider nicht hinzugefügt werden.</item>
+        <item quantity="one">Deine Nummern von %1$s und %2$d weiteren Mobilfunkanbieter konnten leider nicht hinzugefügt werden.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_no_carrier">
+        <item quantity="other">Es konnten keine Nummern von deinen Mobilfunkanbietern hinzugefügt werden.</item>
+        <item quantity="one">&lt;b>1 Nummer&lt;/b> von deinem Mobilfunkanbieter konnte nicht hinzugefügt werden.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_single_carrier">
+        <item quantity="other">&lt;b>%2$d Nummern&lt;/b> von %1$s konnten nicht hinzugefügt werden.</item>
+        <item quantity="one">&lt;b>%2$d Nummer&lt;/b> von %1$s konnte nicht hinzugefügt werden.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_multi_carriers">
+        <item quantity="other">Es ist nicht genug Speicherplatz vorhanden, um deine Nummern von %1$s und %2$d weiteren Mobilfunkanbietern hinzuzufügen.</item>
+        <item quantity="one">Es ist nicht genug Speicherplatz vorhanden, um deine Nummern von %1$s und %2$d weiteren Mobilfunkanbieter hinzuzufügen.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_no_carrier">
+        <item quantity="other">Aufgrund des fehlenden Speicherplatzes konnten keine Nummern von deinen Mobilfunkanbietern hinzugefügt werden.</item>
+        <item quantity="one">Aufgrund des fehlenden Speicherplatzes konnte &lt;b>1 Nummer&lt;/b> nicht hinzugefügt werden.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_single_carrier">
+        <item quantity="other">Aufgrund des fehlenden Speicherplatzes konnten &lt;b>%2$d Nummern&lt;/b> von %1$s nicht hinzugefügt werden.</item>
+        <item quantity="one">Aufgrund des fehlenden Speicherplatzes konnte &lt;b>%2$d Nummer&lt;/b> von %1$s nicht hinzugefügt werden.</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_multiple_carriers">
+        <item quantity="other">Du hast &lt;b>%1$d Nummern&lt;/b> von %2$s, %3$s und %4$d weiteren Mobilfunkanbietern hinzugefügt</item>
+        <item quantity="one">Du hast &lt;b>%1$d Nummern&lt;/b> von %2$s und %3$s hinzugefügt</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_single_carrier">
+        <item quantity="other">Du hast &lt;b>%1$d Nummern&lt;/b> von %2$s hinzugefügt</item>
+        <item quantity="one">Du hast &lt;b>%1$d Nummer&lt;/b> von %2$s hinzugefügt</item>
+    </plurals>
+    <plurals name="res_continue_title_all_success">
+        <item quantity="other">%1$d Nummern hinzugefügt</item>
+        <item quantity="one">Telefonnummer hinzugefügt</item>
+    </plurals>
+    <plurals name="result_download_text">
+        <item quantity="other">&lt;b>%2$d Nummern&lt;/b> von %1$s können jetzt diesem Smartphone hinzugefügt werden</item>
+        <item quantity="one">Deine %1$s-Nummer kann jetzt deinem Smartphone hinzugefügt werden</item>
+    </plurals>
+    <plurals name="temp_error_description_q">
+        <item quantity="other">Beim Aktivieren der Nummern ist ein Fehler aufgetreten. Du kannst es später über die Einstellungen noch einmal versuchen.</item>
+        <item quantity="one">Beim Aktivieren der Nummer ist ein Fehler aufgetreten. Du kannst es später über die Einstellungen noch einmal versuchen.</item>
+    </plurals>
+</resources>

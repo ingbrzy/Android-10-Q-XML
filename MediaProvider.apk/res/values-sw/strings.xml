@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">Ongeza kengele</string>
+    <string name="add_notification_text">Ongeza arifa</string>
+    <string name="add_ringtone_text">Ongeza mlio wa simu</string>
+    <string name="alarm_sound_default">Sauti chaguomsingi ya kengele</string>
+    <string name="app_label">Hifadhi ya Maudhui</string>
+    <string name="artist_label">Msanii</string>
+    <string name="delete_ringtone_text">Futa</string>
+    <string name="grant_dialog_button_allow">Ruhusu</string>
+    <string name="grant_dialog_button_deny">Kataa</string>
+    <string name="notification_sound_default">Sauti chaguomsingi ya arifa</string>
+    <string name="permission_audio">Je, ungependa kuruhusu <b>^1</b> irekebishe au ifute muziki wako?</string>
+    <string name="permission_images">Je, ungependa kuruhusu <b>^1</b> irekebishe au ifute picha hii?</string>
+    <string name="permission_required">Inataka ruhusa ili kubadilisha au kufuta kipengee hiki.</string>
+    <string name="permission_required_action">Endelea</string>
+    <string name="permission_video">Je, ungependa kuruhusu <b>^1</b> irekebishe au ifute video hii?</string>
+    <string name="ringtone_default">Mlio chaguomsingi wa simu</string>
+    <string name="root_audio">Sauti</string>
+    <string name="root_images">Picha</string>
+    <string name="root_videos">Video</string>
+    <string name="sound_name_awaken">Awaken</string>
+    <string name="sound_name_bounce">Bounce</string>
+    <string name="sound_name_drip">Drip</string>
+    <string name="sound_name_gallop">Gallop</string>
+    <string name="sound_name_nudge">Nudge</string>
+    <string name="sound_name_orbit">Orbit</string>
+    <string name="sound_name_rise">Rise</string>
+    <string name="sound_name_sway">Sway</string>
+    <string name="sound_name_wag">Wag</string>
+    <string name="storage_description">Hifadhi ya ndani</string>
+    <string name="uid_label">Maudhui</string>
+    <string name="unable_to_add_ringtone">Imeshindwa kuongeza mlio maalum wa simu</string>
+    <string name="unable_to_delete_ringtone">Imeshindwa kufuta mlio maalum wa simu</string>
+</resources>

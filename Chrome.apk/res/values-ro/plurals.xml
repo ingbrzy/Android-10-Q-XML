@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">%d de fișiere audio</item>
+        <item quantity="one">Un fișier audio</item>
+        <item quantity="few">%d fișiere audio</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d de fișiere</item>
+        <item quantity="one">Un fișier</item>
+        <item quantity="few">%d fișiere</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d de imagini</item>
+        <item quantity="one">O imagine</item>
+        <item quantity="few">%d imagini</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d pagini</item>
+        <item quantity="one">O pagină</item>
+        <item quantity="few">%d pagini</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">%d de videoclipuri</item>
+        <item quantity="one">Un videoclip</item>
+        <item quantity="few">%d videoclipuri</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">Elimină %d de elemente selectate</item>
+        <item quantity="one">Elimină un element selectat</item>
+        <item quantity="few">Elimină %d elemente selectate</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">Trimite %d de elemente selectate</item>
+        <item quantity="one">Trimite un element selectat</item>
+        <item quantity="few">Trimite %d elemente selectate</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">%1$d de file deschise, atinge pentru a comuta filele</item>
+        <item quantity="one">%1$d filă deschisă, atinge pentru a comuta filele</item>
+        <item quantity="few">%1$d file deschise, atinge pentru a comuta filele</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">%1$d de marcaje</item>
+        <item quantity="one">%1$d marcaj</item>
+        <item quantity="few">%1$d marcaje</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d de file</item>
+        <item quantity="one">%1$d filă</item>
+        <item quantity="few">%1$d file</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (și încă %d)"</item>
+        <item quantity="one">" (și încă unul)"</item>
+        <item quantity="few">" (și încă %d)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">Se descarcă %d de fișiere.</item>
+        <item quantity="one">Fișierul se descarcă.</item>
+        <item quantity="few">Se descarcă %d fișiere.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d de ore</item>
+        <item quantity="one">O oră</item>
+        <item quantity="few">%d ore</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">%1$d de fișiere descărcate</item>
+        <item quantity="one">%1$d fișier descărcat</item>
+        <item quantity="few">%1$d fișiere descărcate</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">%d de descărcări finalizate.</item>
+        <item quantity="one">O descărcare finalizată.</item>
+        <item quantity="few">%d descărcări finalizate.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">%d de descărcări nu au reușit.</item>
+        <item quantity="one">O descărcare nu a reușit.</item>
+        <item quantity="few">%d descărcări nu au reușit.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">%d de descărcări în așteptare.</item>
+        <item quantity="one">O descărcare în așteptare.</item>
+        <item quantity="few">%d descărcări în așteptare.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">Acum %d de zile</item>
+        <item quantity="one">Acum %d zi</item>
+        <item quantity="few">Acum %d zile</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">Acum %d de ore</item>
+        <item quantity="one">Acum %d oră</item>
+        <item quantity="few">Acum %d ore</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">Acum %d de minute</item>
+        <item quantity="one">Acum %d minut</item>
+        <item quantity="few">Acum %d minute</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">Chrome va încărca paginile când este gata</item>
+        <item quantity="one">Chrome va încărca pagina când este gata</item>
+        <item quantity="few">Chrome va încărca paginile când este gata</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">%1$s… și încă %2$s</item>
+        <item quantity="one">%1$s… și încă %2$s</item>
+        <item quantity="few">%1$s… și încă %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">%1$s… și încă %2$s</item>
+        <item quantity="one">%1$s… și încă %2$s</item>
+        <item quantity="few">%1$s… și încă %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">%1$s… și încă %2$s</item>
+        <item quantity="one">%1$s… și încă %2$s</item>
+        <item quantity="few">%1$s… și încă %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">%1$s… și încă %2$s</item>
+        <item quantity="one">%1$s… și încă %2$s</item>
+        <item quantity="few">%1$s… și încă %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">%d selectate</item>
+        <item quantity="one">1 selectat</item>
+        <item quantity="few">%d selectate</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">Nivelul puterii semnalului: %d de bare</item>
+        <item quantity="one">Nivelul puterii semnalului: %d bară</item>
+        <item quantity="few">Nivelul puterii semnalului: %d bare</item>
+    </plurals>
+</resources>

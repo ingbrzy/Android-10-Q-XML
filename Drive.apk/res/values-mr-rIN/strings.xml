@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessbility_suggestion_dropdown_closed">कोणत्‍याही सूचना उपलब्‍ध नाहीत</string>
+    <string name="accessbility_suggestion_dropdown_opened">संपर्क सूचना उघडल्या</string>
+    <string name="account_item">%1$s वर स्विच करा</string>
+    <string name="account_list">खाते सूची</string>
+    <string name="action_label">परत</string>
+    <string name="add_account">खाते जोडा</string>
+    <string name="chips_action_cancel">रद्द करा</string>
+    <string name="chips_action_copy">कॉपी करा</string>
+    <string name="chips_permission_text">संपर्क सूचनांना अनुमती द्या</string>
+    <string name="dropdown_delete_button_desc">प्राप्तकर्त्यांमधून %s काढा</string>
+    <string name="hide_account_list">खाती हटवा</string>
+    <string name="manage_accounts">खाती व्यवस्थापित करा</string>
+    <string name="more_string">+%1$d</string>
+    <string name="selected_account">%1$s वर साइन इन केले</string>
+    <string name="show_account_list">खाती दर्शवा</string>
+    <string name="sign_in">साइन इन करा</string>
+</resources>

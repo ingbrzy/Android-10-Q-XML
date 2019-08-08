@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d zaidi</item>
+        <item quantity="one">%1$d zaidi</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">Siku %s</item>
+        <item quantity="one">Siku 1</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">Saa %s</item>
+        <item quantity="one">Saa 1</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">Dakika %s</item>
+        <item quantity="one">Dakika 1</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">Programu %s</item>
+        <item quantity="one">Programu 1</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">Programu %s</item>
+        <item quantity="one">Programu 1</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">Sekunde %s</item>
+        <item quantity="one">Sekunde 1</item>
+    </plurals>
+</resources>

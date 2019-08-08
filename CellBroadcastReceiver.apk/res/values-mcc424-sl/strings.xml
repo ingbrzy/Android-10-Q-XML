@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">Opozorilno obvestilo</string>
+    <string name="cmas_presidential_level_alert">Državno opozorilo v sili</string>
+    <string name="cmas_required_monthly_test">Preskusno opozorilo</string>
+</resources>

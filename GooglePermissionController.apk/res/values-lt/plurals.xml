@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Dar %1$d</item>
+        <item quantity="one">Dar %1$d</item>
+        <item quantity="few">Dar %1$d</item>
+        <item quantity="many">Dar %1$d</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dienų</item>
+        <item quantity="one">%s diena</item>
+        <item quantity="few">%s dienos</item>
+        <item quantity="many">%s dienos</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s valandų</item>
+        <item quantity="one">%s valanda</item>
+        <item quantity="few">%s valandos</item>
+        <item quantity="many">%s valandos</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minučių</item>
+        <item quantity="one">%s minutė</item>
+        <item quantity="few">%s minutės</item>
+        <item quantity="many">%s minutės</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s programų</item>
+        <item quantity="one">%s programa</item>
+        <item quantity="few">%s programos</item>
+        <item quantity="many">%s programos</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s programų</item>
+        <item quantity="one">%s programa</item>
+        <item quantity="few">%s programos</item>
+        <item quantity="many">%s programos</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekundžių</item>
+        <item quantity="one">%s sekundė</item>
+        <item quantity="few">%s sekundės</item>
+        <item quantity="many">%s sekundės</item>
+    </plurals>
+</resources>

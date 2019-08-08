@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Cảnh báo khẩn cấp: Tin nhắn diễn tập/mô phỏng</string>
+    <string name="cmas_required_monthly_test">Cảnh báo khẩn cấp: Tin nhắn thử nghiệm</string>
+    <string name="enable_public_safety_messages_title">Thư thông báo</string>
+    <string name="public_safety_message">Thư thông báo</string>
+</resources>

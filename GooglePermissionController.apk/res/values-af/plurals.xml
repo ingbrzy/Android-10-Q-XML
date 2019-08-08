@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Nog %1$d</item>
+        <item quantity="one">Nog %1$d</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dae</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s uur</item>
+        <item quantity="one">1 uur</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minute</item>
+        <item quantity="one">1 minuut</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s programme</item>
+        <item quantity="one">1 program</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s programme</item>
+        <item quantity="one">1 program</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekondes</item>
+        <item quantity="one">1 sekonde</item>
+    </plurals>
+</resources>

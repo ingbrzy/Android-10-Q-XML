@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_calendar">Legg til aktiv.</string>
+    <string name="action_call">Ring</string>
+    <string name="action_contact">Legg til kontakt</string>
+    <string name="action_copy">Kopiér teksten</string>
+    <string name="action_document_scanning">Skann dokument</string>
+    <string name="action_email">Send e-post</string>
+    <string name="action_image_search">Søk med bilde</string>
+    <string name="action_keep">Keep</string>
+    <string name="action_map">Maps</string>
+    <string name="action_message_image">Melding</string>
+    <string name="action_more">Mer</string>
+    <string name="action_open_url">Åpne nettadr.</string>
+    <string name="action_save">Lagre bilde</string>
+    <string name="action_search">Søk</string>
+    <string name="action_share_chooser_title">Del med</string>
+    <string name="action_shopping">Shopping</string>
+    <string name="action_sms">Melding</string>
+    <string name="action_text_selection">Markér tekst</string>
+    <string name="action_translate">Oversett</string>
+    <string name="action_wifi">Koble til Wi-Fi</string>
+    <string name="barcode_chip_text">Skann strekkoden</string>
+    <string name="error_action_not_found">Fant ikke denne appen på enheten.</string>
+    <string name="iris_talkback_label_address">Adresse: %s</string>
+    <string name="iris_talkback_label_calendar">Legg til kalenderaktivitet</string>
+    <string name="iris_talkback_label_contact">Opprett kontakt for %s</string>
+    <string name="iris_talkback_label_email">E-postadresse: %s</string>
+    <string name="iris_talkback_label_phone">Telefonnummer: %s</string>
+    <string name="iris_talkback_label_qrcode">QR-kode: %s</string>
+    <string name="iris_talkback_label_qrcode_wifi">Koble til Wi-Fi: %s</string>
+    <string name="iris_talkback_label_sms">Send SMS: %s</string>
+    <string name="iris_talkback_label_url">Nettsted: %s</string>
+    <string name="qr_wifi_error_could_not_connect">Du må koble til %s manuelt</string>
+    <string name="qr_wifi_error_generic_error">Kan ikke koble til Wi-Fi</string>
+    <string name="qr_wifi_error_no_permissions">En app må be om Wi-Fi-tillatelse</string>
+    <string name="qr_wifi_error_no_wifi_available">Enheten kan ikke koble til Wi-Fi</string>
+    <string name="qr_wifi_error_password_invalid">QR-koden inneholder feil Wi-Fi-passord</string>
+    <string name="qr_wifi_error_ssid_invalid">QR-koden inneholder feil Wi-Fi-nettverksnavn</string>
+    <string name="qr_wifi_successfully_connecting">Kobler til %s …</string>
+    <string name="text_copied_to_clipboard">Teksten er kopiert til utklippstavlen</string>
+</resources>

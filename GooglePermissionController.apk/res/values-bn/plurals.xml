@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">আরও %1$dটি</item>
+        <item quantity="one">আরও %1$dটি</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s দিন</item>
+        <item quantity="one">%s দিন</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ঘণ্টা</item>
+        <item quantity="one">%s ঘণ্টা</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s মিনিট</item>
+        <item quantity="one">%s মিনিট</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%sটি অ্যাপ</item>
+        <item quantity="one">%sটি অ্যাপ</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%sটি অ্যাপ</item>
+        <item quantity="one">%sটি অ্যাপ</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s সেকেন্ড</item>
+        <item quantity="one">%s সেকেন্ড</item>
+    </plurals>
+</resources>

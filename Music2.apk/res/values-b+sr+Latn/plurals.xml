@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d pesama je dodato u fonoteku.</item>
+        <item quantity="one">%d pesma je dodata u fonoteku.</item>
+        <item quantity="few">%d pesme su dodate u fonoteku.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d pesama je dodato na plejlistu %2$s.</item>
+        <item quantity="one">%1$d pesma je dodata na plejlistu %2$s.</item>
+        <item quantity="few">%1$d pesme su dodate na plejlistu %2$s.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Dodato je samo %1$d pesama. Maksimum za redosled je %2$d pesama.</item>
+        <item quantity="one">Dodata je samo %1$d pesma. Maksimum za redosled je %2$d pesama.</item>
+        <item quantity="few">Dodate su samo %1$d pesme. Maksimum za redosled je %2$d pesama.</item>
+    </plurals>
+    <plurals name="Nadding_dupe_song_to_playlist_dialog_message">
+        <item quantity="other">Neke od ovih pesama su već na ovoj plejlisti.</item>
+        <item quantity="one">Neke od ovih pesama su već na ovoj plejlisti.</item>
+        <item quantity="few">Neke od ovih pesama su već na ovoj plejlisti.</item>
+    </plurals>
+    <plurals name="Nadding_dupe_song_to_playlist_dialog_title">
+        <item quantity="other">Želite li da dodate duplikate pesama?</item>
+        <item quantity="one">Želite li da dodate duplikate pesama?</item>
+        <item quantity="few">Želite li da dodate duplikate pesama?</item>
+    </plurals>
+    <plurals name="Nnewpodcastepisodes">
+        <item quantity="other">%d novih epizoda</item>
+        <item quantity="one">%d nova epizoda</item>
+        <item quantity="few">%d nove epizode</item>
+    </plurals>
+    <plurals name="Npodcastepisodes">
+        <item quantity="other">%1$d epizoda</item>
+        <item quantity="one">%1$d epizoda</item>
+        <item quantity="few">%1$d epizode</item>
+    </plurals>
+    <plurals name="Nscrubber_description_hours">
+        <item quantity="other">%d sati</item>
+        <item quantity="one">%d sat</item>
+        <item quantity="few">%d sata</item>
+    </plurals>
+    <plurals name="Nscrubber_description_minutes">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minuta</item>
+    </plurals>
+    <plurals name="Nscrubber_description_seconds">
+        <item quantity="other">%d sekundi</item>
+        <item quantity="one">%d sekund</item>
+        <item quantity="few">%d sekunde</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d pesama</item>
+        <item quantity="one">%d pesma</item>
+        <item quantity="few">%d pesme</item>
+    </plurals>
+    <plurals name="Nsongs_removed">
+        <item quantity="other">%d pesama je uklonjeno.</item>
+        <item quantity="one">%d pesma je uklonjena.</item>
+        <item quantity="few">%d pesme su uklonjene.</item>
+    </plurals>
+    <plurals name="Nupgrade_to_family_plan_summary">
+        <item quantity="other">Do %d članova</item>
+        <item quantity="one">Do %d člana</item>
+        <item quantity="few">Do %d člana</item>
+    </plurals>
+    <plurals name="fopless_on_trial_subscribe_banner">
+        <item quantity="other">JOŠ SAMO %1$d DANA. PRETPLATITE SE ODMAH.</item>
+        <item quantity="one">JOŠ SAMO %1$d DAN. PRETPLATITE SE ODMAH.</item>
+        <item quantity="few">JOŠ SAMO %1$d DANA. PRETPLATITE SE ODMAH.</item>
+    </plurals>
+</resources>

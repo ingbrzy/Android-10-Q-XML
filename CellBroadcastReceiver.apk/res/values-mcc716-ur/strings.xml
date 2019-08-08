@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ہنگامی الرٹ: مشق/سیمولیشن پیغام</string>
+    <string name="cmas_required_monthly_test">ہنگامی الرٹ: ٹیسٹ پیغام</string>
+    <string name="enable_public_safety_messages_title">معلوماتی پیغام</string>
+    <string name="public_safety_message">معلوماتی پیغام</string>
+</resources>

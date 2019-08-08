@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">%d tệp âm thanh</item>
+        <item quantity="one">%d tệp âm thanh</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d tệp</item>
+        <item quantity="one">%d tệp</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d hình ảnh</item>
+        <item quantity="one">%d hình ảnh</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d trang</item>
+        <item quantity="one">%d trang</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">Xóa %d mục đã chọn</item>
+        <item quantity="one">Xóa 1 mục đã chọn</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">Chia sẻ %d mục đã chọn</item>
+        <item quantity="one">Chia sẻ 1 mục đã chọn</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">%1$d tab đang mở, nhấn để chuyển tab</item>
+        <item quantity="one">%1$d tab đang mở, nhấn để chuyển tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">%1$d dấu trang</item>
+        <item quantity="one">%1$d dấu trang</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d tab</item>
+        <item quantity="one">%1$d tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (+ %d mục khác)"</item>
+        <item quantity="one">" (+ 1 mục khác)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">Đang tải %d tệp xuống.</item>
+        <item quantity="one">Đang tải tệp xuống.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">%d giờ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">Đã tải %1$d tệp xuống</item>
+        <item quantity="one">Đã tải %1$d tệp xuống</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">Đã tải xong %d tệp xuống.</item>
+        <item quantity="one">Đã tải xong 1 tệp xuống.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">Không tải được %d tệp xuống.</item>
+        <item quantity="one">Không tải được 1 tệp xuống.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">%d tệp đang chờ tải xuống.</item>
+        <item quantity="one">1 tệp đang chờ tải xuống.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">%d ngày trước</item>
+        <item quantity="one">%d ngày trước</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">%d giờ trước</item>
+        <item quantity="one">%d giờ trước</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">%d phút trước</item>
+        <item quantity="one">%d phút trước</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">Chrome sẽ tải trang của bạn khi sẵn sàng</item>
+        <item quantity="one">Chrome sẽ tải trang của bạn khi sẵn sàng</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">%1$s… và %2$s tùy chọn khác</item>
+        <item quantity="one">%1$s… và %2$s tùy chọn khác</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">%1$s… và %2$s tùy chọn khác</item>
+        <item quantity="one">%1$s… và %2$s tùy chọn khác</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">%1$s… và %2$s tùy chọn khác</item>
+        <item quantity="one">%1$s… và %2$s tùy chọn khác</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">%1$s… và %2$s tùy chọn khác</item>
+        <item quantity="one">%1$s… và %2$s tùy chọn khác</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">Đã chọn %d mục</item>
+        <item quantity="one">Đã chọn 1 mục</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">Mức cường độ tín hiệu: %d vạch</item>
+        <item quantity="one">Mức cường độ tín hiệu: %d vạch</item>
+    </plurals>
+</resources>

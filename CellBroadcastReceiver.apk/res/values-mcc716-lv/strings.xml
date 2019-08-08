@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Ārkārtas situācijas brīdinājums: vingrinājuma/simulācijas ziņojums</string>
+    <string name="cmas_required_monthly_test">Ārkārtas situācijas brīdinājums: pārbaudes ziņojums</string>
+    <string name="enable_public_safety_messages_title">Informatīvs ziņojums</string>
+    <string name="public_safety_message">Informatīvs ziņojums</string>
+</resources>

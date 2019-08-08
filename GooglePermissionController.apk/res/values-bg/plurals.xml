@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Още %1$d</item>
+        <item quantity="one">Още %1$d</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s дни</item>
+        <item quantity="one">1 ден</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s часа</item>
+        <item quantity="one">1 час</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s минути</item>
+        <item quantity="one">1 минута</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s прилож.</item>
+        <item quantity="one">1 прилож.</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s приложения</item>
+        <item quantity="one">1 приложение</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s секунди</item>
+        <item quantity="one">1 секунда</item>
+    </plurals>
+</resources>

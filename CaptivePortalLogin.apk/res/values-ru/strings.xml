@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Регистрация в сети</string>
+    <string name="action_bar_title">Войти: %1$s</string>
+    <string name="action_do_not_use_network">Не использовать эту сеть</string>
+    <string name="action_use_network">Использовать эту сеть</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ok">ОК</string>
+    <string name="page_info">О странице</string>
+    <string name="page_info_address">Адрес:</string>
+    <string name="ssl_error_continue">Игнорировать и открыть браузер</string>
+    <string name="ssl_error_date_invalid">Дата сертификата недействительна.</string>
+    <string name="ssl_error_example">Например, страница входа в аккаунт может быть фиктивной.</string>
+    <string name="ssl_error_expired">Срок действия сертификата истек.</string>
+    <string name="ssl_error_invalid">Сертификат недействителен.</string>
+    <string name="ssl_error_mismatch">Название сайта отличается от указанного в сертификате.</string>
+    <string name="ssl_error_not_yet_valid">Сертификат ещё не действителен.</string>
+    <string name="ssl_error_unknown">Неизвестная ошибка, связанная с сертификатом.</string>
+    <string name="ssl_error_untrusted">Этот сертификат получен из ненадежных источников.</string>
+    <string name="ssl_error_view_certificate">Показать сертификат</string>
+    <string name="ssl_error_warning">Сеть, к которой вы хотите подключиться, небезопасна.</string>
+    <string name="ssl_security_warning_title">Предупреждение об опасности</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+</resources>

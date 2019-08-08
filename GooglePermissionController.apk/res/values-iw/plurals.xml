@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">עוד %1$d</item>
+        <item quantity="one">עוד %1$d</item>
+        <item quantity="two">עוד %1$d</item>
+        <item quantity="many">עוד %1$d</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s ימים</item>
+        <item quantity="one">יום אחד</item>
+        <item quantity="two">יומיים (%s)</item>
+        <item quantity="many">%s ימים</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s שעות</item>
+        <item quantity="one">שעה אחת</item>
+        <item quantity="two">שעתיים (%s)</item>
+        <item quantity="many">%s שעות</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s דקות</item>
+        <item quantity="one">דקה אחת</item>
+        <item quantity="two">%s דקות</item>
+        <item quantity="many">%s דקות</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s אפליקציות</item>
+        <item quantity="one">אפליקציה אחת</item>
+        <item quantity="two">%s אפליקציות</item>
+        <item quantity="many">%s אפליקציות</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s אפליקציות</item>
+        <item quantity="one">אפליקציה אחת</item>
+        <item quantity="two">%s אפליקציות</item>
+        <item quantity="many">%s אפליקציות</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s שניות</item>
+        <item quantity="one">שנייה אחת</item>
+        <item quantity="two">%s שניות</item>
+        <item quantity="many">%s שניות</item>
+    </plurals>
+</resources>

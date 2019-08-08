@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[Ḿöðûļé Ḿéţåðåţå one two three]</string>
+    <string name="module_angle">[ÅÑĜĻÉ one]</string>
+    <string name="module_captiveportallogin">[ÇåþţîVé Þöŕţåļ Ļöĝîñ one two three]</string>
+    <string name="module_conscrypt">[Çöñšçŕýþţ one two]</string>
+    <string name="module_documentsui">[Ðöçûḿéñţš ÛÎ one two]</string>
+    <string name="module_ext_services">[Åñðŕöîð ŠéŕVîçéš one two three]</string>
+    <string name="module_media">[Ḿéðîå one]</string>
+    <string name="module_media_swcodec">[Ḿéðîå Šöƒţŵåŕé Çöðéç one two three]</string>
+    <string name="module_networkpermissionconfig">[Ñéţŵöŕķ Þéŕḿîššîöñ Çöñƒîĝûŕåţîöñ one two three four]</string>
+    <string name="module_networkstack">[Ñéţŵöŕķ Šţåçķ one two]</string>
+    <string name="module_permissioncontroller">[Þéŕḿîššîöñ Çöñţŕöļļéŕ one two three]</string>
+    <string name="module_resolv">[ÐÑŠ ŔéšöļVéŕ one two]</string>
+    <string name="module_tzdata">[Ţîḿé žöñé ðåţå one two three]</string>
+</resources>

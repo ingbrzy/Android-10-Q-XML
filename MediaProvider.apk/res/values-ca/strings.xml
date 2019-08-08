@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">Afegeix una alarma</string>
+    <string name="add_notification_text">Afegeix una notificació</string>
+    <string name="add_ringtone_text">Afegeix un so de trucada</string>
+    <string name="alarm_sound_default">"So d'alarma predeterminat"</string>
+    <string name="app_label">Emmagatzematge multimèdia</string>
+    <string name="artist_label">Artista</string>
+    <string name="delete_ringtone_text">Suprimeix</string>
+    <string name="grant_dialog_button_allow">Permet</string>
+    <string name="grant_dialog_button_deny">Denega</string>
+    <string name="notification_sound_default">So de notificació predeterminat</string>
+    <string name="permission_audio">Vols permetre que <b>^1</b> modifiqui o suprimeixi aquesta música?</string>
+    <string name="permission_images">Vols permetre que <b>^1</b> modifiqui i suprimeixi aquesta imatge?</string>
+    <string name="permission_required">Per modificar o suprimir aquest element, calen permisos.</string>
+    <string name="permission_required_action">Continua</string>
+    <string name="permission_video">Vols permetre que <b>^1</b> modifiqui o suprimeixi aquest vídeo?</string>
+    <string name="ringtone_default">So de trucada predeterminat</string>
+    <string name="root_audio">Àudio</string>
+    <string name="root_images">Imatges</string>
+    <string name="root_videos">Vídeos</string>
+    <string name="sound_name_awaken">Awaken</string>
+    <string name="sound_name_bounce">Bounce</string>
+    <string name="sound_name_drip">Drip</string>
+    <string name="sound_name_gallop">Gallop</string>
+    <string name="sound_name_nudge">Nudge</string>
+    <string name="sound_name_orbit">Orbit</string>
+    <string name="sound_name_rise">Rise</string>
+    <string name="sound_name_sway">Sway</string>
+    <string name="sound_name_wag">Wag</string>
+    <string name="storage_description">Emmagatzematge local</string>
+    <string name="uid_label">Multimèdia</string>
+    <string name="unable_to_add_ringtone">No es pot afegir el so de trucada personalitzat</string>
+    <string name="unable_to_delete_ringtone">No es pot suprimir el so de trucada personalitzat</string>
+</resources>

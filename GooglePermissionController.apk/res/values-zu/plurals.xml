@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d okuningi</item>
+        <item quantity="one">%1$d okuningi</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s izinsuku</item>
+        <item quantity="one">%s izinsuku</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s amahora</item>
+        <item quantity="one">%s amahora</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s amaminithi</item>
+        <item quantity="one">%s amaminithi</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s izinhlelo zokusebenza</item>
+        <item quantity="one">%s izinhlelo zokusebenza</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s izinhlelo zokusebenza</item>
+        <item quantity="one">%s izinhlelo zokusebenza</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s amasekhondi</item>
+        <item quantity="one">%s amasekhondi</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_appsAuthorizedForSharedAccounts">‏‮;com.android.vending;com.android.settings;‬‏</string>
+    <string name="config_persistentDataPackageName">‏‮com.google.android.gms‬‏</string>
+    <string name="harmful_app_warning_title">‏‮Play‬‏ ‏‮Protect‬‏ ‏‮warning‬‏</string>
+    <string name="widget_default_class_name">‏‮com.android.alarmclock.DigitalAppWidgetProvider‬‏</string>
+    <string name="widget_default_package_name">‏‮com.google.android.deskclock‬‏</string>
+</resources>

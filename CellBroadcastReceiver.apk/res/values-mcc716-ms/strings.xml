@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Makluman kecemasan: Mesej latihan/simulasi</string>
+    <string name="cmas_required_monthly_test">Makluman kecemasan: Mesej ujian</string>
+    <string name="enable_public_safety_messages_title">Mesej bermaklumat</string>
+    <string name="public_safety_message">Mesej bermaklumat</string>
+</resources>

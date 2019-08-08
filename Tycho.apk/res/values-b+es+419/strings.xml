@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="character_counter_content_description">Caracteres ingresados: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Se excedió en %1$d el límite de caracteres de %2$d</string>
+    <string name="clear_text_end_icon_content_description">Borrar texto</string>
+    <string name="hats_lib_close_button_description">Cerrar</string>
+    <string name="hats_lib_default_prompt_title">Ayúdanos a mejorar Google.</string>
+    <string name="hats_lib_default_star_rating_bar_description">Barra de clasificación con estrellas</string>
+    <string name="hats_lib_default_thank_you">Gracias por sus comentarios.</string>
+    <string name="hats_lib_next">Siguiente</string>
+    <string name="hats_lib_none_of_the_above">Ninguna de las anteriores</string>
+    <string name="hats_lib_open_text_hint">Ingresa tus comentarios aquí</string>
+    <string name="hats_lib_open_text_no_pii">No incluyas información personal</string>
+    <string name="hats_lib_prompt_no_thanks">No, gracias</string>
+    <string name="hats_lib_prompt_take_our_survey">Mostrar pregunta</string>
+    <string name="hats_lib_submit">Enviar</string>
+    <string name="hats_lib_thank_you_followup_message">Responde más preguntas para ayudarnos a mejorar nuestro producto</string>
+    <string name="iah_clear_search_button_content_description">Borrar búsqueda</string>
+    <string name="iah_contact_us">Comunícate con nosotros</string>
+    <string name="iah_hide_hours">Ocultar horario</string>
+    <string name="iah_hide_hours_announcement">Ya no se muestra el horario de atención al público.</string>
+    <string name="iah_hours_of_operation">Horarios de atención</string>
+    <string name="iah_menu_chat">Chat</string>
+    <string name="iah_menu_email">Correo electrónico</string>
+    <string name="iah_ok">Aceptar</string>
+    <string name="iah_phone">Teléfono</string>
+    <string name="iah_pick_support_phone_number">Elige el número de teléfono de asistencia</string>
+    <string name="iah_popular_articles">Artículos populares</string>
+    <string name="iah_search_box_hint">Describe el problema</string>
+    <string name="iah_search_button_content_description">Buscar</string>
+    <string name="iah_send_feedback">Enviar comentarios</string>
+    <string name="iah_show_hours">Mostrar horario</string>
+    <string name="iah_show_hours_announcement">Se muestra el horario de atención al público debajo de la descripción de cada canal de contacto.</string>
+    <string name="icon_content_description">Ícono de diálogo</string>
+    <string name="libraries_material_featurehighlight_dismiss">Descartar</string>
+    <string name="password_toggle_content_description">Mostrar contraseña</string>
+</resources>

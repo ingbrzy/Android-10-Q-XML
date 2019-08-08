@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">ඇඟවීමක් එක් කරන්න</string>
+    <string name="add_notification_text">දැනුම්දීම එක් කරන්න</string>
+    <string name="add_ringtone_text">නාද රිද්මය එක් කරන්න</string>
+    <string name="alarm_sound_default">පෙරනිමි එලාම හඬ</string>
+    <string name="app_label">මාධ්‍ය ගබඩාව</string>
+    <string name="artist_label">කලාකරු</string>
+    <string name="delete_ringtone_text">මකන්න</string>
+    <string name="grant_dialog_button_allow">ඉඩ දෙන්න</string>
+    <string name="grant_dialog_button_deny">ප්‍රතික්ෂේප කරන්න</string>
+    <string name="notification_sound_default">පෙරනිමි දැනුම්දීම් හඬ</string>
+    <string name="permission_audio"><b>^1</b> හට මෙම සංගීතය වෙනස් කිරීමට හෝ මැකීමට ඉඩ දෙන්නද?</string>
+    <string name="permission_images"><b>^1</b> හට මෙම රූපය වෙනස් කිරීමට හෝ මැකීමට ඉඩ දෙන්නද?</string>
+    <string name="permission_required">මෙම අයිතමය වෙනස් කිරීමට හෝ මැකීමට අවසරය අවශ්‍යයි.</string>
+    <string name="permission_required_action">ඉදිරියට යන්න</string>
+    <string name="permission_video"><b>^1</b> හට මෙම වීඩියෝව වෙනස් කිරීමට හෝ මැකීමට ඉඩ දෙන්නද?</string>
+    <string name="ringtone_default">පෙරනිමි රිංග්ටෝනය</string>
+    <string name="root_audio">ශ්‍රව්‍යය</string>
+    <string name="root_images">රූප</string>
+    <string name="root_videos">වීඩියෝ</string>
+    <string name="sound_name_awaken">පිබිදීම</string>
+    <string name="sound_name_bounce">පොළා පැනීම</string>
+    <string name="sound_name_drip">ජල බිංදු වැටීම</string>
+    <string name="sound_name_gallop">ඉක්මන් පැනීම</string>
+    <string name="sound_name_nudge">සෙමින් පෙළඹවීම</string>
+    <string name="sound_name_orbit">කක්ෂය</string>
+    <string name="sound_name_rise">නැගීම</string>
+    <string name="sound_name_sway">පැද්දීම</string>
+    <string name="sound_name_wag">එහා මෙහා යාම</string>
+    <string name="storage_description">පෙදෙසි ආචයනය</string>
+    <string name="uid_label">මාධ්‍ය</string>
+    <string name="unable_to_add_ringtone">අභිරුචි නාද රිද්මය එක් කළ නොහැකිය</string>
+    <string name="unable_to_delete_ringtone">අභිරුචි නාද රිද්මය මැකිය නොහැකිය</string>
+</resources>

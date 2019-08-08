@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">%d zvukových súborov</item>
+        <item quantity="one">%d zvukový súbor</item>
+        <item quantity="few">%d zvukové súbory</item>
+        <item quantity="many">%d Audio files</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d súborov</item>
+        <item quantity="one">%d súbor</item>
+        <item quantity="few">%d súbory</item>
+        <item quantity="many">%d Files</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d obrázkov</item>
+        <item quantity="one">%d obrázok</item>
+        <item quantity="few">%d obrázky</item>
+        <item quantity="many">%d Images</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d stránok</item>
+        <item quantity="one">%d stránka</item>
+        <item quantity="few">%d stránky</item>
+        <item quantity="many">%d Pages</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">%d videí</item>
+        <item quantity="one">%d video</item>
+        <item quantity="few">%d videá</item>
+        <item quantity="many">%d Videos</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">Odstrániť %d vybraných položiek</item>
+        <item quantity="one">Odstrániť 1 vybranú položku</item>
+        <item quantity="few">Odstrániť %d vybrané položky</item>
+        <item quantity="many">Odstrániť %d vybranej položky</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">Zdieľať %d vybraných položiek</item>
+        <item quantity="one">Zdieľať 1 vybranú položku</item>
+        <item quantity="few">Zdieľať %d vybrané položky</item>
+        <item quantity="many">Zdieľať %d vybranej položky</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">%1$d otvorených kariet, karty prepnete klepnutím</item>
+        <item quantity="one">%1$d otvorená karta, karty prepnete klepnutím</item>
+        <item quantity="few">%1$d otvorené karty, karty prepnete klepnutím</item>
+        <item quantity="many">%1$d open tabs, tap to switch tabs</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">%1$d záložiek</item>
+        <item quantity="one">%1$d záložka</item>
+        <item quantity="few">%1$d záložky</item>
+        <item quantity="many">%1$d bookmarks</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d kariet</item>
+        <item quantity="one">%1$d karta</item>
+        <item quantity="few">%1$d karty</item>
+        <item quantity="many">%1$d tabs</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (+ %d ďalších)"</item>
+        <item quantity="one">" (+ 1 ďalšia)"</item>
+        <item quantity="few">" (+ %d ďalšie)"</item>
+        <item quantity="many">" (+ %d more)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">Sťahuje sa %d súborov.</item>
+        <item quantity="one">Sťahuje sa súbor.</item>
+        <item quantity="few">Sťahujú sa %d súbory.</item>
+        <item quantity="many">Downloading %d files.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d hod.</item>
+        <item quantity="one">%d hod.</item>
+        <item quantity="few">%d hod.</item>
+        <item quantity="many">%d hod.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">%1$d stiahnutých súborov</item>
+        <item quantity="one">%1$d stiahnutý súbor</item>
+        <item quantity="few">%1$d stiahnuté súbory</item>
+        <item quantity="many">%1$d files downloaded</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">Dokončilo sa sťahovanie %d položiek.</item>
+        <item quantity="one">Dokončilo sa sťahovanie 1 položky.</item>
+        <item quantity="few">Dokončilo sa sťahovanie %d položiek.</item>
+        <item quantity="many">%d downloads complete.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">Nepodarilo sa stiahnuť %d položiek.</item>
+        <item quantity="one">Nepodarilo sa stiahnuť 1 položku.</item>
+        <item quantity="few">Nepodarilo sa stiahnuť %d položky.</item>
+        <item quantity="many">%d downloads failed.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">Na stiahnutie čaká %d položiek.</item>
+        <item quantity="one">Na stiahnutie čaká 1 položka.</item>
+        <item quantity="few">Na stiahnutie čakajú %d položky.</item>
+        <item quantity="many">%d downloads pending.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">pred %d dňami</item>
+        <item quantity="one">pred %d dňom</item>
+        <item quantity="few">pred %d dňami</item>
+        <item quantity="many">pred %d dňom</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">pred %d hodinami</item>
+        <item quantity="one">pred %d hodinou</item>
+        <item quantity="few">pred %d hodinami</item>
+        <item quantity="many">pred %d hodinou</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">pred %d minútami</item>
+        <item quantity="one">pred %d minútou</item>
+        <item quantity="few">pred %d minútami</item>
+        <item quantity="many">pred %d minútou</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">Chrome stránku načíta, keď bude k dispozícii</item>
+        <item quantity="one">Chrome stránku načíta, keď bude k dispozícii</item>
+        <item quantity="few">Chrome stránku načíta, keď bude k dispozícii</item>
+        <item quantity="many">Chrome stránku načíta, keď bude k dispozícii</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">%1$s… a %2$s ďalších</item>
+        <item quantity="one">%1$s… a %2$s ďalší</item>
+        <item quantity="few">%1$s… a %2$s ďalšie</item>
+        <item quantity="many">%1$s… a %2$s ďalšieho</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">%1$s… a %2$s ďalších</item>
+        <item quantity="one">%1$s… a %2$s ďalší</item>
+        <item quantity="few">%1$s… a %2$s ďalšie</item>
+        <item quantity="many">%1$s… a %2$s ďalšieho</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">%1$s… a %2$s ďalších</item>
+        <item quantity="one">%1$s… a %2$s ďalšia</item>
+        <item quantity="few">%1$s… a %2$s ďalšie</item>
+        <item quantity="many">%1$s… a %2$s ďalšej</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">%1$s… a %2$s ďalších</item>
+        <item quantity="one">%1$s… a %2$s ďalšia</item>
+        <item quantity="few">%1$s… a %2$s ďalšie</item>
+        <item quantity="many">%1$s… a %2$s ďalšej</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">%d vybratých položiek</item>
+        <item quantity="one">1 vybratá položka</item>
+        <item quantity="few">%d vybraté položky</item>
+        <item quantity="many">Niekoľko (%d) vybratých položiek</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">Úroveň sily signálu: %d čiarok</item>
+        <item quantity="one">Úroveň sily signálu: %d čiarka</item>
+        <item quantity="few">Úroveň sily signálu: %d čiarky</item>
+        <item quantity="many">Úroveň sily signálu: %d čiarky</item>
+    </plurals>
+</resources>

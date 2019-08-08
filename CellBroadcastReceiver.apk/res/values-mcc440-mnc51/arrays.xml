@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="additional_cbs_channels_strings">
+        <item>0xA807:rat=gsm, emergency=false</item>
+    </string-array>
+    <string-array name="etws_alerts_range_strings">
+        <item>0x1100:rat=gsm, type=etws_earthquake, emergency=true</item>
+        <item>0x1101:rat=gsm, type=etws_tsunami, emergency=true</item>
+        <item>0xA808:rat=gsm, type=other, emergency=true, scope=carrier</item>
+    </string-array>
+</resources>

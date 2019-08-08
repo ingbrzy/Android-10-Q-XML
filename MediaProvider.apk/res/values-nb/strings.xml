@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">Legg til en alarm</string>
+    <string name="add_notification_text">Legg til et varsel</string>
+    <string name="add_ringtone_text">Legg til ringelyd</string>
+    <string name="alarm_sound_default">Standard alarmlyd</string>
+    <string name="app_label">Medielagring</string>
+    <string name="artist_label">Artist</string>
+    <string name="delete_ringtone_text">Slett</string>
+    <string name="grant_dialog_button_allow">Tillat</string>
+    <string name="grant_dialog_button_deny">Avvis</string>
+    <string name="notification_sound_default">Standard varsellyd</string>
+    <string name="permission_audio">Vil du tillate at <b>^1</b> endrer eller sletter denne musikken?</string>
+    <string name="permission_images">Vil du tillate at <b>^1</b> endrer eller sletter dette bildet?</string>
+    <string name="permission_required">Du må ha tillatelse for å endre eller slette dette elementet.</string>
+    <string name="permission_required_action">Fortsett</string>
+    <string name="permission_video">Vil du tillate at <b>^1</b> endrer eller sletter denne videoen?</string>
+    <string name="ringtone_default">Standard ringelyd</string>
+    <string name="root_audio">Lyd</string>
+    <string name="root_images">Bilder</string>
+    <string name="root_videos">Videoer</string>
+    <string name="sound_name_awaken">Våkn opp</string>
+    <string name="sound_name_bounce">Sprett</string>
+    <string name="sound_name_drip">Drypp</string>
+    <string name="sound_name_gallop">Galoppér</string>
+    <string name="sound_name_nudge">Dult</string>
+    <string name="sound_name_orbit">Krets</string>
+    <string name="sound_name_rise">Stå opp</string>
+    <string name="sound_name_sway">Svai</string>
+    <string name="sound_name_wag">Logre</string>
+    <string name="storage_description">Lokal lagring</string>
+    <string name="uid_label">Medier</string>
+    <string name="unable_to_add_ringtone">Kan ikke legge til egendefinert ringelyd</string>
+    <string name="unable_to_delete_ringtone">Kan ikke slette egendefinert ringelyd</string>
+</resources>

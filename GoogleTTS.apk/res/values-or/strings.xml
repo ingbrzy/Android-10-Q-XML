@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">ଉପରକୁ ନେଭିଗେଟ୍ କରନ୍ତୁ</string>
+    <string name="abc_action_mode_done">ହୋଇଗଲା</string>
+    <string name="abc_capital_off">ଅଫ୍</string>
+    <string name="abc_capital_on">ଅନ୍</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ଡିଲିଟ୍‍</string>
+    <string name="abc_menu_enter_shortcut_label">ଏଣ୍ଟର୍</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">ସ୍ପେସ୍‍</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">ମେନୁ</string>
+    <string name="abc_search_hint">ସର୍ଚ୍ଚ କରନ୍ତୁ…</string>
+    <string name="abc_searchview_description_clear">କ୍ୱେରୀ ଖାଲି କରନ୍ତୁ</string>
+    <string name="abc_searchview_description_search">ସର୍ଚ୍ଚ କରନ୍ତୁ</string>
+    <string name="abc_searchview_description_submit">କ୍ୱେରୀ ଦାଖଲ କରନ୍ତୁ</string>
+    <string name="abc_searchview_description_voice">ଭଏସ୍‌ ସର୍ଚ୍ଚ</string>
+    <string name="abc_toolbar_collapse_description">ସଂକୁଚିତ କରନ୍ତୁ</string>
+    <string name="accessibility_textnorm_levels_summary">ତାରିଖ ଓ ସମୟକୁ କିପରି କୁହାଯାଉଛି, ତାହାକୁ ପ୍ରଭାବିତ କରେ</string>
+    <string name="accessibility_textnorm_levels_title">ନମ୍ବର୍ ପ୍ରୋସେସ୍ କରାଯାଉଛି</string>
+    <string name="action_licenses">ଓପନ୍‌ ସୋର୍ସ ଲାଇସେନ୍ସ</string>
+    <string name="action_voice_pack_uninstall">ଅନଇନଷ୍ଟଲ୍‌</string>
+    <string name="action_voice_pack_update">ଅପଡେଟ୍‌</string>
+    <string name="analytics_screen_explanation">"ଯେତେବେଳେ ଏହି ଫିଚର୍ ଅନ୍ ଥିବ ଆମେ ଅଜ୍ଞାତ ବ୍ୟବହାରର ରିପୋର୍ଟଗୁଡ଼ିକୁ ପ୍ରାପ୍ତ କରୁ। ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ Google ଲେଖା-ରୁ-କଥାର କାର୍ଯ୍ୟକୁଶଳତାକୁ, ଏହା ଭଲ ଭାବେ ବୁଝିବାରେ ସାହାଯ୍ୟ କରିବ।
+
+ଆମେ ସଂଗ୍ରହ କରିଥିବା ହାରାହାରି ମେଟ୍ରିକ୍ସଗୁଡ଼ିକର ଉଦାହରଣ:
+"<ul><li>ଲେଖା-ରୁ-କଥାକୁ କେତେ ଥର ବ୍ୟବହାର କରାଯାଇଛି।</li>"
+"<li>ଲେଖା-ରୁ-କଥାର ଅନୁରୋଧଗୁଡ଼ିକର କାର୍ଯ୍ୟକାରିତା।</li>"
+"<li>କେଉଁ ଭାଷାଗୁଡ଼ିକୁ ବ୍ୟବହାର କରାଯାଇଛି।</li>"
+"<li>ସ୍ପୀଚର ଆଉଟପୁଟ୍‌କୁ ଡେଲିଭର୍ କରିବାରେ ଲେଖା-ରୁ-କଥା କେତେଥର ବିଫଳ ହୋଇଛି।</li>"
+"</ul></string>
+    <string name="analytics_summary_off">ଅଫ୍ ଅଛି</string>
+    <string name="analytics_summary_on">ଅନ୍ ଅଛି</string>
+    <string name="analytics_title">ଅଜ୍ଞାତ ବ୍ୟବହାର ରିପୋର୍ଟଗୁଡ଼ିକ</string>
+    <string name="app_name">Google ଲେଖା-ରୁ-କଥା ଇଞ୍ଜିନ୍</string>
+    <string name="auto_update_wifi_summary">କେବଳ ୱାଇ-ଫାଇ ବ୍ୟବହାର କରି ଭଏସ୍ ଡାଟାଗୁଡ଼ିକୁ ଡାଉନଲୋଡ୍ କରନ୍ତୁ, ଏହା ଡାଟା ବ୍ୟବହାରର ସଂରକ୍ଷଣ କରେ</string>
+    <string name="auto_update_wifi_title">କେବଳ ୱାଇ-ଫାଇ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="download_notification_description">ଲେଖା-ରୁ-କଥା ପାଇଁ ଭଏସ୍ ଡାଟା</string>
+    <string name="download_notification_title">%1$s ପାଇଁ ଅଫ୍‌ଲାଇନ୍‌ ଭଏସ୍‌</string>
+    <string name="f0_deviation_title">ଇଣ୍ଟୋନେସନ୍</string>
+    <string name="feedback_failed">ମତାମତ ଫର୍ମ ଖୋଲିପାରୁନାହିଁ</string>
+    <string name="feedback_title">ମତାମତ</string>
+    <string name="general_settings">ସାଧାରଣ ସେଟିଙ୍ଗ</string>
+    <string name="install_voices_title">ଭଏସ୍‌ ଡାଟା ଇନଷ୍ଟଲ୍ କରନ୍ତୁ</string>
+    <string name="language_detection_title">ଭାଷା ଚିହ୍ନଟ</string>
+    <string name="loudness_summary">କହୁଥିବା କଥାକୁ ସାମାନ୍ୟଠାରୁ ଟିକେ ଜୋରରେ କୁହନ୍ତୁ ଯଦ୍ଵାରା ଚାଲୁଥିବା କିଛି ଅଡିଓ ଉପରେ ଏହାକୁ ସହଜରେ ଶୁଣିହେବ</string>
+    <string name="loudness_title">ସ୍ପିଚ୍ ଭଲ୍ୟୁମ୍‌କୁ ବଢ଼ାନ୍ତୁ</string>
+    <string name="multi_voice_pack_title">%1$s ଭଏସ୍‌</string>
+    <string name="play_sample">ନମୁନା ଟେକ୍ସଟ୍ ଚଲାନ୍ତୁ</string>
+    <string name="play_sample_text_button_description">%1$sପାଇଁ ନମୁନା ଲେଖାକୁ ଚଲାନ୍ତୁ</string>
+    <string name="sample_text_synthesis_failure">ଏହି ଭଏସ୍ ପାଇଁ ଗୋଟିଏ ଉଦାହରଣକୁ ସିନ୍ଥେସାଇଜ୍ କରିବାରେ ବିଫଳ|</string>
+    <string name="tts_default_example">ଲେଖାକୁ ମେଶିନ୍ ସାହାଯ୍ୟରେ କହିବାର ଏହା ହେଉଛି ଏକ ଉଦାହରଣ|</string>
+    <string name="tts_settings_label">Google TTS ବିକଳ୍ପ</string>
+    <string name="unpack_voice_pack_service_title">ଲେଖା-ରୁ-କଥା ଡାଟାକୁ ଅପଡେଟ୍ କରିବା</string>
+    <string name="voice_data_install_title">Google TTS ଭଏସ୍ ଡାଟା</string>
+    <string name="voice_entity_status_voice">ଭଏସ୍ %1$s</string>
+    <string name="voice_entry_cancel_download_desc">ଭଏସ୍ ପ୍ୟାକ୍ ଡାଉନଲୋଡ୍‌କୁ କ୍ୟାନ୍ସଲ୍ କରନ୍ତୁ</string>
+    <string name="voice_entry_delete_desc">ଭଏସ୍ ପ୍ୟାକ୍‌କୁ ଡିଲିଟ୍ କରନ୍ତୁ</string>
+    <string name="voice_entry_download_desc">ଭଏସ୍ ପ୍ୟାକ୍‌କୁ ଡାଉନଲୋଡ୍ କରନ୍ତୁ</string>
+    <string name="voice_entry_overflow_desc">ଅତିରିକ୍ତ ଭଏସ୍ ପ୍ୟାକ୍ କାର୍ଯ୍ୟ</string>
+    <string name="voice_pack_no_download_manager">ଅକ୍ଷମ କିମ୍ବା ହଜିଯାଇଥିବା ଡାଉନଲୋଡ୍ ମ୍ୟାନେଜର୍; ଭଏସ୍ ପ୍ୟାକ୍‌କୁ ଡାଉନଲୋଡ୍ କରିବାରେ ଅସମର୍ଥ</string>
+    <string name="voice_pack_not_enough_space">ଇଣ୍ଟର୍ନାଲ୍ ଷ୍ଟୋରେଜ୍‌ରେ ପର୍ଯ୍ୟାପ୍ତ ଖାଲି ସ୍ଥାନ ନାହିଁ| ଏହି ଭଏସ୍‌କୁ ଇନଷ୍ଟଲ୍ କରିବା ପାଇଁ କିଛି ସ୍ଥାନ ଖାଲି କରନ୍ତୁ|</string>
+    <string name="voice_pack_status_downloadable">ଡାଉନଲୋଡ୍ (~%1$s)</string>
+    <string name="voice_pack_status_downloading">ଡାଉନଲୋଡ୍ ହେଉଛି…</string>
+    <string name="voice_pack_status_size">ଆକାର: ~%1$s</string>
+    <string name="voice_pack_status_updatable">ଅପଡେଟ୍‌ ଉପଲବ୍ଧ ଅଛି</string>
+    <string name="voice_pack_uninstall_dialog">ଏହି ଭଏସ୍‌କୁ ଅନଇନଷ୍ଟଲ୍ କରନ୍ତୁ?</string>
+    <string name="voice_pack_uninstall_keep">ରଖନ୍ତୁ</string>
+    <string name="voice_pack_uninstall_uninstall">ଅନଇନଷ୍ଟଲ୍‌</string>
+    <string name="voice_pack_unpack_failure">ଡାଉନଲୋଡ୍ ହୋଇଥିବା ଭଏସ୍‌କୁ ଇନଷ୍ଟଲ୍ କରିବାରେ ବିଫଳ ହେଲା</string>
+</resources>

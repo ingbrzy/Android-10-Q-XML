@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">%d ኦዲዮ ፋይሎች</item>
+        <item quantity="one">%d ኦዲዮ ፋይል</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d ፋይሎች</item>
+        <item quantity="one">%d ፋይል</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d ምስሎች</item>
+        <item quantity="one">%d ምስል</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d ገጾች</item>
+        <item quantity="one">%d ገጽ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">%d ቪዲዮዎች</item>
+        <item quantity="one">%d ቪዲዮ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">%d የተመረጡ ንጥሎችን አስወግድ</item>
+        <item quantity="one">1 የተመረጠ ንጥልን አስወግድ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">%d የተመረጡ ንጥሎችን አጋራ</item>
+        <item quantity="one">1 የተመረጠ ንጥል አጋራ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">%1$d ትሮችን ይክፈቱ፣ ትሮችን ለመቀየር መታ ያድርጉ</item>
+        <item quantity="one">%1$d ትርን ይክፈቱ፣ ትሮችን ለመቀየር መታ ያድርጉ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">%1$d ዕልባቶች</item>
+        <item quantity="one">%1$d ዕልባት</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d ትሮች</item>
+        <item quantity="one">%1$d ትር</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (+ %d ተጨማሪ)"</item>
+        <item quantity="one">" (+ 1 ተጨማሪ)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">%d ፋይሎች በማውረድ ላይ።</item>
+        <item quantity="one">ፋይልን በማውረድ ላይ።</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d ሰዓቶች</item>
+        <item quantity="one">%d ሰዓ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">%1$d ፋይሎች ወርደዋል</item>
+        <item quantity="one">%1$dፋይል ወርዷል</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">%d ውርዶች ተጠናቅቀዋል</item>
+        <item quantity="one">1 ውርድ ተጠናቅቋል</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">%d ውርዶች አልተሳኩም።</item>
+        <item quantity="one">1 ውርድ አልተሳካም።</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">%d ውርዶችን በመጠባበቅ ላይ</item>
+        <item quantity="one">1 ውርድን በመጠባበቅ ላይ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">ከ%d ቀኖች በፊት</item>
+        <item quantity="one">ከ%d ቀን በፊት</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">ከ%d ሰዓቶች በፊት</item>
+        <item quantity="one">ከ%d ሰዓት በፊት</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">ከ%d ደቂቃዎች በፊት</item>
+        <item quantity="one">ከ%d ደቂቃ በፊት</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">Chrome ዝግጁ ሲሆን ገጾችዎን ይጭነዋል</item>
+        <item quantity="one">Chrome ዝግጁ ሲሆን ገጽዎን ይጭነዋል</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">%1$s… እና %2$s ተጨማሪ</item>
+        <item quantity="one">%1$s… እና %2$s ተጨማሪ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">%1$s… እና %2$s ተጨማሪ</item>
+        <item quantity="one">%1$s… እና %2$s ተጨማሪ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">%1$s… እና %2$s ተጨማሪ</item>
+        <item quantity="one">%1$s… እና %2$s ተጨማሪ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">%1$s… እና %2$s ተጨማሪ</item>
+        <item quantity="one">%1$s… እና %2$s ተጨማሪ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">%d ተመርጠዋል</item>
+        <item quantity="one">1 ተመርጧል</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">የሲግናል ጥንካሬ ደረጃ፦ %d አሞሌዎች</item>
+        <item quantity="one">የሲግናል ጥንካሬ ደረጃ፦ %d አሞሌ</item>
+    </plurals>
+</resources>

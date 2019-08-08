@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Prisijungti prie tinklo</string>
+    <string name="action_bar_title">Prisijungimas prie „%1$s“</string>
+    <string name="action_do_not_use_network">Nenaudoti šio tinklo</string>
+    <string name="action_use_network">Naudoti šį tinklą tokį, koks yra</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ok">Gerai</string>
+    <string name="page_info">Puslapio informacija</string>
+    <string name="page_info_address">Adresas</string>
+    <string name="ssl_error_continue">Vis tiek tęsti naudojant naršyklę</string>
+    <string name="ssl_error_date_invalid">Šio sertifikato data netinkama.</string>
+    <string name="ssl_error_example">Pavyzdžiui, prisijungimo puslapis gali nepriklausyti rodomai organizacijai.</string>
+    <string name="ssl_error_expired">Šio sertifikato galiojimo laikas baigėsi.</string>
+    <string name="ssl_error_invalid">Šis sertifikatas netinkamas.</string>
+    <string name="ssl_error_mismatch">Svetainės pavadinimas neatitinka sertifikate nurodyto pavadinimo.</string>
+    <string name="ssl_error_not_yet_valid">Šis sertifikatas dar negalioja.</string>
+    <string name="ssl_error_unknown">Nežinoma sertifikato klaida.</string>
+    <string name="ssl_error_untrusted">Šį sertifikatą išdavė nepatikima įstaiga.</string>
+    <string name="ssl_error_view_certificate">Žiūrėti sertifikatą</string>
+    <string name="ssl_error_warning">Kilo tinklo, prie kurio bandote prisijungti, problemų.</string>
+    <string name="ssl_security_warning_title">Saugos įspėjimas</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

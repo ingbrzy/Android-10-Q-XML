@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d més</item>
+        <item quantity="one">%1$d més</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dies</item>
+        <item quantity="one">1 dia</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s hores</item>
+        <item quantity="one">1 hora</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minuts</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s aplicacions</item>
+        <item quantity="one">1 aplicació</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s aplicacions</item>
+        <item quantity="one">1 aplicació</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s segons</item>
+        <item quantity="one">1 segon</item>
+    </plurals>
+</resources>

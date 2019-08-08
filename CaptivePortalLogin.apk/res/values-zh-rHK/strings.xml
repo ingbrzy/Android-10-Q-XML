@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">登入網絡</string>
+    <string name="action_bar_title">登入「%1$s」</string>
+    <string name="action_do_not_use_network">不要使用這個網絡</string>
+    <string name="action_use_network">依照現況使用這個網絡</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ok">確定</string>
+    <string name="page_info">頁面資料</string>
+    <string name="page_info_address">電郵地址：</string>
+    <string name="ssl_error_continue">透過瀏覽器繼續</string>
+    <string name="ssl_error_date_invalid">此憑證的日期無效。</string>
+    <string name="ssl_error_example">例如，登入頁面並不屬於所顯示的機構。</string>
+    <string name="ssl_error_expired">此憑證已過期。</string>
+    <string name="ssl_error_invalid">此憑證無效。</string>
+    <string name="ssl_error_mismatch">網站名稱與憑證上的名稱不符。</string>
+    <string name="ssl_error_not_yet_valid">此憑證尚未生效。</string>
+    <string name="ssl_error_unknown">不明的憑證錯誤。</string>
+    <string name="ssl_error_untrusted">此憑證並非由信任的機構發出。</string>
+    <string name="ssl_error_view_certificate">查看憑證</string>
+    <string name="ssl_error_warning">您正在嘗試加入的網絡有安全性問題。</string>
+    <string name="ssl_security_warning_title">安全性警告</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

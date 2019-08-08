@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">నెట్‌వర్క్‌కి సైన్ ఇన్ చేయండి</string>
+    <string name="action_bar_title">%1$sకి సైన్ ఇన్ చేయండి</string>
+    <string name="action_do_not_use_network">ఈ నెట్‌వర్క్‌ని ఉపయోగించవద్దు</string>
+    <string name="action_use_network">ఈ నెట్‌వర్క్‌ని యథావిధిగా ఉపయోగించు</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ok">సరే</string>
+    <string name="page_info">పేజీ సమాచారం</string>
+    <string name="page_info_address">చిరునామా:</string>
+    <string name="ssl_error_continue">ఏదేమైనా బ్రౌజర్ ద్వారా కొనసాగించు</string>
+    <string name="ssl_error_date_invalid">ఈ సర్టిఫికెట్ చెల్లని తేదీని కలిగి ఉంది.</string>
+    <string name="ssl_error_example">ఉదాహరణకు, లాగిన్ పేజీ చూపిన సంస్థకు చెందినది కాకపోవచ్చు.</string>
+    <string name="ssl_error_expired">ఈ సర్టిఫికెట్ గడువు ముగిసింది.</string>
+    <string name="ssl_error_invalid">ఈ సర్టిఫికెట్ చెల్లుబాటు కాదు.</string>
+    <string name="ssl_error_mismatch">సైట్ యొక్క పేరు సర్టిఫికెట్‌లోని పేరుతో సరిపోలలేదు.</string>
+    <string name="ssl_error_not_yet_valid">ఈ సర్టిఫికెట్ ఇప్పటికీ చెల్లదు.</string>
+    <string name="ssl_error_unknown">తెలియని సర్టిఫికెట్ ఎర్రర్.</string>
+    <string name="ssl_error_untrusted">ఈ సర్టిఫికెట్ విశ్వసనీయ అధికార సంస్థ నుండి కాదు.</string>
+    <string name="ssl_error_view_certificate">సర్టిఫికెట్‌ని చూడండి</string>
+    <string name="ssl_error_warning">మీరు చేరడానికి ప్రయత్నిస్తున్న నెట్‌వర్క్ భద్రతా సమస్యలను కలిగి ఉంది.</string>
+    <string name="ssl_security_warning_title">భద్రతా హెచ్చరిక</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

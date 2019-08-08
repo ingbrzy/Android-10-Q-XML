@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Şəbəkəyə daxil olun</string>
+    <string name="action_bar_title">Daxil olun: %1$s</string>
+    <string name="action_do_not_use_network">Bu şəbəkəni istifadə etməyin</string>
+    <string name="action_use_network">Bu şəbəkəni olduğu kimi istifadə edin</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Səhifə məlumatı</string>
+    <string name="page_info_address">Ünvan:</string>
+    <string name="ssl_error_continue">Hər bir halda brazuer ilə davam edin</string>
+    <string name="ssl_error_date_invalid">Bu sertifikatın tarixi yanlışdır.</string>
+    <string name="ssl_error_example">Məsələn, giriş səhifəsi göstərilən təşkilata aid olmaya bilər.</string>
+    <string name="ssl_error_expired">Bu sertifikatın müddəti bitib.</string>
+    <string name="ssl_error_invalid">Bu sertifikat etibarsızdır.</string>
+    <string name="ssl_error_mismatch">Saytın adı sertifikatdakı ada uyğun deyil.</string>
+    <string name="ssl_error_not_yet_valid">Bu sertifikat hələ etibarlı deyil.</string>
+    <string name="ssl_error_unknown">Bilinməyən sertifikat xətası.</string>
+    <string name="ssl_error_untrusted">Bu sertifikat etibarlı orqan tərəfindən verilməyib.</string>
+    <string name="ssl_error_view_certificate">Sertifikata baxın</string>
+    <string name="ssl_error_warning">Qoşulmaq istədiyiniz şəbəkənin təhlükəsizlik problemləri var.</string>
+    <string name="ssl_security_warning_title">Təhlükəsizlik xəbərdarlığı</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

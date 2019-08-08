@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">Ավելացնել զարթուցիչ</string>
+    <string name="add_notification_text">Ավելացնել ծանուցում</string>
+    <string name="add_ringtone_text">Ավելացնել զանգերանգ</string>
+    <string name="alarm_sound_default">Զարթուցիչի կանխադրված ձայնը</string>
+    <string name="app_label">Մեդիա կրիչ</string>
+    <string name="artist_label">Կատարող</string>
+    <string name="delete_ringtone_text">Ջնջել</string>
+    <string name="grant_dialog_button_allow">Թույլատրել</string>
+    <string name="grant_dialog_button_deny">Մերժել</string>
+    <string name="notification_sound_default">Ծանուցման կանխադրված ձայնը</string>
+    <string name="permission_audio">Թույլատրե՞լ <b>^1</b> հավելվածին փոփոխել կամ հեռացնել այս աուդիո ֆայլը:</string>
+    <string name="permission_images">Թույլատրե՞լ <b>^1</b> հավելվածին փոփոխել կամ հեռացնել այս պատկերը:</string>
+    <string name="permission_required">Այս տարրը փոփոխելու կամ ջնջելու համար անհրաժեշտ է թույլտվություն:</string>
+    <string name="permission_required_action">Շարունակել</string>
+    <string name="permission_video">Թույլատրե՞լ <b>^1</b> հավելվածին փոփոխել կամ հեռացնել այս տեսանյութը:</string>
+    <string name="ringtone_default">Կանխադրված զանգերանգը</string>
+    <string name="root_audio">Աուդիո</string>
+    <string name="root_images">Պատկերներ</string>
+    <string name="root_videos">Տեսանյութեր</string>
+    <string name="sound_name_awaken">Awaken</string>
+    <string name="sound_name_bounce">Bounce</string>
+    <string name="sound_name_drip">Drip</string>
+    <string name="sound_name_gallop">Gallop</string>
+    <string name="sound_name_nudge">Nudge</string>
+    <string name="sound_name_orbit">Orbit</string>
+    <string name="sound_name_rise">Rise</string>
+    <string name="sound_name_sway">Sway</string>
+    <string name="sound_name_wag">Wag</string>
+    <string name="storage_description">Սարքի հիշողություն</string>
+    <string name="uid_label">Մեդիա</string>
+    <string name="unable_to_add_ringtone">Հնարավոր չէ հատուկ զանգերանգ ավելացնել</string>
+    <string name="unable_to_delete_ringtone">Հնարավոր չէ ջնջել հատուկ զանգերանգը</string>
+</resources>

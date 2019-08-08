@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_amber_alert">Обавештење о упозорењу</string>
+    <string name="cmas_presidential_level_alert">Обавештење о хитном случају на нивоу земље</string>
+    <string name="cmas_required_monthly_test">Тест обавештење</string>
+</resources>

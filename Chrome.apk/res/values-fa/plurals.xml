@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">%d فایل صوتی</item>
+        <item quantity="one">%d فایل صوتی</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d فایل</item>
+        <item quantity="one">%d فایل</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d تصویر</item>
+        <item quantity="one">%d تصویر</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d صفحه</item>
+        <item quantity="one">%d صفحه</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">%d ویدیو</item>
+        <item quantity="one">%d ویدیو</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">حذف %d مورد انتخاب‌شده</item>
+        <item quantity="one">حذف ۱ مورد انتخاب‌شده</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">اشتراک‌گذاری %d مورد انتخاب‌شده</item>
+        <item quantity="one">اشتراک‌گذاری ۱ مورد انتخاب‌شده</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">%1$d برگه باز، برای جستجوی برگه ضربه بزنید</item>
+        <item quantity="one">%1$d برگه باز، برای جستجوی برگه ضربه بزنید</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">%1$d نشانک</item>
+        <item quantity="one">%1$d نشانک</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d برگه</item>
+        <item quantity="one">%1$d برگه</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (+ %d مورد دیگر)"</item>
+        <item quantity="one">" (+ ۱ مورد دیگر)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">درحال بارگیری %d فایل.</item>
+        <item quantity="one">درحال بارگیری فایل.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d ساعت</item>
+        <item quantity="one">%d ساعت</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">%1$d فایل بارگیری شد</item>
+        <item quantity="one">%1$d فایل بارگیری شد</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">%d بارگیری کامل شد.</item>
+        <item quantity="one">۱ بارگیری کامل شد.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">%d بارگیری انجام نشد.</item>
+        <item quantity="one">۱ بارگیری انجام نشد.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">%d بارگیری در انتظار است.</item>
+        <item quantity="one">۱ بارگیری در انتظار است.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">"%d  روز قبل"</item>
+        <item quantity="one">۱ روز قبل</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">%d ساعت قبل</item>
+        <item quantity="one">۱ ساعت قبل</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">%d دقیقه قبل</item>
+        <item quantity="one">%d دقیقه قبل</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">‏وقتی آماده شدید، Chrome صفحه‌ها را بار می‌کند</item>
+        <item quantity="one">‏وقتی آماده شدید، Chrome صفحه را بار می‌کند</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">‏%1$s… و %2$s گزینه تماس دیگر</item>
+        <item quantity="one">‏%1$s… و %2$s گزینه تماس دیگر</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">‏%1$s… و %2$s روش پرداخت دیگر</item>
+        <item quantity="one">‏%1$s… و %2$s روش پرداخت دیگر</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">‏%1$s… و %2$s نشانی دیگر</item>
+        <item quantity="one">‏%1$s… و %2$s نشانی دیگر</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">‏%1$s… و %2$s گزینه دیگر</item>
+        <item quantity="one">‏%1$s… و %2$s گزینه دیگر</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">%d مورد انتخاب شد</item>
+        <item quantity="one">۱ مورد انتخاب شد</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">سطح قدرت سیگنال: %d نوار</item>
+        <item quantity="one">سطح قدرت سیگنال: %d نوار</item>
+    </plurals>
+</resources>

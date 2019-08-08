@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Արտակարգ իրավիճակի զգուշացում՝ փորձնական ահազանգ</string>
+    <string name="cmas_required_monthly_test">Արտակարգ իրավիճակի զգուշացում՝ փորձնական ահազանգ</string>
+    <string name="enable_public_safety_messages_title">Տեղեկատվական ծանուցում</string>
+    <string name="public_safety_message">Տեղեկատվական ծանուցում</string>
+</resources>

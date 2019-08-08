@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">Dodaj alarm</string>
+    <string name="add_notification_text">Dodaj powiadomienie</string>
+    <string name="add_ringtone_text">Dodaj dzwonek</string>
+    <string name="alarm_sound_default">Domyślny dźwięk alarmu</string>
+    <string name="app_label">Przechowywanie multimediów</string>
+    <string name="artist_label">Wykonawca</string>
+    <string name="delete_ringtone_text">Usuń</string>
+    <string name="grant_dialog_button_allow">Zezwól</string>
+    <string name="grant_dialog_button_deny">Odmów</string>
+    <string name="notification_sound_default">Domyślny dźwięk powiadomienia</string>
+    <string name="permission_audio">Zezwolić aplikacji <b>^1</b> na zmodyfikowanie lub usunięcie tej muzyki?</string>
+    <string name="permission_images">Zezwolić aplikacji <b>^1</b> na zmodyfikowanie lub usunięcie tego obrazu?</string>
+    <string name="permission_required">Modyfikowanie i usuwanie tego elementu wymaga uprawnień.</string>
+    <string name="permission_required_action">Dalej</string>
+    <string name="permission_video">Zezwolić aplikacji <b>^1</b> na zmodyfikowanie lub usunięcie tego filmu?</string>
+    <string name="ringtone_default">Dzwonek domyślny</string>
+    <string name="root_audio">Dźwięk</string>
+    <string name="root_images">Grafika</string>
+    <string name="root_videos">Filmy</string>
+    <string name="sound_name_awaken">Przebudzenie</string>
+    <string name="sound_name_bounce">Odbicie</string>
+    <string name="sound_name_drip">Kapanie</string>
+    <string name="sound_name_gallop">Galop</string>
+    <string name="sound_name_nudge">Trącenie</string>
+    <string name="sound_name_orbit">Orbita</string>
+    <string name="sound_name_rise">Wschód</string>
+    <string name="sound_name_sway">Kołysanie</string>
+    <string name="sound_name_wag">Machanie</string>
+    <string name="storage_description">Pamięć lokalna</string>
+    <string name="uid_label">Multimedia</string>
+    <string name="unable_to_add_ringtone">Nie można dodać dzwonka niestandardowego</string>
+    <string name="unable_to_delete_ringtone">Nie można usunąć dzwonka niestandardowego</string>
+</resources>

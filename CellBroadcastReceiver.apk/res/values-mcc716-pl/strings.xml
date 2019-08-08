@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Alert o zagrożeniu: komunikat o ćwiczeniach/symulacji</string>
+    <string name="cmas_required_monthly_test">Alert o zagrożeniu: wiadomość testowa</string>
+    <string name="enable_public_safety_messages_title">Wiadomość informacyjna</string>
+    <string name="public_safety_message">Wiadomość informacyjna</string>
+</resources>

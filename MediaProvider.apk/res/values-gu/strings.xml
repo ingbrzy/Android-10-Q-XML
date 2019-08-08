@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">અલાર્મ ઉમેરો</string>
+    <string name="add_notification_text">નોટિફિકેશન ઉમેરો</string>
+    <string name="add_ringtone_text">રિંગટોન ઉમેરો</string>
+    <string name="alarm_sound_default">ડિફૉલ્ટ એલાર્મ સાઉન્ડ</string>
+    <string name="app_label">મીડિયા સ્ટોરેજ</string>
+    <string name="artist_label">કલાકાર</string>
+    <string name="delete_ringtone_text">ડિલીટ કરો</string>
+    <string name="grant_dialog_button_allow">મંજૂરી આપો</string>
+    <string name="grant_dialog_button_deny">નકારો</string>
+    <string name="notification_sound_default">નોટિફિકેશન માટે ડિફૉલ્ટ ધ્વનિ</string>
+    <string name="permission_audio"><b>^1</b>ને મ્યુઝિક ડિલીટ કરવાની કે તેમાં ફેરફાર કરવાની મંજૂરી આપીએ?</string>
+    <string name="permission_images"><b>^1</b>ને આ છબીમાં ફેરફાર કરવાની કે તેને ડિલીટ કરવાની મંજૂરી આપીએ?</string>
+    <string name="permission_required">આ આઇટમમાં ફેરફાર કરવા માટે અથવા તેને ડિલીટ કરવા માટે પરવાનગી હોવી જરૂરી છે.</string>
+    <string name="permission_required_action">આગળ વધો</string>
+    <string name="permission_video"><b>^1</b>ને આ વીડિયોમાં ફેરફાર કરવાની કે તેને ડિલીટ કરવાની મંજૂરી આપીએ?</string>
+    <string name="ringtone_default">ડિફોલ્ટ રિંગટોન</string>
+    <string name="root_audio">ઑડિઓ</string>
+    <string name="root_images">છબીઓ</string>
+    <string name="root_videos">વિડિઓઝ</string>
+    <string name="sound_name_awaken">જાગૃત</string>
+    <string name="sound_name_bounce">બાઉન્સ</string>
+    <string name="sound_name_drip">ટીપાં</string>
+    <string name="sound_name_gallop">ગૅલપ</string>
+    <string name="sound_name_nudge">Nudge</string>
+    <string name="sound_name_orbit">Orbit</string>
+    <string name="sound_name_rise">Rise</string>
+    <string name="sound_name_sway">Sway</string>
+    <string name="sound_name_wag">Wag</string>
+    <string name="storage_description">સ્થાનિક સ્ટોરેજ</string>
+    <string name="uid_label">મીડિયા</string>
+    <string name="unable_to_add_ringtone">કસ્ટમ રિંગટોન ઉમેરવામાં અસમર્થ</string>
+    <string name="unable_to_delete_ringtone">કસ્ટમ રિંગટોન કાઢી નાખવામાં અસમર્થ</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">הוספת התראה</string>
+    <string name="add_notification_text">הוספת התראה</string>
+    <string name="add_ringtone_text">רינגטון חדש</string>
+    <string name="alarm_sound_default">צליל לשעון מעורר</string>
+    <string name="app_label">אחסון מדיה</string>
+    <string name="artist_label">אמן</string>
+    <string name="delete_ringtone_text">מחיקה</string>
+    <string name="grant_dialog_button_allow">כן, זה בסדר</string>
+    <string name="grant_dialog_button_deny">אני לא מרשה</string>
+    <string name="notification_sound_default">צליל ברירת המחדל להתראות</string>
+    <string name="permission_audio">האם לאפשר לאפליקציה <b>^1</b> לשנות או למחוק את המוזיקה הזו?</string>
+    <string name="permission_images">האם לאפשר לאפליקציה <b>^1</b> לשנות או למחוק את התמונה הזו?</string>
+    <string name="permission_required">נדרשת הרשאה כדי לשנות או למחוק פריט זה.</string>
+    <string name="permission_required_action">המשך</string>
+    <string name="permission_video">האם לאפשר לאפליקציה <b>^1</b> לשנות או למחוק את הסרטון הזה?</string>
+    <string name="ringtone_default">רינגטון ברירת מחדל</string>
+    <string name="root_audio">אודיו</string>
+    <string name="root_images">תמונות</string>
+    <string name="root_videos">סרטונים</string>
+    <string name="sound_name_awaken">מעורר</string>
+    <string name="sound_name_bounce">קופצני</string>
+    <string name="sound_name_drip">טפטוף</string>
+    <string name="sound_name_gallop">דהרה</string>
+    <string name="sound_name_nudge">נדנוד</string>
+    <string name="sound_name_orbit">מסלול</string>
+    <string name="sound_name_rise">עלייה</string>
+    <string name="sound_name_sway">התנודדות</string>
+    <string name="sound_name_wag">כשכוש</string>
+    <string name="storage_description">אחסון מקומי</string>
+    <string name="uid_label">מדיה</string>
+    <string name="unable_to_add_ringtone">לא ניתן להוסיף רינגטון מותאם אישית</string>
+    <string name="unable_to_delete_ringtone">לא ניתן למחוק רינגטון מותאם אישית</string>
+</resources>

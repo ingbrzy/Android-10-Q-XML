@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d lagi</item>
+        <item quantity="one">%1$d lagi</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s hari</item>
+        <item quantity="one">1 hari</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s jam</item>
+        <item quantity="one">1 jam</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minit</item>
+        <item quantity="one">1 minit</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s apl</item>
+        <item quantity="one">1 apl</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s apl</item>
+        <item quantity="one">1 apl</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+</resources>

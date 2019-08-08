@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">ქსელში შესვლა</string>
+    <string name="action_bar_title">%1$s-ში შესვლა</string>
+    <string name="action_do_not_use_network">ეს ქსელი არ გამოიყენო</string>
+    <string name="action_use_network">ამ ქსელის გამოყენება, როგორც არის</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ok">კარგი</string>
+    <string name="page_info">გვერდის ინფორმაცია</string>
+    <string name="page_info_address">მისამართი:</string>
+    <string name="ssl_error_continue">ბრაუზერში გაგრძელება</string>
+    <string name="ssl_error_date_invalid">ამ სერტიფიკატში მითითებულია არასწორი თარიღი.</string>
+    <string name="ssl_error_example">მაგალითად, სისტემაში შესვლის გვერდი შეიძლება არ ეკუთვნოდეს ნაჩვენებ ორგანიზაციას.</string>
+    <string name="ssl_error_expired">ეს სერტიფიკატი ვადაგასულია.</string>
+    <string name="ssl_error_invalid">ეს სერტიფიკატი არასწორია.</string>
+    <string name="ssl_error_mismatch">საიტის სახელი არ ემთხვევა სერტიფიკატში მითითებულს.</string>
+    <string name="ssl_error_not_yet_valid">ეს სერტიფიკატი ჯერ არ არის ძალაში.</string>
+    <string name="ssl_error_unknown">წარმოიშვა სერტიფიკატთან დაკავშირებული უცნობი შეცდომა.</string>
+    <string name="ssl_error_untrusted">ეს სერტიფიკატი არ არის გაცემული ნდობით აღჭურვილი ორგანოს მიერ.</string>
+    <string name="ssl_error_view_certificate">სერტიფიკატის ნახვა</string>
+    <string name="ssl_error_warning">ქსელს, რომელზედაც მიერთებას ცდილობთ, უსაფრთხოების პრობლემები აქვს.</string>
+    <string name="ssl_security_warning_title">გაფრთხილება უსაფრთხოების შესახებ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

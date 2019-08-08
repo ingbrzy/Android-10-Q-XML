@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_number_subtitle">
+        <item quantity="other">%1$dଟି ନମ୍ବର ଏହି ଡିଭାଇସ୍ ସହ ଯୋଗ କରାଯାଇଛି, କିନ୍ତୁ ଏକ ସମୟରେ କେବଳ 1କୁ ବ୍ୟବହାର କରିପାରିବେ</item>
+        <item quantity="one">%1$dଟି ନମ୍ବର ଏହି ଡିଭାଇସ୍ ସହ ଯୋଗ କରାଯାଇଛି, କିନ୍ତୁ ଏକ ସମୟରେ କେବଳ 1କୁ ବ୍ୟବହାର କରିପାରିବେ</item>
+    </plurals>
+    <plurals name="download_sub_multi_carriers_text">
+        <item quantity="other">ଆମେ %1$s ଏବଂ %3$d ଅନ୍ୟ ବାହକଙ୍କ ଠାରୁ &lt;b>%2$d ନମ୍ବର୍‍&lt;/b> ପାଉଛୁ। ଏହା କିଛି ସମୟ ଲାଗିପାରେ।</item>
+        <item quantity="one">ଆମେ %1$s ଏବଂ 1 ଅନ୍ୟ ବାହକଙ୍କ ଠାରୁ &lt;b>%2$d ନମ୍ବର୍‍&lt;/b> ପାଉଛୁ। ଏହା କିଛି ସମୟ ଲାଗିପାରେ।</item>
+    </plurals>
+    <plurals name="download_sub_text">
+        <item quantity="other">ଆମେ %1$sଙ୍କ ଠାରୁ &lt;b>%2$d ନମ୍ବର୍‍&lt;/b> ପାଉଛି। ଏହା କିଛି ସମୟ ଲାଗିପାରେ।</item>
+        <item quantity="one">ଆମେ %1$sଙ୍କ ଠାରୁ ଆପଣଙ୍କ ନମ୍ବର୍‍ ପାଉଛୁ। ଏହା କିଛି ସମୟ ଲାଗିପାରେ।</item>
+    </plurals>
+    <plurals name="download_sub_title">
+        <item quantity="other">ଆପଣଙ୍କ ନମ୍ବର୍ ଯୋଗ କରାଯାଉଛି…</item>
+        <item quantity="one">ଆପଣଙ୍କ ନମ୍ବର୍ ଯୋଗ କରାଯାଉଛି…</item>
+    </plurals>
+    <plurals name="error_screen_title">
+        <item quantity="other">ନେଟ୍‍ୱର୍କ ସକ୍ରିୟ କରାଯାଇନାହିଁ</item>
+        <item quantity="one">%1$s ସକ୍ରିୟ କରାଯାଇନାହିଁ</item>
+    </plurals>
+    <plurals name="insufficient_memory_subtitle">
+        <item quantity="other">&lt;b>%d ନୂଆ ନମ୍ବର୍‍&lt;/b> ଆପଣଙ୍କ ଫୋନ୍‍କୁ ଯୋଗ କରିବାକୁ ପ୍ରସ୍ତୁତ। ଏହାକୁ ଦେଖିବାକୁ, ଆପଣଙ୍କୁ ଆପଣଙ୍କ ବର୍ତ୍ତମାନର ନମ୍ବର୍‍ଗୁଡିକରୁ ଏକକୁ ଡିଲିଟ୍‍ କରିବାକୁ ହେବ।</item>
+        <item quantity="one">&lt;b>%d ନୂଆ ନମ୍ବର୍‍&lt;/b> ଆପଣଙ୍କ ଫୋନ୍‍କୁ ଯୋଗ କରିବାକୁ ପ୍ରସ୍ତୁତ। ଏହାକୁ ଦେଖିବାକୁ, ଆପଣଙ୍କୁ ଆପଣଙ୍କ ବର୍ତ୍ତମାନର ନମ୍ବର୍‍ଗୁଡିକରୁ ଏକକୁ ଡିଲିଟ୍‍ କରିବାକୁ ହେବ।</item>
+    </plurals>
+    <plurals name="insufficient_space_description_q">
+        <item quantity="other">ଆପଣଙ୍କର ନମ୍ବରଗୁଡ଼ିକ ବ୍ୟବହାର କରିବାକୁ, ପ୍ରଥମେ ଆପଣଙ୍କୁ ଏହି ଡିଭାଇସ୍‌ରେ ଥିବା ନମ୍ବର୍‌ଗୁଡ଼ିକୁ ଡିଲିଟ୍ କରି ସ୍ଥାନ ଖାଲି କରିବାକୁ ହେବ। ଆପଣ ପରେ ସେଟିଂସ୍‍‍କୁ ଯାଇ ଏହା କରିପାରିବେ।</item>
+        <item quantity="one">ଆପଣଙ୍କର ନମ୍ବର ବ୍ୟବହାର କରିବା ପାଇଁ, ପ୍ରଥମେ ଆପଣଙ୍କୁ ଏହି ଡିଭାଇସ୍‌ରେ ଥିବା ନମ୍ବର୍‌ଗୁଡ଼ିକୁ ଡିଲିଟ୍ କରି ସ୍ଥାନ ଖାଲି କରିବାକୁ ହେବ। ଆପଣ ପରେ ସେଟିଂସ୍‍‍କୁ ଯାଇ ଏହା କରିପାରିବେ।</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_number_count">
+        <item quantity="other">%dଟି ନମ୍ବର୍‍</item>
+        <item quantity="one">%d ନମ୍ବର୍‍</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_subtitle">
+        <item quantity="other">ଆପଣଙ୍କ ବାହାକର &lt;b>%d ଫୋନ୍‌ ନମ୍ବର୍‌ &lt;/b> ଯୋଗ କରିବାକୁ ପ୍ରସ୍ତୁତ ଅଟେ</item>
+        <item quantity="one">ଆପଣଙ୍କ ବାହାକର &lt;b>%d ଫୋନ୍‌ ନମ୍ବର୍‌ &lt;/b> ଯୋଗ କରିବାକୁ ପ୍ରସ୍ତୁତ ଅଟେ</item>
+    </plurals>
+    <plurals name="notification_carrier_unknown">
+        <item quantity="other">ଆପଣଙ୍କ %d ଅତିରିକ୍ତ ନମ୍ବର୍‍ ଯୋଗ କରିବାକୁ ପ୍ରସ୍ତୁତ ଅଟେ</item>
+        <item quantity="one">ଆପଣଙ୍କ %d ଅତିରିକ୍ତ ନମ୍ବର୍‍ ଯୋଗ କରିବାକୁ ପ୍ରସ୍ତୁତ ଅଟେ</item>
+    </plurals>
+    <plurals name="notification_multiple_carrier_name_known">
+        <item quantity="other">ଆପଣଙ୍କ %1$s ନମ୍ବର୍‍ ଏବଂ %2$d ଅଧିକ ଯୋଗ କରିବାକୁ ପ୍ରସ୍ତୁତ ଅଟେ</item>
+        <item quantity="one">ଆପଣଙ୍କ %1$s ନମ୍ବର୍‍ ଏବଂ %2$d ଅଧିକ ଯୋଗ କରିବାକୁ ପ୍ରସ୍ତୁତ ଅଟେ</item>
+    </plurals>
+    <plurals name="notification_single_carrier_name_known">
+        <item quantity="other">ଆପଣଙ୍କ %1$s ନମ୍ବର୍‍ ଯୋଗ କରିବାକୁ ପ୍ରସ୍ତୁତ ଅଟେ</item>
+        <item quantity="one">ଆପଣଙ୍କ %1$s ନମ୍ବର୍‍ ଯୋଗ କରିବାକୁ ପ୍ରସ୍ତୁତ ଅଟେ</item>
+    </plurals>
+    <plurals name="perm_error_description">
+        <item quantity="other">ସେବା ସକ୍ରିୟକରିବାକୁ ଚେଷ୍ଟା କରିବା ବେଳେ କିଛି ଭୁଲ୍ ହୋଇଛି। ଦୟାକରି ସାହାଯ୍ୟ ପାଇଁ ଆପଣଙ୍କର ନେଟ୍‍ୱର୍କ ପ୍ରଦାନକାରୀଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।</item>
+        <item quantity="one">ସେବା ସକ୍ରିୟକରିବାକୁ ଚେଷ୍ଟା କରିବା ବେଳେ କିଛି ଭୁଲ୍ ହୋଇଛି। ସାହାଯ୍ୟ ପାଇଁ ଦୟାକରି %1$s ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।</item>
+    </plurals>
+    <plurals name="perm_error_description_q">
+        <item quantity="other">ଆପଣଙ୍କର ନମ୍ବରଗୁଡ଼ିକ ସକ୍ରିୟ କରିବାକୁ ଚେଷ୍ଟା କରିବା ସମୟରେ କିଛି ଭୁଲ ହୋଇଛି। %2$sରେ ସାହାଯ୍ୟ ପାଇଁ %1$s ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।</item>
+        <item quantity="one">ଆପଣଙ୍କର ନମ୍ବର ସକ୍ରିୟ କରିବାକୁ ଚେଷ୍ଟା କରିବା ସମୟରେ କିଛି ଭୁଲ ହୋଇଛି। %2$sରେ ସାହାଯ୍ୟ ପାଇଁ %1$s ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone">
+        <item quantity="other">ଆପଣଙ୍କର ନମ୍ବରଗୁଡ଼ିକ ସକ୍ରିୟ କରିବାକୁ ଚେଷ୍ଟା କରିବା ସମୟରେ କିଛି ଭୁଲ ହୋଇଛି। ସାହାଯ୍ୟ ପାଇଁ ଦୟାକରି %1$s ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।</item>
+        <item quantity="one">ଆପଣଙ୍କର ନମ୍ବର ସକ୍ରିୟ କରିବାକୁ ଚେଷ୍ଟା କରିବା ସମୟରେ କିଛି ଭୁଲ ହୋଇଛି। ସାହାଯ୍ୟ ପାଇଁ ଦୟାକରି %1$s ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone_no_carrier_name">
+        <item quantity="other">ଆପଣଙ୍କର ନମ୍ବରଗୁଡ଼ିକ ସକ୍ରିୟ କରିବାକୁ ଚେଷ୍ଟା କରିବା ସମୟରେ କିଛି ଭୁଲ ହୋଇଛି। ଦୟାକରି ସାହାଯ୍ୟ ପାଇଁ ଆପଣଙ୍କର ନେଟ୍‍ୱର୍କ ପ୍ରଦାନକାରୀଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।</item>
+        <item quantity="one">ଆପଣଙ୍କର ନମ୍ବର ସକ୍ରିୟ କରିବାକୁ ଚେଷ୍ଟା କରିବା ସମୟରେ କିଛି ଭୁଲ ହୋଇଛି। ଦୟାକରି ସାହାଯ୍ୟ ପାଇଁ ଆପଣଙ୍କର ନେଟ୍‍ୱର୍କ ପ୍ରଦାନକାରୀଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_confirm_subtitle">
+        <item quantity="other">ଏହି ଡିଭାଇସ୍ ପାଇଁ %dଟି ନମ୍ବର୍ ଉପଲବ୍ଧ ଅଛି</item>
+        <item quantity="one">ଏହି ଡିଭାଇସ୍ ପାଇଁ %dଟି ନମ୍ବର୍ ଉପଲବ୍ଧ ଅଛି</item>
+    </plurals>
+    <plurals name="q_result_download_text">
+        <item quantity="other">ଏହି ଡିଭାଇସ୍ ପାଇଁ %2$dଟି %1$s ନମ୍ବର ଉପଲବ୍ଧ ଅଛି</item>
+        <item quantity="one">ଏହି ଡିଭାଇସ୍ ପାଇଁ 1 %1$s ନମ୍ବର ଉପଲବ୍ଧ ଅଛି</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_multi_carriers">
+        <item quantity="other">ଦୁଃର୍ଭାଗ୍ୟବସତଃ, %1$s ଏବଂ %2$d ଅନ୍ୟ ବାହାକରେ ଆପଣଙ୍କ ନମ୍ବର୍‍ ଯୋଗ କରିପାରିଲୁ ନାହିଁ।</item>
+        <item quantity="one">ଦୁଃର୍ଭାଗ୍ୟବସତଃ, %1$s ଏବଂ %2$d ଅନ୍ୟ ବାହାକରେ ଆପଣଙ୍କ ନମ୍ବର୍‍ ଯୋଗ କରିପାରିଲୁ ନାହିଁ।</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_no_carrier">
+        <item quantity="other">ଦୁଃର୍ଭାଗ୍ୟ ବସତଃ, ଆମେ ଆପଣଙ୍କ ବାହକ ଠାରୁ ଆପଣଙ୍କ ନମ୍ବର୍‍‍କୁ ଯୋଗ କରିପାରିଲୁ ନାହିଁ।</item>
+        <item quantity="one">ଦୁଃର୍ଭାଗ୍ୟ ବସତଃ, ଆମେ ଆପଣଙ୍କ ବାହକ ଠାରୁ &lt;b>1 ନମ୍ବର୍‍&lt;/b>କୁ ଯୋଗ କରିପାରିଲୁ ନାହିଁ।</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_single_carrier">
+        <item quantity="other">ଦୁଃର୍ଭାଗ୍ୟ ବସତଃ, ଆମେ %1$s ଠାରୁ &lt;b>%2$d ନମ୍ବର୍‍&lt;/b> ଯୋଗ କରିପାରିଲୁ ନାହିଁ।</item>
+        <item quantity="one">ଦୁଃର୍ଭାଗ୍ୟ ବସତଃ, ଆମେ %1$s ଠାରୁ &lt;b>%2$d ନମ୍ବର୍‍&lt;/b> ଯୋଗ କରିପାରିଲୁ ନାହିଁ।</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_multi_carriers">
+        <item quantity="other">%1$s ଏବଂ %2$d ଅନ୍ୟ ବାହାକ ଠାରୁ ଆପଣଙ୍କ ନମ୍ବର୍‍ ଯୋଗ କରିବାକୁ ପର୍ଯ୍ୟାପ୍ତ ଖାଲିସ୍ଥାନ ନାହିଁ।</item>
+        <item quantity="one">%1$s ଏବଂ %2$d ଅନ୍ୟ ବାହାକ ଠାରୁ ଆପଣଙ୍କ ନମ୍ବର୍‍ ଯୋଗ କରିବାକୁ ପର୍ଯ୍ୟାପ୍ତ ଖାଲିସ୍ଥାନ ନାହିଁ।</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_no_carrier">
+        <item quantity="other">ଆପଣଙ୍କ ଯେକୌଣସି ବାହକ ଠାରୁ ଆପଣଙ୍କ ନମ୍ବର୍‍ ଯୋଗ କରିବାକୁ ପର୍ଯ୍ୟାପ୍ତ ଖାଲିସ୍ଥାନ ନାହିଁ।</item>
+        <item quantity="one">&lt;b>1 ନମ୍ବର୍‍&lt;/b> ଯୋଗ କରିବାକୁ ପର୍ଯ୍ୟାପ୍ତ ଖାଲିସ୍ଥାନ ନାହିଁ।</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_single_carrier">
+        <item quantity="other">%1$s ଠାରୁ &lt;b>%2$d ନମ୍ବର୍‍&lt;/b> ଯୋଗ କରିବାକୁ ପର୍ଯ୍ୟାପ୍ତ ଖାଲିସ୍ଥାନ ନାହିଁ।</item>
+        <item quantity="one">%1$s ଠାରୁ &lt;b>%2$d ନମ୍ବର୍‍&lt;/b> ଯୋଗ କରିବାକୁ ପର୍ଯ୍ୟାପ୍ତ ଖାଲିସ୍ଥାନ ନାହିଁ।</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_multiple_carriers">
+        <item quantity="other">%2$s, %3$s ଏବଂ %4$d ଠାରୁ &lt;b>%1$d ନମ୍ବର୍‍&lt;/b> ଯୋଗ କରିବାକୁ ପର୍ଯ୍ୟାପ୍ତ ଖାଲିସ୍ଥାନ ନାହିଁ।</item>
+        <item quantity="one">%2$s ଏବଂ %3$s ଠାରୁ &lt;b>%1$d ନମ୍ବର୍‍&lt;/b> ଯୋଗ କରିବାକୁ ପର୍ଯ୍ୟାପ୍ତ ଖାଲିସ୍ଥାନ ନାହିଁ।</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_single_carrier">
+        <item quantity="other">ଆପଣ %2$s ଠାରୁ &lt;b>%1$d ନମ୍ବର୍‍&lt;/b> ଯୋଗ କରିଛନ୍ତି</item>
+        <item quantity="one">ଆପଣ %2$s ଠାରୁ &lt;b>%1$d ନମ୍ବର୍‍&lt;/b> ଯୋଗ କରିଛନ୍ତି</item>
+    </plurals>
+    <plurals name="res_continue_title_all_success">
+        <item quantity="other">%1$d ନମ୍ବର୍‍ ଯୋଗ ହୋଇଛି</item>
+        <item quantity="one">ଫୋନ୍‍ ନମ୍ବର୍‍ ଯୋଗ ହୋଇଛି</item>
+    </plurals>
+    <plurals name="result_download_text">
+        <item quantity="other">%1$s ଠାରୁ &lt;b>%2$d ନମ୍ବର୍‍&lt;/b> ଏହି ଫୋନ୍‍କୁ ଯୋଗ କରିବାକୁ ପ୍ରସ୍ତୁତ</item>
+        <item quantity="one">ଆପଣଙ୍କ %1$s ନମ୍ବର୍‍ ଆପଣଙ୍କ ଫୋନ୍‍ ନମ୍ବର୍‍ ସହ ଯୋଗ ହେବାକୁ ପ୍ରସ୍ତୁତ</item>
+    </plurals>
+    <plurals name="temp_error_description_q">
+        <item quantity="other">ଆପଣଙ୍କର ନମ୍ବରଗୁଡ଼ିକ ସକ୍ରିୟ କରିବାକୁ ଚେଷ୍ଟା କରିବା ସମୟରେ କିଛି ଭୁଲ ହୋଇଛି। ଆପଣ ପରେ ସେଟିଂସ୍‌ରେ ଚେଷ୍ଟା କରି ପାରିବେ।</item>
+        <item quantity="one">ଆପଣଙ୍କର ନମ୍ବର ସକ୍ରିୟ କରିବାକୁ ଚେଷ୍ଟା କରିବା ସମୟରେ କିଛି ଭୁଲ ହୋଇଛି। ଆପଣ ପରେ ସେଟିଂସ୍‌ରେ ଚେଷ୍ଟା କରି ପାରିବେ।</item>
+    </plurals>
+</resources>

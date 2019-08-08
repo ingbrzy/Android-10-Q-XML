@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">Magdagdag ng alarm</string>
+    <string name="add_notification_text">Magdagdag ng notification</string>
+    <string name="add_ringtone_text">Magdagdag ng ringtone</string>
+    <string name="alarm_sound_default">Default na tunog ng alarm</string>
+    <string name="app_label">Storage ng Media</string>
+    <string name="artist_label">Artist</string>
+    <string name="delete_ringtone_text">I-delete</string>
+    <string name="grant_dialog_button_allow">Payagan</string>
+    <string name="grant_dialog_button_deny">Tanggihan</string>
+    <string name="notification_sound_default">Default na tunog ng notification</string>
+    <string name="permission_audio">Payagan ang <b>^1</b> na baguhin o i-delete ang musikang ito?</string>
+    <string name="permission_images">Payagan ang <b>^1</b> na baguhin o i-delete ang larawang ito?</string>
+    <string name="permission_required">Kailangan ng pahintulot para mabago o ma-delete ang item na ito.</string>
+    <string name="permission_required_action">Magpatuloy</string>
+    <string name="permission_video">Payagan ang <b>^1</b> na baguhin o i-delete ang video na ito?</string>
+    <string name="ringtone_default">Default na ringtone</string>
+    <string name="root_audio">Audio</string>
+    <string name="root_images">Mga Larawan</string>
+    <string name="root_videos">Mga Video</string>
+    <string name="sound_name_awaken">Awaken</string>
+    <string name="sound_name_bounce">Bounce</string>
+    <string name="sound_name_drip">Drip</string>
+    <string name="sound_name_gallop">Gallop</string>
+    <string name="sound_name_nudge">Nudge</string>
+    <string name="sound_name_orbit">Orbit</string>
+    <string name="sound_name_rise">Rise</string>
+    <string name="sound_name_sway">Sway</string>
+    <string name="sound_name_wag">Wag</string>
+    <string name="storage_description">Lokal na storage</string>
+    <string name="uid_label">Media</string>
+    <string name="unable_to_add_ringtone">Hindi maidagdag ang custom na ringtone</string>
+    <string name="unable_to_delete_ringtone">Hindi ma-delete ang custom na ringtone</string>
+</resources>

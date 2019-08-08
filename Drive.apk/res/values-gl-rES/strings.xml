@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessbility_suggestion_dropdown_closed">Non hai suxestións dispoñibles</string>
+    <string name="accessbility_suggestion_dropdown_opened">Suxestións de contactos abertas</string>
+    <string name="account_item">Cambiar a %1$s</string>
+    <string name="account_list">Lista de contas</string>
+    <string name="action_label">Volver</string>
+    <string name="add_account">Engadir conta</string>
+    <string name="chips_action_cancel">Cancelar</string>
+    <string name="chips_action_copy">Copiar</string>
+    <string name="chips_permission_text">Permitir suxestións de contactos</string>
+    <string name="dropdown_delete_button_desc">Eliminar %s dos destinatarios</string>
+    <string name="hide_account_list">Ocultar contas</string>
+    <string name="manage_accounts">Xestionar contas</string>
+    <string name="more_string">+%1$d</string>
+    <string name="selected_account">Sesión iniciada en %1$s</string>
+    <string name="show_account_list">Mostrar contas</string>
+    <string name="sign_in">Iniciar sesión</string>
+</resources>

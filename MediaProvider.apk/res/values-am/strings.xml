@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">የማንቂያ ደውል አክል</string>
+    <string name="add_notification_text">ማሳወቂያን አክል</string>
+    <string name="add_ringtone_text">የጥሪ ቅላጼ አክል</string>
+    <string name="alarm_sound_default">ነባሪ የማንቂያ ድምፅ</string>
+    <string name="app_label">ማህደረ መረጃ ማከማቻ</string>
+    <string name="artist_label">አርቲስት</string>
+    <string name="delete_ringtone_text">ሰርዝ</string>
+    <string name="grant_dialog_button_allow">ፍቀድ</string>
+    <string name="grant_dialog_button_deny">ከልክል</string>
+    <string name="notification_sound_default">ነባሪ የማሳወቂያ ድምጽ</string>
+    <string name="permission_audio"><b>^1</b> ይህን ሙዚቃ እንዲቀይር ወይም እንዲሰርዝ ይፈቀድለት?</string>
+    <string name="permission_images"><b>^1</b> ይህን ምስል እንዲቀይር ወይም እንዲሰርዝ ይፈቀድለት?</string>
+    <string name="permission_required">ይህን ንጥል ለማሻሻል ወይም ለመሰረዝ ፈቃድ ያስፈልጋል።</string>
+    <string name="permission_required_action">ቀጥል</string>
+    <string name="permission_video"><b>^1</b> ይህን ቪዲዮ እንዲቀይሩ ወይም እንዲሰርዙ ይፈቀድለት?</string>
+    <string name="ringtone_default">ነባሪ የደወል ቅላጼ</string>
+    <string name="root_audio">ኦዲዮ</string>
+    <string name="root_images">ምስሎች</string>
+    <string name="root_videos">ቪዲዮዎች</string>
+    <string name="sound_name_awaken">ንቃ</string>
+    <string name="sound_name_bounce">አንጥር</string>
+    <string name="sound_name_drip">አንጠባጥብ</string>
+    <string name="sound_name_gallop">ጋልብ</string>
+    <string name="sound_name_nudge">ገፋ አድርግ</string>
+    <string name="sound_name_orbit">ምሕዋር</string>
+    <string name="sound_name_rise">ተነሳ</string>
+    <string name="sound_name_sway">ተወዛወዝ</string>
+    <string name="sound_name_wag">አወዛውዝ</string>
+    <string name="storage_description">አካባቢያዊ ማከማቻ</string>
+    <string name="uid_label">ማህደረመረጃ</string>
+    <string name="unable_to_add_ringtone">ብጁ የጥሪ ቅላጼን ማከል አልተቻለም</string>
+    <string name="unable_to_delete_ringtone">ብጁ የጥሪ ቅላጼን መሰረዝ አልተቻለም</string>
+</resources>

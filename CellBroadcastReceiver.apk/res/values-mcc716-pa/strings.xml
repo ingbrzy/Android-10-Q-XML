@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ਸੰਕਟਕਾਲੀਨ ਚਿਤਾਵਨੀ: ਕਸਰਤ ਜਾਂ ਸਿਮੂਲੇਸ਼ਨ ਸੁਨੇਹਾ</string>
+    <string name="cmas_required_monthly_test">ਸੰਕਟਕਾਲੀਨ ਚਿਤਾਵਨੀ: ਟੈਸਟ ਸੁਨੇਹਾ</string>
+    <string name="enable_public_safety_messages_title">ਜਾਣਕਾਰੀ ਭਰਪੂਰ ਸੁਨੇਹਾ</string>
+    <string name="public_safety_message">ਜਾਣਕਾਰੀ ਭਰਪੂਰ ਸੁਨੇਹਾ</string>
+</resources>

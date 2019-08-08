@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">%d garso įrašo failų</item>
+        <item quantity="one">%d garso įrašo failas</item>
+        <item quantity="few">%d garso įrašo failai</item>
+        <item quantity="many">%d garso įrašo failo</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d failų</item>
+        <item quantity="one">%d failas</item>
+        <item quantity="few">%d failai</item>
+        <item quantity="many">%d failo</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d vaizdų</item>
+        <item quantity="one">%d vaizdas</item>
+        <item quantity="few">%d vaizdai</item>
+        <item quantity="many">%d vaizdo</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d puslapių</item>
+        <item quantity="one">%d puslapis</item>
+        <item quantity="few">%d puslapiai</item>
+        <item quantity="many">%d puslapio</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">%d vaizdo įrašų</item>
+        <item quantity="one">%d vaizdo įrašas</item>
+        <item quantity="few">%d vaizdo įrašai</item>
+        <item quantity="many">%d vaizdo įrašo</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">Pašalinti %d pasirinktų elementų</item>
+        <item quantity="one">Pašalinti 1 pasirinktą elementą</item>
+        <item quantity="few">Pašalinti %d pasirinktus elementus</item>
+        <item quantity="many">Pašalinti %d pasirinkto elemento</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">Bendrinti %d pasirinktų elementų</item>
+        <item quantity="one">Bendrinti 1 pasirinktą elementą</item>
+        <item quantity="few">Bendrinti %d pasirinktus elementus</item>
+        <item quantity="many">Bendrinti %d pasirinkto elemento</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">%1$d atidarytų skirtukų; palieskite, kad perjungtumėte skirtukus</item>
+        <item quantity="one">%1$d atidarytas skirtukas; palieskite, kad perjungtumėte skirtukus</item>
+        <item quantity="few">%1$d atidaryti skirtukai; palieskite, kad perjungtumėte skirtukus</item>
+        <item quantity="many">%1$d atidaryto skirtuko; palieskite, kad perjungtumėte skirtukus</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">%1$d žymių</item>
+        <item quantity="one">%1$d žymė</item>
+        <item quantity="few">%1$d žymės</item>
+        <item quantity="many">%1$d žymės</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d skirtukų</item>
+        <item quantity="one">%1$d skirtukas</item>
+        <item quantity="few">%1$d skirtukai</item>
+        <item quantity="many">%1$d skirtuko</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (ir dar %d)"</item>
+        <item quantity="one">" (ir dar 1)"</item>
+        <item quantity="few">" (ir dar %d)"</item>
+        <item quantity="many">" (ir dar %d)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">Atsisiunčiama %d failų.</item>
+        <item quantity="one">Atsisiunčiamas failas.</item>
+        <item quantity="few">Atsisiunčiami %d failai.</item>
+        <item quantity="many">Atsisiunčiama %d failo.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d val.</item>
+        <item quantity="one">%d val.</item>
+        <item quantity="few">%d val.</item>
+        <item quantity="many">%d val.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">Atsisiųsta %1$d failų</item>
+        <item quantity="one">Atsisiųstas %1$d failas</item>
+        <item quantity="few">Atsisiųsti %1$d failai</item>
+        <item quantity="many">Atsisiųsta %1$d failo</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">Baigta %d atsisiuntimų.</item>
+        <item quantity="one">Baigtas 1 atsisiuntimas.</item>
+        <item quantity="few">Baigti %d atsisiuntimai.</item>
+        <item quantity="many">Baigta %d atsisiuntimo.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">Nepavyko atlikti %d atsisiuntimų.</item>
+        <item quantity="one">Nepavyko atlikti 1 atsisiuntimo.</item>
+        <item quantity="few">Nepavyko atlikti %d atsisiuntimų.</item>
+        <item quantity="many">Nepavyko atlikti %d atsisiuntimo.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">Laukiama %d atsisiuntimų.</item>
+        <item quantity="one">Laukiama 1 atsisiuntimo.</item>
+        <item quantity="few">Laukiama %d atsisiuntimų.</item>
+        <item quantity="many">Laukiama %d atsisiuntimo.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">Prieš %d dienų</item>
+        <item quantity="one">Prieš %d dieną</item>
+        <item quantity="few">Prieš %d dienas</item>
+        <item quantity="many">Prieš %d dienos</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">Prieš %d valandų</item>
+        <item quantity="one">Prieš 1 valandą</item>
+        <item quantity="few">Prieš %d valandas</item>
+        <item quantity="many">Prieš %d valandos</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">Prieš %d minučių</item>
+        <item quantity="one">Prieš 1 minutę</item>
+        <item quantity="few">Prieš %d minutes</item>
+        <item quantity="many">Prieš %d minutės</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">„Chrome“ įkels puslapius, kai bus paruošta</item>
+        <item quantity="one">„Chrome“ įkels puslapį, kai bus paruošta</item>
+        <item quantity="few">„Chrome“ įkels puslapius, kai bus paruošta</item>
+        <item quantity="many">„Chrome“ įkels puslapius, kai bus paruošta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">%1$s… ir dar %2$s</item>
+        <item quantity="one">%1$s… ir dar %2$s</item>
+        <item quantity="few">%1$s… ir dar %2$s</item>
+        <item quantity="many">%1$s… ir dar %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">%1$s… ir dar %2$s</item>
+        <item quantity="one">%1$s… ir dar %2$s</item>
+        <item quantity="few">%1$s… ir dar %2$s</item>
+        <item quantity="many">%1$s… ir dar %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">%1$s… ir dar %2$s</item>
+        <item quantity="one">%1$s… ir dar %2$s</item>
+        <item quantity="few">%1$s… ir dar %2$s</item>
+        <item quantity="many">%1$s… ir dar %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">%1$s… ir dar %2$s</item>
+        <item quantity="one">%1$s… ir dar %2$s</item>
+        <item quantity="few">%1$s… ir dar %2$s</item>
+        <item quantity="many">%1$s… ir dar %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">Pasirinkta %d elementų</item>
+        <item quantity="one">Pasirinktas 1 elementas</item>
+        <item quantity="few">Pasirinkti %d elementai</item>
+        <item quantity="many">Pasirinkta %d elemento</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">Signalo stiprumo lygis: %d juostų</item>
+        <item quantity="one">Signalo stiprumo lygis: %d juosta</item>
+        <item quantity="few">Signalo stiprumo lygis: %d juostos</item>
+        <item quantity="many">Signalo stiprumo lygis: %d juostos</item>
+    </plurals>
+</resources>

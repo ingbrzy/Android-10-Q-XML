@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d എണ്ണം കൂടി</item>
+        <item quantity="one">%1$d എണ്ണം കൂടി</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s ദിവസം</item>
+        <item quantity="one">ഒരു ദിവസം</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s മണിക്കൂർ</item>
+        <item quantity="one">ഒരു മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s മിനിറ്റ്</item>
+        <item quantity="one">ഒരു മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s ആപ്പുകൾ</item>
+        <item quantity="one">ഒരു ആപ്പ്</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s ആപ്പുകൾ</item>
+        <item quantity="one">ഒരു ആപ്പ്</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s സെക്കൻഡ്</item>
+        <item quantity="one">ഒരു സെക്കൻഡ്</item>
+    </plurals>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d të tjera</item>
+        <item quantity="one">%1$d të tjera</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s ditë</item>
+        <item quantity="one">1 ditë</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s orë</item>
+        <item quantity="one">1 orë</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minuta</item>
+        <item quantity="one">1 minutë</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s apl.</item>
+        <item quantity="one">1 apl.</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s aplikacione</item>
+        <item quantity="one">1 aplikacion</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekonda</item>
+        <item quantity="one">1 sekondë</item>
+    </plurals>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">नेटवर्क में साइन इन करें</string>
+    <string name="action_bar_title">%1$s में साइन इन करें</string>
+    <string name="action_do_not_use_network">इस नेटवर्क का उपयोग न करें</string>
+    <string name="action_use_network">इस नेटवर्क का उपयोग जैसा है वैसा ही करें</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ok">ठीक है</string>
+    <string name="page_info">पेज की जानकारी</string>
+    <string name="page_info_address">पता:</string>
+    <string name="ssl_error_continue">ब्राउज़र के द्वारा फिर जारी रखें</string>
+    <string name="ssl_error_date_invalid">इस प्रमाणपत्र की तारीख गलत है.</string>
+    <string name="ssl_error_example">उदाहरण के लिए, हो सकता है कि लॉगिन पृष्‍ठ दिखाए गए संगठन से संबद्ध ना हो.</string>
+    <string name="ssl_error_expired">इस प्रमाणपत्र की समय-सीमा खत्म हो चुकी है.</string>
+    <string name="ssl_error_invalid">यह प्रमाणपत्र अमान्य है.</string>
+    <string name="ssl_error_mismatch">साइट के नाम का मिलान प्रमाणपत्र में दिए नाम से नहीं हो रहा है.</string>
+    <string name="ssl_error_not_yet_valid">यह प्रमाणपत्र अभी तक मान्य नहीं है.</string>
+    <string name="ssl_error_unknown">प्रमाणपत्र में अनजान गड़बड़ी.</string>
+    <string name="ssl_error_untrusted">यह प्रमाणपत्र किसी भरोसेमंद अधिकारी का नहीं है.</string>
+    <string name="ssl_error_view_certificate">प्रमाणपत्र देखें</string>
+    <string name="ssl_error_warning">आप जिस नेटवर्क में शामिल होने का प्रयास कर रहे हैं उसमें सुरक्षा समस्‍याएं हैं.</string>
+    <string name="ssl_security_warning_title">सुरक्षा चेतावनी</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

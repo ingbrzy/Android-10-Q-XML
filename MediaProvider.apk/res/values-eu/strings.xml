@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">Gehitu alarma</string>
+    <string name="add_notification_text">Gehitu jakinarazpena</string>
+    <string name="add_ringtone_text">Gehitu tonua</string>
+    <string name="alarm_sound_default">Alarmaren soinu lehenetsia</string>
+    <string name="app_label">Multimediaren memoria-unitatea</string>
+    <string name="artist_label">Artista</string>
+    <string name="delete_ringtone_text">Ezabatu</string>
+    <string name="grant_dialog_button_allow">Baimendu</string>
+    <string name="grant_dialog_button_deny">Ukatu</string>
+    <string name="notification_sound_default">Jakinarazpenen soinu lehenetsia</string>
+    <string name="permission_audio"><b>^1</b> aplikazioari musika hau aldatzeko edo ezabatzeko baimena eman nahi diozu?</string>
+    <string name="permission_images"><b>^1</b> aplikazioari irudi hau aldatzeko edo ezabatzeko baimena eman nahi diozu?</string>
+    <string name="permission_required">Baimena behar da elementu hau aldatu edo ezabatzeko.</string>
+    <string name="permission_required_action">Egin aurrera</string>
+    <string name="permission_video"><b>^1</b> aplikazioari bideo hau aldatzeko edo ezabatzeko baimena eman nahi diozu?</string>
+    <string name="ringtone_default">Tonu lehenetsia</string>
+    <string name="root_audio">Audioa</string>
+    <string name="root_images">Irudiak</string>
+    <string name="root_videos">Bideoak</string>
+    <string name="sound_name_awaken">Esnatu</string>
+    <string name="sound_name_bounce">Errebotea</string>
+    <string name="sound_name_drip">Tantaka</string>
+    <string name="sound_name_gallop">Lauhazka</string>
+    <string name="sound_name_nudge">Bultzadatxoa</string>
+    <string name="sound_name_orbit">Orbita</string>
+    <string name="sound_name_rise">Igoera</string>
+    <string name="sound_name_sway">Kulunka</string>
+    <string name="sound_name_wag">Mugimendua</string>
+    <string name="storage_description">Biltegi lokala</string>
+    <string name="uid_label">Multimedia-edukia</string>
+    <string name="unable_to_add_ringtone">Ezin da gehitu tonu pertsonalizatua</string>
+    <string name="unable_to_delete_ringtone">Ezin da ezabatu tonu pertsonalizatua</string>
+</resources>

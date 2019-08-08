@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Alertă de urgență: mesaj de exercițiu/simulare</string>
+    <string name="cmas_required_monthly_test">Alertă de urgență: mesaj de testare</string>
+    <string name="enable_public_safety_messages_title">Mesaj informativ</string>
+    <string name="public_safety_message">Mesaj informativ</string>
+</resources>

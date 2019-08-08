@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Larrialdi-alerta: ariketa/simulazio motako mezua</string>
+    <string name="cmas_required_monthly_test">Larrialdi-alerta: probako mezua</string>
+    <string name="enable_public_safety_messages_title">Mezu informatiboa</string>
+    <string name="public_safety_message">Mezu informatiboa</string>
+</resources>

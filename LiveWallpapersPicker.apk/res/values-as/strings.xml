@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_slice_error">"সংযোগ কৰিব পৰা নগ'ল"</string>
+    <string name="abc_slice_more">অধিক</string>
+    <string name="abc_slice_more_content">+ %1$d</string>
+    <string name="abc_slice_permission_allow">অনুমতি দিয়ক</string>
+    <string name="abc_slice_permission_checkbox">%1$sক যিকোনো এপৰ অংশ দেখুওৱাবলৈ অনুমতি দিয়ক</string>
+    <string name="abc_slice_permission_deny">অস্বীকাৰ কৰক</string>
+    <string name="abc_slice_permission_text_1">- ই %1$sৰ তথ্য পঢ়িব পাৰে</string>
+    <string name="abc_slice_permission_text_2">- ই %1$sৰ ভিতৰত কাৰ্য কৰিব পাৰে</string>
+    <string name="abc_slice_permission_title">%1$sক %2$sৰ অংশ দেখুওৱাবলৈ অনুমতি দিবনে?</string>
+    <string name="abc_slice_show_more">অধিক দেখুৱাওক</string>
+    <string name="abc_slice_updated">%1$s আপডে’ট কৰা হৈছিল</string>
+    <string name="abc_slices_permission_request">%1$sএ %2$sৰ অংশ দেখুওৱাব খুজিছে</string>
+    <string name="application_name">লাইভ ৱালপেপাৰ বাছনিকৰ্তা</string>
+    <string name="collapse_attribution_panel">ৱালপেপাৰ সম্পৰ্কীয় তথ্য়ৰ পেনেল সংকুচিত কৰক</string>
+    <string name="configure_wallpaper">ছেটিংসমূহ…</string>
+    <string name="delete_live_wallpaper">মচক</string>
+    <string name="delete_wallpaper_confirmation">এই ৱালপেপাৰখন আপোনাৰ ফ’নৰ পৰা মচিবনে?</string>
+    <string name="expand_attribution_panel">ৱালপেপাৰ সম্পৰ্কীয় তথ্য়ৰ পেনেল বিস্তাৰ কৰক</string>
+    <string name="explore_further">অন্বেষণ কৰক</string>
+    <string name="live_wallpaper_empty">কোনো লাইভ ৱালপেপাৰ নাই</string>
+    <string name="live_wallpaper_loading">"লাইভ ৱালপেপাৰ ল'ড কৰি থকা হৈছে…"</string>
+    <string name="live_wallpaper_picker_label">লাইভ ৱালপেপাৰসমূহ</string>
+    <string name="live_wallpaper_picker_title">লাইভ ৱালপেপাৰ বাছনি কৰক</string>
+    <string name="live_wallpaper_preview_title">লাইভ ৱালপেপাৰৰ পূৰ্বদৰ্শন</string>
+    <string name="preview">পূৰ্বদৰ্শন</string>
+    <string name="set_live_wallpaper">ৱালপেপাৰ ছেট কৰক</string>
+    <string name="status_bar_notification_info_overflow">৯৯৯+</string>
+    <string name="tab_customize">কাষ্টমাইজ কৰক</string>
+    <string name="tab_info">তথ্য</string>
+    <string name="wallpaper_instructions">ৱালপেপাৰ ছেট কৰক</string>
+    <string name="wallpaper_title_and_author">%2$sৰ %1$s</string>
+    <string name="which_wallpaper_option_home_screen">গৃহ স্ক্ৰীণ</string>
+    <string name="which_wallpaper_option_home_screen_and_lock_screen">গৃহ স্ক্ৰীণ আৰু লক স্ক্ৰীণ</string>
+</resources>

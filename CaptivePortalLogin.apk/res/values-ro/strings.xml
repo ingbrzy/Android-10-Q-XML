@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">Conectați-vă la rețea</string>
+    <string name="action_bar_title">Conectați-vă la %1$s</string>
+    <string name="action_do_not_use_network">Nu utilizați această rețea</string>
+    <string name="action_use_network">Utilizați această rețea în starea actuală</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ok">OK</string>
+    <string name="page_info">Informații despre pagină</string>
+    <string name="page_info_address">Adresă:</string>
+    <string name="ssl_error_continue">Continuați oricum prin browser</string>
+    <string name="ssl_error_date_invalid">Acest certificat are o dată nevalidă.</string>
+    <string name="ssl_error_example">De exemplu, este posibil ca pagina de conectare să nu aparțină organizației afișate.</string>
+    <string name="ssl_error_expired">Acest certificat a expirat.</string>
+    <string name="ssl_error_invalid">Acest certificat este nevalid.</string>
+    <string name="ssl_error_mismatch">Numele acestui site nu se potrivește cu numele de pe certificat.</string>
+    <string name="ssl_error_not_yet_valid">Acest certificat nu este încă valid.</string>
+    <string name="ssl_error_unknown">Eroare de certificat necunoscută.</string>
+    <string name="ssl_error_untrusted">Acest certificat nu provine de la o autoritate de încredere.</string>
+    <string name="ssl_error_view_certificate">Vizualizați certificatul</string>
+    <string name="ssl_error_warning">Rețeaua la care încercați să vă conectați are probleme de securitate.</string>
+    <string name="ssl_security_warning_title">Avertisment de securitate</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

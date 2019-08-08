@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated">
+        <item quantity="other">%d File audio</item>
+        <item quantity="one">%d File audio</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110001">
+        <item quantity="other">%d File</item>
+        <item quantity="one">%d File</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110002">
+        <item quantity="other">%d Gambar</item>
+        <item quantity="one">%d Gambar</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110003">
+        <item quantity="other">%d Halaman</item>
+        <item quantity="one">%d Halaman</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110004">
+        <item quantity="other">%d Video</item>
+        <item quantity="one">%d Video</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110005">
+        <item quantity="other">Hapus %d item yang dipilih</item>
+        <item quantity="one">Hapus 1 item yang dipilih</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110006">
+        <item quantity="other">Bagikan %d item yang dipilih</item>
+        <item quantity="one">Bagikan 1 item yang dipilih</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110007">
+        <item quantity="other">%1$d tab terbuka, tap untuk beralih tab</item>
+        <item quantity="one">%1$d tab terbuka, tap untuk beralih tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110008">
+        <item quantity="other">%1$d bookmark</item>
+        <item quantity="one">%1$d bookmark</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110009">
+        <item quantity="other">%1$d tab</item>
+        <item quantity="one">%1$d tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000a">
+        <item quantity="other">" (+ %d lainnya)"</item>
+        <item quantity="one">" (+ 1 lainnya)"</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000b">
+        <item quantity="other">Mendownload %d file.</item>
+        <item quantity="one">Mendownload file.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000c">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000d">
+        <item quantity="other">%1$d file didownload</item>
+        <item quantity="one">%1$d file didownload</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000e">
+        <item quantity="other">%d download selesai.</item>
+        <item quantity="one">1 download selesai.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11000f">
+        <item quantity="other">%d download gagal.</item>
+        <item quantity="one">1 download gagal.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110010">
+        <item quantity="other">%d download tertunda.</item>
+        <item quantity="one">1 download tertunda.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110011">
+        <item quantity="other">%d hari yang lalu</item>
+        <item quantity="one">%d hari yang lalu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110012">
+        <item quantity="other">%d jam yang lalu</item>
+        <item quantity="one">%d jam yang lalu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110013">
+        <item quantity="other">%d menit yang lalu</item>
+        <item quantity="one">%d menit yang lalu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110014">
+        <item quantity="other">Chrome akan memuat halaman Anda setelah siap</item>
+        <item quantity="one">Chrome akan memuat halaman Anda setelah siap</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110015">
+        <item quantity="other">%1$s… dan %2$s lainnya</item>
+        <item quantity="one">%1$s… dan %2$s lainnya</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110016">
+        <item quantity="other">%1$s… dan %2$s lainnya</item>
+        <item quantity="one">%1$s… dan %2$s lainnya</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110017">
+        <item quantity="other">%1$s… dan %2$s lainnya</item>
+        <item quantity="one">%1$s… dan %2$s lainnya</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110018">
+        <item quantity="other">%1$s… dan %2$s lainnya</item>
+        <item quantity="one">%1$s… dan %2$s lainnya</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f110019">
+        <item quantity="other">%d dipilih</item>
+        <item quantity="one">1 dipilih</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_APKTOOL_DUPLICATENAME_0x7f11001a">
+        <item quantity="other">Tingkat Kekuatan Sinyal: %d batang</item>
+        <item quantity="one">Tingkat Kekuatan Sinyal: %d batang</item>
+    </plurals>
+</resources>

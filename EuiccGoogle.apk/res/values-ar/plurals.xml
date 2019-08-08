@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_number_subtitle">
+        <item quantity="other">تمت إضافة %1$d رقم إلى هذا الجهاز، غير أنّه لا يمكن استخدام سوى رقم واحد في كل مرّة.</item>
+        <item quantity="zero">تمت إضافة %1$d رقم إلى هذا الجهاز، غير أنّه لا يمكن استخدام سوى رقم واحد في كل مرّة.</item>
+        <item quantity="one">تمت إضافة رقم (%1$d) إلى هذا الجهاز، غير أنّه لا يمكن استخدام سوى رقم واحد في كل مرّة.</item>
+        <item quantity="two">تمت إضافة رقمين (%1$d) إلى هذا الجهاز، غير أنّه لا يمكن استخدام سوى رقم واحد في كل مرّة.</item>
+        <item quantity="few">تمت إضافة %1$d أرقام إلى هذا الجهاز، غير أنه لا يمكن استخدام سوى رقم واحد في كل مرّة.</item>
+        <item quantity="many">تمت إضافة %1$d رقمًا إلى هذا الجهاز، غير أنه لا يمكن استخدام سوى رقم واحد في كل مرّة.</item>
+    </plurals>
+    <plurals name="download_sub_multi_carriers_text">
+        <item quantity="other">نُنزِّل الآن &lt;b>%2$d رقم&lt;/b> من %1$s و%3$d مشغّل شبكة جوّال آخر، وقد يستغرق ذلك بعض الوقت.</item>
+        <item quantity="zero">نُنزِّل الآن &lt;b>%2$d رقم&lt;/b> من %1$s و%3$d مشغّل شبكة جوّال آخر، وقد يستغرق ذلك بعض الوقت.</item>
+        <item quantity="one">نُنزِّل الآن &lt;b>%2$d رقم&lt;/b> من %1$s ومشغِّل شبكة جوّال واحد آخر، وقد يستغرق ذلك بعض الوقت.</item>
+        <item quantity="two">نُنزِّل الآن &lt;b>%2$d رقم&lt;/b> من %1$s ومشغّلَي شبكة جوّال (%3$d) آخرَين، وقد يستغرق ذلك بعض الوقت.</item>
+        <item quantity="few">نُنزِّل الآن &lt;b>%2$d رقم&lt;/b> من %1$s و%3$d مشغّلي شبكات جوّال آخرين، وقد يستغرق ذلك بعض الوقت.</item>
+        <item quantity="many">نُنزِّل الآن &lt;b>%2$d رقم&lt;/b> من %1$s و%3$d مشغّل شبكة جوّال آخر، وقد يستغرق ذلك بعض الوقت.</item>
+    </plurals>
+    <plurals name="download_sub_text">
+        <item quantity="other">نُنزِّل الآن &lt;b>%2$d رقم&lt;/b> من %1$s، وقد يستغرق ذلك بعض الوقت.</item>
+        <item quantity="zero">نُنزِّل الآن &lt;b>%2$d رقم&lt;/b> من %1$s، وقد يستغرق ذلك بعض الوقت.</item>
+        <item quantity="one">نُنزِّل الآن رقمك من %1$s، وقد يستغرق ذلك بعض الوقت.</item>
+        <item quantity="two">نُنزِّل الآن &lt;b>رقمين (%2$d)&lt;/b> من %1$s، وقد يستغرق ذلك بعض الوقت.</item>
+        <item quantity="few">نُنزِّل الآن &lt;b>%2$d أرقام&lt;/b> من %1$s، وقد يستغرق ذلك بعض الوقت.</item>
+        <item quantity="many">نُنزِّل الآن &lt;b>%2$d رقمًا&lt;/b> من %1$s، وقد يستغرق ذلك بعض الوقت.</item>
+    </plurals>
+    <plurals name="download_sub_title">
+        <item quantity="other">جارٍ إضافة أرقامك…</item>
+        <item quantity="zero">جارٍ إضافة أرقامك…</item>
+        <item quantity="one">جارٍ إضافة رقمك…</item>
+        <item quantity="two">جارٍ إضافة رقميك…</item>
+        <item quantity="few">جارٍ إضافة أرقامك…</item>
+        <item quantity="many">جارٍ إضافة أرقامك…</item>
+    </plurals>
+    <plurals name="error_screen_title">
+        <item quantity="other">لم يتم تفعيل الشبكات.</item>
+        <item quantity="zero">لم يتم تفعيل الشبكات.</item>
+        <item quantity="one">لم يتم تفعيل شبكة %1$s.</item>
+        <item quantity="two">لم يتم تفعيل شبكتين.</item>
+        <item quantity="few">لم يتم تفعيل الشبكات.</item>
+        <item quantity="many">لم يتم تفعيل الشبكات.</item>
+    </plurals>
+    <plurals name="insufficient_memory_subtitle">
+        <item quantity="other">&lt;b>%d رقم جديد&lt;/b> جاهزة للإضافة إلى هاتفك. ولكي تتمكَّن من رؤيتها، سيتعيَّن عليك حذف أحد أرقامك الحاليّة.</item>
+        <item quantity="zero">&lt;b>%d رقم جديد&lt;/b> جاهز للإضافة إلى هاتفك. ولكي تتمكَّن من رؤيته، سيتعيَّن عليك حذف أحد أرقامك الحاليّة.</item>
+        <item quantity="one">&lt;b>رقم جديد (%d)&lt;/b> جاهز للإضافة إلى هاتفك. ولكي تتمكَّن من رؤيته، سيتعيَّن عليك حذف أحد أرقامك الحاليّة.</item>
+        <item quantity="two">&lt;b>رقمان جديدان (%d)&lt;/b> جاهزان للإضافة إلى هاتفك. ولكي تتمكَّن من رؤيتهما، سيتعيَّن عليك حذف أحد أرقامك الحاليّة.</item>
+        <item quantity="few">&lt;b>%d أرقام جديدة&lt;/b> جاهزة للإضافة إلى هاتفك. ولكي تتمكَّن من رؤيتها، سيتعيَّن عليك حذف أحد أرقامك الحاليّة.</item>
+        <item quantity="many">&lt;b>%d رقمًا جديدًا&lt;/b> جاهزة للإضافة إلى هاتفك. ولكي تتمكَّن من رؤيتها، سيتعيَّن عليك حذف أحد أرقامك الحاليّة.</item>
+    </plurals>
+    <plurals name="insufficient_space_description_q">
+        <item quantity="other">لاستخدام أرقامك، يجب أولاً توفير مساحة من خلال حذف أرقام حالية من هذا الجهاز. ويمكنك إجراء ذلك لاحقًا من \"الإعدادات\".</item>
+        <item quantity="zero">لاستخدام أرقامك، يجب أولاً توفير مساحة من خلال حذف أرقام حالية من هذا الجهاز. ويمكنك إجراء ذلك لاحقًا من \"الإعدادات\".</item>
+        <item quantity="one">لاستخدام رقمك، يجب أولاً توفير مساحة من خلال حذف أرقام حالية من هذا الجهاز. ويمكنك إجراء ذلك لاحقًا من \"الإعدادات\".</item>
+        <item quantity="two">لاستخدام رقميك، يجب أولاً توفير مساحة من خلال حذف أرقام حالية من هذا الجهاز. ويمكنك إجراء ذلك لاحقًا من \"الإعدادات\".</item>
+        <item quantity="few">لاستخدام أرقامك، يجب أولاً توفير مساحة من خلال حذف أرقام حالية من هذا الجهاز. ويمكنك إجراء ذلك لاحقًا من \"الإعدادات\".</item>
+        <item quantity="many">لاستخدام أرقامك، يجب أولاً توفير مساحة من خلال حذف أرقام حالية من هذا الجهاز. ويمكنك إجراء ذلك لاحقًا من \"الإعدادات\".</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_number_count">
+        <item quantity="other">%d رقم</item>
+        <item quantity="zero">%d رقم</item>
+        <item quantity="one">رقم واحد (%d)</item>
+        <item quantity="two">رقمان %d</item>
+        <item quantity="few">%d أرقام</item>
+        <item quantity="many">%d رقمًا</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_subtitle">
+        <item quantity="other">لديك &lt;b>%d رقم هاتف&lt;/b> جاهز للإضافة من شركات تشغيل شبكات الجوّال هذه.</item>
+        <item quantity="zero">لديك &lt;b>%d رقم هاتف&lt;/b> جاهز للإضافة من شركات تشغيل شبكات الجوّال هذه.</item>
+        <item quantity="one">لديك &lt;b>رقم هاتف واحد (%d)&lt;/b> جاهز للإضافة من مشغِّل شبكة الجوّال هذا.</item>
+        <item quantity="two">لديك &lt;b>رقما هاتف (%d)&lt;/b> جاهزان للإضافة من شركات تشغيل شبكات الجوّال هذه.</item>
+        <item quantity="few">لديك &lt;b>%d أرقام هواتف&lt;/b> جاهزة للإضافة من شركات تشغيل شبكات الجوّال هذه.</item>
+        <item quantity="many">لديك &lt;b>%d رقم هاتف&lt;/b> جاهزًا للإضافة من شركات تشغيل شبكات الجوّال هذه.</item>
+    </plurals>
+    <plurals name="notification_carrier_unknown">
+        <item quantity="other">%d رقم إضافي جاهز للإضافة.</item>
+        <item quantity="zero">%d رقم إضافي جاهز للإضافة.</item>
+        <item quantity="one">رقم إضافي واحد (%d) جاهز للإضافة.</item>
+        <item quantity="two">رقمان إضافيان (%d) جاهزان للإضافة.</item>
+        <item quantity="few">%d أرقام إضافية جاهزة للإضافة.</item>
+        <item quantity="many">%d رقمًا إضافيًا جاهزة للإضافة.</item>
+    </plurals>
+    <plurals name="notification_multiple_carrier_name_known">
+        <item quantity="other">أرقامك لدى %1$s و%2$d رقم إضافي جاهز للإضافة.</item>
+        <item quantity="zero">أرقامك لدى %1$s و%2$d رقم إضافي جاهزة للإضافة.</item>
+        <item quantity="one">رقمك لدى %1$s ورقم واحد (%2$d) إضافي جاهزان للإضافة.</item>
+        <item quantity="two">أرقامك لدى %1$s ورقمان إضافيان (%2$d) جاهزة للإضافة.</item>
+        <item quantity="few">أرقامك لدى %1$s و%2$d أرقام إضافية جاهزة للإضافة.</item>
+        <item quantity="many">أرقامك لدى %1$s و%2$d رقمًا إضافيًا جاهزة للإضافة.</item>
+    </plurals>
+    <plurals name="notification_single_carrier_name_known">
+        <item quantity="other">أرقامك لدى %1$s جاهزة للإضافة.</item>
+        <item quantity="zero">أرقامك لدى %1$s جاهزة للإضافة.</item>
+        <item quantity="one">رقمك لدى %1$s جاهز للإضافة.</item>
+        <item quantity="two">رقماك لدى %1$s جاهزان للإضافة.</item>
+        <item quantity="few">أرقامك لدى %1$s جاهزة للإضافة.</item>
+        <item quantity="many">أرقامك لدى %1$s جاهزة للإضافة.</item>
+    </plurals>
+    <plurals name="perm_error_description">
+        <item quantity="other">حدث خطأ أثناء محاولة تفعيل الخدمة. يُرجى التواصل مع موفّري الشبكات للحصول على المساعدة.</item>
+        <item quantity="zero">حدث خطأ أثناء محاولة تفعيل الخدمة. يُرجى التواصل مع موفّري الشبكات للحصول على المساعدة.</item>
+        <item quantity="one">حدث خطأ أثناء محاولة تفعيل الخدمة. يُرجى التواصل مع %1$s للحصول على المساعدة.</item>
+        <item quantity="two">حدث خطأ أثناء محاولة تفعيل الخدمة. يُرجى التواصل مع موفّريّ الشبكات للحصول على المساعدة.</item>
+        <item quantity="few">حدث خطأ أثناء محاولة تفعيل الخدمة. يُرجى التواصل مع موفّري الشبكات للحصول على المساعدة.</item>
+        <item quantity="many">حدث خطأ أثناء محاولة تفعيل الخدمة. يُرجى التواصل مع موفّري الشبكات للحصول على المساعدة.</item>
+    </plurals>
+    <plurals name="perm_error_description_q">
+        <item quantity="other">حدث خطأ أثناء محاولة تفعيل أرقامك. يُرجى التواصل مع %1$s للحصول على مساعدة على الرقم %2$s.</item>
+        <item quantity="zero">حدث خطأ أثناء محاولة تفعيل أرقامك. يُرجى التواصل مع %1$s للحصول على مساعدة على الرقم %2$s.</item>
+        <item quantity="one">حدث خطأ أثناء محاولة تفعيل رقمك. يُرجى التواصل مع %1$s للحصول على مساعدة على الرقم %2$s.</item>
+        <item quantity="two">حدث خطأ أثناء محاولة تفعيل رقميك. يُرجى التواصل مع %1$s للحصول على مساعدة على الرقم %2$s.</item>
+        <item quantity="few">حدث خطأ أثناء محاولة تفعيل أرقامك. يُرجى التواصل مع %1$s للحصول على مساعدة على الرقم %2$s.</item>
+        <item quantity="many">حدث خطأ أثناء محاولة تفعيل أرقامك. يُرجى التواصل مع %1$s للحصول على مساعدة على الرقم %2$s.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone">
+        <item quantity="other">حدث خطأ أثناء محاولة تفعيل أرقامك. يُرجى التواصل مع %1$s للحصول على المساعدة.</item>
+        <item quantity="zero">حدث خطأ أثناء محاولة تفعيل أرقامك. يُرجى التواصل مع %1$s للحصول على المساعدة.</item>
+        <item quantity="one">حدث خطأ أثناء محاولة تفعيل رقمك. يُرجى التواصل مع %1$s للحصول على المساعدة.</item>
+        <item quantity="two">حدث خطأ أثناء محاولة تفعيل رقميك. يُرجى التواصل مع %1$s للحصول على المساعدة.</item>
+        <item quantity="few">حدث خطأ أثناء محاولة تفعيل أرقامك. يُرجى التواصل مع %1$s للحصول على المساعدة.</item>
+        <item quantity="many">حدث خطأ أثناء محاولة تفعيل أرقامك. يُرجى التواصل مع %1$s للحصول على المساعدة.</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone_no_carrier_name">
+        <item quantity="other">حدث خطأ أثناء محاولة تفعيل أرقامك. يُرجى التواصل مع موفّري الشبكات للحصول على المساعدة.</item>
+        <item quantity="zero">حدث خطأ أثناء محاولة تفعيل أرقامك. يُرجى التواصل مع موفّري الشبكات للحصول على المساعدة.</item>
+        <item quantity="one">حدث خطأ أثناء محاولة تفعيل رقمك. يُرجى التواصل مع موفّر الشبكة للحصول على المساعدة.</item>
+        <item quantity="two">حدث خطأ أثناء محاولة تفعيل رقميك. يُرجى التواصل مع موفّرَيّ الشبكتين للحصول على المساعدة.</item>
+        <item quantity="few">حدث خطأ أثناء محاولة تفعيل أرقامك. يُرجى التواصل مع موفّري الشبكات للحصول على المساعدة.</item>
+        <item quantity="many">حدث خطأ أثناء محاولة تفعيل أرقامك. يُرجى التواصل مع موفّري الشبكات للحصول على المساعدة.</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_confirm_subtitle">
+        <item quantity="other">يتوفر %d رقم لهذا الجهاز.</item>
+        <item quantity="zero">يتوفر %d رقم لهذا الجهاز.</item>
+        <item quantity="one">يتوفر رقم واحد (%d) لهذا الجهاز.</item>
+        <item quantity="two">يتوفر رقمان (%d) لهذا الجهاز.</item>
+        <item quantity="few">تتوفر %d أرقام لهذا الجهاز.</item>
+        <item quantity="many">يتوفر %d رقمًا لهذا الجهاز.</item>
+    </plurals>
+    <plurals name="q_result_download_text">
+        <item quantity="other">يتوفر %2$d رقم من %1$s لهذا الجهاز.</item>
+        <item quantity="zero">يتوفر %2$d رقم من %1$s لهذا الجهاز.</item>
+        <item quantity="one">يتوفر رقم واحد من %1$s لهذا الجهاز.</item>
+        <item quantity="two">يتوفر رقمان (%2$d) من %1$s لهذا الجهاز.</item>
+        <item quantity="few">يتوفر %2$d أرقام من %1$s لهذا الجهاز.</item>
+        <item quantity="many">يتوفر %2$d رقمًا من %1$s لهذا الجهاز.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_multi_carriers">
+        <item quantity="other">تعذَّرت إضافة أرقامك لدى %1$s و%2$d مشغّل شبكة جوَّال آخرين.</item>
+        <item quantity="zero">تعذَّرت إضافة أرقامك لدى %1$s و%2$d مشغل شبكة جوَّال آخر.</item>
+        <item quantity="one">تعذَّرت إضافة أرقامك لدى %1$s ومشغل شبكة جوَّال (%2$d) آخر.</item>
+        <item quantity="two">تعذَّرت إضافة أرقامك لدى %1$s ومشغّلَي شبكات جوَّال (%2$d) آخرَين.</item>
+        <item quantity="few">تعذَّرت إضافة أرقامك لدى %1$s و%2$d مشغّلي شبكات جوَّال آخرين.</item>
+        <item quantity="many">تعذَّرت إضافة أرقامك لدى %1$s و%2$d مشغّل شبكة جوَّال آخرين.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_no_carrier">
+        <item quantity="other">تعذَّرت إضافة أرقامك من أيّ من مشغلي شبكات الجوّال.</item>
+        <item quantity="zero">تعذَّرت إضافة أرقامك من أيّ من مشغلي شبكات الجوّال.</item>
+        <item quantity="one">تعذَّرت إضافة &lt;b>رقم واحد&lt;/b> من مشغّل شبكة الجوّال.</item>
+        <item quantity="two">تعذَّرت إضافة رقميك من أيّ من مشغلي شبكات الجوّال.</item>
+        <item quantity="few">تعذَّرت إضافة أرقامك من أيّ من مشغلي شبكات الجوّال.</item>
+        <item quantity="many">تعذَّرت إضافة أرقامك من أيّ من مشغلي شبكات الجوّال.</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_single_carrier">
+        <item quantity="other">تعذَّرت إضافة &lt;b>%2$d رقم&lt;/b> من %1$s.</item>
+        <item quantity="zero">تعذَّرت إضافة &lt;b>%2$d رقم&lt;/b> من %1$s.</item>
+        <item quantity="one">تعذَّرت إضافة رقم (%2$d)&lt;b>&lt;/b> من %1$s.</item>
+        <item quantity="two">تعذَّرت إضافة &lt;b>رقمين (%2$d)&lt;/b> من %1$s.</item>
+        <item quantity="few">تعذَّرت إضافة &lt;b>%2$d أرقام&lt;/b> من %1$s.</item>
+        <item quantity="many">تعذَّرت إضافة &lt;b>%2$d رقمًا&lt;/b> من %1$s.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_multi_carriers">
+        <item quantity="other">لم تتوفَّر مساحة تكفي لإضافة أرقامك لدى %1$s و%2$d مشغّل شبكة جوّال آخرين.</item>
+        <item quantity="zero">لم تتوفَّر مساحة تكفي لإضافة أرقامك لدى %1$s و%2$d مشغّل شبكة جوّال آخر.</item>
+        <item quantity="one">لم تتوفَّر مساحة تكفي لإضافة أرقامك لدى %1$s ومشغّل شبكة جوّال (%2$d) آخر.</item>
+        <item quantity="two">لم تتوفَّر مساحة تكفي لإضافة أرقامك لدى %1$s ومشغّلَي شبكات جوّال (%2$d) آخرَين.</item>
+        <item quantity="few">لم تتوفَّر مساحة تكفي لإضافة أرقامك لدى %1$s و%2$d مشغّلي شبكات جوّال آخرين.</item>
+        <item quantity="many">لم تتوفَّر مساحة تكفي لإضافة أرقامك لدى %1$s و%2$d مشغّل شبكة جوّال آخرين.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_no_carrier">
+        <item quantity="other">لم تتوفَّر مساحة تكفي لإضافة أرقامك من أيّ من مشغّلي شبكات الجوّال.</item>
+        <item quantity="zero">لم تتوفَّر مساحة تكفي لإضافة أرقامك من أيّ من مشغّلي شبكات الجوّال.</item>
+        <item quantity="one">لم تتوفَّر مساحة تكفي لإضافة &lt;b>رقم واحد&lt;/b>.</item>
+        <item quantity="two">لم تتوفَّر مساحة تكفي لإضافة رقميك من أيّ من مشغّلي شبكات الجوّال.</item>
+        <item quantity="few">لم تتوفَّر مساحة تكفي لإضافة أرقامك من أيّ من مشغّلي شبكات الجوّال.</item>
+        <item quantity="many">لم تتوفَّر مساحة تكفي لإضافة أرقامك من أيّ من مشغّلي شبكات الجوّال.</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_single_carrier">
+        <item quantity="other">لم تتوفَّر مساحة تكفي لإضافة &lt;b>%2$d رقم&lt;/b> من %1$s.</item>
+        <item quantity="zero">لم تتوفَّر مساحة تكفي لإضافة &lt;b>%2$d رقم&lt;/b> من %1$s.</item>
+        <item quantity="one">لم تتوفَّر مساحة تكفي لإضافة &lt;b>رقم (%2$d)&lt;/b> من %1$s.</item>
+        <item quantity="two">لم تتوفَّر مساحة تكفي لإضافة &lt;b> رقمين (%2$d)&lt;/b> من %1$s.</item>
+        <item quantity="few">لم تتوفَّر مساحة تكفي لإضافة &lt;b>%2$d أرقام&lt;/b> من %1$s.</item>
+        <item quantity="many">لم تتوفَّر مساحة تكفي لإضافة &lt;b>%2$d رقمًا&lt;/b> من %1$s.</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_multiple_carriers">
+        <item quantity="other">لقد أضفت &lt;b>%1$d رقم&lt;/b> من %2$s و%3$s و%4$d مشغّل شبكة جوّال آخر.</item>
+        <item quantity="zero">لقد أضفت &lt;b>%1$d رقم&lt;/b> من %2$s و%3$s و%4$d مشغّل شبكة جوّال آخر.</item>
+        <item quantity="one">لقد أضفت &lt;b>%1$d رقم&lt;/b> من %2$s و%3$s.</item>
+        <item quantity="two">لقد أضفت &lt;b>%1$d رقم&lt;/b> من %2$s و%3$s ومشغّلَي شبكات جوّال آخرَين (%4$d).</item>
+        <item quantity="few">لقد أضفت &lt;b>%1$d رقم&lt;/b> من %2$s و%3$s و%4$d مشغّلي شبكات جوّال آخرين.</item>
+        <item quantity="many">لقد أضفت &lt;b>%1$d رقم&lt;/b> من %2$s و%3$s و%4$d مشغّل شبكة جوّال آخر.</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_single_carrier">
+        <item quantity="other">لقد أضفت &lt;b>%1$d رقم&lt;/b> من %2$s.</item>
+        <item quantity="zero">لقد أضفت &lt;b>%1$d رقم&lt;/b> من %2$s.</item>
+        <item quantity="one">لقد أضفت &lt;b>رقمًا (%1$d)&lt;/b> من %2$s.</item>
+        <item quantity="two">لقد أضفت &lt;b>رقمين (%1$d)&lt;/b> من %2$s.</item>
+        <item quantity="few">لقد أضفت &lt;b>%1$d أرقام&lt;/b> من %2$s.</item>
+        <item quantity="many">لقد أضفت &lt;b>%1$d رقمًا&lt;/b> من %2$s.</item>
+    </plurals>
+    <plurals name="res_continue_title_all_success">
+        <item quantity="other">تمّت إضافة %1$d رقم.</item>
+        <item quantity="zero">تمّت إضافة %1$d رقم.</item>
+        <item quantity="one">تمت إضافة رقم هاتف.</item>
+        <item quantity="two">تمّت إضافة رقمين (%1$d).</item>
+        <item quantity="few">تمّت إضافة %1$d أرقام.</item>
+        <item quantity="many">تمّت إضافة %1$d رقمًا.</item>
+    </plurals>
+    <plurals name="result_download_text">
+        <item quantity="other">&lt;b>%2$d رقم&lt;/b> من %1$s جاهزة للإضافة إلى هذا الهاتف.</item>
+        <item quantity="zero">&lt;b>%2$d رقم&lt;/b> من %1$s جاهز للإضافة إلى هذا الهاتف.</item>
+        <item quantity="one">رقمك لدى %1$s جاهز للإضافة إلى هاتفك.</item>
+        <item quantity="two">&lt;b>رقمان (%2$d)&lt;/b> من %1$s جاهزان للإضافة إلى هذا الهاتف.</item>
+        <item quantity="few">&lt;b>%2$d أرقام&lt;/b> من %1$s جاهزة للإضافة إلى هذا الهاتف.</item>
+        <item quantity="many">&lt;b>%2$d رقمًا&lt;/b> من %1$s جاهزة للإضافة إلى هذا الهاتف.</item>
+    </plurals>
+    <plurals name="temp_error_description_q">
+        <item quantity="other">حدث خطأ أثناء محاولة تفعيل أرقامك. يمكنك المحاولة مجدّدًا في \"الإعدادات\".</item>
+        <item quantity="zero">حدث خطأ أثناء محاولة تفعيل أرقامك. يمكنك المحاولة مجدّدًا في \"الإعدادات\".</item>
+        <item quantity="one">حدث خطأ أثناء محاولة تفعيل رقمك. يمكنك المحاولة مجدّدًا في \"الإعدادات\".</item>
+        <item quantity="two">حدث خطأ أثناء محاولة تفعيل رقميك. يمكنك المحاولة مجدّدًا في \"الإعدادات\".</item>
+        <item quantity="few">حدث خطأ أثناء محاولة تفعيل أرقامك. يمكنك المحاولة مجدّدًا في \"الإعدادات\".</item>
+        <item quantity="many">حدث خطأ أثناء محاولة تفعيل أرقامك. يمكنك المحاولة مجدّدًا في \"الإعدادات\".</item>
+    </plurals>
+</resources>

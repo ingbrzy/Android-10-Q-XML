@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Peringatan darurat: pesan Latihan/Simulasi</string>
+    <string name="cmas_required_monthly_test">Peringatan darurat: Pesan percobaan</string>
+    <string name="enable_public_safety_messages_title">Pesan informatif</string>
+    <string name="public_safety_message">Pesan informatif</string>
+</resources>

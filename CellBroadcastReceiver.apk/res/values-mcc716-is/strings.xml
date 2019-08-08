@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Neyðarviðvörun: Æfingar- eða stælingarskilaboð</string>
+    <string name="cmas_required_monthly_test">Neyðarviðvörun: Prufuskilaboð</string>
+    <string name="enable_public_safety_messages_title">Almannatilkynningar</string>
+    <string name="public_safety_message">Almannatilkynningar</string>
+</resources>

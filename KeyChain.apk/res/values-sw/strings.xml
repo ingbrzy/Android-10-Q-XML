@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow_button">Chagua</string>
+    <string name="app_name">Msururu Muhimu</string>
+    <string name="deny_button">Kataa</string>
+    <string name="install_new_cert_message">Unaweza kusakinisha vyeti kutoka katika faili PKCS#12 kwa kirefusho %1$s au %2$s kilicho katika hifadhi ya nje.</string>
+    <string name="title_no_certs">Hakuna vyeti vinavyopatikana</string>
+    <string name="title_select_cert">Chagua cheti</string>
+</resources>

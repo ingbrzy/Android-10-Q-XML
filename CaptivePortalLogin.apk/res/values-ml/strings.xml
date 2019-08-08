@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_bar_label">നെറ്റ്‌വർക്കിൽ സൈൻ ഇൻ ചെയ്യുക</string>
+    <string name="action_bar_title">%1$s എന്നതിലേക്ക് സൈൻ ഇൻ ചെയ്യുക</string>
+    <string name="action_do_not_use_network">ഈ നെറ്റ്‌വർക്ക് ഉപയോഗിക്കരുത്</string>
+    <string name="action_use_network">ഈ നെറ്റ്‌വർക്ക് മാറ്റമൊന്നും വരുത്താതെ ഉപയോഗിക്കുക</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ok">ശരി</string>
+    <string name="page_info">പേജ് വിവരം</string>
+    <string name="page_info_address">വിലാസം:</string>
+    <string name="ssl_error_continue">എന്തായാലും ബ്രൗസർ വഴി തുടരുക</string>
+    <string name="ssl_error_date_invalid">ഈ സർട്ടിഫിക്കറ്റിൽ അസാധുവായ തീയതിയാണുള്ളത്.</string>
+    <string name="ssl_error_example">ഉദാഹരണത്തിന്, കാണിച്ചിരിക്കുന്ന ഓർഗനൈസേഷന്റേതായിരിക്കില്ല ലോഗിൻ പേജ്.</string>
+    <string name="ssl_error_expired">ഈ സർട്ടിഫിക്കറ്റ് കാലഹരണപ്പെട്ടു.</string>
+    <string name="ssl_error_invalid">ഈ സർട്ടിഫിക്കറ്റ് അസാധുവാണ്.</string>
+    <string name="ssl_error_mismatch">സൈറ്റിന്റെ പേര്, സർട്ടിഫിക്കറ്റിലുള്ള പേരുമായി പൊരുത്തപ്പെടുന്നില്ല.</string>
+    <string name="ssl_error_not_yet_valid">ഈ സർട്ടിഫിക്കറ്റിന് ഇപ്പോഴും സാധുതയില്ല.</string>
+    <string name="ssl_error_unknown">അജ്ഞാത സർട്ടിഫിക്കറ്റ് പിശക്.</string>
+    <string name="ssl_error_untrusted">ഈ സർട്ടിഫിക്കറ്റ്, വിശ്വസനീയ അതോറിറ്റിയിൽ നിന്നുള്ളതല്ല.</string>
+    <string name="ssl_error_view_certificate">സർട്ടിഫിക്കറ്റ് കാണുക</string>
+    <string name="ssl_error_warning">നിങ്ങൾ ചേരാൻ ശ്രമിക്കുന്ന നെറ്റ്‌വർക്കിൽ സുരക്ഷാ പ്രശ്‌നങ്ങളുണ്ടായിരിക്കാം.</string>
+    <string name="ssl_security_warning_title">സുരക്ഷാ മുന്നറിയിപ്പ്</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

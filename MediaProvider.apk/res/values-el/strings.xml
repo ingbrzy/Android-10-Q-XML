@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_alarm_text">Προσθήκη ξυπνητηριού</string>
+    <string name="add_notification_text">Προσθήκη ειδοποίησης</string>
+    <string name="add_ringtone_text">Προσθήκη ήχου κλήσης</string>
+    <string name="alarm_sound_default">Προεπιλεγμένος ήχος ειδοποίησης</string>
+    <string name="app_label">Αποθηκευτικός χώρος μέσων</string>
+    <string name="artist_label">Καλλιτέχνης</string>
+    <string name="delete_ringtone_text">Διαγραφή</string>
+    <string name="grant_dialog_button_allow">Να επιτρέπεται</string>
+    <string name="grant_dialog_button_deny">Να μην επιτρέπεται</string>
+    <string name="notification_sound_default">Προεπιλεγμένος ήχος ειδοποίησης</string>
+    <string name="permission_audio">Να επιτρέπεται στην εφαρμογή <b>^1</b> η τροποποίηση ή διαγραφή αυτής της μουσικής;</string>
+    <string name="permission_images">Να επιτρέπεται στην εφαρμογή <b>^1</b> η τροποποίηση ή διαγραφή αυτής της εικόνας;</string>
+    <string name="permission_required">Απαιτείται άδεια για την τροποποίηση ή τη διαγραφή αυτού του στοιχείου.</string>
+    <string name="permission_required_action">Συνέχεια</string>
+    <string name="permission_video">Να επιτρέπεται στην εφαρμογή <b>^1</b> η τροποποίηση ή διαγραφή αυτού του βίντεο;</string>
+    <string name="ringtone_default">Προεπιλεγμένος ήχος κλήσης</string>
+    <string name="root_audio">Ήχος</string>
+    <string name="root_images">Εικόνες</string>
+    <string name="root_videos">Βίντεο</string>
+    <string name="sound_name_awaken">Ξύπνημα</string>
+    <string name="sound_name_bounce">Χοροπηδητό</string>
+    <string name="sound_name_drip">Σταγόνα</string>
+    <string name="sound_name_gallop">Καλπασμός</string>
+    <string name="sound_name_nudge">Σκούντημα</string>
+    <string name="sound_name_orbit">Περιστροφή</string>
+    <string name="sound_name_rise">Σήκωμα</string>
+    <string name="sound_name_sway">Χαλάρωση</string>
+    <string name="sound_name_wag">Κούνημα</string>
+    <string name="storage_description">Τοπικός χώρος αποθήκευσης</string>
+    <string name="uid_label">Μέσα</string>
+    <string name="unable_to_add_ringtone">Δεν είναι δυνατή η προσθήκη προσαρμοσμένου ήχου κλήσης</string>
+    <string name="unable_to_delete_ringtone">Δεν είναι δυνατή η διαγραφή προσαρμοσμένου ήχου κλήσης</string>
+</resources>

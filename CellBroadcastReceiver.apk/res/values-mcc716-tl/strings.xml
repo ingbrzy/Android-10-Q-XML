@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Pang-emergency na alerto: Mensahe para pagsasanay/simulation</string>
+    <string name="cmas_required_monthly_test">Pang-emergency na alerto: Pansubok na mensahe</string>
+    <string name="enable_public_safety_messages_title">Nakapagbibigay-impormasyong mensahe</string>
+    <string name="public_safety_message">Nakapagbibigay-impormasyong mensahe</string>
+</resources>

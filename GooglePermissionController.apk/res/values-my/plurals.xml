@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">နောက်ထပ် %1$d</item>
+        <item quantity="one">နောက်ထပ် %1$d</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s ရက်</item>
+        <item quantity="one">၁ ရက်</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s နာရီ</item>
+        <item quantity="one">၁ နာရီ</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s မိနစ်</item>
+        <item quantity="one">1 မိနစ်</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">အက်ပ် %s ခု</item>
+        <item quantity="one">အက်ပ် ၁ ခု</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">အက်ပ် %s ခု</item>
+        <item quantity="one">အက်ပ် ၁ ခု</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s စက္ကန့်</item>
+        <item quantity="one">၁ စက္ကန့်</item>
+    </plurals>
+</resources>

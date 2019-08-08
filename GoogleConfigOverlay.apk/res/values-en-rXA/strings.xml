@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_appsAuthorizedForSharedAccounts">[;çöḿ.åñðŕöîð.Véñðîñĝ;çöḿ.åñðŕöîð.šéţţîñĝš; one two three four five]</string>
+    <string name="config_persistentDataPackageName">[çöḿ.ĝööĝļé.åñðŕöîð.ĝḿš one two three]</string>
+    <string name="harmful_app_warning_title">[Þļåý Þŕöţéçţ ŵåŕñîñĝ one two three]</string>
+    <string name="widget_default_class_name">[çöḿ.åñðŕöîð.åļåŕḿçļöçķ.ÐîĝîţåļÅþþŴîðĝéţÞŕöVîðéŕ one two three four five six]</string>
+    <string name="widget_default_package_name">[çöḿ.ĝööĝļé.åñðŕöîð.ðéšķçļöçķ one two three four]</string>
+</resources>

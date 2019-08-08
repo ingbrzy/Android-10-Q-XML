@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_dislike_video_plural">
+        <item quantity="other">Inkinobho yokungathandi, abanye abangu-%1$d abayithandanga le vidiyo</item>
+        <item quantity="one">Inkinobho yokungathandi, abanye abangu-%1$d abayithandanga le vidiyo</item>
+    </plurals>
+    <plurals name="accessibility_like_video_plural">
+        <item quantity="other">Inkinobho yokuthanda, abanye abangu-%1$d bayithandile le vidiyo</item>
+        <item quantity="one">Inkinobho yokuthanda, abanye abangu-%1$d bayithandile le vidiyo</item>
+    </plurals>
+    <plurals name="accessibility_skip_ad_in">
+        <item quantity="other">Yeqa isikhangiso ngemuva kwamasekhondi angu-%1$d</item>
+        <item quantity="one">Yeqa isikhangiso ngemuva kwamasekhondi angu-%1$d</item>
+    </plurals>
+    <plurals name="accessibility_undo_dislike_video_plural">
+        <item quantity="other">Hlehlisa inkinobho yokungathandi, abanye abangu-%1$d abayithandanga le vidiyo</item>
+        <item quantity="one">Hlehlisa inkinobho yokungathandi, abanye abangu-%1$d abayithandanga le vidiyo</item>
+    </plurals>
+    <plurals name="accessibility_undo_like_video_plural">
+        <item quantity="other">Hlehlisa inkinobho yokuthanda, abanye abangu-%1$d bayithandile le vidiyo</item>
+        <item quantity="one">Hlehlisa inkinobho yokuthanda, abanye abangu-%1$d bayithandile le vidiyo</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">%1$s · %2$,d ukubuka</item>
+        <item quantity="one">%1$s · %2$,d ukubuka</item>
+    </plurals>
+    <plurals name="approve_playlist_sync_num">
+        <item quantity="other">Vumelanisa amavidiyo amasha angu-%1$d</item>
+        <item quantity="one">Vumelanisa amavidiyo amasha angu-%1$d</item>
+    </plurals>
+    <plurals name="auto_offline_video_duration_minutes">
+        <item quantity="other">%1$d amaminithi</item>
+        <item quantity="one">%1$d amaminithi</item>
+    </plurals>
+    <plurals name="bollard_setting_option_label">
+        <item quantity="other">Njalo emaminithini angu-%1$d</item>
+        <item quantity="one">Njalo emaminithini angu-%1$d</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d izinsuku ezisele</item>
+        <item quantity="one">%1$d izinsuku ezisele</item>
+    </plurals>
+    <plurals name="download_new_videos_button_text">
+        <item quantity="other">Landa %1$d amavidiyo amasha</item>
+        <item quantity="one">Landa%1$d amavidiyo amasha</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d amaminithi</item>
+        <item quantity="zero">0 amaminithi</item>
+        <item quantity="one">1 iminithi</item>
+        <item quantity="two">2 amaminithi</item>
+        <item quantity="few">%1$d amaminithi</item>
+        <item quantity="many">%1$d amaminithi</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d amasekhondi</item>
+        <item quantity="zero">0 amasekhondi</item>
+        <item quantity="one">1 isekhondi</item>
+        <item quantity="two">2 amasekhondi</item>
+        <item quantity="few">%1$d amasekhondi</item>
+        <item quantity="many">%1$d amasekhondi</item>
+    </plurals>
+    <plurals name="frequency_hours_component">
+        <item quantity="other">%1$d amahora</item>
+        <item quantity="one">%1$d amahora</item>
+    </plurals>
+    <plurals name="frequency_hours_only">
+        <item quantity="other">Njalo emahoreni angu-%1$d</item>
+        <item quantity="one">Njalo emahoreni angu-%1$d</item>
+    </plurals>
+    <plurals name="frequency_minutes_component">
+        <item quantity="other">%1$d amaminithi</item>
+        <item quantity="one">%1$d amaminithi</item>
+    </plurals>
+    <plurals name="frequency_minutes_only">
+        <item quantity="other">Njalo emaminithini angu-%1$d</item>
+        <item quantity="one">Njalo emaminithini angu-%1$d</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">%1$d amahora asele</item>
+        <item quantity="one">%1$d amahora asele</item>
+    </plurals>
+    <plurals name="lc_stream_status_cd">
+        <item quantity="other">%1$s ababukele manje, %2$s abathandile</item>
+        <item quantity="one">%1$s ababukele manje, %2$s abathandile</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">%1$d amaminithi asele</item>
+        <item quantity="one">%1$d amaminithi asele</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">Amavidio angu-%1$d kumavidiyo angu-%2$d</item>
+        <item quantity="one">Amavidio angu-%1$d kumavidiyo angu-%2$d</item>
+    </plurals>
+    <plurals name="notification_video_list_completed">
+        <item quantity="other">%1$d amavidiyo amasha alondoloziwe</item>
+        <item quantity="one">%1$d amavidiyo amasha alondoloziwe</item>
+    </plurals>
+    <plurals name="offline_go_online_to_renew_dialog_message">
+        <item quantity="other">Okulandiwe kuqhubeka kutholakala uma nje idivayisi yakho inokuxhumeka kwe-inthanethi njalo ezinsukwini ezingu-%1$d.</item>
+        <item quantity="one">Okulandiwe kuqhubeka kutholakala uma nje idivayisi yakho inokuxhumeka kwe-inthanethi njalo ezinsukwini ezingu-%1$d.</item>
+    </plurals>
+    <plurals name="offline_go_online_to_renew_snackbar_message">
+        <item quantity="other">Okulandiwe kuqhubeka kutholakala izinsuku ezingu-%1$d ngaphandle kokuxhumeka kwe-inthanethi.</item>
+        <item quantity="one">Okulandiwe kuqhubeka kutholakala izinsuku ezingu-%1$d ngaphandle kokuxhumeka kwe-inthanethi.</item>
+    </plurals>
+    <plurals name="offline_pending_time_window_plural">
+        <item quantity="other">%1$d amavidiyo esewonke. Ihlelelwe ukulondoloza: %2$s ukuya ku-%3$s.</item>
+        <item quantity="one">%1$d amavidiyo esewonke. Ihlelelwe ukulondoloza: %2$s ukuya ku-%3$s.</item>
+    </plurals>
+    <plurals name="overflow_hearters">
+        <item quantity="other">+%d okunye</item>
+        <item quantity="one">+%d okunye</item>
+    </plurals>
+    <plurals name="playlist_size">
+        <item quantity="other">%1$,d amavidiyo</item>
+        <item quantity="one">%1$,d amavidiyo</item>
+    </plurals>
+    <plurals name="quick_seek_x_second">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d second</item>
+        <item quantity="many">%d seconds</item>
+    </plurals>
+    <plurals name="recommendation_count">
+        <item quantity="other">%1$d izincomo</item>
+        <item quantity="one">%1$d izincomo</item>
+    </plurals>
+    <plurals name="tab_with_new_items">
+        <item quantity="other">%2$s: %1$d izinto ezintsha.</item>
+        <item quantity="one">%2$s: %1$d izinto ezintsha.</item>
+    </plurals>
+    <plurals name="transcoding_progress">
+        <item quantity="other">Iyalungiselela %1$,d%%</item>
+        <item quantity="one">Iyalungiselela %1$,d%%</item>
+    </plurals>
+    <plurals name="upload_hours_remaing">
+        <item quantity="other">Kusele cishe amahora angu-%1$,d</item>
+        <item quantity="one">Kusele cishe amahora angu-%1$,d</item>
+    </plurals>
+    <plurals name="upload_minutes_remaing">
+        <item quantity="other">Kusele cishe amaminithi angu-%1$,d</item>
+        <item quantity="one">Kusele cishe amaminithi angu-%1$,d</item>
+    </plurals>
+    <plurals name="upload_notification_active_progress">
+        <item quantity="other">Ilayisha ividiyo engu-%1$d kwangu-%2$d</item>
+        <item quantity="one">Ilayisha ividiyo engu-%1$d kwangu-%2$d</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">%1$,d%% kulayishiwe</item>
+        <item quantity="one">%1$,d%% kulayishiwe</item>
+    </plurals>
+    <plurals name="upload_seconds_remaing">
+        <item quantity="other">Kusele cishe amasekhondi angu-%1$,d</item>
+        <item quantity="one">Kusele cishe amasekhondi angu-%1$,d</item>
+    </plurals>
+    <plurals name="user_education_quick_seek">
+        <item quantity="other">Double tap left or right to skip %d seconds</item>
+        <item quantity="one">Double tap left or right to skip %d second</item>
+        <item quantity="many">Double tap left or right to skip %d seconds</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$d amavidiyo</item>
+        <item quantity="one">%1$d amavidiyo</item>
+    </plurals>
+</resources>

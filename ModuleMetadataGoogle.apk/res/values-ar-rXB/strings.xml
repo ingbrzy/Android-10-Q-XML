@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">‏‮Module‬‏ ‏‮Metadata‬‏</string>
+    <string name="module_angle">‏‮ANGLE‬‏</string>
+    <string name="module_captiveportallogin">‏‮Captive‬‏ ‏‮Portal‬‏ ‏‮Login‬‏</string>
+    <string name="module_conscrypt">‏‮Conscrypt‬‏</string>
+    <string name="module_documentsui">‏‮Documents‬‏ ‏‮UI‬‏</string>
+    <string name="module_ext_services">‏‮Android‬‏ ‏‮Services‬‏</string>
+    <string name="module_media">‏‮Media‬‏</string>
+    <string name="module_media_swcodec">‏‮Media‬‏ ‏‮Software‬‏ ‏‮Codec‬‏</string>
+    <string name="module_networkpermissionconfig">‏‮Network‬‏ ‏‮Permission‬‏ ‏‮Configuration‬‏</string>
+    <string name="module_networkstack">‏‮Network‬‏ ‏‮Stack‬‏</string>
+    <string name="module_permissioncontroller">‏‮Permission‬‏ ‏‮Controller‬‏</string>
+    <string name="module_resolv">‏‮DNS‬‏ ‏‮Resolver‬‏</string>
+    <string name="module_tzdata">‏‮Time‬‏ ‏‮zone‬‏ ‏‮data‬‏</string>
+</resources>

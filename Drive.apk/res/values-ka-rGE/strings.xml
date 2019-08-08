@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessbility_suggestion_dropdown_closed">შემოთავაზებები არ არის ხელმისაწვდომი</string>
+    <string name="accessbility_suggestion_dropdown_opened">კონტაქტის შემოთავაზებები გაიხსნა</string>
+    <string name="account_item">%1$s-ზე გადართვა</string>
+    <string name="account_list">ანგარიშების სია</string>
+    <string name="action_label">დაბრუნება</string>
+    <string name="add_account">ანგარიშის დამატება</string>
+    <string name="chips_action_cancel">გაუქმება</string>
+    <string name="chips_action_copy">კოპირება</string>
+    <string name="chips_permission_text">კონტაქტების შეთავაზების დაშვება</string>
+    <string name="dropdown_delete_button_desc">%s -ის ამოშლა მიმღებთა სიიდან</string>
+    <string name="hide_account_list">ანგარიშების დამალვა</string>
+    <string name="manage_accounts">ანგარიშების მართვა</string>
+    <string name="more_string">+%1$d</string>
+    <string name="selected_account">შესული %1$s-ში</string>
+    <string name="show_account_list">ანგარიშების ჩვენება</string>
+    <string name="sign_in">შესვლა</string>
+</resources>

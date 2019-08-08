@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">Pokušajte opet za %d sek</item>
+        <item quantity="one">Pokušajte opet za 1 sekundu</item>
+    </plurals>
+</resources>

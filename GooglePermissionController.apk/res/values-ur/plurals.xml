@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d مزید</item>
+        <item quantity="one">%1$d مزید</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s دن</item>
+        <item quantity="one">1 دن</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s گھنٹے</item>
+        <item quantity="one">1 گھنٹہ</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s منٹس</item>
+        <item quantity="one">1 منٹ</item>
+    </plurals>
+    <plurals name="permission_usage_bar_label">
+        <item quantity="other">%s ایپس</item>
+        <item quantity="one">1 ایپ</item>
+    </plurals>
+    <plurals name="permission_usage_permission_filter_subtitle">
+        <item quantity="other">%s ایپس</item>
+        <item quantity="one">1 ایپ</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s سیکنڈ</item>
+        <item quantity="one">1 سیکنڈ</item>
+    </plurals>
+</resources>

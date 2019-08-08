@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choose_number_subtitle">
+        <item quantity="other">এই ডিভাইসে %1$dটি নম্বর যোগ করা হয়েছে কিন্তু একবারে ১টি নম্বরই ব্যবহার করা যাবে</item>
+        <item quantity="one">এই ডিভাইসে %1$dটি নম্বর যোগ করা হয়েছে কিন্তু একবারে ১টি নম্বরই ব্যবহার করা যাবে</item>
+    </plurals>
+    <plurals name="download_sub_multi_carriers_text">
+        <item quantity="other">%1$s ও অন্য %3$dটি পরিষেবা প্রদানকারী থেকে &lt;b>%2$dটি নম্বর&lt;/b> আনা হচ্ছে। এতে কিছু সময় লাগতে পারে।</item>
+        <item quantity="one">%1$s ও অন্য %3$dটি পরিষেবা প্রদানকারী থেকে &lt;b>%2$dটি নম্বর&lt;/b> আনা হচ্ছে। এতে কিছু সময় লাগতে পারে।</item>
+    </plurals>
+    <plurals name="download_sub_text">
+        <item quantity="other">%1$s থেকে &lt;b>%2$dটি নম্বর&lt;/b> আনা হচ্ছে। এতে কিছু সময় লাগতে পারে।</item>
+        <item quantity="one">%1$s থেকে &lt;b>%2$dটি নম্বর&lt;/b> আনা হচ্ছে। এতে কিছু সময় লাগতে পারে।</item>
+    </plurals>
+    <plurals name="download_sub_title">
+        <item quantity="other">আপনার নম্বর যোগ করা হচ্ছে…</item>
+        <item quantity="one">আপনার নম্বর যোগ করা হচ্ছে…</item>
+    </plurals>
+    <plurals name="error_screen_title">
+        <item quantity="other">নেটওয়ার্ক চালু নেই</item>
+        <item quantity="one">নেটওয়ার্ক চালু নেই</item>
+    </plurals>
+    <plurals name="insufficient_memory_subtitle">
+        <item quantity="other">&lt;b>%dটি নতুন নম্বর&lt;/b> আপনার ফোনে যোগ করার জন্য প্রস্তুত। সেগুলি দেখতে, আপনার বর্তমান নম্বরগুলির মধ্যে থেকে একটি নম্বর মুছে ফেলতে হবে।</item>
+        <item quantity="one">&lt;b>%dটি নতুন নম্বর&lt;/b> আপনার ফোনে যোগ করার জন্য প্রস্তুত। সেগুলি দেখতে, আপনার বর্তমান নম্বরগুলির মধ্যে থেকে একটি নম্বর মুছে ফেলতে হবে।</item>
+    </plurals>
+    <plurals name="insufficient_space_description_q">
+        <item quantity="other">আপনার নম্বরগুলি ব্যবহার করতে, প্রথমে আপনাকে এই ডিভাইসে আগে থেকে থাকা নম্বরটি মুছে ফেলার মাধ্যমে জায়গা খালি করতে হবে। আপনি পরে সেটিংসে গিয়ে এটি করতে পারেন।</item>
+        <item quantity="one">আপনার নম্বরগুলি ব্যবহার করতে, প্রথমে আপনাকে এই ডিভাইসে আগে থেকে থাকা নম্বরটি মুছে ফেলার মাধ্যমে জায়গা খালি করতে হবে। আপনি পরে সেটিংসে গিয়ে এটি করতে পারেন।</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_number_count">
+        <item quantity="other">%dটি নম্বর</item>
+        <item quantity="one">%dটি নম্বর</item>
+    </plurals>
+    <plurals name="multiple_carrier_download_subtitle">
+        <item quantity="other">আপনার পরিষেবা প্রদানকারীর &lt;b>%d ফোন নম্বর&lt;/b> এখন যোগ করা যাবে</item>
+        <item quantity="one">আপনার পরিষেবা প্রদানকারীর &lt;b>%d ফোন নম্বর&lt;/b> এখন যোগ করা যাবে</item>
+    </plurals>
+    <plurals name="notification_carrier_unknown">
+        <item quantity="other">আপনার অতিরিক্ত %dটি নম্বর যোগ করার জন্য তৈরি</item>
+        <item quantity="one">আপনার অতিরিক্ত %dটি নম্বর যোগ করার জন্য তৈরি</item>
+    </plurals>
+    <plurals name="notification_multiple_carrier_name_known">
+        <item quantity="other">আপনার %1$s নম্বর ও আরও %2$dটি যোগ করার জন্য তৈরি</item>
+        <item quantity="one">আপনার %1$s নম্বর ও আরও %2$dটি যোগ করার জন্য তৈরি</item>
+    </plurals>
+    <plurals name="notification_single_carrier_name_known">
+        <item quantity="other">আপনার %1$s নম্বর যোগ করার জন্য তৈরি</item>
+        <item quantity="one">আপনার %1$s নম্বর যোগ করার জন্য তৈরি</item>
+    </plurals>
+    <plurals name="perm_error_description">
+        <item quantity="other">পরিষেবা চালু করার সময়ে কোনও সমস্যা হয়েছে। সহায়তা পেতে আপনার পরিষেবা প্রদানকারীর সাথে যোগাযোগ করুন।</item>
+        <item quantity="one">পরিষেবা চালু করার সময়ে কোনও সমস্যা হয়েছে। সহায়তা পেতে আপনার পরিষেবা প্রদানকারীর সাথে যোগাযোগ করুন।</item>
+    </plurals>
+    <plurals name="perm_error_description_q">
+        <item quantity="other">আপনার নম্বরগুলি চালু করার সময় কোনও সমস্যা হয়েছে। সাহায্য পেতে %2$s-এ ফোন করে %1$s-এর সাথে যোগাযোগ করুন।</item>
+        <item quantity="one">আপনার নম্বরগুলি চালু করার সময় কোনও সমস্যা হয়েছে। সাহায্য পেতে %2$s-এ ফোন করে %1$s-এর সাথে যোগাযোগ করুন।</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone">
+        <item quantity="other">আপনার নম্বরগুলি চালু করার সময় কোনও সমস্যা হয়েছে। সাহায্য পেতে %1$s-এর সাথে যোগাযোগ করুন।</item>
+        <item quantity="one">আপনার নম্বরগুলি চালু করার সময় কোনও সমস্যা হয়েছে। সাহায্য পেতে %1$s-এর সাথে যোগাযোগ করুন।</item>
+    </plurals>
+    <plurals name="perm_error_description_q_no_phone_no_carrier_name">
+        <item quantity="other">আপনার নম্বরগুলি চালু করার সময় কোনও সমস্যা হয়েছে। সাহায্যের জন্য আপনার নেটওয়ার্ক পরিষেবা প্রদানকারীদের সাথে যোগাযোগ করুন।</item>
+        <item quantity="one">আপনার নম্বরগুলি চালু করার সময় কোনও সমস্যা হয়েছে। সাহায্যের জন্য আপনার নেটওয়ার্ক পরিষেবা প্রদানকারীদের সাথে যোগাযোগ করুন।</item>
+    </plurals>
+    <plurals name="q_multiple_carrier_confirm_subtitle">
+        <item quantity="other">এই ডিভাইসে %dটি নম্বর ব্যবহার করা যাবে</item>
+        <item quantity="one">এই ডিভাইসে %dটি নম্বর ব্যবহার করা যাবে</item>
+    </plurals>
+    <plurals name="q_result_download_text">
+        <item quantity="other">এই ডিভাইসের জন্য %1$s-এর %2$dটি নম্বর উপলভ্য আছে</item>
+        <item quantity="one">এই ডিভাইসের জন্য %1$s-এর %2$dটি নম্বর উপলভ্য আছে</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_multi_carriers">
+        <item quantity="other">%1$s ও অন্য %2$dটি পরিষেবা প্রদানকারী থেকে আপনার নম্বর যোগ করা যায়নি।</item>
+        <item quantity="one">%1$s ও অন্য %2$dটি পরিষেবা প্রদানকারী থেকে আপনার নম্বর যোগ করা যায়নি।</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_no_carrier">
+        <item quantity="other">আপনার কোনও পরিষেবা প্রদানকারী থেকে নম্বর যোগ করা যায়নি।</item>
+        <item quantity="one">আপনার কোনও পরিষেবা প্রদানকারী থেকে নম্বর যোগ করা যায়নি।</item>
+    </plurals>
+    <plurals name="res_continue_info1_general_single_carrier">
+        <item quantity="other">%1$s থেকে &lt;b>%2$dটি নম্বর&lt;/b> যোগ করা যায়নি।</item>
+        <item quantity="one">%1$s থেকে &lt;b>%2$dটি নম্বর&lt;/b> যোগ করা যায়নি।</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_multi_carriers">
+        <item quantity="other">%1$s ও অন্য %2$dটি পরিষেবা প্রদানকারী থেকে আপনার নম্বর যোগ করার জন্য পর্যাপ্ত জায়গা ছিল না।</item>
+        <item quantity="one">%1$s ও অন্য %2$dটি পরিষেবা প্রদানকারী থেকে আপনার নম্বর যোগ করার জন্য পর্যাপ্ত জায়গা ছিল না।</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_no_carrier">
+        <item quantity="other">আপনার কোনও পরিষেবা প্রদানকারী থেকে নম্বর যোগ করার জন্য পর্যাপ্ত জায়গা ছিল না।</item>
+        <item quantity="one">আপনার কোনও পরিষেবা প্রদানকারী থেকে নম্বর যোগ করার জন্য পর্যাপ্ত জায়গা ছিল না।</item>
+    </plurals>
+    <plurals name="res_continue_info1_no_mem_single_carrier">
+        <item quantity="other">%1$s থেকে &lt;b>%2$dটি নম্বর&lt;/b> যোগ করার জন্য পর্যাপ্ত জায়গা ছিল না।</item>
+        <item quantity="one">%1$s থেকে &lt;b>%2$dটি নম্বর&lt;/b> যোগ করার জন্য পর্যাপ্ত জায়গা ছিল না।</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_multiple_carriers">
+        <item quantity="other">%2$s, %3$s ও অন্য %4$dটি পরিষেবা প্রদানকারী থেকে আপনি &lt;b>%1$dটি নম্বর&lt;/b> যোগ করেছেন</item>
+        <item quantity="one">%2$s, %3$s ও অন্য %4$dটি পরিষেবা প্রদানকারী থেকে আপনি &lt;b>%1$dটি নম্বর&lt;/b> যোগ করেছেন</item>
+    </plurals>
+    <plurals name="res_continue_text_partial_complete_single_carrier">
+        <item quantity="other">%2$s থেকে আপনি &lt;b>%1$dটি নম্বর&lt;/b> যোগ করেছেন</item>
+        <item quantity="one">%2$s থেকে আপনি &lt;b>%1$dটি নম্বর&lt;/b> যোগ করেছেন</item>
+    </plurals>
+    <plurals name="res_continue_title_all_success">
+        <item quantity="other">%1$dটি নম্বর যোগ করা হয়েছে</item>
+        <item quantity="one">%1$dটি নম্বর যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="result_download_text">
+        <item quantity="other">এই ফোনে %1$s থেকে &lt;b>%2$dটি নম্বর&lt;/b> যোগ করার জন্য তৈরি আছে</item>
+        <item quantity="one">এই ফোনে %1$s থেকে &lt;b>%2$dটি নম্বর&lt;/b> যোগ করার জন্য তৈরি আছে</item>
+    </plurals>
+    <plurals name="temp_error_description_q">
+        <item quantity="other">আপনার নম্বরগুলি চালু করার সময় কোনও সমস্যা হয়েছে। আপনি সেটিংসে গিয়ে পরে আবার চেষ্টা করতে পারেন।</item>
+        <item quantity="one">আপনার নম্বরগুলি চালু করার সময় কোনও সমস্যা হয়েছে। আপনি সেটিংসে গিয়ে পরে আবার চেষ্টা করতে পারেন।</item>
+    </plurals>
+</resources>
